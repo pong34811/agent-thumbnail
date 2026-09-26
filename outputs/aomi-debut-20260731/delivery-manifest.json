@@ -1,0 +1,672 @@
+[
+ {
+  "timeline": "เกมเเรกที่เริ่มไลฟ์คือ",
+  "timeline_index": 1,
+  "orientation": "landscape",
+  "size": [
+   1920,
+   1080
+  ],
+  "path": "D:\\agent-thumbnail\\outputs\\aomi-debut-20260731\\jpg\\เกมเเรกที่เริ่มไลฟ์คือ.jpg",
+  "hook": [
+   "ปิดไลฟ์หนี"
+  ],
+  "secondary": [
+   "คนแรกเข้ามาในไลฟ์"
+  ],
+  "hook_font": 164,
+  "secondary_font": 84,
+  "hook_ink": [
+   53,
+   829,
+   790,
+   1005
+  ],
+  "secondary_ink": [
+   71,
+   712,
+   794,
+   803
+  ],
+  "model": "vts_2026-07-02_20-33-46.png",
+  "model_box": [
+   851,
+   80,
+   2030,
+   1080
+  ],
+  "model_scale": 0.667,
+  "mood": "หัวเราะขณะเล่าว่าตกใจจนปิดไลฟ์หนี",
+  "background": "stills/Cat Goes Fishing.jpg",
+  "evidence": "มีคนเข้ามาในไลฟ์หนู | วันนั้นคนแรก | เข้ามา | หนูตกใจมาก | แล้วก็ปิดไลฟ์หนี"
+ },
+ {
+  "timeline": "เกมเเรกที่เริ่มไลฟ์คือ",
+  "timeline_index": 1,
+  "orientation": "portrait",
+  "size": [
+   1080,
+   1920
+  ],
+  "path": "D:\\agent-thumbnail\\outputs\\aomi-debut-20260731\\jpg\\เกมเเรกที่เริ่มไลฟ์คือ-short.jpg",
+  "hook": [
+   "ปิดไลฟ์หนี"
+  ],
+  "secondary": [
+   "คนแรกเข้ามาในไลฟ์"
+  ],
+  "hook_font": 190,
+  "secondary_font": 92,
+  "hook_ink": [
+   112,
+   504,
+   967,
+   707
+  ],
+  "secondary_ink": [
+   145,
+   373,
+   936,
+   474
+  ],
+  "model": "vts_2026-07-02_20-33-46.png",
+  "model_box": [
+   30,
+   1020,
+   1050,
+   1920
+  ],
+  "model_scale": 0.577,
+  "mood": "หัวเราะขณะเล่าว่าตกใจจนปิดไลฟ์หนี",
+  "background": "stills/Cat Goes Fishing.jpg",
+  "evidence": "มีคนเข้ามาในไลฟ์หนู | วันนั้นคนแรก | เข้ามา | หนูตกใจมาก | แล้วก็ปิดไลฟ์หนี"
+ },
+ {
+  "timeline": "ทำไมน้ำหน้กน่ายกจังครับ",
+  "timeline_index": 2,
+  "orientation": "landscape",
+  "size": [
+   1920,
+   1080
+  ],
+  "path": "D:\\agent-thumbnail\\outputs\\aomi-debut-20260731\\jpg\\ทำไมน้ำหน้กน่ายกจังครับ.jpg",
+  "hook": [
+   "จ้วงแทงคน",
+   "จากข้างหลัง"
+  ],
+  "secondary": [
+   "ตัวเล็กมีประโยชน์นะ"
+  ],
+  "hook_font": 144,
+  "secondary_font": 92,
+  "hook_ink": [
+   65,
+   690,
+   848,
+   1005
+  ],
+  "secondary_ink": [
+   69,
+   564,
+   850,
+   667
+  ],
+  "model": "IMG_7135.PNG",
+  "model_box": [
+   900,
+   215,
+   1900,
+   1080
+  ],
+  "model_scale": 1.73,
+  "mood": "ยิ้มถือมีด (มุกจ้วงแทงข้างหลัง)",
+  "background": "bg/tl2.png",
+  "evidence": "แล้วก็มันจวงแทง | คนจากข้างหลัง | ง่ายด้วย | ตัวเล็กมีประโยชน์นะ"
+ },
+ {
+  "timeline": "ทำไมน้ำหน้กน่ายกจังครับ",
+  "timeline_index": 2,
+  "orientation": "portrait",
+  "size": [
+   1080,
+   1920
+  ],
+  "path": "D:\\agent-thumbnail\\outputs\\aomi-debut-20260731\\jpg\\ทำไมน้ำหน้กน่ายกจังครับ-short.jpg",
+  "hook": [
+   "จ้วงแทงคน",
+   "จากข้างหลัง"
+  ],
+  "secondary": [
+   "ตัวเล็กมีประโยชน์นะ"
+  ],
+  "hook_font": 174,
+  "secondary_font": 92,
+  "hook_ink": [
+   66,
+   433,
+   1014,
+   813
+  ],
+  "secondary_ink": [
+   149,
+   302,
+   930,
+   405
+  ],
+  "model": "IMG_7135.PNG",
+  "model_box": [
+   40,
+   1055,
+   1040,
+   1920
+  ],
+  "model_scale": 1.73,
+  "mood": "ยิ้มถือมีด (มุกจ้วงแทงข้างหลัง)",
+  "background": "bg/tl2.png",
+  "evidence": "แล้วก็มันจวงแทง | คนจากข้างหลัง | ง่ายด้วย | ตัวเล็กมีประโยชน์นะ"
+ },
+ {
+  "timeline": "เรื่องราวของ Aomi-mama",
+  "timeline_index": 3,
+  "orientation": "landscape",
+  "size": [
+   1920,
+   1080
+  ],
+  "path": "D:\\agent-thumbnail\\outputs\\aomi-debut-20260731\\jpg\\เรื่องราวของ Aomi-mama.jpg",
+  "hook": [
+   "ใครมันเขียน",
+   "Text เนี่ย"
+  ],
+  "secondary": [
+   "อ่านสตอรี่จนลิ้นไปหมด"
+  ],
+  "hook_font": 146,
+  "secondary_font": 80,
+  "hook_ink": [
+   56,
+   652,
+   836,
+   1005
+  ],
+  "secondary_ink": [
+   71,
+   524,
+   851,
+   629
+  ],
+  "model": "IMG_7132.PNG",
+  "model_box": [
+   900,
+   215,
+   1900,
+   1080
+  ],
+  "model_scale": 1.73,
+  "mood": "หงุดหงิด/บ่น",
+  "background": "bg/tl3.png",
+  "evidence": "อ่านให้ฟังเลยน่าจะง่ายกว่า | ใครมันเขียน Text เนี้ย | ลิ้นไปหมดละ"
+ },
+ {
+  "timeline": "เรื่องราวของ Aomi-mama",
+  "timeline_index": 3,
+  "orientation": "portrait",
+  "size": [
+   1080,
+   1920
+  ],
+  "path": "D:\\agent-thumbnail\\outputs\\aomi-debut-20260731\\jpg\\เรื่องราวของ Aomi-mama-short.jpg",
+  "hook": [
+   "ใครมันเขียน",
+   "Text เนี่ย"
+  ],
+  "secondary": [
+   "อ่านสตอรี่จนลิ้นไปหมด"
+  ],
+  "hook_font": 178,
+  "secondary_font": 92,
+  "hook_ink": [
+   66,
+   418,
+   1014,
+   846
+  ],
+  "secondary_ink": [
+   91,
+   269,
+   989,
+   390
+  ],
+  "model": "IMG_7132.PNG",
+  "model_box": [
+   40,
+   1055,
+   1040,
+   1920
+  ],
+  "model_scale": 1.73,
+  "mood": "หงุดหงิด/บ่น",
+  "background": "bg/tl3.png",
+  "evidence": "อ่านให้ฟังเลยน่าจะง่ายกว่า | ใครมันเขียน Text เนี้ย | ลิ้นไปหมดละ"
+ },
+ {
+  "timeline": "จบไลฟ์เดบิวต์ เล่น LoL ไม่เก่งอย่าว่าหนูนะ",
+  "timeline_index": 4,
+  "orientation": "landscape",
+  "size": [
+   1920,
+   1080
+  ],
+  "path": "D:\\agent-thumbnail\\outputs\\aomi-debut-20260731\\jpg\\จบไลฟ์เดบิวต์ เล่น LoL ไม่เก่งอย่าว่าหนูนะ.jpg",
+  "hook": [
+   "อย่าว่าหนูนะ"
+  ],
+  "secondary": [
+   "จบไลฟ์เดบิวต์",
+   "เล่น LoL ไม่ค่อยเก่ง"
+  ],
+  "hook_font": 152,
+  "secondary_font": 90,
+  "hook_ink": [
+   64,
+   793,
+   850,
+   1005
+  ],
+  "secondary_ink": [
+   69,
+   564,
+   844,
+   769
+  ],
+  "model": "IMG_7137.PNG",
+  "model_box": [
+   900,
+   215,
+   1900,
+   1080
+  ],
+  "model_scale": 1.73,
+  "mood": "พนมมือ ขอร้อง/ขอบคุณตอนจบไลฟ์",
+  "background": "bg/tl4.png",
+  "evidence": "ตอนเล่น LOL อย่าว่าผม | ผมไม่ค่อยเล่น | ไม่ค่อยเก่ง 55 | ขอบคุณสำหรับเวลา ... ฝันดีนะ (ชื่อ Timeline: จบไลฟ์เดบิวต์ เล่น LoL ไม่เก่งอย่าว่าหนูนะ)"
+ },
+ {
+  "timeline": "จบไลฟ์เดบิวต์ เล่น LoL ไม่เก่งอย่าว่าหนูนะ",
+  "timeline_index": 4,
+  "orientation": "portrait",
+  "size": [
+   1080,
+   1920
+  ],
+  "path": "D:\\agent-thumbnail\\outputs\\aomi-debut-20260731\\jpg\\จบไลฟ์เดบิวต์ เล่น LoL ไม่เก่งอย่าว่าหนูนะ-short.jpg",
+  "hook": [
+   "อย่าว่าหนูนะ"
+  ],
+  "secondary": [
+   "จบไลฟ์เดบิวต์",
+   "เล่น LoL ไม่ค่อยเก่ง"
+  ],
+  "hook_font": 184,
+  "secondary_font": 92,
+  "hook_ink": [
+   63,
+   548,
+   1016,
+   804
+  ],
+  "secondary_ink": [
+   145,
+   311,
+   935,
+   519
+  ],
+  "model": "IMG_7137.PNG",
+  "model_box": [
+   40,
+   1055,
+   1040,
+   1920
+  ],
+  "model_scale": 1.73,
+  "mood": "พนมมือ ขอร้อง/ขอบคุณตอนจบไลฟ์",
+  "background": "bg/tl4.png",
+  "evidence": "ตอนเล่น LOL อย่าว่าผม | ผมไม่ค่อยเล่น | ไม่ค่อยเก่ง 55 | ขอบคุณสำหรับเวลา ... ฝันดีนะ (ชื่อ Timeline: จบไลฟ์เดบิวต์ เล่น LoL ไม่เก่งอย่าว่าหนูนะ)"
+ },
+ {
+  "timeline": "เคยเล่น Rov ไหม",
+  "timeline_index": 5,
+  "orientation": "landscape",
+  "size": [
+   1920,
+   1080
+  ],
+  "path": "D:\\agent-thumbnail\\outputs\\aomi-debut-20260731\\jpg\\เคยเล่น Rov ไหม.jpg",
+  "hook": [
+   "เร็วเกิน",
+   "ไปหน่อย"
+  ],
+  "secondary": [
+   "ROV เคยเล่นอยู่นะ",
+   "แต่ไม่ได้ชอบ"
+  ],
+  "hook_font": 200,
+  "secondary_font": 96,
+  "hook_ink": [
+   50,
+   563,
+   797,
+   1005
+  ],
+  "secondary_ink": [
+   71,
+   282,
+   840,
+   531
+  ],
+  "model": "vts_2026-07-02_20-45-41.png",
+  "model_box": [
+   942,
+   80,
+   1978,
+   1080
+  ],
+  "model_scale": 0.571,
+  "mood": "หน้าเรียบ ๆ ไม่อิน",
+  "background": "bg/tl5.png",
+  "evidence": "เคยเล่นหรือเล่นอยู่มั้ยฮะ | ROV ไม่ | เคยเล่นอยุ่นะแต่ว่า | ไม่ได้ชอบอะ | มันเร็วไปสำหรับฉัน | เร็วเกิน | ไปหน่อย | ไม่ไหว"
+ },
+ {
+  "timeline": "เคยเล่น Rov ไหม",
+  "timeline_index": 5,
+  "orientation": "portrait",
+  "size": [
+   1080,
+   1920
+  ],
+  "path": "D:\\agent-thumbnail\\outputs\\aomi-debut-20260731\\jpg\\เคยเล่น Rov ไหม-short.jpg",
+  "hook": [
+   "เร็วเกิน",
+   "ไปหน่อย"
+  ],
+  "secondary": [
+   "ROV เคยเล่นอยู่นะ",
+   "แต่ไม่ได้ชอบ"
+  ],
+  "hook_font": 190,
+  "secondary_font": 92,
+  "hook_ink": [
+   185,
+   465,
+   895,
+   886
+  ],
+  "secondary_ink": [
+   172,
+   194,
+   909,
+   435
+  ],
+  "model": "vts_2026-07-02_20-45-41.png",
+  "model_box": [
+   17,
+   1020,
+   1063,
+   1920
+  ],
+  "model_scale": 0.577,
+  "mood": "หน้าเรียบ ๆ ไม่อิน",
+  "background": "bg/tl5.png",
+  "evidence": "เคยเล่นหรือเล่นอยู่มั้ยฮะ | ROV ไม่ | เคยเล่นอยุ่นะแต่ว่า | ไม่ได้ชอบอะ | มันเร็วไปสำหรับฉัน | เร็วเกิน | ไปหน่อย | ไม่ไหว"
+ },
+ {
+  "timeline": "ไม่เสียใจที่เลือกมาวีทูปเบอร์",
+  "timeline_index": 6,
+  "orientation": "landscape",
+  "size": [
+   1920,
+   1080
+  ],
+  "path": "D:\\agent-thumbnail\\outputs\\aomi-debut-20260731\\jpg\\ไม่เสียใจที่เลือกมาวีทูปเบอร์.jpg",
+  "hook": [
+   "หนูไม่เสียใจ"
+  ],
+  "secondary": [
+   "ได้กลับมาทำ",
+   "สิ่งที่ชอบอีกครั้ง"
+  ],
+  "hook_font": 144,
+  "secondary_font": 96,
+  "hook_ink": [
+   68,
+   802,
+   797,
+   1005
+  ],
+  "secondary_ink": [
+   65,
+   534,
+   739,
+   779
+  ],
+  "model": "vts_2026-07-04_09-09-45.png",
+  "model_box": [
+   853,
+   80,
+   2030,
+   1080
+  ],
+  "model_scale": 0.667,
+  "mood": "ยิ้มอ่อน จริงใจ",
+  "background": "bg/tl6.png",
+  "evidence": "หนูไม่เสียใจ | เลยนะตอนนี้ | ... | เพราะว่าหนูได้กลับมา | ทำสิ่งที่ | หนูชอบ | จริงจังอีกครั้งนึง"
+ },
+ {
+  "timeline": "ไม่เสียใจที่เลือกมาวีทูปเบอร์",
+  "timeline_index": 6,
+  "orientation": "portrait",
+  "size": [
+   1080,
+   1920
+  ],
+  "path": "D:\\agent-thumbnail\\outputs\\aomi-debut-20260731\\jpg\\ไม่เสียใจที่เลือกมาวีทูปเบอร์-short.jpg",
+  "hook": [
+   "หนูไม่เสียใจ"
+  ],
+  "secondary": [
+   "ได้กลับมาทำสิ่งที่ชอบ",
+   "อีกครั้ง"
+  ],
+  "hook_font": 186,
+  "secondary_font": 92,
+  "hook_ink": [
+   69,
+   551,
+   1011,
+   813
+  ],
+  "secondary_ink": [
+   120,
+   267,
+   959,
+   521
+  ],
+  "model": "vts_2026-07-04_09-09-45.png",
+  "model_box": [
+   44,
+   1020,
+   1037,
+   1920
+  ],
+  "model_scale": 0.72,
+  "mood": "ยิ้มอ่อน จริงใจ",
+  "background": "bg/tl6.png",
+  "evidence": "หนูไม่เสียใจ | เลยนะตอนนี้ | ... | เพราะว่าหนูได้กลับมา | ทำสิ่งที่ | หนูชอบ | จริงจังอีกครั้งนึง"
+ },
+ {
+  "timeline": "เป้าหมายช่อง aomi-mama",
+  "timeline_index": 7,
+  "orientation": "landscape",
+  "size": [
+   1920,
+   1080
+  ],
+  "path": "D:\\agent-thumbnail\\outputs\\aomi-debut-20260731\\jpg\\เป้าหมายช่อง aomi-mama.jpg",
+  "hook": [
+   "ผู้ติดตาม",
+   "1,000 คน"
+  ],
+  "secondary": [
+   "เป้าหมายตั้งต้นของเรา"
+  ],
+  "hook_font": 162,
+  "secondary_font": 80,
+  "hook_ink": [
+   63,
+   601,
+   839,
+   1005
+  ],
+  "secondary_ink": [
+   72,
+   468,
+   849,
+   575
+  ],
+  "model": "IMG_7136.PNG",
+  "model_box": [
+   900,
+   215,
+   1900,
+   1080
+  ],
+  "model_scale": 1.73,
+  "mood": "กำหมัด ฮึกเหิม",
+  "background": "bg/tl7.png",
+  "evidence": "เป้าหมายของเรานะ | ก็เป็นเป้าหมายตั้งต้นนะ | คือ ผู้ติดตาม 1000 คน"
+ },
+ {
+  "timeline": "เป้าหมายช่อง aomi-mama",
+  "timeline_index": 7,
+  "orientation": "portrait",
+  "size": [
+   1080,
+   1920
+  ],
+  "path": "D:\\agent-thumbnail\\outputs\\aomi-debut-20260731\\jpg\\เป้าหมายช่อง aomi-mama-short.jpg",
+  "hook": [
+   "ผู้ติดตาม",
+   "1,000 คน"
+  ],
+  "secondary": [
+   "เป้าหมายตั้งต้นของเรา"
+  ],
+  "hook_font": 190,
+  "secondary_font": 92,
+  "hook_ink": [
+   85,
+   396,
+   995,
+   873
+  ],
+  "secondary_ink": [
+   93,
+   242,
+   986,
+   366
+  ],
+  "model": "IMG_7136.PNG",
+  "model_box": [
+   40,
+   1055,
+   1040,
+   1920
+  ],
+  "model_scale": 1.73,
+  "mood": "กำหมัด ฮึกเหิม",
+  "background": "bg/tl7.png",
+  "evidence": "เป้าหมายของเรานะ | ก็เป็นเป้าหมายตั้งต้นนะ | คือ ผู้ติดตาม 1000 คน"
+ },
+ {
+  "timeline": "สาเหตุไม่ชอบหนอนเเมลง",
+  "timeline_index": 8,
+  "orientation": "landscape",
+  "size": [
+   1920,
+   1080
+  ],
+  "path": "D:\\agent-thumbnail\\outputs\\aomi-debut-20260731\\jpg\\สาเหตุไม่ชอบหนอนเเมลง.jpg",
+  "hook": [
+   "ตกบึงแมลง"
+  ],
+  "secondary": [
+   "จำฝังใจจนถึงทุกวันนี้"
+  ],
+  "hook_font": 148,
+  "secondary_font": 84,
+  "hook_ink": [
+   64,
+   846,
+   849,
+   1005
+  ],
+  "secondary_ink": [
+   70,
+   684,
+   842,
+   822
+  ],
+  "model": "IMG_7138.PNG",
+  "model_box": [
+   900,
+   215,
+   1900,
+   1080
+  ],
+  "model_scale": 1.73,
+  "mood": "ร้องไห้ กลัวแมลง",
+  "background": "bg/tl8.png",
+  "evidence": "ตก | ลงไปใน | บึงแมลง | ... | หนูจำฝังใจ | จนถึงทุกวันเนี้ย"
+ },
+ {
+  "timeline": "สาเหตุไม่ชอบหนอนเเมลง",
+  "timeline_index": 8,
+  "orientation": "portrait",
+  "size": [
+   1080,
+   1920
+  ],
+  "path": "D:\\agent-thumbnail\\outputs\\aomi-debut-20260731\\jpg\\สาเหตุไม่ชอบหนอนเเมลง-short.jpg",
+  "hook": [
+   "ตกบึงแมลง"
+  ],
+  "secondary": [
+   "จำฝังใจจนถึงทุกวันนี้"
+  ],
+  "hook_font": 180,
+  "secondary_font": 92,
+  "hook_ink": [
+   62,
+   551,
+   1018,
+   744
+  ],
+  "secondary_ink": [
+   117,
+   370,
+   962,
+   522
+  ],
+  "model": "IMG_7138.PNG",
+  "model_box": [
+   40,
+   1055,
+   1040,
+   1920
+  ],
+  "model_scale": 1.73,
+  "mood": "ร้องไห้ กลัวแมลง",
+  "background": "bg/tl8.png",
+  "evidence": "ตก | ลงไปใน | บึงแมลง | ... | หนูจำฝังใจ | จนถึงทุกวันเนี้ย"
+ }
+]
