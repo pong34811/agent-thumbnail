@@ -1,0 +1,5190 @@
+{
+  "project": "Armigon Shorts 2026-09-20",
+  "source_video_directory": "G:\\My Drive\\Projects\\Armigon\\2026-09-20",
+  "model_directory": "I:\\My Drive\\Dreamlight_projects\\GEN-Sercet\\armigon",
+  "timelines": [
+    {
+      "timeline_index": 1,
+      "timeline_name": "01-01 Peak - เกม - ช่วยโฮชิให้รอดจากเขา",
+      "story_index": 1,
+      "orientation": "landscape",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60.0,
+      "duration_frames": 2821,
+      "timeline_frame": 150,
+      "source_video_frame": 192330,
+      "source_time_seconds": 3205.5,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Peak   ｜ 03⧸05⧸2026 เวลา 20.00 ｜  #armigonlive\\【LIVE】Peak   ｜ 03⧸05⧸2026 เวลา 20.00 ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】Peak   ｜ 03⧸05⧸2026 เวลา 20.00 ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "ใครก็ได้",
+        "แบกโฮชิหน่อย"
+      ],
+      "secondary_lines": [
+        "ชุบได้ไหม"
+      ],
+      "model": "cry.png",
+      "mood": "ขอแรงช่วยเพื่อนที่ล้ม",
+      "evidence": [
+        "ใครก็ได้แบกโฮชิหน่อย",
+        "ชุบได้ไหม"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "ตายก็ตาย",
+          "start": 55,
+          "end": 114,
+          "duration": 59
+        },
+        {
+          "track": 1,
+          "text": "ใครก็ได้แบกโฮชิหน่อย",
+          "start": 133,
+          "end": 235,
+          "duration": 102
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 240,
+          "end": 327,
+          "duration": 87
+        },
+        {
+          "track": 1,
+          "text": "ฉันมี...",
+          "start": 334,
+          "end": 406,
+          "duration": 72
+        },
+        {
+          "track": 1,
+          "text": "ฉันมีเฟิร์สเอด",
+          "start": 413,
+          "end": 467,
+          "duration": 54
+        },
+        {
+          "track": 1,
+          "text": "ฉันมียา",
+          "start": 470,
+          "end": 578,
+          "duration": 108
+        },
+        {
+          "track": 1,
+          "text": "ยังไม่ตาย",
+          "start": 587,
+          "end": 635,
+          "duration": 48
+        },
+        {
+          "track": 1,
+          "text": "ยังหมุนอยู่เลย",
+          "start": 658,
+          "end": 714,
+          "duration": 56
+        },
+        {
+          "track": 1,
+          "text": "แย่วะ",
+          "start": 764,
+          "end": 814,
+          "duration": 50
+        },
+        {
+          "track": 1,
+          "text": "น่าสงสาร",
+          "start": 1062,
+          "end": 1129,
+          "duration": 67
+        },
+        {
+          "track": 1,
+          "text": "ชุบได้ไหม",
+          "start": 1133,
+          "end": 1187,
+          "duration": 54
+        },
+        {
+          "track": 1,
+          "text": "ชุบได้ไหม",
+          "start": 1192,
+          "end": 1266,
+          "duration": 74
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 1268,
+          "end": 1392,
+          "duration": 124
+        },
+        {
+          "track": 1,
+          "text": "อ้าว แล้วชุบ",
+          "start": 1400,
+          "end": 1485,
+          "duration": 85
+        },
+        {
+          "track": 1,
+          "text": "ถ้าชุบไม่ได้",
+          "start": 1540,
+          "end": 1588,
+          "duration": 48
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 1590,
+          "end": 1704,
+          "duration": 114
+        },
+        {
+          "track": 1,
+          "text": "ไหวไหม",
+          "start": 2257,
+          "end": 2303,
+          "duration": 46
+        },
+        {
+          "track": 1,
+          "text": "เออ",
+          "start": 2305,
+          "end": 2350,
+          "duration": 45
+        },
+        {
+          "track": 1,
+          "text": "ติด ๆ",
+          "start": 2390,
+          "end": 2484,
+          "duration": 94
+        },
+        {
+          "track": 1,
+          "text": "ติด ๆ",
+          "start": 2626,
+          "end": 2674,
+          "duration": 48
+        },
+        {
+          "track": 1,
+          "text": "อะไรนะ",
+          "start": 2676,
+          "end": 2721,
+          "duration": 45
+        },
+        {
+          "track": 1,
+          "text": "ว่าไงนะ",
+          "start": 2743,
+          "end": 2783,
+          "duration": 40
+        }
+      ]
+    },
+    {
+      "timeline_index": 2,
+      "timeline_name": "02-01 Linxicon - มีม - ต่อคำจนโยงไปถึงไส้ติ่ง",
+      "story_index": 2,
+      "orientation": "landscape",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60.0,
+      "duration_frames": 2404,
+      "timeline_frame": 2050,
+      "source_video_frame": 393550,
+      "source_time_seconds": 6559.166666666667,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Linxicon ｜ 04⧸06⧸2026 เวลา 19.30 ｜  #armigonlive\\【LIVE】Linxicon ｜ 04⧸06⧸2026 เวลา 19.30 ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】Linxicon ｜ 04⧸06⧸2026 เวลา 19.30 ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "เชื่อมไส้ติ่งด้วย"
+      ],
+      "secondary_lines": [
+        "คำเดียวเชื่อมทุกอย่าง"
+      ],
+      "model": "great.png",
+      "mood": "ภูมิใจกับคำเชื่อมที่โยงไกล",
+      "evidence": [
+        "คำเดียวเชื่อมทุกอย่าง",
+        "เชื่อมไส้ติ่งด้วย"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "นักโทษแล้วก็ดราม่า",
+          "start": 3,
+          "end": 70,
+          "duration": 67
+        },
+        {
+          "track": 1,
+          "text": "คัตซีน",
+          "start": 200,
+          "end": 244,
+          "duration": 44
+        },
+        {
+          "track": 1,
+          "text": "บอดี้",
+          "start": 348,
+          "end": 373,
+          "duration": 25
+        },
+        {
+          "track": 1,
+          "text": "บอดี้เหรอ",
+          "start": 412,
+          "end": 454,
+          "duration": 42
+        },
+        {
+          "track": 1,
+          "text": "มูวี่",
+          "start": 486,
+          "end": 542,
+          "duration": 56
+        },
+        {
+          "track": 1,
+          "text": "มูวี่เหรอ",
+          "start": 550,
+          "end": 592,
+          "duration": 42
+        },
+        {
+          "track": 1,
+          "text": "มันไม่ได้เชื่อม",
+          "start": 1477,
+          "end": 1568,
+          "duration": 91
+        },
+        {
+          "track": 1,
+          "text": "แค่คำหลักสองอันนะ",
+          "start": 1570,
+          "end": 1682,
+          "duration": 112
+        },
+        {
+          "track": 1,
+          "text": "มันเชื่อมคำ...ด้วย",
+          "start": 1683,
+          "end": 1758,
+          "duration": 75
+        },
+        {
+          "track": 1,
+          "text": "โคตรภูมิใจเลย",
+          "start": 1861,
+          "end": 1916,
+          "duration": 55
+        },
+        {
+          "track": 1,
+          "text": "คำเดียวเชื่อมทุกอย่าง",
+          "start": 1918,
+          "end": 1986,
+          "duration": 68
+        },
+        {
+          "track": 1,
+          "text": "เชื่อมไส้ติ่งด้วย",
+          "start": 2020,
+          "end": 2092,
+          "duration": 72
+        },
+        {
+          "track": 1,
+          "text": "เก่งมาก",
+          "start": 2099,
+          "end": 2147,
+          "duration": 48
+        },
+        {
+          "track": 1,
+          "text": "อย่าเรียก...ไส้ติ่งดิ",
+          "start": 2149,
+          "end": 2268,
+          "duration": 119
+        }
+      ]
+    },
+    {
+      "timeline_index": 3,
+      "timeline_name": "02-02 Linxicon - สนุก - คำว่าแค้นวนจนขำ",
+      "story_index": 3,
+      "orientation": "landscape",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60.0,
+      "duration_frames": 1987,
+      "timeline_frame": 1830,
+      "source_video_frame": 408030,
+      "source_time_seconds": 6800.5,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Linxicon ｜ 04⧸06⧸2026 เวลา 19.30 ｜  #armigonlive\\【LIVE】Linxicon ｜ 04⧸06⧸2026 เวลา 19.30 ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】Linxicon ｜ 04⧸06⧸2026 เวลา 19.30 ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "ฉันสามารถนะ"
+      ],
+      "secondary_lines": [
+        "แต่ฉันก็ไม่สามารถ"
+      ],
+      "model": "angry.png",
+      "mood": "หงุดหงิดกับคำปฏิเสธที่วนซ้ำ",
+      "evidence": [
+        "ฉันสามารถนะ",
+        "แต่ฉันก็ไม่สามารถ"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "can't",
+          "start": 196,
+          "end": 241,
+          "duration": 45
+        },
+        {
+          "track": 1,
+          "text": "อะไรอะ",
+          "start": 321,
+          "end": 370,
+          "duration": 49
+        },
+        {
+          "track": 1,
+          "text": "can't มันคือ cannot",
+          "start": 421,
+          "end": 487,
+          "duration": 66
+        },
+        {
+          "track": 1,
+          "text": "มึงใส่...เข้าไปดิ",
+          "start": 704,
+          "end": 795,
+          "duration": 91
+        },
+        {
+          "track": 1,
+          "text": "can't",
+          "start": 809,
+          "end": 861,
+          "duration": 52
+        },
+        {
+          "track": 1,
+          "text": "ไม่ต้องใส่ก็ได้",
+          "start": 872,
+          "end": 916,
+          "duration": 44
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 1032,
+          "end": 1134,
+          "duration": 102
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 1230,
+          "end": 1350,
+          "duration": 120
+        },
+        {
+          "track": 1,
+          "text": "กริยาสามช่องช่วยชีวิต",
+          "start": 1423,
+          "end": 1519,
+          "duration": 96
+        },
+        {
+          "track": 1,
+          "text": "ไม่อะ",
+          "start": 1575,
+          "end": 1629,
+          "duration": 54
+        },
+        {
+          "track": 1,
+          "text": "คำปฏิเสธเลยอะ",
+          "start": 1643,
+          "end": 1718,
+          "duration": 75
+        },
+        {
+          "track": 1,
+          "text": "คำปฏิเสธอะ",
+          "start": 1722,
+          "end": 1760,
+          "duration": 38
+        },
+        {
+          "track": 1,
+          "text": "ฉัน can't",
+          "start": 1778,
+          "end": 1810,
+          "duration": 32
+        },
+        {
+          "track": 1,
+          "text": "ฉันสามารถนะ",
+          "start": 1811,
+          "end": 1858,
+          "duration": 47
+        },
+        {
+          "track": 1,
+          "text": "แต่ฉันก็ไม่สามารถ",
+          "start": 1859,
+          "end": 1932,
+          "duration": 73
+        }
+      ]
+    },
+    {
+      "timeline_index": 4,
+      "timeline_name": "03-01 Starbound - เกม - บอสแพ้ก่อนเทสลาจะได้ลงมือ",
+      "story_index": 4,
+      "orientation": "landscape",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60.0,
+      "duration_frames": 3305,
+      "timeline_frame": 1600,
+      "source_video_frame": 193300,
+      "source_time_seconds": 3221.6666666666665,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Starbound -003｜ 08⧸06⧸2026 เวลา 20_00น. ｜  #armigonlive @LaffeyNilvalen @aomimamagd47\\【LIVE】Starbound -003｜ 08⧸06⧸2026 เวลา 20_00น. ｜  #armigonlive @LaffeyNilvalen @aomimamagd47.mp4",
+      "source_clip": "【LIVE】Starbound -003｜ 08⧸06⧸2026 เวลา 20_00น. ｜  #armigonlive @LaffeyNilvalen @aomimamagd47.mp4",
+      "hook_lines": [
+        "บอสแพ้ก่อน"
+      ],
+      "secondary_lines": [
+        "ยังไม่ได้ทดสอบปืนเลย"
+      ],
+      "model": "cry.png",
+      "mood": "เสียดายที่บอสแพ้ก่อนทดลองปืน",
+      "evidence": [
+        "ชื่อ Timeline: บอสแพ้ก่อนเทสลาจะได้ลงมือ",
+        "ดูเลือดบอสดิ",
+        "ยังไม่ได้ทดสอบปืนเลย"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "ใส่...ลงไปข้างล่าง",
+          "start": 0,
+          "end": 110,
+          "duration": 110
+        },
+        {
+          "track": 1,
+          "text": "ไม่แน่ใจเหมือนกัน",
+          "start": 111,
+          "end": 154,
+          "duration": 43
+        },
+        {
+          "track": 1,
+          "text": "ว่าข้างล่างมีไหม",
+          "start": 155,
+          "end": 204,
+          "duration": 49
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 205,
+          "end": 333,
+          "duration": 128
+        },
+        {
+          "track": 1,
+          "text": "วาร์ปผิดที่",
+          "start": 337,
+          "end": 414,
+          "duration": 77
+        },
+        {
+          "track": 1,
+          "text": "วาร์ปผิดที่ มาเร็ว ๆ",
+          "start": 417,
+          "end": 504,
+          "duration": 87
+        },
+        {
+          "track": 1,
+          "text": "โอเค ไปกันเลย",
+          "start": 555,
+          "end": 639,
+          "duration": 84
+        },
+        {
+          "track": 1,
+          "text": "อันนี้ได้รับ...ยัง",
+          "start": 706,
+          "end": 795,
+          "duration": 89
+        },
+        {
+          "track": 1,
+          "text": "ทำไปแล้ว",
+          "start": 858,
+          "end": 901,
+          "duration": 43
+        },
+        {
+          "track": 1,
+          "text": "ฉันก็ทำไปแล้ว",
+          "start": 991,
+          "end": 1050,
+          "duration": 59
+        },
+        {
+          "track": 1,
+          "text": "โอเค",
+          "start": 1073,
+          "end": 1119,
+          "duration": 46
+        },
+        {
+          "track": 1,
+          "text": "คืออาวุธเรา",
+          "start": 1194,
+          "end": 1288,
+          "duration": 94
+        },
+        {
+          "track": 1,
+          "text": "ขั้นสุดหมดแล้ว",
+          "start": 1289,
+          "end": 1342,
+          "duration": 53
+        },
+        {
+          "track": 1,
+          "text": "ดูเลือดบอสดิ",
+          "start": 1578,
+          "end": 1627,
+          "duration": 49
+        },
+        {
+          "track": 1,
+          "text": "นี่ยังไม่ได้ทำอะไรเลย",
+          "start": 2415,
+          "end": 2490,
+          "duration": 75
+        },
+        {
+          "track": 1,
+          "text": "นี่อะ ไอ้เนี่ย",
+          "start": 2542,
+          "end": 2634,
+          "duration": 92
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 2637,
+          "end": 2755,
+          "duration": 118
+        },
+        {
+          "track": 1,
+          "text": "แล้วมีสามลูกอะ",
+          "start": 2762,
+          "end": 2850,
+          "duration": 88
+        },
+        {
+          "track": 1,
+          "text": "แต่ละลูกก็ไม่ใช่น้อยนะ",
+          "start": 2868,
+          "end": 2976,
+          "duration": 108
+        },
+        {
+          "track": 1,
+          "text": "โอเค",
+          "start": 3074,
+          "end": 3114,
+          "duration": 40
+        },
+        {
+          "track": 1,
+          "text": "ยังไม่ได้ทำอะไรเลย",
+          "start": 3143,
+          "end": 3212,
+          "duration": 69
+        },
+        {
+          "track": 1,
+          "text": "ยังไม่ได้ทดสอบปืนเลย",
+          "start": 3228,
+          "end": 3302,
+          "duration": 74
+        }
+      ]
+    },
+    {
+      "timeline_index": 5,
+      "timeline_name": "03-02 Starbound - สนุก - ของชิ้นใหญ่เท่าควาย",
+      "story_index": 5,
+      "orientation": "landscape",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60.0,
+      "duration_frames": 2537,
+      "timeline_frame": 2110,
+      "source_video_frame": 130089,
+      "source_time_seconds": 2168.15,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Starbound -003｜ 08⧸06⧸2026 เวลา 20_00น. ｜  #armigonlive @LaffeyNilvalen @aomimamagd47\\【LIVE】Starbound -003｜ 08⧸06⧸2026 เวลา 20_00น. ｜  #armigonlive @LaffeyNilvalen @aomimamagd47.mp4",
+      "source_clip": "【LIVE】Starbound -003｜ 08⧸06⧸2026 เวลา 20_00น. ｜  #armigonlive @LaffeyNilvalen @aomimamagd47.mp4",
+      "hook_lines": [
+        "ชิ้นใหญ่เท่าควาย"
+      ],
+      "secondary_lines": [
+        "เชื่อมสายไฟเสร็จแล้ว"
+      ],
+      "model": "great.png",
+      "mood": "ตื่นเต้นกับชิ้นส่วนขนาดใหญ่ในเกม",
+      "evidence": [
+        "ชื่อ Timeline: ของชิ้นใหญ่เท่าควาย",
+        "เชื่อมสายไฟเสร็จแล้ว"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "มันก็ได้แหละ",
+          "start": 411,
+          "end": 498,
+          "duration": 87
+        },
+        {
+          "track": 1,
+          "text": "แต่ความขี้เกียจ...",
+          "start": 503,
+          "end": 578,
+          "duration": 75
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 606,
+          "end": 678,
+          "duration": 72
+        },
+        {
+          "track": 1,
+          "text": "โอเค",
+          "start": 898,
+          "end": 930,
+          "duration": 32
+        },
+        {
+          "track": 1,
+          "text": "โอเค",
+          "start": 1270,
+          "end": 1301,
+          "duration": 31
+        },
+        {
+          "track": 1,
+          "text": "เชื่อมสายไฟเสร็จแล้ว",
+          "start": 1303,
+          "end": 1373,
+          "duration": 70
+        },
+        {
+          "track": 1,
+          "text": "โอเค",
+          "start": 1374,
+          "end": 1413,
+          "duration": 39
+        },
+        {
+          "track": 1,
+          "text": "กำลังจะมาเชื่อมสายไฟ",
+          "start": 1482,
+          "end": 1585,
+          "duration": 103
+        },
+        {
+          "track": 1,
+          "text": "หยิบอุปกรณ์",
+          "start": 1656,
+          "end": 1754,
+          "duration": 98
+        },
+        {
+          "track": 1,
+          "text": "ขึ้นมา",
+          "start": 1756,
+          "end": 1800,
+          "duration": 44
+        },
+        {
+          "track": 1,
+          "text": "โอเค เชื่อมสายไฟเสร็จแล้ว",
+          "start": 1812,
+          "end": 1906,
+          "duration": 94
+        },
+        {
+          "track": 1,
+          "text": "อะ โอเค",
+          "start": 1908,
+          "end": 1949,
+          "duration": 41
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 2037,
+          "end": 2084,
+          "duration": 47
+        },
+        {
+          "track": 1,
+          "text": "ตัวเองซ่อมเสร็จแล้ว",
+          "start": 2085,
+          "end": 2163,
+          "duration": 78
+        },
+        {
+          "track": 1,
+          "text": "ไม่ คือบอกให้รู้เฉย ๆ",
+          "start": 2245,
+          "end": 2337,
+          "duration": 92
+        },
+        {
+          "track": 1,
+          "text": "ว่าเดี๋ยวกำลังจะเอาออกนะ",
+          "start": 2338,
+          "end": 2454,
+          "duration": 116
+        }
+      ]
+    },
+    {
+      "timeline_index": 6,
+      "timeline_name": "04-01 MC RPG 005 - สนุก - กลับมารับโทษเดี๋ยวนี้",
+      "story_index": 6,
+      "orientation": "landscape",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60.0,
+      "duration_frames": 2461,
+      "timeline_frame": 115,
+      "source_video_frame": 475615,
+      "source_time_seconds": 7926.916666666667,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Minecraft RPG Series - 005 ｜ 14⧸06⧸2026 เวลา 20_00 ｜  #armigonlive\\【LIVE】Minecraft RPG Series - 005 ｜ 14⧸06⧸2026 เวลา 20_00 ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】Minecraft RPG Series - 005 ｜ 14⧸06⧸2026 เวลา 20_00 ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "กลับมารับโทษ!"
+      ],
+      "secondary_lines": [
+        "หลบหนีความผิด"
+      ],
+      "model": "angry.png",
+      "mood": "ดุเพื่อนที่หนีความผิดแบบขำ ๆ",
+      "evidence": [
+        "มึงกลับมารับโทษเดี๋ยวนี้",
+        "หลบหนีความผิด"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "มึงกลับมาเดี๋ยวนี้",
+          "start": 37,
+          "end": 88,
+          "duration": 51
+        },
+        {
+          "track": 1,
+          "text": "มึงกลับมารับโทษ",
+          "start": 89,
+          "end": 146,
+          "duration": 57
+        },
+        {
+          "track": 1,
+          "text": "เดี๋ยวนี้",
+          "start": 148,
+          "end": 199,
+          "duration": 51
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 227,
+          "end": 288,
+          "duration": 61
+        },
+        {
+          "track": 1,
+          "text": "อ๋อ แล้วไป",
+          "start": 311,
+          "end": 387,
+          "duration": 76
+        },
+        {
+          "track": 1,
+          "text": "แล้วไป",
+          "start": 394,
+          "end": 468,
+          "duration": 74
+        },
+        {
+          "track": 1,
+          "text": "ใช่เหรอ",
+          "start": 504,
+          "end": 546,
+          "duration": 42
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 662,
+          "end": 770,
+          "duration": 108
+        },
+        {
+          "track": 1,
+          "text": "หลบหนีความผิด",
+          "start": 772,
+          "end": 847,
+          "duration": 75
+        },
+        {
+          "track": 1,
+          "text": "นึกว่าหลบหนีความผิดนะครับ",
+          "start": 991,
+          "end": 1082,
+          "duration": 91
+        },
+        {
+          "track": 1,
+          "text": "อ้าว",
+          "start": 1313,
+          "end": 1357,
+          "duration": 44
+        },
+        {
+          "track": 1,
+          "text": "มึงหนีเหรอ",
+          "start": 1376,
+          "end": 1422,
+          "duration": 46
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 1483,
+          "end": 1549,
+          "duration": 66
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 1681,
+          "end": 1768,
+          "duration": 87
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 1837,
+          "end": 1946,
+          "duration": 109
+        },
+        {
+          "track": 1,
+          "text": "โอ้โห",
+          "start": 1950,
+          "end": 2010,
+          "duration": 60
+        },
+        {
+          "track": 1,
+          "text": "ไม่รู้เลย",
+          "start": 2214,
+          "end": 2268,
+          "duration": 54
+        }
+      ]
+    },
+    {
+      "timeline_index": 7,
+      "timeline_name": "05-01 Roblox วันเกิด - เกม - หลงทางในเกมผีแล้วต้องยิงหัวแดง",
+      "story_index": 7,
+      "orientation": "landscape",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60.0,
+      "duration_frames": 4201,
+      "timeline_frame": 2480,
+      "source_video_frame": 358880,
+      "source_time_seconds": 5981.333333333333,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】ไลฟ์วันเกิด Roblox ｜ 24⧸06⧸2026 เวลา 19_30น. ｜  #armigonlive\\【LIVE】ไลฟ์วันเกิด Roblox ｜ 24⧸06⧸2026 เวลา 19_30น. ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】ไลฟ์วันเกิด Roblox ｜ 24⧸06⧸2026 เวลา 19_30น. ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "ยิงหัวแดง"
+      ],
+      "secondary_lines": [
+        "ตอนนี้มันล่าเรา"
+      ],
+      "model": "cry.png",
+      "mood": "ตื่นกลัวตอนเกมเริ่มล่า",
+      "evidence": [
+        "ไอ้หัวแดง ๆ",
+        "ต้องไปยิง",
+        "ตอนนี้มันล่าเรา"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "อ๋อ กูยิง",
+          "start": 131,
+          "end": 164,
+          "duration": 33
+        },
+        {
+          "track": 1,
+          "text": "ครบแล้วเหรอ",
+          "start": 164,
+          "end": 193,
+          "duration": 29
+        },
+        {
+          "track": 1,
+          "text": "อ๋อ มันอยู่",
+          "start": 291,
+          "end": 320,
+          "duration": 29
+        },
+        {
+          "track": 1,
+          "text": "มันมีชั้นสอง",
+          "start": 326,
+          "end": 377,
+          "duration": 51
+        },
+        {
+          "track": 1,
+          "text": "มันมีจุดแดง ๆ",
+          "start": 430,
+          "end": 482,
+          "duration": 52
+        },
+        {
+          "track": 1,
+          "text": "ขึ้นอยู่อะ",
+          "start": 483,
+          "end": 515,
+          "duration": 32
+        },
+        {
+          "track": 1,
+          "text": "ใช่ มีจุดแดง ๆ อยู่",
+          "start": 574,
+          "end": 646,
+          "duration": 72
+        },
+        {
+          "track": 1,
+          "text": "หัวกะโหลกอะ",
+          "start": 650,
+          "end": 680,
+          "duration": 30
+        },
+        {
+          "track": 1,
+          "text": "ใครตายมาตรงนี้วะ",
+          "start": 681,
+          "end": 746,
+          "duration": 65
+        },
+        {
+          "track": 1,
+          "text": "ไอ้กายเหรอ",
+          "start": 758,
+          "end": 789,
+          "duration": 31
+        },
+        {
+          "track": 1,
+          "text": "กูไง จะเหลืออะไร",
+          "start": 800,
+          "end": 895,
+          "duration": 95
+        },
+        {
+          "track": 1,
+          "text": "อะไรล่ะ",
+          "start": 897,
+          "end": 928,
+          "duration": 31
+        },
+        {
+          "track": 1,
+          "text": "โดนจับแดกไปแล้ว",
+          "start": 937,
+          "end": 983,
+          "duration": 46
+        },
+        {
+          "track": 1,
+          "text": "เดี๋ยวมึงก็เกิด",
+          "start": 1116,
+          "end": 1159,
+          "duration": 43
+        },
+        {
+          "track": 1,
+          "text": "เพลงเดิมเลย",
+          "start": 1159,
+          "end": 1208,
+          "duration": 49
+        },
+        {
+          "track": 1,
+          "text": "อุ๊ย",
+          "start": 1214,
+          "end": 1247,
+          "duration": 33
+        },
+        {
+          "track": 1,
+          "text": "ไม่ใช่",
+          "start": 1438,
+          "end": 1470,
+          "duration": 32
+        },
+        {
+          "track": 1,
+          "text": "มึงยิงไป",
+          "start": 1645,
+          "end": 1702,
+          "duration": 57
+        },
+        {
+          "track": 1,
+          "text": "ได้ครึ่งนึงแล้ว",
+          "start": 1703,
+          "end": 1745,
+          "duration": 42
+        },
+        {
+          "track": 1,
+          "text": "ไอ้หัวแดง ๆ",
+          "start": 1745,
+          "end": 1801,
+          "duration": 56
+        },
+        {
+          "track": 1,
+          "text": "ต้องไปยิง",
+          "start": 1809,
+          "end": 1841,
+          "duration": 32
+        },
+        {
+          "track": 1,
+          "text": "ตอนนี้มันล่าเรา",
+          "start": 2449,
+          "end": 2570,
+          "duration": 121
+        },
+        {
+          "track": 1,
+          "text": "บันไดมีชั้นเดียวเหรอ",
+          "start": 2581,
+          "end": 2693,
+          "duration": 112
+        },
+        {
+          "track": 1,
+          "text": "บันไดอยู่ตรงทางเดิน",
+          "start": 2756,
+          "end": 2857,
+          "duration": 101
+        },
+        {
+          "track": 1,
+          "text": "ที่กูบอกนี่ไง",
+          "start": 2955,
+          "end": 3012,
+          "duration": 57
+        },
+        {
+          "track": 1,
+          "text": "มันมีทางเดียวเหรอ",
+          "start": 3013,
+          "end": 3067,
+          "duration": 54
+        },
+        {
+          "track": 1,
+          "text": "ใช่ บันไดมีทางเดียว",
+          "start": 3125,
+          "end": 3200,
+          "duration": 75
+        },
+        {
+          "track": 1,
+          "text": "กูไปละจ้า",
+          "start": 3444,
+          "end": 3508,
+          "duration": 64
+        },
+        {
+          "track": 1,
+          "text": "กูไม่อยู่แล้ว",
+          "start": 3515,
+          "end": 3576,
+          "duration": 61
+        },
+        {
+          "track": 1,
+          "text": "เอ้ย มึง",
+          "start": 3591,
+          "end": 3626,
+          "duration": 35
+        },
+        {
+          "track": 1,
+          "text": "อยู่ก็อยู่มาเลย",
+          "start": 3680,
+          "end": 3713,
+          "duration": 33
+        },
+        {
+          "track": 1,
+          "text": "โอ้โห ชั้นสามแล้ว ไอ้เหี้ย",
+          "start": 3801,
+          "end": 3868,
+          "duration": 67
+        },
+        {
+          "track": 1,
+          "text": "กูเผลอลงชั้นสอง",
+          "start": 3872,
+          "end": 3943,
+          "duration": 71
+        }
+      ]
+    },
+    {
+      "timeline_index": 8,
+      "timeline_name": "05-02 Roblox วันเกิด - สนุก - เดาตัวละครให้ถูกสิ",
+      "story_index": 8,
+      "orientation": "landscape",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60.0,
+      "duration_frames": 4404,
+      "timeline_frame": 1640,
+      "source_video_frame": 587540,
+      "source_time_seconds": 9792.333333333334,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】ไลฟ์วันเกิด Roblox ｜ 24⧸06⧸2026 เวลา 19_30น. ｜  #armigonlive\\【LIVE】ไลฟ์วันเกิด Roblox ｜ 24⧸06⧸2026 เวลา 19_30น. ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】ไลฟ์วันเกิด Roblox ｜ 24⧸06⧸2026 เวลา 19_30น. ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "ฟีเลน!"
+      ],
+      "secondary_lines": [
+        "ออมเลือกตัวนี้"
+      ],
+      "model": "adore.png",
+      "mood": "เอ็นดูและตื่นเต้นตอนทายตัวละครถูก",
+      "evidence": [
+        "ฟีเลน",
+        "ออมเลือก"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "เอ๊ย ไม่ใช่ออม",
+          "start": 13,
+          "end": 62,
+          "duration": 49
+        },
+        {
+          "track": 1,
+          "text": "ออมต้องเลือกตัวนี้แน่ๆ",
+          "start": 295,
+          "end": 425,
+          "duration": 130
+        },
+        {
+          "track": 1,
+          "text": "ใช่ไหม",
+          "start": 536,
+          "end": 571,
+          "duration": 35
+        },
+        {
+          "track": 1,
+          "text": "ลองพูดมา",
+          "start": 709,
+          "end": 766,
+          "duration": 57
+        },
+        {
+          "track": 1,
+          "text": "กูจะลองดู",
+          "start": 817,
+          "end": 883,
+          "duration": 66
+        },
+        {
+          "track": 1,
+          "text": "ว่ามันจะใช่ตัวที่กูคิดหรือไม่",
+          "start": 888,
+          "end": 976,
+          "duration": 88
+        },
+        {
+          "track": 1,
+          "text": "เพราะตัวนี้มึงดูบ่อย",
+          "start": 978,
+          "end": 1057,
+          "duration": 79
+        },
+        {
+          "track": 1,
+          "text": "ตัวไหนล่ะ",
+          "start": 1242,
+          "end": 1287,
+          "duration": 45
+        },
+        {
+          "track": 1,
+          "text": "หัวขาวด้านบน",
+          "start": 1379,
+          "end": 1439,
+          "duration": 60
+        },
+        {
+          "track": 1,
+          "text": "ฟีเลน",
+          "start": 1625,
+          "end": 1657,
+          "duration": 32
+        },
+        {
+          "track": 1,
+          "text": "อ๋อ ฟีเลนเหรอ",
+          "start": 1769,
+          "end": 1820,
+          "duration": 51
+        },
+        {
+          "track": 1,
+          "text": "ออมเลือก",
+          "start": 1960,
+          "end": 2034,
+          "duration": 74
+        },
+        {
+          "track": 1,
+          "text": "ลูกน้องเหมือนกันเลย",
+          "start": 3438,
+          "end": 3503,
+          "duration": 65
+        },
+        {
+          "track": 1,
+          "text": "แก๊งเดียวกันเนี่ย",
+          "start": 3804,
+          "end": 3870,
+          "duration": 66
+        },
+        {
+          "track": 1,
+          "text": "มองเหมือนกันเลย",
+          "start": 3946,
+          "end": 3995,
+          "duration": 49
+        }
+      ]
+    },
+    {
+      "timeline_index": 9,
+      "timeline_name": "06-01 Mecha Chameleon - เกม - ซ่อนเนียนจนเพื่อนหาไม่เจอ",
+      "story_index": 9,
+      "orientation": "landscape",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60.0,
+      "duration_frames": 4801,
+      "timeline_frame": 2090,
+      "source_video_frame": 185990,
+      "source_time_seconds": 3099.8333333333335,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Mecha Chameleon - วัน เสาร์ - ที่ 11⧸07 - 20_00น.  ｜  #armigonlive\\【LIVE】Mecha Chameleon - วัน เสาร์ - ที่ 11⧸07 - 20_00น.  ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】Mecha Chameleon - วัน เสาร์ - ที่ 11⧸07 - 20_00น.  ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "ไม่เห็นจริงอะ"
+      ],
+      "secondary_lines": [
+        "คุณรอดได้ไงวะ"
+      ],
+      "model": "great.png",
+      "mood": "สะใจที่ซ่อนแล้วเพื่อนไม่เห็น",
+      "evidence": [
+        "ไม่เห็นจริงอะ",
+        "คุณรอดได้ไงวะ"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "มันจะเนียนมาก",
+          "start": 442,
+          "end": 491,
+          "duration": 49
+        },
+        {
+          "track": 1,
+          "text": "ขอโทษ",
+          "start": 566,
+          "end": 605,
+          "duration": 39
+        },
+        {
+          "track": 1,
+          "text": "อันนี้ใครอะ",
+          "start": 741,
+          "end": 794,
+          "duration": 53
+        },
+        {
+          "track": 1,
+          "text": "ผมบอกแล้ว",
+          "start": 1187,
+          "end": 1249,
+          "duration": 62
+        },
+        {
+          "track": 1,
+          "text": "มีคนซ่อนตรงนั้น",
+          "start": 1279,
+          "end": 1360,
+          "duration": 81
+        },
+        {
+          "track": 1,
+          "text": "เยอะมากเลย",
+          "start": 1363,
+          "end": 1414,
+          "duration": 51
+        },
+        {
+          "track": 1,
+          "text": "ผมบอกไปแล้ว",
+          "start": 1491,
+          "end": 1566,
+          "duration": 75
+        },
+        {
+          "track": 1,
+          "text": "สีคุณต้องจางกว่านี้",
+          "start": 1570,
+          "end": 1670,
+          "duration": 100
+        },
+        {
+          "track": 1,
+          "text": "จริงเลย",
+          "start": 1679,
+          "end": 1714,
+          "duration": 35
+        },
+        {
+          "track": 1,
+          "text": "ไม่เห็นจริงอะ",
+          "start": 1913,
+          "end": 1972,
+          "duration": 59
+        },
+        {
+          "track": 1,
+          "text": "คุณรอดได้ไงวะ",
+          "start": 2068,
+          "end": 2114,
+          "duration": 46
+        },
+        {
+          "track": 1,
+          "text": "อย่าถามผม",
+          "start": 2150,
+          "end": 2194,
+          "duration": 44
+        },
+        {
+          "track": 1,
+          "text": "ก็อยากรู้เหมือนกัน",
+          "start": 2197,
+          "end": 2255,
+          "duration": 58
+        },
+        {
+          "track": 1,
+          "text": "ไม่เห็นจริง",
+          "start": 2507,
+          "end": 2552,
+          "duration": 45
+        },
+        {
+          "track": 1,
+          "text": "ก็ยังรอดอยู่นะ",
+          "start": 2748,
+          "end": 2826,
+          "duration": 78
+        },
+        {
+          "track": 1,
+          "text": "ยังไม่เนียนเหรอ",
+          "start": 3226,
+          "end": 3295,
+          "duration": 69
+        },
+        {
+          "track": 1,
+          "text": "แต่ไม่เห็นเนอะ",
+          "start": 3298,
+          "end": 3347,
+          "duration": 49
+        },
+        {
+          "track": 1,
+          "text": "ยังไม่เนียนเลยอะ",
+          "start": 3392,
+          "end": 3451,
+          "duration": 59
+        },
+        {
+          "track": 1,
+          "text": "ช่วยหาๆ",
+          "start": 3594,
+          "end": 3648,
+          "duration": 54
+        },
+        {
+          "track": 1,
+          "text": "ไม่ยุติธรรมอะ",
+          "start": 3677,
+          "end": 3763,
+          "duration": 86
+        },
+        {
+          "track": 1,
+          "text": "เจอแล้วเหรอ",
+          "start": 4030,
+          "end": 4092,
+          "duration": 62
+        },
+        {
+          "track": 1,
+          "text": "เจอแล้วเหรอ",
+          "start": 4181,
+          "end": 4217,
+          "duration": 36
+        },
+        {
+          "track": 1,
+          "text": "เฮ้ย ไปหาพ่อ",
+          "start": 4389,
+          "end": 4461,
+          "duration": 72
+        },
+        {
+          "track": 1,
+          "text": "ทำตัวเหมือนพี่แมวเลยอะ",
+          "start": 4522,
+          "end": 4586,
+          "duration": 64
+        },
+        {
+          "track": 1,
+          "text": "เอาจริงๆ",
+          "start": 4697,
+          "end": 4749,
+          "duration": 52
+        }
+      ]
+    },
+    {
+      "timeline_index": 10,
+      "timeline_name": "06-02 Mecha Chameleon - สนุก - ซ่อนหลังกล่องเขียวก็ยังโดนเจอ",
+      "story_index": 10,
+      "orientation": "landscape",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60.0,
+      "duration_frames": 5401,
+      "timeline_frame": 5150,
+      "source_video_frame": 222050,
+      "source_time_seconds": 3700.8333333333335,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Mecha Chameleon - วัน เสาร์ - ที่ 11⧸07 - 20_00น.  ｜  #armigonlive\\【LIVE】Mecha Chameleon - วัน เสาร์ - ที่ 11⧸07 - 20_00น.  ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】Mecha Chameleon - วัน เสาร์ - ที่ 11⧸07 - 20_00น.  ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "ทำไมมาแอบอยู่",
+        "หลังกล่อง"
+      ],
+      "secondary_lines": [
+        "กล่องเขียวบนเพดาน"
+      ],
+      "model": "angry.png",
+      "mood": "โดนเจอหลังกล่องแล้วบ่นขำ ๆ",
+      "evidence": [
+        "ทำไมมาแอบอยู่หลังกล่องล่ะฮะ",
+        "กล่องเขียวบนเพดาน"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "ผมไม่เนียนสุด ๆ เลยอะ",
+          "start": 326,
+          "end": 400,
+          "duration": 74
+        },
+        {
+          "track": 1,
+          "text": "รู้สึกว่าน่าจะ",
+          "start": 502,
+          "end": 563,
+          "duration": 61
+        },
+        {
+          "track": 1,
+          "text": "มีคนโดนเจอแล้วแหละ",
+          "start": 564,
+          "end": 649,
+          "duration": 85
+        },
+        {
+          "track": 1,
+          "text": "เฮ้ย",
+          "start": 794,
+          "end": 824,
+          "duration": 30
+        },
+        {
+          "track": 1,
+          "text": "เฮ้ย แต่ละคน",
+          "start": 837,
+          "end": 955,
+          "duration": 118
+        },
+        {
+          "track": 1,
+          "text": "แต่ละคนนั้นคือแบบ",
+          "start": 958,
+          "end": 1057,
+          "duration": 99
+        },
+        {
+          "track": 1,
+          "text": "โห",
+          "start": 1060,
+          "end": 1088,
+          "duration": 28
+        },
+        {
+          "track": 1,
+          "text": "ไม่มีคนเนียนเลย",
+          "start": 1088,
+          "end": 1203,
+          "duration": 115
+        },
+        {
+          "track": 1,
+          "text": "เขาบอกไม่เนียนกันเลยอะ",
+          "start": 1346,
+          "end": 1414,
+          "duration": 68
+        },
+        {
+          "track": 1,
+          "text": "ไม่เนียนเลย",
+          "start": 1426,
+          "end": 1474,
+          "duration": 48
+        },
+        {
+          "track": 1,
+          "text": "ใช่ ไม่เนียนจริง ๆ",
+          "start": 1475,
+          "end": 1567,
+          "duration": 92
+        },
+        {
+          "track": 1,
+          "text": "เสียงคืออยู่รอบทิศ",
+          "start": 1595,
+          "end": 1667,
+          "duration": 72
+        },
+        {
+          "track": 1,
+          "text": "เสียงอยู่รอบทิศเลยอะ",
+          "start": 1794,
+          "end": 1892,
+          "duration": 98
+        },
+        {
+          "track": 1,
+          "text": "ใครวะ",
+          "start": 2497,
+          "end": 2542,
+          "duration": 45
+        },
+        {
+          "track": 1,
+          "text": "กำลังจะบอกเลยว่า",
+          "start": 2731,
+          "end": 2837,
+          "duration": 106
+        },
+        {
+          "track": 1,
+          "text": "แม่งไม่เห็นได้ยังไงวะ",
+          "start": 2837,
+          "end": 2894,
+          "duration": 57
+        },
+        {
+          "track": 1,
+          "text": "อันนี้คือแบบ",
+          "start": 3016,
+          "end": 3106,
+          "duration": 90
+        },
+        {
+          "track": 1,
+          "text": "โอ้โห",
+          "start": 3354,
+          "end": 3386,
+          "duration": 32
+        },
+        {
+          "track": 1,
+          "text": "โอ๊ย",
+          "start": 3391,
+          "end": 3447,
+          "duration": 56
+        },
+        {
+          "track": 1,
+          "text": "โอ๊ย รุนแรงจัด",
+          "start": 3479,
+          "end": 3575,
+          "duration": 96
+        },
+        {
+          "track": 1,
+          "text": "แล้วคนหาไปไหนหมด",
+          "start": 3689,
+          "end": 3764,
+          "duration": 75
+        },
+        {
+          "track": 1,
+          "text": "ไม่เนียนตรงไหนเนี่ย",
+          "start": 3892,
+          "end": 4002,
+          "duration": 110
+        },
+        {
+          "track": 1,
+          "text": "ทำอะไรอะ",
+          "start": 4177,
+          "end": 4214,
+          "duration": 37
+        },
+        {
+          "track": 1,
+          "text": "ทำไมมาแอบอยู่หลังกล่องล่ะฮะ",
+          "start": 4246,
+          "end": 4342,
+          "duration": 96
+        },
+        {
+          "track": 1,
+          "text": "กล่องมันก็สีเขียวดี",
+          "start": 4906,
+          "end": 4992,
+          "duration": 86
+        },
+        {
+          "track": 1,
+          "text": "กล่องเขียวได้ไหม โอเค",
+          "start": 5011,
+          "end": 5117,
+          "duration": 106
+        },
+        {
+          "track": 1,
+          "text": "ใช่ กล่องเขียวบนเพดาน",
+          "start": 5137,
+          "end": 5222,
+          "duration": 85
+        }
+      ]
+    },
+    {
+      "timeline_index": 11,
+      "timeline_name": "07-01 Palworld - มีม - วางของแล้วดันติดตัว",
+      "story_index": 11,
+      "orientation": "landscape",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60.0,
+      "duration_frames": 3292,
+      "timeline_frame": 1660,
+      "source_video_frame": 267049,
+      "source_time_seconds": 4450.816666666667,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Palworld ｜ 1⧸08⧸2026 เวลา 20_00น. ｜  #armigonlive\\【LIVE】Palworld ｜ 1⧸08⧸2026 เวลา 20_00น. ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】Palworld ｜ 1⧸08⧸2026 เวลา 20_00น. ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "มันติดตัว"
+      ],
+      "secondary_lines": [
+        "วางบันไดไม่ได้สักที"
+      ],
+      "model": "hello.png",
+      "mood": "งงกับไอเท็มที่ติดตัวตอนวางของ",
+      "evidence": [
+        "มันติดตัว",
+        "บันไดไม่ได้สักที"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "ทะลุได้แค่นี้เหรอ",
+          "start": 115,
+          "end": 159,
+          "duration": 44
+        },
+        {
+          "track": 1,
+          "text": "มาตั้งนาน",
+          "start": 385,
+          "end": 414,
+          "duration": 29
+        },
+        {
+          "track": 1,
+          "text": "มึงทะลุได้แค่นี้",
+          "start": 417,
+          "end": 452,
+          "duration": 35
+        },
+        {
+          "track": 1,
+          "text": "โอเค เอาแค่นี้ก็ได้",
+          "start": 459,
+          "end": 541,
+          "duration": 82
+        },
+        {
+          "track": 1,
+          "text": "แค่นี้ก็แค่นี้",
+          "start": 560,
+          "end": 605,
+          "duration": 45
+        },
+        {
+          "track": 1,
+          "text": "ช่างวะ",
+          "start": 621,
+          "end": 739,
+          "duration": 118
+        },
+        {
+          "track": 1,
+          "text": "มันติด",
+          "start": 1356,
+          "end": 1386,
+          "duration": 30
+        },
+        {
+          "track": 1,
+          "text": "นี่คือมันติดมึงเองเหอะ",
+          "start": 1389,
+          "end": 1475,
+          "duration": 86
+        },
+        {
+          "track": 1,
+          "text": "มันติดตัว",
+          "start": 1626,
+          "end": 1661,
+          "duration": 35
+        },
+        {
+          "track": 1,
+          "text": "ก็หาอยู่ตั้งนาน",
+          "start": 1762,
+          "end": 1850,
+          "duration": 88
+        },
+        {
+          "track": 1,
+          "text": "มันติดอะไรวะ",
+          "start": 1865,
+          "end": 1925,
+          "duration": 60
+        },
+        {
+          "track": 1,
+          "text": "ทำไมมันวาง",
+          "start": 1925,
+          "end": 1964,
+          "duration": 39
+        },
+        {
+          "track": 1,
+          "text": "บันไดไม่ได้สักที",
+          "start": 1964,
+          "end": 2023,
+          "duration": 59
+        },
+        {
+          "track": 1,
+          "text": "นึกว่าติดก้อนหินเมื่อกี้",
+          "start": 2034,
+          "end": 2119,
+          "duration": 85
+        },
+        {
+          "track": 1,
+          "text": "ใครที่ดูทันอะ",
+          "start": 2177,
+          "end": 2228,
+          "duration": 51
+        },
+        {
+          "track": 1,
+          "text": "มันจะมีก้อนหิน",
+          "start": 2294,
+          "end": 2329,
+          "duration": 35
+        },
+        {
+          "track": 1,
+          "text": "อยู่ก้อนหนึ่ง ก้อนใหญ่ ๆ",
+          "start": 2329,
+          "end": 2392,
+          "duration": 63
+        },
+        {
+          "track": 1,
+          "text": "มันไม่รีสปอว์นเหรอ",
+          "start": 2511,
+          "end": 2564,
+          "duration": 53
+        },
+        {
+          "track": 1,
+          "text": "ก้อนหินเป็นต้นเหตุวะ",
+          "start": 2785,
+          "end": 2849,
+          "duration": 64
+        },
+        {
+          "track": 1,
+          "text": "ที่เราไม่สามารถวางตรงนี้ได้",
+          "start": 3042,
+          "end": 3120,
+          "duration": 78
+        }
+      ]
+    },
+    {
+      "timeline_index": 12,
+      "timeline_name": "08-01 MC เลือดเดียวกัน - เกม - หลุมยักษ์กับผีที่หายไป",
+      "story_index": 12,
+      "orientation": "landscape",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60.0,
+      "duration_frames": 3526,
+      "timeline_frame": 2160,
+      "source_video_frame": 304140,
+      "source_time_seconds": 5069.0,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】 Minecraft เลือดเดียวกัน ｜ 03⧸09⧸2026 เวลา 20.00 ｜  #armigonlive\\【LIVE】 Minecraft เลือดเดียวกัน ｜ 03⧸09⧸2026 เวลา 20.00 ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】 Minecraft เลือดเดียวกัน ｜ 03⧸09⧸2026 เวลา 20.00 ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "ผีหาย!"
+      ],
+      "secondary_lines": [
+        "ผีเลี้ยวอีกแล้ว"
+      ],
+      "model": "hello.png",
+      "mood": "งงกับผีที่หายไปจากเส้นทาง",
+      "evidence": [
+        "ผีหาย",
+        "ผีเลี้ยวอีกแล้ว"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "มันก็ดีแหละ",
+          "start": 0,
+          "end": 55,
+          "duration": 55
+        },
+        {
+          "track": 1,
+          "text": "แต่เราต้องหาทางลง",
+          "start": 56,
+          "end": 119,
+          "duration": 63
+        },
+        {
+          "track": 1,
+          "text": "ลงไปไหม",
+          "start": 120,
+          "end": 167,
+          "duration": 47
+        },
+        {
+          "track": 1,
+          "text": "ไม่",
+          "start": 182,
+          "end": 219,
+          "duration": 37
+        },
+        {
+          "track": 1,
+          "text": "ยังไม่จำเป็น",
+          "start": 319,
+          "end": 374,
+          "duration": 55
+        },
+        {
+          "track": 1,
+          "text": "ยังไม่จำเป็น",
+          "start": 395,
+          "end": 424,
+          "duration": 29
+        },
+        {
+          "track": 1,
+          "text": "เรายังใช้ไม่ได้",
+          "start": 457,
+          "end": 542,
+          "duration": 85
+        },
+        {
+          "track": 1,
+          "text": "ถ้าจำห้องไว้ก่อนก็ดี",
+          "start": 554,
+          "end": 631,
+          "duration": 77
+        },
+        {
+          "track": 1,
+          "text": "ไม่ ไม่ต้องอะ",
+          "start": 645,
+          "end": 701,
+          "duration": 56
+        },
+        {
+          "track": 1,
+          "text": "ไม่ต้องจำอะ",
+          "start": 701,
+          "end": 742,
+          "duration": 41
+        },
+        {
+          "track": 1,
+          "text": "ปล่อยไว้",
+          "start": 751,
+          "end": 781,
+          "duration": 30
+        },
+        {
+          "track": 1,
+          "text": "เดี๋ยวเราก็เจอมาอยู่ดี",
+          "start": 783,
+          "end": 883,
+          "duration": 100
+        },
+        {
+          "track": 1,
+          "text": "เพราะยังไงมันก็ต้องใช้",
+          "start": 1073,
+          "end": 1164,
+          "duration": 91
+        },
+        {
+          "track": 1,
+          "text": "พิกแอค",
+          "start": 1175,
+          "end": 1210,
+          "duration": 35
+        },
+        {
+          "track": 1,
+          "text": "แต่ที่นั่นน่ะ ถ้า",
+          "start": 1755,
+          "end": 1835,
+          "duration": 80
+        },
+        {
+          "track": 1,
+          "text": "ใครเจอบล็อกคอปเปอร์",
+          "start": 1835,
+          "end": 1943,
+          "duration": 108
+        },
+        {
+          "track": 1,
+          "text": "ขุดไม่ได้",
+          "start": 1961,
+          "end": 1991,
+          "duration": 30
+        },
+        {
+          "track": 1,
+          "text": "ปล่อยวาง",
+          "start": 2013,
+          "end": 2060,
+          "duration": 47
+        },
+        {
+          "track": 1,
+          "text": "ไปต่อ เดินต่อ",
+          "start": 2065,
+          "end": 2128,
+          "duration": 63
+        },
+        {
+          "track": 1,
+          "text": "ผีหาย",
+          "start": 2134,
+          "end": 2167,
+          "duration": 33
+        },
+        {
+          "track": 1,
+          "text": "ผีเลี้ยวอีกแล้ว",
+          "start": 2171,
+          "end": 2258,
+          "duration": 87
+        },
+        {
+          "track": 1,
+          "text": "จะเลี้ยวไปทำไม",
+          "start": 2367,
+          "end": 2421,
+          "duration": 54
+        },
+        {
+          "track": 1,
+          "text": "ที่ฝั่งนี้สิ",
+          "start": 2439,
+          "end": 2521,
+          "duration": 82
+        },
+        {
+          "track": 1,
+          "text": "ไม้ที่ฐานหมดอะ",
+          "start": 3043,
+          "end": 3097,
+          "duration": 54
+        },
+        {
+          "track": 1,
+          "text": "กูบอกก่อน",
+          "start": 3101,
+          "end": 3131,
+          "duration": 30
+        },
+        {
+          "track": 1,
+          "text": "ไม้ในฐานหมดแล้ว",
+          "start": 3252,
+          "end": 3319,
+          "duration": 67
+        },
+        {
+          "track": 1,
+          "text": "ไม้ฐานหมด รับทราบ",
+          "start": 3332,
+          "end": 3425,
+          "duration": 93
+        }
+      ]
+    },
+    {
+      "timeline_index": 13,
+      "timeline_name": "08-02 MC เลือดเดียวกัน - สนุก - ห้องน้ำนี้ห้ามใครเข้า",
+      "story_index": 13,
+      "orientation": "landscape",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60.0,
+      "duration_frames": 3200,
+      "timeline_frame": 2470,
+      "source_video_frame": 530050,
+      "source_time_seconds": 8834.166666666666,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】 Minecraft เลือดเดียวกัน ｜ 03⧸09⧸2026 เวลา 20.00 ｜  #armigonlive\\【LIVE】 Minecraft เลือดเดียวกัน ｜ 03⧸09⧸2026 เวลา 20.00 ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】 Minecraft เลือดเดียวกัน ｜ 03⧸09⧸2026 เวลา 20.00 ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "ห้องน้ำนี้",
+        "ห้ามเข้า"
+      ],
+      "secondary_lines": [
+        "เจ้าของเซิร์ฟ",
+        "หลับไปแล้ว"
+      ],
+      "model": "great.png",
+      "mood": "ขำกับกฎห้องน้ำและเจ้าของเซิร์ฟที่หลับ",
+      "evidence": [
+        "ชื่อ Timeline: ห้องน้ำนี้ห้ามใครเข้า",
+        "เจ้าของเซิร์ฟเองหลับไปแล้ว"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "อันนี้คือเราง่วงกันเลย",
+          "start": 59,
+          "end": 127,
+          "duration": 68
+        },
+        {
+          "track": 1,
+          "text": "ใช่ไหม เราคุยกันแบบเนี้ย",
+          "start": 127,
+          "end": 207,
+          "duration": 80
+        },
+        {
+          "track": 1,
+          "text": "มันไม่มีอะไรคุยเนี่ย",
+          "start": 329,
+          "end": 384,
+          "duration": 55
+        },
+        {
+          "track": 1,
+          "text": "เดี๋ยว ๆ ไอ้อ๋อม",
+          "start": 452,
+          "end": 493,
+          "duration": 41
+        },
+        {
+          "track": 1,
+          "text": "โอ้โห",
+          "start": 537,
+          "end": 594,
+          "duration": 57
+        },
+        {
+          "track": 1,
+          "text": "วันนี้กูขอเล่า",
+          "start": 643,
+          "end": 710,
+          "duration": 67
+        },
+        {
+          "track": 1,
+          "text": "ประสบการณ์",
+          "start": 710,
+          "end": 748,
+          "duration": 38
+        },
+        {
+          "track": 1,
+          "text": "วันนี้กู",
+          "start": 820,
+          "end": 861,
+          "duration": 41
+        },
+        {
+          "track": 1,
+          "text": "กินหมูกระทะ",
+          "start": 870,
+          "end": 903,
+          "duration": 33
+        },
+        {
+          "track": 1,
+          "text": "กับไอ้อ๋อมใช่ไหม",
+          "start": 903,
+          "end": 948,
+          "duration": 45
+        },
+        {
+          "track": 1,
+          "text": "อ่าฮะ",
+          "start": 959,
+          "end": 985,
+          "duration": 26
+        },
+        {
+          "track": 1,
+          "text": "คอตกแล้วเนี่ย",
+          "start": 2018,
+          "end": 2070,
+          "duration": 52
+        },
+        {
+          "track": 1,
+          "text": "เฮ้ย",
+          "start": 2080,
+          "end": 2149,
+          "duration": 69
+        },
+        {
+          "track": 1,
+          "text": "มึงเจ้าของเซิร์ฟ มึงหลับไม่ได้",
+          "start": 2319,
+          "end": 2426,
+          "duration": 107
+        },
+        {
+          "track": 1,
+          "text": "เจ้าของเซิร์ฟเองหลับไปแล้ว",
+          "start": 2441,
+          "end": 2557,
+          "duration": 116
+        },
+        {
+          "track": 1,
+          "text": "ชิบหายแล้ว",
+          "start": 2642,
+          "end": 2686,
+          "duration": 44
+        },
+        {
+          "track": 1,
+          "text": "ปลุกน้องแมวที",
+          "start": 2762,
+          "end": 2820,
+          "duration": 58
+        },
+        {
+          "track": 1,
+          "text": "มันก็เพิ่งจะเห็นแน่แหละ",
+          "start": 2820,
+          "end": 2894,
+          "duration": 74
+        },
+        {
+          "track": 1,
+          "text": "six seven",
+          "start": 2957,
+          "end": 2996,
+          "duration": 39
+        },
+        {
+          "track": 1,
+          "text": "six seven",
+          "start": 3055,
+          "end": 3095,
+          "duration": 40
+        }
+      ]
+    },
+    {
+      "timeline_index": 14,
+      "timeline_name": "09-01 Backrooms - เกม - หันมาเจออะไรอยู่ข้างหลัง",
+      "story_index": 14,
+      "orientation": "landscape",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60.0,
+      "duration_frames": 1084,
+      "timeline_frame": 320,
+      "source_video_frame": 76520,
+      "source_time_seconds": 1275.3333333333333,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\[Co-op Hoshi] Escape the Backrooms - วัน เสาร์ - ที่ 5⧸09 - 20_00น\\[Co-op Hoshi] Escape the Backrooms - วัน เสาร์ - ที่ 5⧸09 - 20_00น..mp4",
+      "source_clip": "[Co-op Hoshi] Escape the Backrooms - วัน เสาร์ - ที่ 5⧸09 - 20_00น..mp4",
+      "hook_lines": [
+        "อะไร อะไร ถอย!"
+      ],
+      "secondary_lines": [
+        "ไฟฉาย ไฟฉาย"
+      ],
+      "model": "cry.png",
+      "mood": "ตกใจใน Backrooms",
+      "evidence": [
+        "อะไร อะไร ถอย",
+        "ไฟฉาย ไฟฉาย",
+        "หันมาเจออะไรอยู่ข้างหลัง"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "หน้าจอขาวจั๊ว",
+          "start": 26,
+          "end": 83,
+          "duration": 57
+        },
+        {
+          "track": 1,
+          "text": "มองเห็นทุกอย่าง",
+          "start": 93,
+          "end": 154,
+          "duration": 61
+        },
+        {
+          "track": 1,
+          "text": "อะไร อะไร ถอย",
+          "start": 287,
+          "end": 366,
+          "duration": 79
+        },
+        {
+          "track": 1,
+          "text": "เราขึ้นอยู่กับคุณอาร์มนะ",
+          "start": 445,
+          "end": 545,
+          "duration": 100
+        },
+        {
+          "track": 1,
+          "text": "ยังเร็วขึ้นอีก",
+          "start": 574,
+          "end": 613,
+          "duration": 39
+        },
+        {
+          "track": 1,
+          "text": "ยังมาเร็วขึ้นอีก",
+          "start": 646,
+          "end": 693,
+          "duration": 47
+        },
+        {
+          "track": 1,
+          "text": "มองหน้าไปแล้วนะ",
+          "start": 832,
+          "end": 887,
+          "duration": 55
+        },
+        {
+          "track": 1,
+          "text": "ไฟฉาย ไฟฉาย",
+          "start": 896,
+          "end": 935,
+          "duration": 39
+        },
+        {
+          "track": 1,
+          "text": "มองหน้าไปแล้วนะเมื่อกี้",
+          "start": 963,
+          "end": 1032,
+          "duration": 69
+        }
+      ]
+    },
+    {
+      "timeline_index": 15,
+      "timeline_name": "10-01 Valorant - เกม - ยังไม่ตาย รีบหมุนไซต์",
+      "story_index": 15,
+      "orientation": "landscape",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60.0,
+      "duration_frames": 3542,
+      "timeline_frame": 1860,
+      "source_video_frame": 584100,
+      "source_time_seconds": 9735.0,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Valorant ｜ 16⧸09⧸2026 เวลา 20_00น. ｜  #armigonlive\\【LIVE】Valorant ｜ 16⧸09⧸2026 เวลา 20_00น. ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】Valorant ｜ 16⧸09⧸2026 เวลา 20_00น. ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "ยังไม่ตาย!"
+      ],
+      "secondary_lines": [
+        "รีบหมุนไซต์"
+      ],
+      "model": "angry.png",
+      "mood": "เร่งเพื่อนให้หมุนไซต์ตอนยังมีชีวิต",
+      "evidence": [
+        "ยังไม่ตาย",
+        "ชื่อ Timeline: รีบหมุนไซต์"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "น่าจะเพื่อน",
+          "start": 3,
+          "end": 38,
+          "duration": 35
+        },
+        {
+          "track": 1,
+          "text": "หายไปเลย",
+          "start": 384,
+          "end": 449,
+          "duration": 65
+        },
+        {
+          "track": 1,
+          "text": "หายวับไปกับตา",
+          "start": 538,
+          "end": 600,
+          "duration": 62
+        },
+        {
+          "track": 1,
+          "text": "หายไปด้วย",
+          "start": 702,
+          "end": 747,
+          "duration": 45
+        },
+        {
+          "track": 1,
+          "text": "เดี๋ยวๆ",
+          "start": 1662,
+          "end": 1742,
+          "duration": 80
+        },
+        {
+          "track": 1,
+          "text": "ยังไม่ตาย",
+          "start": 1828,
+          "end": 1897,
+          "duration": 69
+        },
+        {
+          "track": 1,
+          "text": "ยังอยู่",
+          "start": 1900,
+          "end": 1948,
+          "duration": 48
+        },
+        {
+          "track": 1,
+          "text": "ยังอยู่",
+          "start": 2012,
+          "end": 2044,
+          "duration": 32
+        },
+        {
+          "track": 1,
+          "text": "คนเข้าคนแรกเนี่ยตาย",
+          "start": 2070,
+          "end": 2136,
+          "duration": 66
+        },
+        {
+          "track": 1,
+          "text": "เรามาแค่นี้แล้ว",
+          "start": 3310,
+          "end": 3359,
+          "duration": 49
+        },
+        {
+          "track": 1,
+          "text": "มันใช้สกิลแล้ว",
+          "start": 3362,
+          "end": 3418,
+          "duration": 56
+        }
+      ]
+    },
+    {
+      "timeline_index": 16,
+      "timeline_name": "10-02 Valorant - สนุก - เพื่อนเลือกเอเจนต์ตามที่ถนัด",
+      "story_index": 16,
+      "orientation": "landscape",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60.0,
+      "duration_frames": 1257,
+      "timeline_frame": 845,
+      "source_video_frame": 147965,
+      "source_time_seconds": 2466.0833333333335,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Valorant ｜ 16⧸09⧸2026 เวลา 20_00น. ｜  #armigonlive\\【LIVE】Valorant ｜ 16⧸09⧸2026 เวลา 20_00น. ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】Valorant ｜ 16⧸09⧸2026 เวลา 20_00น. ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "เล่นได้ไม่กี่ตัว"
+      ],
+      "secondary_lines": [
+        "Smoke / Scan / Skye / Sova"
+      ],
+      "model": "hello.png",
+      "mood": "คุยกันเรื่องตัวละครที่เล่นถนัด",
+      "evidence": [
+        "เมอร์เล่นได้ไม่กี่ตัวนะ",
+        "Smoke",
+        "Scan",
+        "เล่น Skye ได้",
+        "เล่น Sova ได้"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "เมอร์เล่นได้ไม่กี่ตัวนะ",
+          "start": 0,
+          "end": 90,
+          "duration": 90
+        },
+        {
+          "track": 1,
+          "text": "คุณเมอร์เล่นตัวอะไรได้บ้าง?",
+          "start": 92,
+          "end": 206,
+          "duration": 114
+        },
+        {
+          "track": 1,
+          "text": "Smoke",
+          "start": 351,
+          "end": 397,
+          "duration": 46
+        },
+        {
+          "track": 1,
+          "text": "Scan",
+          "start": 407,
+          "end": 471,
+          "duration": 64
+        },
+        {
+          "track": 1,
+          "text": "ถ้า Sentinel จะมี…",
+          "start": 519,
+          "end": 629,
+          "duration": 110
+        },
+        {
+          "track": 1,
+          "text": "ถ้า Scan เล่น Skye",
+          "start": 631,
+          "end": 807,
+          "duration": 176
+        },
+        {
+          "track": 1,
+          "text": "เล่น Sova ได้",
+          "start": 828,
+          "end": 989,
+          "duration": 161
+        },
+        {
+          "track": 1,
+          "text": "คุณเมอร์ เอ้ย…",
+          "start": 1037,
+          "end": 1113,
+          "duration": 76
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 1115,
+          "end": 1248,
+          "duration": 133
+        }
+      ]
+    },
+    {
+      "timeline_index": 17,
+      "timeline_name": "01-01 Peak - เกม - ช่วยโฮชิให้รอดจากเขา-short",
+      "story_index": 1,
+      "orientation": "portrait",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60.0,
+      "duration_frames": 2821,
+      "timeline_frame": 150,
+      "source_video_frame": 192330,
+      "source_time_seconds": 3205.5,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Peak   ｜ 03⧸05⧸2026 เวลา 20.00 ｜  #armigonlive\\【LIVE】Peak   ｜ 03⧸05⧸2026 เวลา 20.00 ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】Peak   ｜ 03⧸05⧸2026 เวลา 20.00 ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "ใครก็ได้",
+        "แบกโฮชิหน่อย"
+      ],
+      "secondary_lines": [
+        "ชุบได้ไหม"
+      ],
+      "model": "cry.png",
+      "mood": "ขอแรงช่วยเพื่อนที่ล้ม",
+      "evidence": [
+        "ใครก็ได้แบกโฮชิหน่อย",
+        "ชุบได้ไหม"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "ตายก็ตาย",
+          "start": 55,
+          "end": 114,
+          "duration": 59
+        },
+        {
+          "track": 1,
+          "text": "ใครก็ได้แบกโฮชิหน่อย",
+          "start": 133,
+          "end": 235,
+          "duration": 102
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 240,
+          "end": 327,
+          "duration": 87
+        },
+        {
+          "track": 1,
+          "text": "ฉันมี...",
+          "start": 334,
+          "end": 406,
+          "duration": 72
+        },
+        {
+          "track": 1,
+          "text": "ฉันมีเฟิร์สเอด",
+          "start": 413,
+          "end": 467,
+          "duration": 54
+        },
+        {
+          "track": 1,
+          "text": "ฉันมียา",
+          "start": 470,
+          "end": 578,
+          "duration": 108
+        },
+        {
+          "track": 1,
+          "text": "ยังไม่ตาย",
+          "start": 587,
+          "end": 635,
+          "duration": 48
+        },
+        {
+          "track": 1,
+          "text": "ยังหมุนอยู่เลย",
+          "start": 658,
+          "end": 714,
+          "duration": 56
+        },
+        {
+          "track": 1,
+          "text": "แย่วะ",
+          "start": 764,
+          "end": 814,
+          "duration": 50
+        },
+        {
+          "track": 1,
+          "text": "น่าสงสาร",
+          "start": 1062,
+          "end": 1129,
+          "duration": 67
+        },
+        {
+          "track": 1,
+          "text": "ชุบได้ไหม",
+          "start": 1133,
+          "end": 1187,
+          "duration": 54
+        },
+        {
+          "track": 1,
+          "text": "ชุบได้ไหม",
+          "start": 1192,
+          "end": 1266,
+          "duration": 74
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 1268,
+          "end": 1392,
+          "duration": 124
+        },
+        {
+          "track": 1,
+          "text": "อ้าว แล้วชุบ",
+          "start": 1400,
+          "end": 1485,
+          "duration": 85
+        },
+        {
+          "track": 1,
+          "text": "ถ้าชุบไม่ได้",
+          "start": 1540,
+          "end": 1588,
+          "duration": 48
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 1590,
+          "end": 1704,
+          "duration": 114
+        },
+        {
+          "track": 1,
+          "text": "ไหวไหม",
+          "start": 2257,
+          "end": 2303,
+          "duration": 46
+        },
+        {
+          "track": 1,
+          "text": "เออ",
+          "start": 2305,
+          "end": 2350,
+          "duration": 45
+        },
+        {
+          "track": 1,
+          "text": "ติด ๆ",
+          "start": 2390,
+          "end": 2484,
+          "duration": 94
+        },
+        {
+          "track": 1,
+          "text": "ติด ๆ",
+          "start": 2626,
+          "end": 2674,
+          "duration": 48
+        },
+        {
+          "track": 1,
+          "text": "อะไรนะ",
+          "start": 2676,
+          "end": 2721,
+          "duration": 45
+        },
+        {
+          "track": 1,
+          "text": "ว่าไงนะ",
+          "start": 2743,
+          "end": 2783,
+          "duration": 40
+        }
+      ]
+    },
+    {
+      "timeline_index": 18,
+      "timeline_name": "02-01 Linxicon - มีม - ต่อคำจนโยงไปถึงไส้ติ่ง-short",
+      "story_index": 2,
+      "orientation": "portrait",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60.0,
+      "duration_frames": 2287,
+      "timeline_frame": 2050,
+      "source_video_frame": 393550,
+      "source_time_seconds": 6559.166666666667,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Linxicon ｜ 04⧸06⧸2026 เวลา 19.30 ｜  #armigonlive\\【LIVE】Linxicon ｜ 04⧸06⧸2026 เวลา 19.30 ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】Linxicon ｜ 04⧸06⧸2026 เวลา 19.30 ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "เชื่อมไส้ติ่งด้วย"
+      ],
+      "secondary_lines": [
+        "คำเดียวเชื่อมทุกอย่าง"
+      ],
+      "model": "great.png",
+      "mood": "ภูมิใจกับคำเชื่อมที่โยงไกล",
+      "evidence": [
+        "คำเดียวเชื่อมทุกอย่าง",
+        "เชื่อมไส้ติ่งด้วย"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "นักโทษแล้วก็ดราม่า",
+          "start": 3,
+          "end": 70,
+          "duration": 67
+        },
+        {
+          "track": 1,
+          "text": "คัตซีน",
+          "start": 200,
+          "end": 244,
+          "duration": 44
+        },
+        {
+          "track": 1,
+          "text": "บอดี้",
+          "start": 348,
+          "end": 373,
+          "duration": 25
+        },
+        {
+          "track": 1,
+          "text": "บอดี้เหรอ",
+          "start": 412,
+          "end": 454,
+          "duration": 42
+        },
+        {
+          "track": 1,
+          "text": "มูวี่",
+          "start": 486,
+          "end": 542,
+          "duration": 56
+        },
+        {
+          "track": 1,
+          "text": "มูวี่เหรอ",
+          "start": 550,
+          "end": 592,
+          "duration": 42
+        },
+        {
+          "track": 1,
+          "text": "มันไม่ได้เชื่อม",
+          "start": 1477,
+          "end": 1568,
+          "duration": 91
+        },
+        {
+          "track": 1,
+          "text": "แค่คำหลักสองอันนะ",
+          "start": 1570,
+          "end": 1682,
+          "duration": 112
+        },
+        {
+          "track": 1,
+          "text": "มันเชื่อมคำ...ด้วย",
+          "start": 1683,
+          "end": 1758,
+          "duration": 75
+        },
+        {
+          "track": 1,
+          "text": "โคตรภูมิใจเลย",
+          "start": 1861,
+          "end": 1916,
+          "duration": 55
+        },
+        {
+          "track": 1,
+          "text": "คำเดียวเชื่อมทุกอย่าง",
+          "start": 1918,
+          "end": 1986,
+          "duration": 68
+        },
+        {
+          "track": 1,
+          "text": "เชื่อมไส้ติ่งด้วย",
+          "start": 2020,
+          "end": 2092,
+          "duration": 72
+        },
+        {
+          "track": 1,
+          "text": "เก่งมาก",
+          "start": 2099,
+          "end": 2147,
+          "duration": 48
+        },
+        {
+          "track": 1,
+          "text": "อย่าเรียก...ไส้ติ่งดิ",
+          "start": 2149,
+          "end": 2268,
+          "duration": 119
+        }
+      ]
+    },
+    {
+      "timeline_index": 19,
+      "timeline_name": "02-02 Linxicon - สนุก - คำว่าแค้นวนจนขำ-short",
+      "story_index": 3,
+      "orientation": "portrait",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60.0,
+      "duration_frames": 1987,
+      "timeline_frame": 1830,
+      "source_video_frame": 408030,
+      "source_time_seconds": 6800.5,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Linxicon ｜ 04⧸06⧸2026 เวลา 19.30 ｜  #armigonlive\\【LIVE】Linxicon ｜ 04⧸06⧸2026 เวลา 19.30 ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】Linxicon ｜ 04⧸06⧸2026 เวลา 19.30 ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "ฉันสามารถนะ"
+      ],
+      "secondary_lines": [
+        "แต่ฉันก็ไม่สามารถ"
+      ],
+      "model": "angry.png",
+      "mood": "หงุดหงิดกับคำปฏิเสธที่วนซ้ำ",
+      "evidence": [
+        "ฉันสามารถนะ",
+        "แต่ฉันก็ไม่สามารถ"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "can't",
+          "start": 196,
+          "end": 241,
+          "duration": 45
+        },
+        {
+          "track": 1,
+          "text": "อะไรอะ",
+          "start": 321,
+          "end": 370,
+          "duration": 49
+        },
+        {
+          "track": 1,
+          "text": "can't มันคือ cannot",
+          "start": 421,
+          "end": 487,
+          "duration": 66
+        },
+        {
+          "track": 1,
+          "text": "มึงใส่...เข้าไปดิ",
+          "start": 704,
+          "end": 795,
+          "duration": 91
+        },
+        {
+          "track": 1,
+          "text": "can't",
+          "start": 809,
+          "end": 861,
+          "duration": 52
+        },
+        {
+          "track": 1,
+          "text": "ไม่ต้องใส่ก็ได้",
+          "start": 872,
+          "end": 916,
+          "duration": 44
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 1032,
+          "end": 1134,
+          "duration": 102
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 1230,
+          "end": 1350,
+          "duration": 120
+        },
+        {
+          "track": 1,
+          "text": "กริยาสามช่องช่วยชีวิต",
+          "start": 1423,
+          "end": 1519,
+          "duration": 96
+        },
+        {
+          "track": 1,
+          "text": "ไม่อะ",
+          "start": 1575,
+          "end": 1629,
+          "duration": 54
+        },
+        {
+          "track": 1,
+          "text": "คำปฏิเสธเลยอะ",
+          "start": 1643,
+          "end": 1718,
+          "duration": 75
+        },
+        {
+          "track": 1,
+          "text": "คำปฏิเสธอะ",
+          "start": 1722,
+          "end": 1760,
+          "duration": 38
+        },
+        {
+          "track": 1,
+          "text": "ฉัน can't",
+          "start": 1778,
+          "end": 1810,
+          "duration": 32
+        },
+        {
+          "track": 1,
+          "text": "ฉันสามารถนะ",
+          "start": 1811,
+          "end": 1858,
+          "duration": 47
+        },
+        {
+          "track": 1,
+          "text": "แต่ฉันก็ไม่สามารถ",
+          "start": 1859,
+          "end": 1932,
+          "duration": 73
+        }
+      ]
+    },
+    {
+      "timeline_index": 20,
+      "timeline_name": "03-01 Starbound - เกม - บอสแพ้ก่อนเทสลาจะได้ลงมือ-short",
+      "story_index": 4,
+      "orientation": "portrait",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60.0,
+      "duration_frames": 3305,
+      "timeline_frame": 1600,
+      "source_video_frame": 193300,
+      "source_time_seconds": 3221.6666666666665,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Starbound -003｜ 08⧸06⧸2026 เวลา 20_00น. ｜  #armigonlive @LaffeyNilvalen @aomimamagd47\\【LIVE】Starbound -003｜ 08⧸06⧸2026 เวลา 20_00น. ｜  #armigonlive @LaffeyNilvalen @aomimamagd47.mp4",
+      "source_clip": "【LIVE】Starbound -003｜ 08⧸06⧸2026 เวลา 20_00น. ｜  #armigonlive @LaffeyNilvalen @aomimamagd47.mp4",
+      "hook_lines": [
+        "บอสแพ้ก่อน"
+      ],
+      "secondary_lines": [
+        "ยังไม่ได้ทดสอบปืนเลย"
+      ],
+      "model": "cry.png",
+      "mood": "เสียดายที่บอสแพ้ก่อนทดลองปืน",
+      "evidence": [
+        "ชื่อ Timeline: บอสแพ้ก่อนเทสลาจะได้ลงมือ",
+        "ดูเลือดบอสดิ",
+        "ยังไม่ได้ทดสอบปืนเลย"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "ใส่...ลงไปข้างล่าง",
+          "start": 0,
+          "end": 110,
+          "duration": 110
+        },
+        {
+          "track": 1,
+          "text": "ไม่แน่ใจเหมือนกัน",
+          "start": 111,
+          "end": 154,
+          "duration": 43
+        },
+        {
+          "track": 1,
+          "text": "ว่าข้างล่างมีไหม",
+          "start": 155,
+          "end": 204,
+          "duration": 49
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 205,
+          "end": 333,
+          "duration": 128
+        },
+        {
+          "track": 1,
+          "text": "วาร์ปผิดที่",
+          "start": 337,
+          "end": 414,
+          "duration": 77
+        },
+        {
+          "track": 1,
+          "text": "วาร์ปผิดที่ มาเร็ว ๆ",
+          "start": 417,
+          "end": 504,
+          "duration": 87
+        },
+        {
+          "track": 1,
+          "text": "โอเค ไปกันเลย",
+          "start": 555,
+          "end": 639,
+          "duration": 84
+        },
+        {
+          "track": 1,
+          "text": "อันนี้ได้รับ...ยัง",
+          "start": 706,
+          "end": 795,
+          "duration": 89
+        },
+        {
+          "track": 1,
+          "text": "ทำไปแล้ว",
+          "start": 858,
+          "end": 901,
+          "duration": 43
+        },
+        {
+          "track": 1,
+          "text": "ฉันก็ทำไปแล้ว",
+          "start": 991,
+          "end": 1050,
+          "duration": 59
+        },
+        {
+          "track": 1,
+          "text": "โอเค",
+          "start": 1073,
+          "end": 1119,
+          "duration": 46
+        },
+        {
+          "track": 1,
+          "text": "คืออาวุธเรา",
+          "start": 1194,
+          "end": 1288,
+          "duration": 94
+        },
+        {
+          "track": 1,
+          "text": "ขั้นสุดหมดแล้ว",
+          "start": 1289,
+          "end": 1342,
+          "duration": 53
+        },
+        {
+          "track": 1,
+          "text": "ดูเลือดบอสดิ",
+          "start": 1578,
+          "end": 1627,
+          "duration": 49
+        },
+        {
+          "track": 1,
+          "text": "นี่ยังไม่ได้ทำอะไรเลย",
+          "start": 2415,
+          "end": 2490,
+          "duration": 75
+        },
+        {
+          "track": 1,
+          "text": "นี่อะ ไอ้เนี่ย",
+          "start": 2542,
+          "end": 2634,
+          "duration": 92
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 2637,
+          "end": 2755,
+          "duration": 118
+        },
+        {
+          "track": 1,
+          "text": "แล้วมีสามลูกอะ",
+          "start": 2762,
+          "end": 2850,
+          "duration": 88
+        },
+        {
+          "track": 1,
+          "text": "แต่ละลูกก็ไม่ใช่น้อยนะ",
+          "start": 2868,
+          "end": 2976,
+          "duration": 108
+        },
+        {
+          "track": 1,
+          "text": "โอเค",
+          "start": 3074,
+          "end": 3114,
+          "duration": 40
+        },
+        {
+          "track": 1,
+          "text": "ยังไม่ได้ทำอะไรเลย",
+          "start": 3143,
+          "end": 3212,
+          "duration": 69
+        },
+        {
+          "track": 1,
+          "text": "ยังไม่ได้ทดสอบปืนเลย",
+          "start": 3228,
+          "end": 3302,
+          "duration": 74
+        }
+      ]
+    },
+    {
+      "timeline_index": 21,
+      "timeline_name": "03-02 Starbound - สนุก - ของชิ้นใหญ่เท่าควาย-short",
+      "story_index": 5,
+      "orientation": "portrait",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60.0,
+      "duration_frames": 2537,
+      "timeline_frame": 2110,
+      "source_video_frame": 130089,
+      "source_time_seconds": 2168.15,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Starbound -003｜ 08⧸06⧸2026 เวลา 20_00น. ｜  #armigonlive @LaffeyNilvalen @aomimamagd47\\【LIVE】Starbound -003｜ 08⧸06⧸2026 เวลา 20_00น. ｜  #armigonlive @LaffeyNilvalen @aomimamagd47.mp4",
+      "source_clip": "【LIVE】Starbound -003｜ 08⧸06⧸2026 เวลา 20_00น. ｜  #armigonlive @LaffeyNilvalen @aomimamagd47.mp4",
+      "hook_lines": [
+        "ชิ้นใหญ่เท่าควาย"
+      ],
+      "secondary_lines": [
+        "เชื่อมสายไฟเสร็จแล้ว"
+      ],
+      "model": "great.png",
+      "mood": "ตื่นเต้นกับชิ้นส่วนขนาดใหญ่ในเกม",
+      "evidence": [
+        "ชื่อ Timeline: ของชิ้นใหญ่เท่าควาย",
+        "เชื่อมสายไฟเสร็จแล้ว"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "มันก็ได้แหละ",
+          "start": 411,
+          "end": 498,
+          "duration": 87
+        },
+        {
+          "track": 1,
+          "text": "แต่ความขี้เกียจ...",
+          "start": 503,
+          "end": 578,
+          "duration": 75
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 606,
+          "end": 678,
+          "duration": 72
+        },
+        {
+          "track": 1,
+          "text": "โอเค",
+          "start": 898,
+          "end": 930,
+          "duration": 32
+        },
+        {
+          "track": 1,
+          "text": "โอเค",
+          "start": 1270,
+          "end": 1301,
+          "duration": 31
+        },
+        {
+          "track": 1,
+          "text": "เชื่อมสายไฟเสร็จแล้ว",
+          "start": 1303,
+          "end": 1373,
+          "duration": 70
+        },
+        {
+          "track": 1,
+          "text": "โอเค",
+          "start": 1374,
+          "end": 1413,
+          "duration": 39
+        },
+        {
+          "track": 1,
+          "text": "กำลังจะมาเชื่อมสายไฟ",
+          "start": 1482,
+          "end": 1585,
+          "duration": 103
+        },
+        {
+          "track": 1,
+          "text": "หยิบอุปกรณ์",
+          "start": 1656,
+          "end": 1754,
+          "duration": 98
+        },
+        {
+          "track": 1,
+          "text": "ขึ้นมา",
+          "start": 1756,
+          "end": 1800,
+          "duration": 44
+        },
+        {
+          "track": 1,
+          "text": "โอเค \nเชื่อมสายไฟเสร็จแล้ว",
+          "start": 1812,
+          "end": 1906,
+          "duration": 94
+        },
+        {
+          "track": 1,
+          "text": "อะ โอเค",
+          "start": 1908,
+          "end": 1949,
+          "duration": 41
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 2037,
+          "end": 2054,
+          "duration": 17
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 2054,
+          "end": 2084,
+          "duration": 30
+        },
+        {
+          "track": 1,
+          "text": "ตัวเองซ่อมเสร็จแล้ว",
+          "start": 2085,
+          "end": 2163,
+          "duration": 78
+        },
+        {
+          "track": 1,
+          "text": "ไม่ คือบอกให้รู้เฉย ๆ",
+          "start": 2245,
+          "end": 2337,
+          "duration": 92
+        },
+        {
+          "track": 1,
+          "text": "ว่าเดี๋ยวกำลัง\nจะเอาออกนะ",
+          "start": 2338,
+          "end": 2454,
+          "duration": 116
+        }
+      ]
+    },
+    {
+      "timeline_index": 22,
+      "timeline_name": "04-01 MC RPG 005 - สนุก - กลับมารับโทษเดี๋ยวนี้-short",
+      "story_index": 6,
+      "orientation": "portrait",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60.0,
+      "duration_frames": 2461,
+      "timeline_frame": 115,
+      "source_video_frame": 475615,
+      "source_time_seconds": 7926.916666666667,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Minecraft RPG Series - 005 ｜ 14⧸06⧸2026 เวลา 20_00 ｜  #armigonlive\\【LIVE】Minecraft RPG Series - 005 ｜ 14⧸06⧸2026 เวลา 20_00 ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】Minecraft RPG Series - 005 ｜ 14⧸06⧸2026 เวลา 20_00 ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "กลับมารับโทษ!"
+      ],
+      "secondary_lines": [
+        "หลบหนีความผิด"
+      ],
+      "model": "angry.png",
+      "mood": "ดุเพื่อนที่หนีความผิดแบบขำ ๆ",
+      "evidence": [
+        "มึงกลับมารับโทษเดี๋ยวนี้",
+        "หลบหนีความผิด"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "มึงกลับมาเดี๋ยวนี้",
+          "start": 37,
+          "end": 88,
+          "duration": 51
+        },
+        {
+          "track": 1,
+          "text": "มึงกลับมารับโทษ",
+          "start": 89,
+          "end": 146,
+          "duration": 57
+        },
+        {
+          "track": 1,
+          "text": "เดี๋ยวนี้",
+          "start": 148,
+          "end": 199,
+          "duration": 51
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 227,
+          "end": 288,
+          "duration": 61
+        },
+        {
+          "track": 1,
+          "text": "อ๋อ แล้วไป",
+          "start": 311,
+          "end": 387,
+          "duration": 76
+        },
+        {
+          "track": 1,
+          "text": "แล้วไป",
+          "start": 394,
+          "end": 468,
+          "duration": 74
+        },
+        {
+          "track": 1,
+          "text": "ใช่เหรอ",
+          "start": 504,
+          "end": 546,
+          "duration": 42
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 662,
+          "end": 770,
+          "duration": 108
+        },
+        {
+          "track": 1,
+          "text": "หลบหนีความผิด",
+          "start": 772,
+          "end": 847,
+          "duration": 75
+        },
+        {
+          "track": 1,
+          "text": "นึกว่าหลบ\nหนีความผิดนะครับ",
+          "start": 991,
+          "end": 1082,
+          "duration": 91
+        },
+        {
+          "track": 1,
+          "text": "อ้าว",
+          "start": 1345,
+          "end": 1367,
+          "duration": 22
+        },
+        {
+          "track": 1,
+          "text": "มึงหนีเหรอ",
+          "start": 1376,
+          "end": 1422,
+          "duration": 46
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 1483,
+          "end": 1549,
+          "duration": 66
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 1681,
+          "end": 1768,
+          "duration": 87
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 1837,
+          "end": 1946,
+          "duration": 109
+        },
+        {
+          "track": 1,
+          "text": "โอ้โห",
+          "start": 1950,
+          "end": 2010,
+          "duration": 60
+        },
+        {
+          "track": 1,
+          "text": "ไม่รู้เลย",
+          "start": 2214,
+          "end": 2268,
+          "duration": 54
+        }
+      ]
+    },
+    {
+      "timeline_index": 23,
+      "timeline_name": "05-01 Roblox วันเกิด - เกม - หลงทางในเกมผีแล้วต้องยิงหัวแดง-short",
+      "story_index": 7,
+      "orientation": "portrait",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60.0,
+      "duration_frames": 4201,
+      "timeline_frame": 2480,
+      "source_video_frame": 358880,
+      "source_time_seconds": 5981.333333333333,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】ไลฟ์วันเกิด Roblox ｜ 24⧸06⧸2026 เวลา 19_30น. ｜  #armigonlive\\【LIVE】ไลฟ์วันเกิด Roblox ｜ 24⧸06⧸2026 เวลา 19_30น. ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】ไลฟ์วันเกิด Roblox ｜ 24⧸06⧸2026 เวลา 19_30น. ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "ยิงหัวแดง"
+      ],
+      "secondary_lines": [
+        "ตอนนี้มันล่าเรา"
+      ],
+      "model": "cry.png",
+      "mood": "ตื่นกลัวตอนเกมเริ่มล่า",
+      "evidence": [
+        "ไอ้หัวแดง ๆ",
+        "ต้องไปยิง",
+        "ตอนนี้มันล่าเรา"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "อ๋อ กูยิง",
+          "start": 131,
+          "end": 164,
+          "duration": 33
+        },
+        {
+          "track": 1,
+          "text": "ครบแล้วเหรอ",
+          "start": 164,
+          "end": 193,
+          "duration": 29
+        },
+        {
+          "track": 1,
+          "text": "อ๋อ มันอยู่",
+          "start": 291,
+          "end": 320,
+          "duration": 29
+        },
+        {
+          "track": 1,
+          "text": "มันมีชั้นสอง",
+          "start": 326,
+          "end": 377,
+          "duration": 51
+        },
+        {
+          "track": 1,
+          "text": "มันมีจุดแดง ๆ",
+          "start": 430,
+          "end": 482,
+          "duration": 52
+        },
+        {
+          "track": 1,
+          "text": "ขึ้นอยู่อะ",
+          "start": 483,
+          "end": 515,
+          "duration": 32
+        },
+        {
+          "track": 1,
+          "text": "ใช่ มีจุดแดง ๆ อยู่",
+          "start": 574,
+          "end": 646,
+          "duration": 72
+        },
+        {
+          "track": 1,
+          "text": "หัวกะโหลกอะ",
+          "start": 650,
+          "end": 680,
+          "duration": 30
+        },
+        {
+          "track": 1,
+          "text": "ใครตายมาตรงนี้วะ",
+          "start": 681,
+          "end": 746,
+          "duration": 65
+        },
+        {
+          "track": 1,
+          "text": "ไอ้กายเหรอ",
+          "start": 758,
+          "end": 789,
+          "duration": 31
+        },
+        {
+          "track": 1,
+          "text": "กูไง จะเหลืออะไร",
+          "start": 800,
+          "end": 895,
+          "duration": 95
+        },
+        {
+          "track": 1,
+          "text": "อะไรล่ะ",
+          "start": 897,
+          "end": 928,
+          "duration": 31
+        },
+        {
+          "track": 1,
+          "text": "โดนจับแดกไปแล้ว",
+          "start": 937,
+          "end": 983,
+          "duration": 46
+        },
+        {
+          "track": 1,
+          "text": "เดี๋ยวมึงก็เกิด",
+          "start": 1116,
+          "end": 1159,
+          "duration": 43
+        },
+        {
+          "track": 1,
+          "text": "เพลงเดิมเลย",
+          "start": 1159,
+          "end": 1208,
+          "duration": 49
+        },
+        {
+          "track": 1,
+          "text": "อุ๊ย",
+          "start": 1214,
+          "end": 1247,
+          "duration": 33
+        },
+        {
+          "track": 1,
+          "text": "ไม่ใช่",
+          "start": 1438,
+          "end": 1470,
+          "duration": 32
+        },
+        {
+          "track": 1,
+          "text": "มึงยิงไป",
+          "start": 1645,
+          "end": 1702,
+          "duration": 57
+        },
+        {
+          "track": 1,
+          "text": "ได้ครึ่งนึงแล้ว",
+          "start": 1703,
+          "end": 1745,
+          "duration": 42
+        },
+        {
+          "track": 1,
+          "text": "ไอ้หัวแดง ๆ",
+          "start": 1745,
+          "end": 1801,
+          "duration": 56
+        },
+        {
+          "track": 1,
+          "text": "ต้องไปยิง",
+          "start": 1809,
+          "end": 1841,
+          "duration": 32
+        },
+        {
+          "track": 1,
+          "text": "ตอนนี้มันล่าเรา",
+          "start": 2449,
+          "end": 2570,
+          "duration": 121
+        },
+        {
+          "track": 1,
+          "text": "บันไดมีชั้นเดียวเหรอ",
+          "start": 2581,
+          "end": 2693,
+          "duration": 112
+        },
+        {
+          "track": 1,
+          "text": "บันไดอยู่ตรงทางเดิน",
+          "start": 2756,
+          "end": 2857,
+          "duration": 101
+        },
+        {
+          "track": 1,
+          "text": "ที่กูบอกนี่ไง",
+          "start": 2955,
+          "end": 3012,
+          "duration": 57
+        },
+        {
+          "track": 1,
+          "text": "มันมีทางเดียวเหรอ",
+          "start": 3013,
+          "end": 3067,
+          "duration": 54
+        },
+        {
+          "track": 1,
+          "text": "ใช่ บันไดมีทางเดียว",
+          "start": 3125,
+          "end": 3200,
+          "duration": 75
+        },
+        {
+          "track": 1,
+          "text": "กูไปละจ้า",
+          "start": 3444,
+          "end": 3508,
+          "duration": 64
+        },
+        {
+          "track": 1,
+          "text": "กูไม่อยู่แล้ว",
+          "start": 3515,
+          "end": 3576,
+          "duration": 61
+        },
+        {
+          "track": 1,
+          "text": "เอ้ย มึง",
+          "start": 3591,
+          "end": 3626,
+          "duration": 35
+        },
+        {
+          "track": 1,
+          "text": "อยู่ก็อยู่มาเลย",
+          "start": 3680,
+          "end": 3713,
+          "duration": 33
+        },
+        {
+          "track": 1,
+          "text": "โอ้โห ชั้นสามแล้ว ไอ้เหี้ย",
+          "start": 3801,
+          "end": 3868,
+          "duration": 67
+        },
+        {
+          "track": 1,
+          "text": "กูเผลอลงชั้นสอง",
+          "start": 3872,
+          "end": 3943,
+          "duration": 71
+        }
+      ]
+    },
+    {
+      "timeline_index": 24,
+      "timeline_name": "05-02 Roblox วันเกิด - สนุก - เดาตัวละครให้ถูกสิ-short",
+      "story_index": 8,
+      "orientation": "portrait",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60.0,
+      "duration_frames": 4404,
+      "timeline_frame": 1640,
+      "source_video_frame": 587540,
+      "source_time_seconds": 9792.333333333334,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】ไลฟ์วันเกิด Roblox ｜ 24⧸06⧸2026 เวลา 19_30น. ｜  #armigonlive\\【LIVE】ไลฟ์วันเกิด Roblox ｜ 24⧸06⧸2026 เวลา 19_30น. ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】ไลฟ์วันเกิด Roblox ｜ 24⧸06⧸2026 เวลา 19_30น. ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "ฟีเลน!"
+      ],
+      "secondary_lines": [
+        "ออมเลือกตัวนี้"
+      ],
+      "model": "adore.png",
+      "mood": "เอ็นดูและตื่นเต้นตอนทายตัวละครถูก",
+      "evidence": [
+        "ฟีเลน",
+        "ออมเลือก"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "เอ๊ย ไม่ใช่ออม",
+          "start": 13,
+          "end": 62,
+          "duration": 49
+        },
+        {
+          "track": 1,
+          "text": "ออมต้องเลือกตัวนี้แน่ๆ",
+          "start": 295,
+          "end": 425,
+          "duration": 130
+        },
+        {
+          "track": 1,
+          "text": "ใช่ไหม",
+          "start": 536,
+          "end": 571,
+          "duration": 35
+        },
+        {
+          "track": 1,
+          "text": "ลองพูดมา",
+          "start": 709,
+          "end": 766,
+          "duration": 57
+        },
+        {
+          "track": 1,
+          "text": "กูจะลองดู",
+          "start": 817,
+          "end": 883,
+          "duration": 66
+        },
+        {
+          "track": 1,
+          "text": "ว่ามันจะใช่ตัว\nที่กูคิดหรือไม่",
+          "start": 888,
+          "end": 976,
+          "duration": 88
+        },
+        {
+          "track": 1,
+          "text": "เพราะตัวนี้มึงดูบ่อย",
+          "start": 978,
+          "end": 1057,
+          "duration": 79
+        },
+        {
+          "track": 1,
+          "text": "ตัวไหนล่ะ",
+          "start": 1242,
+          "end": 1287,
+          "duration": 45
+        },
+        {
+          "track": 1,
+          "text": "หัวขาวด้านบน",
+          "start": 1379,
+          "end": 1439,
+          "duration": 60
+        },
+        {
+          "track": 1,
+          "text": "ฟีเลน",
+          "start": 1625,
+          "end": 1657,
+          "duration": 32
+        },
+        {
+          "track": 1,
+          "text": "อ๋อ ฟีเลนเหรอ",
+          "start": 1769,
+          "end": 1820,
+          "duration": 51
+        },
+        {
+          "track": 1,
+          "text": "ออมเลือก",
+          "start": 1960,
+          "end": 2034,
+          "duration": 74
+        },
+        {
+          "track": 1,
+          "text": "ลูกน้องเหมือนกันเลย",
+          "start": 3438,
+          "end": 3503,
+          "duration": 65
+        },
+        {
+          "track": 1,
+          "text": "แก๊งเดียวกันเนี่ย",
+          "start": 3804,
+          "end": 3870,
+          "duration": 66
+        },
+        {
+          "track": 1,
+          "text": "มองเหมือนกันเลย",
+          "start": 3946,
+          "end": 3995,
+          "duration": 49
+        }
+      ]
+    },
+    {
+      "timeline_index": 25,
+      "timeline_name": "06-01 Mecha Chameleon - เกม - ซ่อนเนียนจนเพื่อนหาไม่เจอ-short",
+      "story_index": 9,
+      "orientation": "portrait",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60.0,
+      "duration_frames": 4801,
+      "timeline_frame": 2090,
+      "source_video_frame": 185990,
+      "source_time_seconds": 3099.8333333333335,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Mecha Chameleon - วัน เสาร์ - ที่ 11⧸07 - 20_00น.  ｜  #armigonlive\\【LIVE】Mecha Chameleon - วัน เสาร์ - ที่ 11⧸07 - 20_00น.  ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】Mecha Chameleon - วัน เสาร์ - ที่ 11⧸07 - 20_00น.  ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "ไม่เห็นจริงอะ"
+      ],
+      "secondary_lines": [
+        "คุณรอดได้ไงวะ"
+      ],
+      "model": "great.png",
+      "mood": "สะใจที่ซ่อนแล้วเพื่อนไม่เห็น",
+      "evidence": [
+        "ไม่เห็นจริงอะ",
+        "คุณรอดได้ไงวะ"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "มันจะเนียนมาก",
+          "start": 442,
+          "end": 491,
+          "duration": 49
+        },
+        {
+          "track": 1,
+          "text": "ขอโทษ",
+          "start": 566,
+          "end": 605,
+          "duration": 39
+        },
+        {
+          "track": 1,
+          "text": "อันนี้ใครอะ",
+          "start": 741,
+          "end": 794,
+          "duration": 53
+        },
+        {
+          "track": 1,
+          "text": "ผมบอกแล้ว",
+          "start": 1187,
+          "end": 1249,
+          "duration": 62
+        },
+        {
+          "track": 1,
+          "text": "มีคนซ่อนตรงนั้น",
+          "start": 1279,
+          "end": 1360,
+          "duration": 81
+        },
+        {
+          "track": 1,
+          "text": "เยอะมากเลย",
+          "start": 1363,
+          "end": 1414,
+          "duration": 51
+        },
+        {
+          "track": 1,
+          "text": "ผมบอกไปแล้ว",
+          "start": 1491,
+          "end": 1566,
+          "duration": 75
+        },
+        {
+          "track": 1,
+          "text": "สีคุณต้องจางกว่านี้",
+          "start": 1570,
+          "end": 1670,
+          "duration": 100
+        },
+        {
+          "track": 1,
+          "text": "จริงเลย",
+          "start": 1679,
+          "end": 1714,
+          "duration": 35
+        },
+        {
+          "track": 1,
+          "text": "ไม่เห็นจริงอะ",
+          "start": 1913,
+          "end": 1972,
+          "duration": 59
+        },
+        {
+          "track": 1,
+          "text": "คุณรอดได้ไงวะ",
+          "start": 2068,
+          "end": 2114,
+          "duration": 46
+        },
+        {
+          "track": 1,
+          "text": "อย่าถามผม",
+          "start": 2150,
+          "end": 2194,
+          "duration": 44
+        },
+        {
+          "track": 1,
+          "text": "ก็อยากรู้เหมือนกัน",
+          "start": 2197,
+          "end": 2255,
+          "duration": 58
+        },
+        {
+          "track": 1,
+          "text": "ไม่เห็นจริง",
+          "start": 2507,
+          "end": 2552,
+          "duration": 45
+        },
+        {
+          "track": 1,
+          "text": "ก็ยังรอดอยู่นะ",
+          "start": 2748,
+          "end": 2826,
+          "duration": 78
+        },
+        {
+          "track": 1,
+          "text": "ยังไม่เนียนเหรอ",
+          "start": 3226,
+          "end": 3295,
+          "duration": 69
+        },
+        {
+          "track": 1,
+          "text": "แต่ไม่เห็นเนอะ",
+          "start": 3298,
+          "end": 3347,
+          "duration": 49
+        },
+        {
+          "track": 1,
+          "text": "ยังไม่เนียนเลยอะ",
+          "start": 3392,
+          "end": 3451,
+          "duration": 59
+        },
+        {
+          "track": 1,
+          "text": "ช่วยหาๆ",
+          "start": 3594,
+          "end": 3648,
+          "duration": 54
+        },
+        {
+          "track": 1,
+          "text": "ไม่ยุติธรรมอะ",
+          "start": 3677,
+          "end": 3763,
+          "duration": 86
+        },
+        {
+          "track": 1,
+          "text": "เจอแล้วเหรอ",
+          "start": 4030,
+          "end": 4092,
+          "duration": 62
+        },
+        {
+          "track": 1,
+          "text": "เจอแล้วเหรอ",
+          "start": 4181,
+          "end": 4217,
+          "duration": 36
+        },
+        {
+          "track": 1,
+          "text": "เฮ้ย ไปหาพ่อ",
+          "start": 4389,
+          "end": 4461,
+          "duration": 72
+        },
+        {
+          "track": 1,
+          "text": "ทำตัวเหมือนพี่แมวเลยอะ",
+          "start": 4522,
+          "end": 4586,
+          "duration": 64
+        },
+        {
+          "track": 1,
+          "text": "เอาจริงๆ",
+          "start": 4697,
+          "end": 4749,
+          "duration": 52
+        }
+      ]
+    },
+    {
+      "timeline_index": 26,
+      "timeline_name": "06-02 Mecha Chameleon - สนุก - ซ่อนหลังกล่องเขียวก็ยังโดนเจอ-short",
+      "story_index": 10,
+      "orientation": "portrait",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60.0,
+      "duration_frames": 5401,
+      "timeline_frame": 5150,
+      "source_video_frame": 222050,
+      "source_time_seconds": 3700.8333333333335,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Mecha Chameleon - วัน เสาร์ - ที่ 11⧸07 - 20_00น.  ｜  #armigonlive\\【LIVE】Mecha Chameleon - วัน เสาร์ - ที่ 11⧸07 - 20_00น.  ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】Mecha Chameleon - วัน เสาร์ - ที่ 11⧸07 - 20_00น.  ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "ทำไมมาแอบอยู่",
+        "หลังกล่อง"
+      ],
+      "secondary_lines": [
+        "กล่องเขียวบนเพดาน"
+      ],
+      "model": "angry.png",
+      "mood": "โดนเจอหลังกล่องแล้วบ่นขำ ๆ",
+      "evidence": [
+        "ทำไมมาแอบอยู่หลังกล่องล่ะฮะ",
+        "กล่องเขียวบนเพดาน"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "ผมไม่เนียนสุด ๆ เลยอะ",
+          "start": 326,
+          "end": 400,
+          "duration": 74
+        },
+        {
+          "track": 1,
+          "text": "รู้สึกว่าน่าจะ",
+          "start": 502,
+          "end": 563,
+          "duration": 61
+        },
+        {
+          "track": 1,
+          "text": "มีคนโดนเจอแล้วแหละ",
+          "start": 564,
+          "end": 649,
+          "duration": 85
+        },
+        {
+          "track": 1,
+          "text": "เฮ้ย",
+          "start": 794,
+          "end": 824,
+          "duration": 30
+        },
+        {
+          "track": 1,
+          "text": "เฮ้ย แต่ละคน",
+          "start": 837,
+          "end": 955,
+          "duration": 118
+        },
+        {
+          "track": 1,
+          "text": "แต่ละคนนั้นคือแบบ",
+          "start": 958,
+          "end": 1057,
+          "duration": 99
+        },
+        {
+          "track": 1,
+          "text": "โห",
+          "start": 1060,
+          "end": 1088,
+          "duration": 28
+        },
+        {
+          "track": 1,
+          "text": "ไม่มีคนเนียนเลย",
+          "start": 1088,
+          "end": 1203,
+          "duration": 115
+        },
+        {
+          "track": 1,
+          "text": "เขาบอกไม่เนียนกันเลยอะ",
+          "start": 1346,
+          "end": 1414,
+          "duration": 68
+        },
+        {
+          "track": 1,
+          "text": "ไม่เนียนเลย",
+          "start": 1426,
+          "end": 1474,
+          "duration": 48
+        },
+        {
+          "track": 1,
+          "text": "ใช่ ไม่เนียนจริง ๆ",
+          "start": 1475,
+          "end": 1567,
+          "duration": 92
+        },
+        {
+          "track": 1,
+          "text": "เสียงคืออยู่รอบทิศ",
+          "start": 1595,
+          "end": 1667,
+          "duration": 72
+        },
+        {
+          "track": 1,
+          "text": "เสียงอยู่รอบทิศเลยอะ",
+          "start": 1794,
+          "end": 1892,
+          "duration": 98
+        },
+        {
+          "track": 1,
+          "text": "ใครวะ",
+          "start": 2497,
+          "end": 2542,
+          "duration": 45
+        },
+        {
+          "track": 1,
+          "text": "กำลังจะบอกเลยว่า",
+          "start": 2731,
+          "end": 2837,
+          "duration": 106
+        },
+        {
+          "track": 1,
+          "text": "แม่งไม่เห็นได้ยังไงวะ",
+          "start": 2837,
+          "end": 2894,
+          "duration": 57
+        },
+        {
+          "track": 1,
+          "text": "อันนี้คือแบบ",
+          "start": 3016,
+          "end": 3106,
+          "duration": 90
+        },
+        {
+          "track": 1,
+          "text": "โอ้โห",
+          "start": 3354,
+          "end": 3386,
+          "duration": 32
+        },
+        {
+          "track": 1,
+          "text": "โอ๊ย",
+          "start": 3391,
+          "end": 3447,
+          "duration": 56
+        },
+        {
+          "track": 1,
+          "text": "โอ๊ย รุนแรงจัด",
+          "start": 3479,
+          "end": 3575,
+          "duration": 96
+        },
+        {
+          "track": 1,
+          "text": "แล้วคนหาไปไหนหมด",
+          "start": 3689,
+          "end": 3764,
+          "duration": 75
+        },
+        {
+          "track": 1,
+          "text": "ไม่เนียนตรงไหนเนี่ย",
+          "start": 3892,
+          "end": 4002,
+          "duration": 110
+        },
+        {
+          "track": 1,
+          "text": "ทำอะไรอะ",
+          "start": 4177,
+          "end": 4214,
+          "duration": 37
+        },
+        {
+          "track": 1,
+          "text": "ทำไมมาแอบอยู่หลังกล่องล่ะฮะ",
+          "start": 4246,
+          "end": 4342,
+          "duration": 96
+        },
+        {
+          "track": 1,
+          "text": "กล่องมันก็สีเขียวดี",
+          "start": 4906,
+          "end": 4992,
+          "duration": 86
+        },
+        {
+          "track": 1,
+          "text": "กล่องเขียวได้ไหม โอเค",
+          "start": 5011,
+          "end": 5117,
+          "duration": 106
+        },
+        {
+          "track": 1,
+          "text": "ใช่ กล่องเขียวบนเพดาน",
+          "start": 5137,
+          "end": 5222,
+          "duration": 85
+        }
+      ]
+    },
+    {
+      "timeline_index": 27,
+      "timeline_name": "07-01 Palworld - มีม - วางของแล้วดันติดตัว-short",
+      "story_index": 11,
+      "orientation": "portrait",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60.0,
+      "duration_frames": 3286,
+      "timeline_frame": 1660,
+      "source_video_frame": 267049,
+      "source_time_seconds": 4450.816666666667,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Palworld ｜ 1⧸08⧸2026 เวลา 20_00น. ｜  #armigonlive\\【LIVE】Palworld ｜ 1⧸08⧸2026 เวลา 20_00น. ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】Palworld ｜ 1⧸08⧸2026 เวลา 20_00น. ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "มันติดตัว"
+      ],
+      "secondary_lines": [
+        "วางบันไดไม่ได้สักที"
+      ],
+      "model": "hello.png",
+      "mood": "งงกับไอเท็มที่ติดตัวตอนวางของ",
+      "evidence": [
+        "มันติดตัว",
+        "บันไดไม่ได้สักที"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "ทะลุได้แค่นี้เหรอ",
+          "start": 109,
+          "end": 153,
+          "duration": 44
+        },
+        {
+          "track": 1,
+          "text": "มาตั้งนาน",
+          "start": 379,
+          "end": 408,
+          "duration": 29
+        },
+        {
+          "track": 1,
+          "text": "มึงทะลุได้แค่นี้",
+          "start": 411,
+          "end": 446,
+          "duration": 35
+        },
+        {
+          "track": 1,
+          "text": "โอเค เอาแค่นี้ก็ได้",
+          "start": 453,
+          "end": 535,
+          "duration": 82
+        },
+        {
+          "track": 1,
+          "text": "แค่นี้ก็แค่นี้",
+          "start": 554,
+          "end": 599,
+          "duration": 45
+        },
+        {
+          "track": 1,
+          "text": "ช่างวะ",
+          "start": 615,
+          "end": 733,
+          "duration": 118
+        },
+        {
+          "track": 1,
+          "text": "มันติด",
+          "start": 1350,
+          "end": 1380,
+          "duration": 30
+        },
+        {
+          "track": 1,
+          "text": "นี่คือมันติดมึงเองเหอะ",
+          "start": 1383,
+          "end": 1469,
+          "duration": 86
+        },
+        {
+          "track": 1,
+          "text": "มันติดตัว",
+          "start": 1620,
+          "end": 1655,
+          "duration": 35
+        },
+        {
+          "track": 1,
+          "text": "ก็หาอยู่ตั้งนาน",
+          "start": 1756,
+          "end": 1844,
+          "duration": 88
+        },
+        {
+          "track": 1,
+          "text": "มันติดอะไรวะ",
+          "start": 1859,
+          "end": 1919,
+          "duration": 60
+        },
+        {
+          "track": 1,
+          "text": "ทำไมมันวาง",
+          "start": 1919,
+          "end": 1958,
+          "duration": 39
+        },
+        {
+          "track": 1,
+          "text": "บันไดไม่ได้สักที",
+          "start": 1958,
+          "end": 2017,
+          "duration": 59
+        },
+        {
+          "track": 1,
+          "text": "นึกว่าติดก้อนหินเมื่อกี้",
+          "start": 2028,
+          "end": 2113,
+          "duration": 85
+        },
+        {
+          "track": 1,
+          "text": "ใครที่ดูทันอะ",
+          "start": 2171,
+          "end": 2222,
+          "duration": 51
+        },
+        {
+          "track": 1,
+          "text": "มันจะมีก้อนหิน",
+          "start": 2288,
+          "end": 2323,
+          "duration": 35
+        },
+        {
+          "track": 1,
+          "text": "อยู่ก้อนหนึ่ง ก้อนใหญ่ ๆ",
+          "start": 2323,
+          "end": 2386,
+          "duration": 63
+        },
+        {
+          "track": 1,
+          "text": "มันไม่รีสปอว์นเหรอ",
+          "start": 2505,
+          "end": 2558,
+          "duration": 53
+        },
+        {
+          "track": 1,
+          "text": "ก้อนหินเป็นต้นเหตุวะ",
+          "start": 2779,
+          "end": 2843,
+          "duration": 64
+        },
+        {
+          "track": 1,
+          "text": "ที่เราไม่\nสามารถวางตรงนี้ได้",
+          "start": 3036,
+          "end": 3114,
+          "duration": 78
+        }
+      ]
+    },
+    {
+      "timeline_index": 28,
+      "timeline_name": "08-01 MC เลือดเดียวกัน - เกม - หลุมยักษ์กับผีที่หายไป-short",
+      "story_index": 12,
+      "orientation": "portrait",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60.0,
+      "duration_frames": 3526,
+      "timeline_frame": 2160,
+      "source_video_frame": 304140,
+      "source_time_seconds": 5069.0,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】 Minecraft เลือดเดียวกัน ｜ 03⧸09⧸2026 เวลา 20.00 ｜  #armigonlive\\【LIVE】 Minecraft เลือดเดียวกัน ｜ 03⧸09⧸2026 เวลา 20.00 ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】 Minecraft เลือดเดียวกัน ｜ 03⧸09⧸2026 เวลา 20.00 ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "ผีหาย!"
+      ],
+      "secondary_lines": [
+        "ผีเลี้ยวอีกแล้ว"
+      ],
+      "model": "hello.png",
+      "mood": "งงกับผีที่หายไปจากเส้นทาง",
+      "evidence": [
+        "ผีหาย",
+        "ผีเลี้ยวอีกแล้ว"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "มันก็ดีแหละ",
+          "start": 0,
+          "end": 55,
+          "duration": 55
+        },
+        {
+          "track": 1,
+          "text": "แต่เราต้องหาทางลง",
+          "start": 56,
+          "end": 119,
+          "duration": 63
+        },
+        {
+          "track": 1,
+          "text": "ลงไปไหม",
+          "start": 120,
+          "end": 167,
+          "duration": 47
+        },
+        {
+          "track": 1,
+          "text": "ไม่",
+          "start": 182,
+          "end": 219,
+          "duration": 37
+        },
+        {
+          "track": 1,
+          "text": "ยังไม่จำเป็น",
+          "start": 319,
+          "end": 374,
+          "duration": 55
+        },
+        {
+          "track": 1,
+          "text": "ยังไม่จำเป็น",
+          "start": 395,
+          "end": 424,
+          "duration": 29
+        },
+        {
+          "track": 1,
+          "text": "เรายังใช้ไม่ได้",
+          "start": 457,
+          "end": 542,
+          "duration": 85
+        },
+        {
+          "track": 1,
+          "text": "ถ้าจำห้องไว้ก่อนก็ดี",
+          "start": 554,
+          "end": 631,
+          "duration": 77
+        },
+        {
+          "track": 1,
+          "text": "ไม่ ไม่ต้องอะ",
+          "start": 645,
+          "end": 701,
+          "duration": 56
+        },
+        {
+          "track": 1,
+          "text": "ไม่ต้องจำอะ",
+          "start": 701,
+          "end": 742,
+          "duration": 41
+        },
+        {
+          "track": 1,
+          "text": "ปล่อยไว้",
+          "start": 751,
+          "end": 781,
+          "duration": 30
+        },
+        {
+          "track": 1,
+          "text": "เดี๋ยวเราก็เจอมาอยู่ดี",
+          "start": 783,
+          "end": 883,
+          "duration": 100
+        },
+        {
+          "track": 1,
+          "text": "เพราะยังไงมันก็ต้องใช้",
+          "start": 1073,
+          "end": 1164,
+          "duration": 91
+        },
+        {
+          "track": 1,
+          "text": "พิกแอค",
+          "start": 1175,
+          "end": 1210,
+          "duration": 35
+        },
+        {
+          "track": 1,
+          "text": "แต่ที่นั่นน่ะ ถ้า",
+          "start": 1755,
+          "end": 1835,
+          "duration": 80
+        },
+        {
+          "track": 1,
+          "text": "ใครเจอบล็อกคอปเปอร์",
+          "start": 1835,
+          "end": 1943,
+          "duration": 108
+        },
+        {
+          "track": 1,
+          "text": "ขุดไม่ได้",
+          "start": 1961,
+          "end": 1991,
+          "duration": 30
+        },
+        {
+          "track": 1,
+          "text": "ปล่อยวาง",
+          "start": 2013,
+          "end": 2060,
+          "duration": 47
+        },
+        {
+          "track": 1,
+          "text": "ไปต่อ เดินต่อ",
+          "start": 2065,
+          "end": 2128,
+          "duration": 63
+        },
+        {
+          "track": 1,
+          "text": "ผีหาย",
+          "start": 2134,
+          "end": 2167,
+          "duration": 33
+        },
+        {
+          "track": 1,
+          "text": "ผีเลี้ยวอีกแล้ว",
+          "start": 2171,
+          "end": 2258,
+          "duration": 87
+        },
+        {
+          "track": 1,
+          "text": "จะเลี้ยวไปทำไม",
+          "start": 2367,
+          "end": 2421,
+          "duration": 54
+        },
+        {
+          "track": 1,
+          "text": "ที่ฝั่งนี้สิ",
+          "start": 2439,
+          "end": 2521,
+          "duration": 82
+        },
+        {
+          "track": 1,
+          "text": "ไม้ที่ฐานหมดอะ",
+          "start": 3043,
+          "end": 3097,
+          "duration": 54
+        },
+        {
+          "track": 1,
+          "text": "กูบอกก่อน",
+          "start": 3101,
+          "end": 3131,
+          "duration": 30
+        },
+        {
+          "track": 1,
+          "text": "ไม้ในฐานหมดแล้ว",
+          "start": 3252,
+          "end": 3319,
+          "duration": 67
+        },
+        {
+          "track": 1,
+          "text": "ไม้ฐานหมด รับทราบ",
+          "start": 3332,
+          "end": 3425,
+          "duration": 93
+        }
+      ]
+    },
+    {
+      "timeline_index": 29,
+      "timeline_name": "08-02 MC เลือดเดียวกัน - สนุก - ห้องน้ำนี้ห้ามใครเข้า-short",
+      "story_index": 13,
+      "orientation": "portrait",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60.0,
+      "duration_frames": 3200,
+      "timeline_frame": 2470,
+      "source_video_frame": 530050,
+      "source_time_seconds": 8834.166666666666,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】 Minecraft เลือดเดียวกัน ｜ 03⧸09⧸2026 เวลา 20.00 ｜  #armigonlive\\【LIVE】 Minecraft เลือดเดียวกัน ｜ 03⧸09⧸2026 เวลา 20.00 ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】 Minecraft เลือดเดียวกัน ｜ 03⧸09⧸2026 เวลา 20.00 ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "ห้องน้ำนี้",
+        "ห้ามเข้า"
+      ],
+      "secondary_lines": [
+        "เจ้าของเซิร์ฟ",
+        "หลับไปแล้ว"
+      ],
+      "model": "great.png",
+      "mood": "ขำกับกฎห้องน้ำและเจ้าของเซิร์ฟที่หลับ",
+      "evidence": [
+        "ชื่อ Timeline: ห้องน้ำนี้ห้ามใครเข้า",
+        "เจ้าของเซิร์ฟเองหลับไปแล้ว"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "อันนี้คือเราง่วงกันเลย",
+          "start": 59,
+          "end": 127,
+          "duration": 68
+        },
+        {
+          "track": 1,
+          "text": "ใช่ไหม เราคุยกันแบบเนี้ย",
+          "start": 127,
+          "end": 207,
+          "duration": 80
+        },
+        {
+          "track": 1,
+          "text": "มันไม่มีอะไรคุยเนี่ย",
+          "start": 329,
+          "end": 384,
+          "duration": 55
+        },
+        {
+          "track": 1,
+          "text": "เดี๋ยว ๆ ไอ้อ๋อม",
+          "start": 452,
+          "end": 493,
+          "duration": 41
+        },
+        {
+          "track": 1,
+          "text": "โอ้โห",
+          "start": 537,
+          "end": 594,
+          "duration": 57
+        },
+        {
+          "track": 1,
+          "text": "วันนี้กูขอเล่า",
+          "start": 643,
+          "end": 710,
+          "duration": 67
+        },
+        {
+          "track": 1,
+          "text": "ประสบการณ์",
+          "start": 710,
+          "end": 748,
+          "duration": 38
+        },
+        {
+          "track": 1,
+          "text": "วันนี้กู",
+          "start": 820,
+          "end": 861,
+          "duration": 41
+        },
+        {
+          "track": 1,
+          "text": "กินหมูกระทะ",
+          "start": 870,
+          "end": 903,
+          "duration": 33
+        },
+        {
+          "track": 1,
+          "text": "กับไอ้อ๋อมใช่ไหม",
+          "start": 903,
+          "end": 948,
+          "duration": 45
+        },
+        {
+          "track": 1,
+          "text": "อ่าฮะ",
+          "start": 959,
+          "end": 985,
+          "duration": 26
+        },
+        {
+          "track": 1,
+          "text": "คอตกแล้วเนี่ย",
+          "start": 2018,
+          "end": 2070,
+          "duration": 52
+        },
+        {
+          "track": 1,
+          "text": "เฮ้ย",
+          "start": 2080,
+          "end": 2149,
+          "duration": 69
+        },
+        {
+          "track": 1,
+          "text": "มึงเจ้าของเซิร์ฟ \nมึงหลับไม่ได้",
+          "start": 2319,
+          "end": 2426,
+          "duration": 107
+        },
+        {
+          "track": 1,
+          "text": "เจ้าของเซิร์ฟ\nเองหลับไปแล้ว",
+          "start": 2441,
+          "end": 2557,
+          "duration": 116
+        },
+        {
+          "track": 1,
+          "text": "ชิบหายแล้ว",
+          "start": 2642,
+          "end": 2686,
+          "duration": 44
+        },
+        {
+          "track": 1,
+          "text": "ปลุกน้องแมวที",
+          "start": 2762,
+          "end": 2820,
+          "duration": 58
+        },
+        {
+          "track": 1,
+          "text": "มันก็เพิ่งจะเห็นแน่แหละ",
+          "start": 2820,
+          "end": 2894,
+          "duration": 74
+        },
+        {
+          "track": 1,
+          "text": "six seven",
+          "start": 2957,
+          "end": 2996,
+          "duration": 39
+        },
+        {
+          "track": 1,
+          "text": "six seven",
+          "start": 3055,
+          "end": 3095,
+          "duration": 40
+        }
+      ]
+    },
+    {
+      "timeline_index": 30,
+      "timeline_name": "09-01 Backrooms - เกม - หันมาเจออะไรอยู่ข้างหลัง-short",
+      "story_index": 14,
+      "orientation": "portrait",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60.0,
+      "duration_frames": 1084,
+      "timeline_frame": 320,
+      "source_video_frame": 76520,
+      "source_time_seconds": 1275.3333333333333,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\[Co-op Hoshi] Escape the Backrooms - วัน เสาร์ - ที่ 5⧸09 - 20_00น\\[Co-op Hoshi] Escape the Backrooms - วัน เสาร์ - ที่ 5⧸09 - 20_00น..mp4",
+      "source_clip": "[Co-op Hoshi] Escape the Backrooms - วัน เสาร์ - ที่ 5⧸09 - 20_00น..mp4",
+      "hook_lines": [
+        "อะไร อะไร ถอย!"
+      ],
+      "secondary_lines": [
+        "ไฟฉาย ไฟฉาย"
+      ],
+      "model": "cry.png",
+      "mood": "ตกใจใน Backrooms",
+      "evidence": [
+        "อะไร อะไร ถอย",
+        "ไฟฉาย ไฟฉาย",
+        "หันมาเจออะไรอยู่ข้างหลัง"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "หน้าจอขาวจั๊ว",
+          "start": 26,
+          "end": 83,
+          "duration": 57
+        },
+        {
+          "track": 1,
+          "text": "มองเห็นทุกอย่าง",
+          "start": 93,
+          "end": 154,
+          "duration": 61
+        },
+        {
+          "track": 1,
+          "text": "อะไร อะไร ถอย",
+          "start": 287,
+          "end": 366,
+          "duration": 79
+        },
+        {
+          "track": 1,
+          "text": "เราขึ้นอยู่กับคุณอาร์มนะ",
+          "start": 445,
+          "end": 545,
+          "duration": 100
+        },
+        {
+          "track": 1,
+          "text": "ยังเร็วขึ้นอีก",
+          "start": 574,
+          "end": 613,
+          "duration": 39
+        },
+        {
+          "track": 1,
+          "text": "ยังมาเร็วขึ้นอีก",
+          "start": 646,
+          "end": 693,
+          "duration": 47
+        },
+        {
+          "track": 1,
+          "text": "มองหน้าไปแล้วนะ",
+          "start": 832,
+          "end": 887,
+          "duration": 55
+        },
+        {
+          "track": 1,
+          "text": "ไฟฉาย ไฟฉาย",
+          "start": 896,
+          "end": 935,
+          "duration": 39
+        },
+        {
+          "track": 1,
+          "text": "มองหน้าไปแล้วนะเมื่อกี้",
+          "start": 963,
+          "end": 1032,
+          "duration": 69
+        }
+      ]
+    },
+    {
+      "timeline_index": 31,
+      "timeline_name": "10-01 Valorant - เกม - ยังไม่ตาย รีบหมุนไซต์-short",
+      "story_index": 15,
+      "orientation": "portrait",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60.0,
+      "duration_frames": 3542,
+      "timeline_frame": 1860,
+      "source_video_frame": 584100,
+      "source_time_seconds": 9735.0,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Valorant ｜ 16⧸09⧸2026 เวลา 20_00น. ｜  #armigonlive\\【LIVE】Valorant ｜ 16⧸09⧸2026 เวลา 20_00น. ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】Valorant ｜ 16⧸09⧸2026 เวลา 20_00น. ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "ยังไม่ตาย!"
+      ],
+      "secondary_lines": [
+        "รีบหมุนไซต์"
+      ],
+      "model": "angry.png",
+      "mood": "เร่งเพื่อนให้หมุนไซต์ตอนยังมีชีวิต",
+      "evidence": [
+        "ยังไม่ตาย",
+        "ชื่อ Timeline: รีบหมุนไซต์"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "น่าจะเพื่อน",
+          "start": 3,
+          "end": 38,
+          "duration": 35
+        },
+        {
+          "track": 1,
+          "text": "หายไปเลย",
+          "start": 384,
+          "end": 449,
+          "duration": 65
+        },
+        {
+          "track": 1,
+          "text": "หายวับไปกับตา",
+          "start": 538,
+          "end": 600,
+          "duration": 62
+        },
+        {
+          "track": 1,
+          "text": "หายไปด้วย",
+          "start": 702,
+          "end": 747,
+          "duration": 45
+        },
+        {
+          "track": 1,
+          "text": "เดี๋ยวๆ",
+          "start": 1662,
+          "end": 1742,
+          "duration": 80
+        },
+        {
+          "track": 1,
+          "text": "ยังไม่ตาย",
+          "start": 1828,
+          "end": 1897,
+          "duration": 69
+        },
+        {
+          "track": 1,
+          "text": "ยังอยู่",
+          "start": 1900,
+          "end": 1948,
+          "duration": 48
+        },
+        {
+          "track": 1,
+          "text": "ยังอยู่",
+          "start": 2012,
+          "end": 2044,
+          "duration": 32
+        },
+        {
+          "track": 1,
+          "text": "คนเข้าคนแรกเนี่ยตาย",
+          "start": 2070,
+          "end": 2136,
+          "duration": 66
+        },
+        {
+          "track": 1,
+          "text": "เรามาแค่นี้แล้ว",
+          "start": 3310,
+          "end": 3359,
+          "duration": 49
+        },
+        {
+          "track": 1,
+          "text": "มันใช้สกิลแล้ว",
+          "start": 3362,
+          "end": 3418,
+          "duration": 56
+        }
+      ]
+    },
+    {
+      "timeline_index": 32,
+      "timeline_name": "10-02 Valorant - สนุก - เพื่อนเลือกเอเจนต์ตามที่ถนัด-short",
+      "story_index": 16,
+      "orientation": "portrait",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60.0,
+      "duration_frames": 1257,
+      "timeline_frame": 845,
+      "source_video_frame": 147965,
+      "source_time_seconds": 2466.0833333333335,
+      "source_path": "G:\\My Drive\\Projects\\Armigon\\2026-09-20\\【LIVE】Valorant ｜ 16⧸09⧸2026 เวลา 20_00น. ｜  #armigonlive\\【LIVE】Valorant ｜ 16⧸09⧸2026 เวลา 20_00น. ｜  #armigonlive.mp4",
+      "source_clip": "【LIVE】Valorant ｜ 16⧸09⧸2026 เวลา 20_00น. ｜  #armigonlive.mp4",
+      "hook_lines": [
+        "เล่นได้ไม่กี่ตัว"
+      ],
+      "secondary_lines": [
+        "Smoke / Scan / Skye / Sova"
+      ],
+      "model": "hello.png",
+      "mood": "คุยกันเรื่องตัวละครที่เล่นถนัด",
+      "evidence": [
+        "เมอร์เล่นได้ไม่กี่ตัวนะ",
+        "Smoke",
+        "Scan",
+        "เล่น Skye ได้",
+        "เล่น Sova ได้"
+      ],
+      "subtitles": [
+        {
+          "track": 1,
+          "text": "เมอร์เล่นได้ไม่กี่ตัวนะ",
+          "start": 0,
+          "end": 90,
+          "duration": 90
+        },
+        {
+          "track": 1,
+          "text": "คุณเมอร์เล่นตัวอะไรได้บ้าง?",
+          "start": 92,
+          "end": 214,
+          "duration": 122
+        },
+        {
+          "track": 1,
+          "text": "Smoke",
+          "start": 351,
+          "end": 397,
+          "duration": 46
+        },
+        {
+          "track": 1,
+          "text": "Scan",
+          "start": 407,
+          "end": 471,
+          "duration": 64
+        },
+        {
+          "track": 1,
+          "text": "ถ้า Sentinel จะมี…",
+          "start": 519,
+          "end": 629,
+          "duration": 110
+        },
+        {
+          "track": 1,
+          "text": "ถ้า Scan เล่น Skye",
+          "start": 631,
+          "end": 807,
+          "duration": 176
+        },
+        {
+          "track": 1,
+          "text": "เล่น Sova ได้",
+          "start": 828,
+          "end": 989,
+          "duration": 161
+        },
+        {
+          "track": 1,
+          "text": "คุณเมอร์ เอ้ย…",
+          "start": 1037,
+          "end": 1113,
+          "duration": 76
+        },
+        {
+          "track": 1,
+          "text": "[ฟังไม่ชัด]",
+          "start": 1115,
+          "end": 1248,
+          "duration": 133
+        }
+      ]
+    }
+  ]
+}
