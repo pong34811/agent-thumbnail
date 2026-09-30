@@ -3,6 +3,7 @@ and 6-expression avatar matrix.
 """
 import argparse
 import json
+import os
 import re
 import zipfile
 from pathlib import Path
@@ -12,12 +13,16 @@ from PIL import Image, ImageChops, ImageDraw, ImageEnhance, ImageFilter, ImageFo
 from graphics_overlay import draw_hand_drawn_circle, draw_emotion_marker
 
 # --- Paths -------------------------------------------------------------------
+# Overridable via environment so the module imports and runs on any machine:
+#   ARMIGON_FINAL_DIR  -> output root (default: author's D: drive location)
+#   ARMIGON_FONT_PATH  -> Mitr-Bold.ttf
+#   ARMIGON_AVATAR_DIR -> 6-expression avatar PNGs
+# Rendered output is unchanged when the variables are unset.
 WORK = Path(__file__).parent
-FINAL = Path(r"D:\agent-thumbnail\outputs\armigon-20260920-final-20260928")
+FINAL = Path(os.environ.get("ARMIGON_FINAL_DIR", r"D:\agent-thumbnail\outputs\armigon-20260920-final-20260928"))
 OUT_JPG = FINAL / "jpg"
-OUT_JPG.mkdir(parents=True, exist_ok=True)
-FONT = Path(r"D:\agent-thumbnail\outputs\timeline-covers\fonts\Mitr-Bold.ttf")
-AVATAR_DIR = Path(r"I:\My Drive\Dreamlight_projects\GEN-Sercet\armigon")
+FONT = Path(os.environ.get("ARMIGON_FONT_PATH", r"D:\agent-thumbnail\outputs\timeline-covers\fonts\Mitr-Bold.ttf"))
+AVATAR_DIR = Path(os.environ.get("ARMIGON_AVATAR_DIR", r"I:\My Drive\Dreamlight_projects\GEN-Sercet\armigon"))
 
 # --- Tuning knobs (Design Spec) ---------------------------------------------
 BLUR_LANDSCAPE = 0       # 0 px unblurred
@@ -361,6 +366,8 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--preview", type=int, default=0, help="Only rebuild N landscape covers for preview")
     args = parser.parse_args()
+
+    OUT_JPG.mkdir(parents=True, exist_ok=True)
 
     manifest = json.loads((FINAL / "delivery-manifest.json").read_text(encoding="utf-8"))
     outputs = manifest["outputs"]
