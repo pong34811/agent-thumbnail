@@ -38,6 +38,12 @@ metadata:
 - `web_extract(urls=[...])`
 - `vision_analyze(image_url=..., question=...)`
 - `image_generate(...)`
+- **คู่มืออ้างอิงเฉพาะช่อง:**
+  - [สไตล์ช่อง Aomi-mama (@aomimamagd47)](references/channel-profiles/aomi-mama.md)
+  - [คู่มือสไตล์ KATY404](references/style-guide.md)
+- **ทฤษฎีและแนวทางปฏิบัติ:**
+  - [คู่มือจิตวิทยาปก YouTube VTuber & CTR](references/vtuber-thumbnail-engagement-guide.md)
+  - [โน้ตการเรนเดอร์ภาพและจัดวางอักษรไทย](references/jpg-render-notes.md)
 
 ## Procedure
 
