@@ -1,6 +1,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.pytest_cache/
 
 # Temporary test outputs and frames cache
 outputs/test_*

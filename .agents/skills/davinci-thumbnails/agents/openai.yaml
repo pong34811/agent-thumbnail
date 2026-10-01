@@ -1,0 +1,4 @@
+interface:
+  display_name: "DaVinci Thumbnails"
+  short_description: "สร้างและวิเคราะห์ปกคลิป Shorts และ YouTube จาก DaVinci Resolve และ Canva"
+  default_prompt: "ใช้ $davinci-thumbnails สร้างปกจากหัวข้อและภาพที่แนบ ให้แก้ไขต่อได้"

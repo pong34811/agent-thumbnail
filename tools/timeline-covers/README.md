@@ -1,6 +1,6 @@
 # timeline-covers
 
-สคริปต์ที่ใช้ทำปก JPG ของ 【DEBUT STREAM】AOMI-MAMA｜31⧸07⧸2026 (8 Timeline × แนวนอน 1920×1080 + Shorts 1080×1920) ผลงานอยู่ที่ `outputs/aomi-debut-20260731/` บทเรียนและกติกาอยู่ใน `skills/katy404-canva-thumbnails/references/jpg-render-notes.md`
+สคริปต์ที่ใช้ทำปก JPG ของ 【DEBUT STREAM】AOMI-MAMA｜31⧸07⧸2026 (8 Timeline × แนวนอน 1920×1080 + Shorts 1080×1920) ผลงานอยู่ที่ `outputs/aomi-debut-20260731/` บทเรียนและกติกาอยู่ใน `.agents/skills/davinci-thumbnails/references/jpg-render-notes.md`
 
 ต้องใช้ Python ที่มี Pillow (พร้อม libraqm), numpy และ ffmpeg ใน PATH
 
