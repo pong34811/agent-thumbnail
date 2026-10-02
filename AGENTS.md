@@ -44,6 +44,7 @@
   ```bash
   python -m cli.verify --jpg-dir outputs/<project>/jpg --manifest outputs/<project>/delivery-manifest.json
   ```
+- **QC ปกอัตโนมัติ (บังคับทุกครั้งหลังทำปกเสร็จ):** หลัง `cli.verify` ผ่าน ให้โหลด skill `vtuber-thumbnail-qc` ด้วย `skill_view` แล้ว QC ปกทุกใบที่เพิ่งทำ (แนวนอนและ Shorts) โดยไม่ต้องรอผู้ใช้สั่ง แก้ปัญหา 🔴 CRITICAL แล้ว build + verify + QC ซ้ำจนผ่าน จากนั้นจึงแพ็กเกจและส่งมอบพร้อมรายงาน QC
 - ทดสอบบีบอัดและตรวจความสมบูรณ์ของแพ็กเกจส่งมอบ:
   ```bash
   python -m cli.package --jpg-dir outputs/<project>/jpg --manifest outputs/<project>/delivery-manifest.json --out-zip outputs/<project>/package.zip
