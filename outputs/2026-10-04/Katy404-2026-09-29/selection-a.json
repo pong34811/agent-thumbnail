@@ -1,0 +1,315 @@
+[
+  {
+    "index": 1,
+    "hook_lines": [
+      "เหล็กกองใหญ่"
+    ],
+    "secondary_lines": [
+      "ขุดมั่วก็เจอ"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 825.0,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\01_2_825.000.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "rationale": "เฟรมกลางเห็นแร่เหล็กหลายบล็อก; subtitle พูดว่าเจอเหล็กและเหล็กบานเลย",
+    "caveats": "",
+    "gameplay_crop": [
+      0.02,
+      0.02,
+      0.74,
+      0.94
+    ]
+  },
+  {
+    "index": 2,
+    "hook_lines": [
+      "คุยตั้งนาน"
+    ],
+    "secondary_lines": [
+      "ลืมเปิดเสียงเพื่อน"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 2101.567,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\02_2_2101.567.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar-mic_squeezed-eyes-laugh_front_026.png",
+    "rationale": "Subtitle ระบุคุยกับเพื่อนและลืมส่งเสียงเข้าไลฟ์; เฟรมเป็นเหมือง จึงยึดบทพูดเป็น hook",
+    "caveats": "",
+    "gameplay_crop": [
+      0.02,
+      0.02,
+      0.74,
+      0.94
+    ]
+  },
+  {
+    "index": 3,
+    "hook_lines": [
+      "ลืมเสบียง"
+    ],
+    "secondary_lines": [
+      "เลยกินเนื้อซอมบี้"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 2390.383,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\03_1_2390.383.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_half-lidded-pout_question-mark-front_046.png",
+    "rationale": "คลิปพูดถึงการไม่มีอาหารและกิน rotten flesh; ภาพเป็นทางเหมือง",
+    "caveats": "",
+    "gameplay_crop": [
+      0.02,
+      0.02,
+      0.74,
+      0.94
+    ]
+  },
+  {
+    "index": 4,
+    "hook_lines": [
+      "ครีปเปอร์บึ้ม!"
+    ],
+    "secondary_lines": [
+      "แต่กรงยังอยู่"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 2506.0,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\04_extra_2506.000.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "rationale": "เลือกเฟรมใกล้เหตุการณ์ spawner จาก marker เดิมที่ timestamp ผิด; ภาพแสดงกรงและพื้นที่หลังระเบิด",
+    "caveats": "",
+    "gameplay_crop": [
+      0.02,
+      0.02,
+      0.74,
+      0.94
+    ]
+  },
+  {
+    "index": 5,
+    "hook_lines": [
+      "มี X-ray?"
+    ],
+    "secondary_lines": [
+      "เห็นแร่จากทางน้ำ"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 3788.8,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\05_2_3788.800.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "rationale": "เห็นแร่ผ่านทางน้ำ; subtitle มีคำว่า X-ray",
+    "caveats": "",
+    "gameplay_crop": [
+      0.02,
+      0.02,
+      0.74,
+      0.94
+    ]
+  },
+  {
+    "index": 6,
+    "hook_lines": [
+      "วนกลับบ้าน"
+    ],
+    "secondary_lines": [
+      "ออกตามหาชาวบ้าน"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 5298.6,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\06_2_5298.600.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_half-lidded-pout_question-mark-front_046.png",
+    "rationale": "candidate อยู่ช่วงกลับฐาน; caveat ภาพคล้ายช่องเก็บของบ้านและไม่แสดงแผนที่",
+    "caveats": "Marker/subtitle ยังต้องเทียบกับคลิปสำหรับข้อความรอง",
+    "gameplay_crop": [
+      0.02,
+      0.02,
+      0.74,
+      0.94
+    ]
+  },
+  {
+    "index": 7,
+    "hook_lines": [
+      "พายเรือ?"
+    ],
+    "secondary_lines": [
+      "หรือหิ้วขึ้นเขา"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 5627.0,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\07_extra_5627.000.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "rationale": "เฟรมเห็นชาวบ้านในเรือติดทางลาดเขาหิมะ",
+    "caveats": "",
+    "gameplay_crop": [
+      0.02,
+      0.02,
+      0.74,
+      0.94
+    ]
+  },
+  {
+    "index": 8,
+    "hook_lines": [
+      "พากลับถึงบ้าน"
+    ],
+    "secondary_lines": [
+      "ภารกิจชาวบ้าน"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 6282.0,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\08_extra_6282.000.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "rationale": "ช่วงภารกิจกลับฐาน; เลี่ยวอ้างว่ารอดเพียงคนเดียวเพราะ candidate มี NPC มากกว่าหนึ่งคน",
+    "caveats": "",
+    "gameplay_crop": [
+      0.02,
+      0.02,
+      0.74,
+      0.94
+    ]
+  },
+  {
+    "index": 9,
+    "hook_lines": [
+      "ขนมปังหาย"
+    ],
+    "secondary_lines": [
+      "ชาวบ้านกินหมด?"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 7965.6,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\09_2_7965.600.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar-mic_squeezed-eyes-laugh_front_026.png",
+    "rationale": "เฟรมเห็นขนมปังตกในบ้านชาวบ้าน; marker ระบุจำนวนขนมปังลดลง",
+    "caveats": "",
+    "gameplay_crop": [
+      0.02,
+      0.02,
+      0.74,
+      0.94
+    ]
+  },
+  {
+    "index": 10,
+    "hook_lines": [
+      "ฟาร์มเป็นน้ำแข็ง"
+    ],
+    "secondary_lines": [
+      "เลยต้องทำหลังคา"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 8602.0,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\10_extra_8602.000.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_half-lidded-pout_question-mark-front_046.png",
+    "rationale": "เฟรมช่วงทำฟาร์มหิมะ; hook อิง marker และบทสรุปเรื่องหลังคา",
+    "caveats": "Marker/subtitle ยังต้องเทียบกับคลิปสำหรับข้อความรอง",
+    "gameplay_crop": [
+      0.02,
+      0.02,
+      0.74,
+      0.94
+    ]
+  },
+  {
+    "index": 11,
+    "hook_lines": [
+      "ชวนไม่ติด"
+    ],
+    "secondary_lines": [
+      "เพื่อนอยู่ Blacklist"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 003 ｜ 12⧸09⧸2026 ｜  @NJaACh ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 221.383,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\11_2_221.383.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "rationale": "Subtitle ช่วงเดียวกันระบุ blacklist; marker อ้างหน้าต่าง community",
+    "caveats": "",
+    "gameplay_crop": [
+      0.02,
+      0.02,
+      0.74,
+      0.94
+    ]
+  },
+  {
+    "index": 12,
+    "hook_lines": [
+      "เสียงสะท้อน"
+    ],
+    "secondary_lines": [
+      "ทางนี้มีอะไร?"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 003 ｜ 12⧸09⧸2026 ｜  @NJaACh ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 7937.267,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\12_2_7937.267.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "rationale": "ยึดเสียงสะท้อนและฉากต่อสู้ตาม marker; subtitle ASR ไม่ชัดพอสำหรับคำพูดตรง",
+    "caveats": "Marker/subtitle ยังต้องเทียบกับคลิปสำหรับข้อความรอง",
+    "gameplay_crop": [
+      0.02,
+      0.02,
+      0.74,
+      0.94
+    ]
+  },
+  {
+    "index": 13,
+    "hook_lines": [
+      "กองทัพบุก!"
+    ],
+    "secondary_lines": [
+      "รับมือ Old One"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_time_seconds": 1924.1,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\13_2_1924.100.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "rationale": "เฟรมระหว่างเหตุการณ์ Old One Army ใน Terraria",
+    "caveats": "",
+    "gameplay_crop": [
+      0.02,
+      0.02,
+      0.74,
+      0.94
+    ]
+  },
+  {
+    "index": 14,
+    "hook_lines": [
+      "แพ้มูนลอร์ด!"
+    ],
+    "secondary_lines": [],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_time_seconds": 3574.067,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\14_2_3574.067.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_half-lidded-pout_question-mark-front_046.png",
+    "rationale": "Defeat screen is visible and matches the timeline event; the main hook names the loss without adding an unverified near-win claim.",
+    "caveats": "In-game You were slain lettering remains visible in the footage background; no secondary line is used to reduce text competition.",
+    "gameplay_crop": [
+      0.02,
+      0.02,
+      0.74,
+      0.94
+    ]
+  },
+  {
+    "index": 15,
+    "hook_lines": [
+      "มูนลอร์ดล้ม!"
+    ],
+    "secondary_lines": [
+      "Champion of Terraria"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_time_seconds": 3821.55,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\15_1_3821.550.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar-mic_squeezed-eyes-laugh_front_026.png",
+    "rationale": "ภาพจริงขึ้น Moon Lord has been defeated และ Champion of Terraria; ยืนยันชัยชนะ",
+    "caveats": "",
+    "gameplay_crop": [
+      0.02,
+      0.02,
+      0.74,
+      0.94
+    ]
+  }
+]

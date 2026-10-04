@@ -9,6 +9,7 @@
   - `graphics.py` — องค์ประกอบเล่าเรื่อง (Hand-drawn Red Circle `#EC1C24`, Anime Badges `!`/`?`, Dark Gradient Mask สำหรับคงความคมชัดเกม 0px blur, Avatar 5-layer separation)
   - `layout.py` — กฎ Safe Zone และ YouTube UI Danger Zone (หลบ Timestamp มุมขวาล่าง, Scrubber ล่างสุด, Crop 4:5 บน Channel Grid สำหรับ Shorts)
   - `compositor.py` — `ThumbnailCompositor` ไพป์ไลน์หลักสำหรับประกอบภาพปก Landscape และ Shorts
+  - `shorts_titles.py` — จัดชื่อคลิปแบบ 1 บรรทัดต่อสี (แดง/ขาว) สำหรับปก Shorts พร้อมตรวจว่าต่อกันได้ชื่อไทม์ไลน์เดิม
 - `src/resolve/` — โมดูลเชื่อมต่อ DaVinci Resolve:
   - `audit.py` — ตรวจสอบและดึงข้อมูล Project / Timeline แบบ Headless
   - `textplus.py` — สกัดข้อความ Text+ และ Subtitle จาก `.drp`
@@ -16,6 +17,8 @@
   - `aomi_debut/` — Timeline และข้อมูลปก Aomi Debut
   - `tygarina/` — Timeline และ Hook สำหรับ Tygarina
   - `armigon/` — Timeline 16 ชุด และ Accents สำหรับ Armigon
+- `outputs/2026-10-04/Katy404-2026-09-29/` — ชุดส่งมอบ KATY404 (60 ปก + Shorts v2 30 ใบใน `jpg-shorts-v2/`, manifest, QC, selection, `render_covers.py`); ตัวเรนเดอร์ Shorts v2 อยู่ที่ `.agents/skills/davinci-thumbnails/scripts/katy404_render_shorts_v2.py`
+- `.work/katy404-assets/` — แคตาล็อกและสคริปต์จัดชื่อ asset อวาตาร์ KATY404
 - `cli/` — เครื่องมือ Command Line กลาง:
   - `build.py` — สั่งสร้างปกด้วย `--project <name>`
   - `verify.py` — ตรวจสอบคุณภาพอัตโนมัติ (Dimensions, Max 2MB, sRGB/RGB, Margins, Squint Preview 320x180)

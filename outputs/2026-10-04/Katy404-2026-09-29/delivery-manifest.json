@@ -1,0 +1,5093 @@
+[
+  {
+    "filename": "ขุดมั่วเจอเหล็กกองใหญ่_Minecraft-vdo.jpg",
+    "timeline_name": "ขุดมั่วเจอเหล็กกองใหญ่_Minecraft-vdo",
+    "timeline_index": 1,
+    "selection_index": 1,
+    "index": 1,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เหล็กกองใหญ่"
+    ],
+    "secondary": [
+      "ขุดมั่วก็เจอ"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 825.0,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\01_2_825.000.jpg",
+      "rationale": "เฟรมกลางเห็นแร่เหล็กหลายบล็อก; subtitle พูดว่าเจอเหล็กและเหล็กบานเลย",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 435424,
+    "safe_text_bbox": {
+      "hook": [
+        48,
+        330,
+        973,
+        501
+      ],
+      "secondary": [
+        270,
+        525,
+        749,
+        681
+      ]
+    },
+    "safe_avatar_bbox": [
+      985,
+      308,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 150,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      38,
+      130,
+      1421,
+      907
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.385
+  },
+  {
+    "filename": "คุยกับเพื่อนตั้งนาน ลืมเอาเสียงเข้าไลฟ์_Minecraft-vdo.jpg",
+    "timeline_name": "คุยกับเพื่อนตั้งนาน ลืมเอาเสียงเข้าไลฟ์_Minecraft-vdo",
+    "timeline_index": 2,
+    "selection_index": 2,
+    "index": 2,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "คุยตั้งนาน"
+    ],
+    "secondary": [
+      "ลืมเปิดเสียงเพื่อน"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 2101.567,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar-mic_squeezed-eyes-laugh_front_026.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\02_2_2101.567.jpg",
+      "rationale": "Subtitle ระบุคุยกับเพื่อนและลืมส่งเสียงเข้าไลฟ์; เฟรมเป็นเหมือง จึงยึดบทพูดเป็น hook",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 378380,
+    "safe_text_bbox": {
+      "hook": [
+        134,
+        330,
+        885,
+        597
+      ],
+      "secondary": [
+        135,
+        621,
+        885,
+        743
+      ]
+    },
+    "safe_avatar_bbox": [
+      1037,
+      281,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 172,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      38,
+      130,
+      1421,
+      907
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      637,
+      67,
+      1432,
+      1009
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.358
+  },
+  {
+    "filename": "ลืมเสบียง จนต้องกินเนื้อซอมบี้_Minecraft-vdo.jpg",
+    "timeline_name": "ลืมเสบียง จนต้องกินเนื้อซอมบี้_Minecraft-vdo",
+    "timeline_index": 3,
+    "selection_index": 3,
+    "index": 3,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ลืมเสบียง"
+    ],
+    "secondary": [
+      "เลยกินเนื้อซอมบี้"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 2390.383,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_half-lidded-pout_question-mark-front_046.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\03_1_2390.383.jpg",
+      "rationale": "คลิปพูดถึงการไม่มีอาหารและกิน rotten flesh; ภาพเป็นทางเหมือง",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 381661,
+    "safe_text_bbox": {
+      "hook": [
+        109,
+        330,
+        911,
+        515
+      ],
+      "secondary": [
+        154,
+        539,
+        865,
+        662
+      ]
+    },
+    "safe_avatar_bbox": [
+      1018,
+      281,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 188,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      38,
+      130,
+      1421,
+      907
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1017,
+      0,
+      2890,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.368
+  },
+  {
+    "filename": "ครีปเปอร์ระเบิดข้างกรง แต่กรงยังรอด_Minecraft-vdo.jpg",
+    "timeline_name": "ครีปเปอร์ระเบิดข้างกรง แต่กรงยังรอด_Minecraft-vdo",
+    "timeline_index": 4,
+    "selection_index": 4,
+    "index": 4,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ครีปเปอร์บึ้ม!"
+    ],
+    "secondary": [
+      "แต่กรงยังอยู่"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 2506.0,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\04_extra_2506.000.jpg",
+      "rationale": "เลือกเฟรมใกล้เหตุการณ์ spawner จาก marker เดิมที่ timestamp ผิด; ภาพแสดงกรงและพื้นที่หลังระเบิด",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 447627,
+    "safe_text_bbox": {
+      "hook": [
+        48,
+        330,
+        972,
+        529
+      ],
+      "secondary": [
+        226,
+        553,
+        794,
+        685
+      ]
+    },
+    "safe_avatar_bbox": [
+      1021,
+      281,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 164,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      38,
+      130,
+      1421,
+      907
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.367
+  },
+  {
+    "filename": "เห็นแร่จนสงสัยว่าตัวเองมีเอกซเรย์_Minecraft-vdo.jpg",
+    "timeline_name": "เห็นแร่จนสงสัยว่าตัวเองมีเอกซเรย์_Minecraft-vdo",
+    "timeline_index": 5,
+    "selection_index": 5,
+    "index": 5,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "มี X-ray?"
+    ],
+    "secondary": [
+      "เห็นแร่จากทางน้ำ"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 3788.8,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\05_2_3788.800.jpg",
+      "rationale": "เห็นแร่ผ่านทางน้ำ; subtitle มีคำว่า X-ray",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 364915,
+    "safe_text_bbox": {
+      "hook": [
+        84,
+        330,
+        935,
+        544
+      ],
+      "secondary": [
+        140,
+        568,
+        879,
+        695
+      ]
+    },
+    "safe_avatar_bbox": [
+      1021,
+      281,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 188,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      38,
+      130,
+      1421,
+      907
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.367
+  },
+  {
+    "filename": "ออกหาตัวละคร วนกลับมาบ้านตัวเอง_Minecraft-vdo.jpg",
+    "timeline_name": "ออกหาตัวละคร วนกลับมาบ้านตัวเอง_Minecraft-vdo",
+    "timeline_index": 6,
+    "selection_index": 6,
+    "index": 6,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "วนกลับบ้าน"
+    ],
+    "secondary": [
+      "ออกตามหาชาวบ้าน"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 5298.6,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_half-lidded-pout_question-mark-front_046.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\06_2_5298.600.jpg",
+      "rationale": "candidate อยู่ช่วงกลับฐาน; caveat ภาพคล้ายช่องเก็บของบ้านและไม่แสดงแผนที่",
+      "caveats": "Marker/subtitle ยังต้องเทียบกับคลิปสำหรับข้อความรอง"
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 453358,
+    "safe_text_bbox": {
+      "hook": [
+        46,
+        337,
+        973,
+        520
+      ],
+      "secondary": [
+        103,
+        544,
+        917,
+        643
+      ]
+    },
+    "safe_avatar_bbox": [
+      1018,
+      281,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 186,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      38,
+      130,
+      1421,
+      907
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1017,
+      0,
+      2890,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.368
+  },
+  {
+    "filename": "ต้องพายเรือ หรือหิ้วเรือขึ้นเขา_Minecraft-vdo.jpg",
+    "timeline_name": "ต้องพายเรือ หรือหิ้วเรือขึ้นเขา_Minecraft-vdo",
+    "timeline_index": 7,
+    "selection_index": 7,
+    "index": 7,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "พายเรือ?"
+    ],
+    "secondary": [
+      "หรือหิ้วขึ้นเขา"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 5627.0,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\07_extra_5627.000.jpg",
+      "rationale": "เฟรมเห็นชาวบ้านในเรือติดทางลาดเขาหิมะ",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 506687,
+    "safe_text_bbox": {
+      "hook": [
+        137,
+        330,
+        883,
+        515
+      ],
+      "secondary": [
+        225,
+        539,
+        795,
+        662
+      ]
+    },
+    "safe_avatar_bbox": [
+      1021,
+      281,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 188,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      38,
+      130,
+      1421,
+      907
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.367
+  },
+  {
+    "filename": "พาชาวบ้านกลับฐาน รอดมาได้ตัวเดียว_Minecraft-vdo.jpg",
+    "timeline_name": "พาชาวบ้านกลับฐาน รอดมาได้ตัวเดียว_Minecraft-vdo",
+    "timeline_index": 8,
+    "selection_index": 8,
+    "index": 8,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "พากลับถึงบ้าน"
+    ],
+    "secondary": [
+      "ภารกิจชาวบ้าน"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 6282.0,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\08_extra_6282.000.jpg",
+      "rationale": "ช่วงภารกิจกลับฐาน; เลี่ยวอ้างว่ารอดเพียงคนเดียวเพราะ candidate มี NPC มากกว่าหนึ่งคน",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 543926,
+    "safe_text_bbox": {
+      "hook": [
+        47,
+        354,
+        973,
+        503
+      ],
+      "secondary": [
+        192,
+        527,
+        828,
+        626
+      ]
+    },
+    "safe_avatar_bbox": [
+      985,
+      308,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 150,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      38,
+      130,
+      1421,
+      907
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.385
+  },
+  {
+    "filename": "ชวนชาวบ้านเพิ่มประชากร ขนมปังหายครึ่งกอง_Minecraft-vdo.jpg",
+    "timeline_name": "ชวนชาวบ้านเพิ่มประชากร ขนมปังหายครึ่งกอง_Minecraft-vdo",
+    "timeline_index": 9,
+    "selection_index": 9,
+    "index": 9,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ขนมปังหาย"
+    ],
+    "secondary": [
+      "ชาวบ้านกินหมด?"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 7965.6,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar-mic_squeezed-eyes-laugh_front_026.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\09_2_7965.600.jpg",
+      "rationale": "เฟรมเห็นขนมปังตกในบ้านชาวบ้าน; marker ระบุจำนวนขนมปังลดลง",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 498317,
+    "safe_text_bbox": {
+      "hook": [
+        44,
+        337,
+        977,
+        520
+      ],
+      "secondary": [
+        148,
+        544,
+        873,
+        643
+      ]
+    },
+    "safe_avatar_bbox": [
+      1037,
+      281,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 188,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      38,
+      130,
+      1421,
+      907
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      637,
+      67,
+      1432,
+      1009
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.358
+  },
+  {
+    "filename": "ทำฟาร์มในหิมะ น้ำแข็งจนต้องทำหลังคา_Minecraft-vdo.jpg",
+    "timeline_name": "ทำฟาร์มในหิมะ น้ำแข็งจนต้องทำหลังคา_Minecraft-vdo",
+    "timeline_index": 10,
+    "selection_index": 10,
+    "index": 10,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ฟาร์มเป็นน้ำแข็ง"
+    ],
+    "secondary": [
+      "เลยต้องทำหลังคา"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 8602.0,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_half-lidded-pout_question-mark-front_046.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\10_extra_8602.000.jpg",
+      "rationale": "เฟรมช่วงทำฟาร์มหิมะ; hook อิง marker และบทสรุปเรื่องหลังคา",
+      "caveats": "Marker/subtitle ยังต้องเทียบกับคลิปสำหรับข้อความรอง"
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 584021,
+    "safe_text_bbox": {
+      "hook": [
+        44,
+        345,
+        976,
+        510
+      ],
+      "secondary": [
+        129,
+        534,
+        891,
+        635
+      ]
+    },
+    "safe_avatar_bbox": [
+      1018,
+      281,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 132,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      38,
+      130,
+      1421,
+      907
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1017,
+      0,
+      2890,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.368
+  },
+  {
+    "filename": "ชวนเพื่อนไม่ได้ เพราะเผลอแบล็กลิสต์กัน_Soul Walker-vdo.jpg",
+    "timeline_name": "ชวนเพื่อนไม่ได้ เพราะเผลอแบล็กลิสต์กัน_Soul Walker-vdo",
+    "timeline_index": 11,
+    "selection_index": 11,
+    "index": 11,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ชวนไม่ติด"
+    ],
+    "secondary": [
+      "เพื่อนอยู่ Blacklist"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 003 ｜ 12⧸09⧸2026 ｜  @NJaACh ​@LaffeyNilvalen.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 003 ｜ 12⧸09⧸2026 ｜  @NJaACh ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 221.383,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\11_2_221.383.jpg",
+      "rationale": "Subtitle ช่วงเดียวกันระบุ blacklist; marker อ้างหน้าต่าง community",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 594611,
+    "safe_text_bbox": {
+      "hook": [
+        112,
+        330,
+        909,
+        514
+      ],
+      "secondary": [
+        93,
+        538,
+        927,
+        694
+      ]
+    },
+    "safe_avatar_bbox": [
+      1021,
+      281,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 188,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      38,
+      130,
+      1421,
+      907
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.367
+  },
+  {
+    "filename": "เสียงสะท้อนสยองขวัญ_Soul Walker-vdo.jpg",
+    "timeline_name": "เสียงสะท้อนสยองขวัญ_Soul Walker-vdo",
+    "timeline_index": 12,
+    "selection_index": 12,
+    "index": 12,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เสียงสะท้อน"
+    ],
+    "secondary": [
+      "ทางนี้มีอะไร?"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 003 ｜ 12⧸09⧸2026 ｜  @NJaACh ​@LaffeyNilvalen.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 003 ｜ 12⧸09⧸2026 ｜  @NJaACh ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 7937.267,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\12_2_7937.267.jpg",
+      "rationale": "ยึดเสียงสะท้อนและฉากต่อสู้ตาม marker; subtitle ASR ไม่ชัดพอสำหรับคำพูดตรง",
+      "caveats": "Marker/subtitle ยังต้องเทียบกับคลิปสำหรับข้อความรอง"
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 504900,
+    "safe_text_bbox": {
+      "hook": [
+        50,
+        330,
+        969,
+        505
+      ],
+      "secondary": [
+        234,
+        529,
+        787,
+        652
+      ]
+    },
+    "safe_avatar_bbox": [
+      1021,
+      281,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 178,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      38,
+      130,
+      1421,
+      907
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.367
+  },
+  {
+    "filename": "กองทัพโอลด์วัน_Terraria-vdo.jpg",
+    "timeline_name": "กองทัพโอลด์วัน_Terraria-vdo",
+    "timeline_index": 13,
+    "selection_index": 13,
+    "index": 13,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "กองทัพบุก!"
+    ],
+    "secondary": [
+      "รับมือ Old One"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_time_seconds": 1924.1,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\13_2_1924.100.jpg",
+      "rationale": "เฟรมระหว่างเหตุการณ์ Old One Army ใน Terraria",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 629623,
+    "safe_text_bbox": {
+      "hook": [
+        52,
+        330,
+        968,
+        574
+      ],
+      "secondary": [
+        170,
+        598,
+        851,
+        697
+      ]
+    },
+    "safe_avatar_bbox": [
+      985,
+      308,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 188,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      38,
+      130,
+      1421,
+      907
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.385
+  },
+  {
+    "filename": "แพ้มูนลอร์ด_Terraria-vdo.jpg",
+    "timeline_name": "แพ้มูนลอร์ด_Terraria-vdo",
+    "timeline_index": 14,
+    "selection_index": 14,
+    "index": 14,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "แพ้มูนลอร์ด!"
+    ],
+    "secondary": [],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_time_seconds": 3574.067,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_half-lidded-pout_question-mark-front_046.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\14_2_3574.067.jpg",
+      "rationale": "Defeat screen is visible and matches the timeline event; the main hook names the loss without adding an unverified near-win claim.",
+      "caveats": "In-game You were slain lettering remains visible in the footage background; no secondary line is used to reduce text competition."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 307210,
+    "safe_text_bbox": {
+      "hook": [
+        48,
+        376,
+        972,
+        603
+      ],
+      "secondary": null
+    },
+    "safe_avatar_bbox": [
+      1018,
+      281,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 170,
+      "secondary": null
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      38,
+      130,
+      1421,
+      907
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1017,
+      0,
+      2890,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.368
+  },
+  {
+    "filename": "ปราบมูนลอร์ดได้ครั้งแรก_Terraria-vdo.jpg",
+    "timeline_name": "ปราบมูนลอร์ดได้ครั้งแรก_Terraria-vdo",
+    "timeline_index": 15,
+    "selection_index": 15,
+    "index": 15,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "มูนลอร์ดล้ม!"
+    ],
+    "secondary": [
+      "Champion of Terraria"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_time_seconds": 3821.55,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar-mic_squeezed-eyes-laugh_front_026.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\15_1_3821.550.jpg",
+      "rationale": "ภาพจริงขึ้น Moon Lord has been defeated และ Champion of Terraria; ยืนยันชัยชนะ",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 420418,
+    "safe_text_bbox": {
+      "hook": [
+        49,
+        330,
+        971,
+        559
+      ],
+      "secondary": [
+        51,
+        583,
+        969,
+        673
+      ]
+    },
+    "safe_avatar_bbox": [
+      1037,
+      281,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 172,
+      "secondary": 84
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      38,
+      130,
+      1421,
+      907
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      637,
+      67,
+      1432,
+      1009
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.358
+  },
+  {
+    "filename": "ปราบมูนลอร์ดได้ครั้งที่สอง_Terraria-vdo.jpg",
+    "timeline_name": "ปราบมูนลอร์ดได้ครั้งที่สอง_Terraria-vdo",
+    "timeline_index": 16,
+    "selection_index": 16,
+    "index": 16,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "มูนลอร์ด",
+      "รอบสอง"
+    ],
+    "secondary": [
+      "ยิงสวนต่อเนื่อง"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_time_seconds": 5060,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\16-4.jpg",
+      "rationale": "5060s shows the large Moon Lord face, hands, and laser clearly. Nearby payoff candidates show the boss gone. Subtitles describe firing continuously.",
+      "caveats": "Victory marker is a hypothesis; selected frame is the fight before payoff, so hook states round two, not a visible defeat banner."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 521298,
+    "safe_text_bbox": {
+      "hook": [
+        274,
+        330,
+        745,
+        600
+      ],
+      "secondary": [
+        177,
+        624,
+        843,
+        746
+      ]
+    },
+    "safe_avatar_bbox": [
+      985,
+      308,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 124,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      115,
+      146,
+      1440,
+      891
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.385
+  },
+  {
+    "filename": "คืนจันทร์ฟักทอง_Terraria-vdo.jpg",
+    "timeline_name": "คืนจันทร์ฟักทอง_Terraria-vdo",
+    "timeline_index": 17,
+    "selection_index": 17,
+    "index": 17,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "โดนรุมจนร่วง"
+    ],
+    "secondary": [
+      "คืนจันทร์ฟักทอง"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_time_seconds": 5537.933333333333,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\17-2.jpg",
+      "rationale": "You were slain appears at the center; lower-left in-game wave/event text and subtitles โหตาย/เขตาย support death during event.",
+      "caveats": "Dark game footage is intentional. Do not claim Empress; marker explicitly corrected to Pumpkin Moon."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 326043,
+    "safe_text_bbox": {
+      "hook": [
+        44,
+        330,
+        976,
+        532
+      ],
+      "secondary": [
+        162,
+        556,
+        859,
+        655
+      ]
+    },
+    "safe_avatar_bbox": [
+      1021,
+      281,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 156,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      77,
+      162,
+      1382,
+      896
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.367
+  },
+  {
+    "filename": "ตัวละครโผล่ตอนสู้บอส_Terraria-vdo.jpg",
+    "timeline_name": "ตัวละครโผล่ตอนสู้บอส_Terraria-vdo",
+    "timeline_index": 18,
+    "selection_index": 18,
+    "index": 18,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "บอสมาแล้ว",
+      "ยังคุยอยู่?!"
+    ],
+    "secondary": [
+      "มูนลอร์ดบุกฐาน"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_time_seconds": 7740.0,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\18-2.jpg",
+      "rationale": "Moon Lord occupies the screen while NPC dialogue remains open above it, directly matching the visual contrast in marker.",
+      "caveats": "NPC identity need not be named. Keep dialogue window visible during crop and composition."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 635976,
+    "safe_text_bbox": {
+      "hook": [
+        238,
+        330,
+        781,
+        598
+      ],
+      "secondary": [
+        170,
+        622,
+        850,
+        753
+      ]
+    },
+    "safe_avatar_bbox": [
+      1021,
+      281,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 110,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      134,
+      140,
+      1440,
+      875
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.367
+  },
+  {
+    "filename": "สุ่มปี่สก็อตเหล็ก_Monster Hunter World-vdo.jpg",
+    "timeline_name": "สุ่มปี่สก็อตเหล็ก_Monster Hunter World-vdo",
+    "timeline_index": 19,
+    "selection_index": 19,
+    "index": 19,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "สุ่มได้",
+      "ปี่สก็อต!"
+    ],
+    "secondary": [
+      "Metal Bagpipe"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 1973.5,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_half-lidded-pout_question-mark-front_046.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\19-2.jpg",
+      "rationale": "The actual wheel result popup reads metal bagpipe. Subtitles establish first-time weapon selection and acceptance of random result.",
+      "caveats": "This is real browser footage; crop excludes browser tabs/toolbars and original VTuber overlay. Do not assert weapon mechanics from noisy ASR."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 431906,
+    "safe_text_bbox": {
+      "hook": [
+        324,
+        330,
+        696,
+        599
+      ],
+      "secondary": [
+        148,
+        623,
+        873,
+        728
+      ]
+    },
+    "safe_avatar_bbox": [
+      1018,
+      281,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 102,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      326,
+      308,
+      1325,
+      869
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1017,
+      0,
+      2890,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.368
+  },
+  {
+    "filename": "เกรตจากราส_Monster Hunter World-vdo.jpg",
+    "timeline_name": "เกรตจากราส_Monster Hunter World-vdo",
+    "timeline_index": 20,
+    "selection_index": 20,
+    "index": 20,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "จากราสล้มแล้ว"
+    ],
+    "secondary": [
+      "ภารกิจแรก"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 4339.666666666667,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\20-2.jpg",
+      "rationale": "Great Jagras body dominates the source image; countdown return indicator and completed hunt context support result.",
+      "caveats": "Use target name from actual timeline/visual rather than invented reaction."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 489496,
+    "safe_text_bbox": {
+      "hook": [
+        43,
+        362,
+        977,
+        502
+      ],
+      "secondary": [
+        268,
+        526,
+        752,
+        617
+      ]
+    },
+    "safe_avatar_bbox": [
+      985,
+      308,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 142,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      230,
+      221,
+      1382,
+      869
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.385
+  },
+  {
+    "filename": "คูลูยาคู_Monster Hunter World-vdo.jpg",
+    "timeline_name": "คูลูยาคู_Monster Hunter World-vdo",
+    "timeline_index": 21,
+    "selection_index": 21,
+    "index": 21,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "คูลูยาคู",
+      "จบภารกิจ!"
+    ],
+    "secondary": [
+      "ทีมช่วยกันล่า"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 5638.116666666667,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\21-1.jpg",
+      "rationale": "Assigned expedition objective complete is visible above the fallen Kulu-Ya-Ku. Nearby images show final collapse animation.",
+      "caveats": "Dark forest detail must remain unblurred. Crop retains monster and completion banner."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 461855,
+    "safe_text_bbox": {
+      "hook": [
+        215,
+        330,
+        805,
+        597
+      ],
+      "secondary": [
+        234,
+        621,
+        787,
+        720
+      ]
+    },
+    "safe_avatar_bbox": [
+      985,
+      308,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 130,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      154,
+      200,
+      1382,
+      891
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.385
+  },
+  {
+    "filename": "พูเคพูเค_Monster Hunter World-vdo.jpg",
+    "timeline_name": "พูเคพูเค_Monster Hunter World-vdo",
+    "timeline_index": 22,
+    "selection_index": 22,
+    "index": 22,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "พูเคพูเค",
+      "ล้มแล้ว!"
+    ],
+    "secondary": [
+      "ภารกิจสำเร็จ"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 6080.2,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\22-1.jpg",
+      "rationale": "Main objective complete is visible in the real Pukei-Pukei frame; nearby frames show the monster body.",
+      "caveats": "Marker quote ผมทำแค่นี้เหรอ is not corroborated by available subtitle text, so it is not used."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 442774,
+    "safe_text_bbox": {
+      "hook": [
+        287,
+        330,
+        733,
+        600
+      ],
+      "secondary": [
+        230,
+        624,
+        789,
+        726
+      ]
+    },
+    "safe_avatar_bbox": [
+      985,
+      308,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 126,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      192,
+      221,
+      1382,
+      891
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.385
+  },
+  {
+    "filename": "บาร์รอธ_Monster Hunter World-vdo.jpg",
+    "timeline_name": "บาร์รอธ_Monster Hunter World-vdo",
+    "timeline_index": 23,
+    "selection_index": 23,
+    "index": 23,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "บาร์รอธ",
+      "ล้มแล้ว!"
+    ],
+    "secondary": [
+      "ภารกิจสำเร็จ"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 7367.666666666667,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\23-1.jpg",
+      "rationale": "Main objective complete banner sits above the Barroth body in open terrain; subtitle ตายแล้ว occurs nearby.",
+      "caveats": "ASR is sparse and noisy. Result is based on completion banner rather than additional dialogue claims."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 442665,
+    "safe_text_bbox": {
+      "hook": [
+        280,
+        330,
+        739,
+        597
+      ],
+      "secondary": [
+        230,
+        621,
+        789,
+        723
+      ]
+    },
+    "safe_avatar_bbox": [
+      985,
+      308,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 130,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      154,
+      200,
+      1382,
+      891
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.385
+  },
+  {
+    "filename": "จูราทอดัส_Monster Hunter World-vdo.jpg",
+    "timeline_name": "จูราทอดัส_Monster Hunter World-vdo",
+    "timeline_index": 24,
+    "selection_index": 24,
+    "index": 24,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ลุยน้ำโคลน"
+    ],
+    "secondary": [
+      "จูราทอดัสล้มแล้ว"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 8370.0,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\24-1.jpg",
+      "rationale": "Real frame shows Jyuratodus in muddy water with Main objective complete. Subtitles complain about fighting in water and slow movement.",
+      "caveats": "Subtitle supports ผมไม่มีวันตาย but selected candidates do not prove a character death; do not use death contradiction hook."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 521358,
+    "safe_text_bbox": {
+      "hook": [
+        102,
+        330,
+        918,
+        600
+      ],
+      "secondary": [
+        141,
+        624,
+        879,
+        757
+      ]
+    },
+    "safe_avatar_bbox": [
+      985,
+      308,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 172,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      96,
+      178,
+      1402,
+      913
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.385
+  },
+  {
+    "filename": "บอสมังกร_Soul Walker-vdo.jpg",
+    "timeline_name": "บอสมังกร_Soul Walker-vdo",
+    "timeline_index": 25,
+    "selection_index": 25,
+    "index": 25,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "มังกรยักษ์",
+      "ล้มแล้ว!"
+    ],
+    "secondary": [
+      "สนามคริสตัล"
+    ],
+    "timeline_fps": 30,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 004 ｜ 19⧸09⧸2026 ｜  @NJaACh ​@LaffeyNilvalen.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 004 ｜ 19⧸09⧸2026 ｜  @NJaACh ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 9241.4,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\25-1.jpg",
+      "rationale": "White mechanical dragon is down at 9241.4s in green crystal arena; next two candidates show dialogue over its fallen body.",
+      "caveats": "Actual ffprobe FPS=30/1. Source_start273480/30=9116s; payoff3882/30=129.4s=>9245.4s. Live source_end281580 yields9386s,270s duration. Marker duration4050=135s and range ending9251s are stale metadata; selection uses valid actual mapping."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 576977,
+    "safe_text_bbox": {
+      "hook": [
+        217,
+        330,
+        803,
+        599
+      ],
+      "secondary": [
+        231,
+        623,
+        789,
+        721
+      ]
+    },
+    "safe_avatar_bbox": [
+      985,
+      308,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 130,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      96,
+      130,
+      1421,
+      875
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.385
+  },
+  {
+    "filename": "หนีฝ่าความหนาว_Minecraft-vdo.jpg",
+    "timeline_name": "หนีฝ่าความหนาว_Minecraft-vdo",
+    "timeline_index": 26,
+    "selection_index": 26,
+    "index": 26,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "หนาวจนต้องหนี"
+    ],
+    "secondary": [
+      "ขุดทางออกจากถ้ำ"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 003  ｜ 21⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 003  ｜ 21⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 6080.0,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\26-2.jpg",
+      "rationale": "6080s frame visibly shows Heat up! [-10C] and Warning! Your temperature is really low, heat up quickly! while mining upward. Subtitles later say ถึงคืออิสรภาพ.",
+      "caveats": "Selected warning is before exit to snow, not a frame proving arrival at base. Crop must keep lower temperature warning."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 382556,
+    "safe_text_bbox": {
+      "hook": [
+        46,
+        330,
+        975,
+        466
+      ],
+      "secondary": [
+        124,
+        490,
+        896,
+        649
+      ]
+    },
+    "safe_avatar_bbox": [
+      1021,
+      281,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 138,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      0,
+      130,
+      1382,
+      907
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.367
+  },
+  {
+    "filename": "ปราบโกเล็มสำเร็จ_Soul Walker-vdo.jpg",
+    "timeline_name": "ปราบโกเล็มสำเร็จ_Soul Walker-vdo",
+    "timeline_index": 27,
+    "selection_index": 27,
+    "index": 27,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "โค่นบอส"
+    ],
+    "secondary": [],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 825,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\27-4.jpg",
+      "rationale": "825s shows the large block-shaped enemy and active boss HP; nearby frames at 839.2/843.2/845.2 show the clear. Hook uses generic boss wording because the in-game UI identifies Lv71 Anemone rather than a golem.",
+      "caveats": "Boss defeat is supported by nearby clear footage; specific species/rank is omitted from the thumbnail."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 455758,
+    "safe_text_bbox": {
+      "hook": [
+        164,
+        398,
+        857,
+        582
+      ],
+      "secondary": null
+    },
+    "safe_avatar_bbox": [
+      985,
+      308,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 188,
+      "secondary": null
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      115,
+      151,
+      1382,
+      864
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.385
+  },
+  {
+    "filename": "นับถอยหลังในห้องโล่_Soul Walker-vdo.jpg",
+    "timeline_name": "นับถอยหลังในห้องโล่_Soul Walker-vdo",
+    "timeline_index": 28,
+    "selection_index": 28,
+    "index": 28,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เวลาจะหมด!"
+    ],
+    "secondary": [
+      "ฝ่าศัตรูให้ทัน"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 4815,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\28-6.jpg",
+      "rationale": "4815s shows large00:16:28 countdown while combat continues;4750 and4790 show01:21:28 and00:41:28.",
+      "caveats": "Marker calls room Shield Room but actual UI says Binded Room. Avoid room-name claim. Payoff candidates are after countdown disappears, so earlier countdown frame chosen."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 440519,
+    "safe_text_bbox": {
+      "hook": [
+        47,
+        337,
+        973,
+        486
+      ],
+      "secondary": [
+        243,
+        510,
+        777,
+        643
+      ]
+    },
+    "safe_avatar_bbox": [
+      1021,
+      281,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 176,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      442,
+      205,
+      1382,
+      734
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.367
+  },
+  {
+    "filename": "เคลียร์เมืองนรก_Soul Walker-vdo.jpg",
+    "timeline_name": "เคลียร์เมืองนรก_Soul Walker-vdo",
+    "timeline_index": 29,
+    "selection_index": 29,
+    "index": 29,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เมืองนรก",
+      "เคลียร์แล้ว!"
+    ],
+    "secondary": [
+      "Hell City"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 6634,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\29-6.jpg",
+      "rationale": "6634s shows clear results with A rank in lava arena; prior battle frame identifies Hell City and Hell Beast.",
+      "caveats": "Duplicate source segment6570–6650s with index30. Name-based distinct framing uses dungeon clear here. Payoff marker6642s is a Grace City loading screen, so earlier real results chosen."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 558400,
+    "safe_text_bbox": {
+      "hook": [
+        183,
+        330,
+        837,
+        600
+      ],
+      "secondary": [
+        288,
+        624,
+        733,
+        726
+      ]
+    },
+    "safe_avatar_bbox": [
+      985,
+      308,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 130,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      192,
+      184,
+      1382,
+      853
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.385
+  },
+  {
+    "filename": "โดนบอสจับจนต้องใช้ท่าพิเศษสองครั้ง_Soul Walker-vdo.jpg",
+    "timeline_name": "โดนบอสจับจนต้องใช้ท่าพิเศษสองครั้ง_Soul Walker-vdo",
+    "timeline_index": 30,
+    "selection_index": 30,
+    "index": 30,
+    "format": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "โดนบอสจับ!"
+    ],
+    "secondary": [
+      "ใช้ EX สองที"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 6620,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\30-4.jpg",
+      "rationale": "6620s shows the player inverted during close-contact Hell Beast attack; subtitle at relative50.4s says โดนจับไป,63.8s says โดนจับ,73.9s says ผมต้องใช้ EX สองที.",
+      "caveats": "Duplicate source segment6570–6650s with index29; index30 uses grab incident rather than clear result. EX twice is subtitle-supported commentary, not a count inferred from one still. Player inversion alone is not sole proof of grab; subtitles corroborate."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 458294,
+    "safe_text_bbox": {
+      "hook": [
+        44,
+        342,
+        975,
+        514
+      ],
+      "secondary": [
+        231,
+        538,
+        789,
+        637
+      ]
+    },
+    "safe_avatar_bbox": [
+      1021,
+      281,
+      1725,
+      1096
+    ],
+    "text_font_sizes": {
+      "hook": 178,
+      "secondary": 100
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      518,
+      259,
+      1382,
+      745
+    ],
+    "evidence_window_source_crop_pixels": null,
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": true,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "frame-bottom crop",
+    "avatar_crop_bottom_px": 16,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.367
+  },
+  {
+    "filename": "หนีฝ่าความหนาว_Minecraft-vdo_9x16.jpg",
+    "timeline_name": "หนีฝ่าความหนาว_Minecraft-vdo_9x16",
+    "timeline_index": 31,
+    "selection_index": 26,
+    "index": 31,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "หนีฝ่าความหนาว"
+    ],
+    "secondary": [],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 003  ｜ 21⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 003  ｜ 21⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 6080.0,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\26-2.jpg",
+      "rationale": "6080s frame visibly shows Heat up! [-10C] and Warning! Your temperature is really low, heat up quickly! while mining upward. Subtitles later say ถึงคืออิสรภาพ.",
+      "caveats": "Selected warning is before exit to snow, not a frame proving arrival at base. Crop must keep lower temperature warning."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 340043,
+    "safe_text_bbox": {
+      "hook": [
+        188,
+        585,
+        892,
+        684
+      ],
+      "secondary": null
+    },
+    "safe_avatar_bbox": [
+      152,
+      1230,
+      929,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": null
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      430,
+      54,
+      952,
+      983
+    ],
+    "evidence_window_source_crop_pixels": [
+      0,
+      317,
+      1382,
+      719
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.719,
+    "clip_title": "หนีฝ่าความหนาว",
+    "title_lines": {
+      "red": "หนีฝ่าความหนาว",
+      "white": ""
+    }
+  },
+  {
+    "filename": "คุยกับเพื่อนตั้งนาน ลืมเอาเสียงเข้าไลฟ์_Minecraft-vdo_9x16.jpg",
+    "timeline_name": "คุยกับเพื่อนตั้งนาน ลืมเอาเสียงเข้าไลฟ์_Minecraft-vdo_9x16",
+    "timeline_index": 32,
+    "selection_index": 2,
+    "index": 32,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "คุยกับเพื่อน"
+    ],
+    "secondary": [
+      "ตั้งนาน ลืมเอาเสียงเข้าไลฟ์"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 2101.567,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_happy-open-mouth_hand-heart-tilt_042.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\02_2_2101.567.jpg",
+      "rationale": "Subtitle ระบุคุยกับเพื่อนและลืมส่งเสียงเข้าไลฟ์; เฟรมเป็นเหมือง จึงยึดบทพูดเป็น hook",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 369430,
+    "safe_text_bbox": {
+      "hook": [
+        294,
+        585,
+        785,
+        739
+      ],
+      "secondary": [
+        162,
+        761,
+        917,
+        843
+      ]
+    },
+    "safe_avatar_bbox": [
+      130,
+      1230,
+      949,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 66
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      450,
+      22,
+      1009,
+      1015
+    ],
+    "evidence_window_source_crop_pixels": [
+      38,
+      317,
+      1421,
+      719
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      923,
+      0,
+      2888,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.758,
+    "clip_title": "คุยกับเพื่อนตั้งนาน ลืมเอาเสียงเข้าไลฟ์",
+    "title_lines": {
+      "red": "คุยกับเพื่อน",
+      "white": "ตั้งนาน ลืมเอาเสียงเข้าไลฟ์"
+    }
+  },
+  {
+    "filename": "ลืมเสบียง จนต้องกินเนื้อซอมบี้_Minecraft-vdo_9x16.jpg",
+    "timeline_name": "ลืมเสบียง จนต้องกินเนื้อซอมบี้_Minecraft-vdo_9x16",
+    "timeline_index": 33,
+    "selection_index": 3,
+    "index": 33,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ลืมเสบียง"
+    ],
+    "secondary": [
+      " จนต้องกินเนื้อซอมบี้"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 2390.383,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_half-lidded-pout_question-mark-front_046.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\03_1_2390.383.jpg",
+      "rationale": "คลิปพูดถึงการไม่มีอาหารและกิน rotten flesh; ภาพเป็นทางเหมือง",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 365904,
+    "safe_text_bbox": {
+      "hook": [
+        326,
+        585,
+        753,
+        684
+      ],
+      "secondary": [
+        169,
+        706,
+        911,
+        812
+      ]
+    },
+    "safe_avatar_bbox": [
+      150,
+      1230,
+      930,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 86
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      450,
+      22,
+      1009,
+      1015
+    ],
+    "evidence_window_source_crop_pixels": [
+      38,
+      317,
+      1421,
+      719
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1017,
+      0,
+      2890,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.722,
+    "clip_title": "ลืมเสบียง จนต้องกินเนื้อซอมบี้",
+    "title_lines": {
+      "red": "ลืมเสบียง",
+      "white": " จนต้องกินเนื้อซอมบี้"
+    }
+  },
+  {
+    "filename": "ครีปเปอร์ระเบิดข้างกรง แต่กรงยังรอด_Minecraft-vdo_9x16.jpg",
+    "timeline_name": "ครีปเปอร์ระเบิดข้างกรง แต่กรงยังรอด_Minecraft-vdo_9x16",
+    "timeline_index": 34,
+    "selection_index": 4,
+    "index": 34,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ครีปเปอร์ระเบิด"
+    ],
+    "secondary": [
+      "ข้างกรง แต่กรงยังรอด"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 2506.0,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\04_extra_2506.000.jpg",
+      "rationale": "เลือกเฟรมใกล้เหตุการณ์ spawner จาก marker เดิมที่ timestamp ผิด; ภาพแสดงกรงและพื้นที่หลังระเบิด",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 424179,
+    "safe_text_bbox": {
+      "hook": [
+        210,
+        585,
+        871,
+        684
+      ],
+      "secondary": [
+        162,
+        706,
+        918,
+        781
+      ]
+    },
+    "safe_avatar_bbox": [
+      152,
+      1230,
+      929,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 76
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      450,
+      22,
+      1009,
+      1015
+    ],
+    "evidence_window_source_crop_pixels": [
+      38,
+      317,
+      1421,
+      719
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.719,
+    "clip_title": "ครีปเปอร์ระเบิดข้างกรง แต่กรงยังรอด",
+    "title_lines": {
+      "red": "ครีปเปอร์ระเบิด",
+      "white": "ข้างกรง แต่กรงยังรอด"
+    }
+  },
+  {
+    "filename": "เห็นแร่จนสงสัยว่าตัวเองมีเอกซเรย์_Minecraft-vdo_9x16.jpg",
+    "timeline_name": "เห็นแร่จนสงสัยว่าตัวเองมีเอกซเรย์_Minecraft-vdo_9x16",
+    "timeline_index": 35,
+    "selection_index": 5,
+    "index": 35,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เห็นแร่จนสงสัย"
+    ],
+    "secondary": [
+      "ว่าตัวเองมีเอกซเรย์"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 3788.8,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\05_2_3788.800.jpg",
+      "rationale": "เห็นแร่ผ่านทางน้ำ; subtitle มีคำว่า X-ray",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 354876,
+    "safe_text_bbox": {
+      "hook": [
+        208,
+        585,
+        871,
+        687
+      ],
+      "secondary": [
+        164,
+        709,
+        915,
+        799
+      ]
+    },
+    "safe_avatar_bbox": [
+      152,
+      1230,
+      929,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 90
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      450,
+      22,
+      1009,
+      1015
+    ],
+    "evidence_window_source_crop_pixels": [
+      38,
+      317,
+      1421,
+      719
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.719,
+    "clip_title": "เห็นแร่จนสงสัยว่าตัวเองมีเอกซเรย์",
+    "title_lines": {
+      "red": "เห็นแร่จนสงสัย",
+      "white": "ว่าตัวเองมีเอกซเรย์"
+    }
+  },
+  {
+    "filename": "ออกหาตัวละคร วนกลับมาบ้านตัวเอง_Minecraft-vdo_9x16.jpg",
+    "timeline_name": "ออกหาตัวละคร วนกลับมาบ้านตัวเอง_Minecraft-vdo_9x16",
+    "timeline_index": 36,
+    "selection_index": 6,
+    "index": 36,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ออกหาตัวละคร"
+    ],
+    "secondary": [
+      " วนกลับมาบ้านตัวเอง"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 5298.6,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_half-lidded-pout_question-mark-front_046.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\06_2_5298.600.jpg",
+      "rationale": "candidate อยู่ช่วงกลับฐาน; caveat ภาพคล้ายช่องเก็บของบ้านและไม่แสดงแผนที่",
+      "caveats": "Marker/subtitle ยังต้องเทียบกับคลิปสำหรับข้อความรอง"
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 428201,
+    "safe_text_bbox": {
+      "hook": [
+        218,
+        585,
+        863,
+        683
+      ],
+      "secondary": [
+        176,
+        705,
+        904,
+        786
+      ]
+    },
+    "safe_avatar_bbox": [
+      150,
+      1230,
+      930,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 82
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      450,
+      22,
+      1009,
+      1015
+    ],
+    "evidence_window_source_crop_pixels": [
+      38,
+      317,
+      1421,
+      719
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1017,
+      0,
+      2890,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.722,
+    "clip_title": "ออกหาตัวละคร วนกลับมาบ้านตัวเอง",
+    "title_lines": {
+      "red": "ออกหาตัวละคร",
+      "white": " วนกลับมาบ้านตัวเอง"
+    }
+  },
+  {
+    "filename": "ต้องพายเรือ หรือหิ้วเรือขึ้นเขา_Minecraft-vdo_9x16.jpg",
+    "timeline_name": "ต้องพายเรือ หรือหิ้วเรือขึ้นเขา_Minecraft-vdo_9x16",
+    "timeline_index": 37,
+    "selection_index": 7,
+    "index": 37,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ต้องพายเรือ"
+    ],
+    "secondary": [
+      " หรือหิ้วเรือขึ้นเขา"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 5627.0,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\07_extra_5627.000.jpg",
+      "rationale": "เฟรมเห็นชาวบ้านในเรือติดทางลาดเขาหิมะ",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 464990,
+    "safe_text_bbox": {
+      "hook": [
+        276,
+        585,
+        803,
+        684
+      ],
+      "secondary": [
+        217,
+        706,
+        863,
+        816
+      ]
+    },
+    "safe_avatar_bbox": [
+      152,
+      1230,
+      929,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 90
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      450,
+      22,
+      1009,
+      1015
+    ],
+    "evidence_window_source_crop_pixels": [
+      38,
+      317,
+      1421,
+      719
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.719,
+    "clip_title": "ต้องพายเรือ หรือหิ้วเรือขึ้นเขา",
+    "title_lines": {
+      "red": "ต้องพายเรือ",
+      "white": " หรือหิ้วเรือขึ้นเขา"
+    }
+  },
+  {
+    "filename": "พาชาวบ้านกลับฐาน รอดมาได้ตัวเดียว_Minecraft-vdo_9x16.jpg",
+    "timeline_name": "พาชาวบ้านกลับฐาน รอดมาได้ตัวเดียว_Minecraft-vdo_9x16",
+    "timeline_index": 38,
+    "selection_index": 8,
+    "index": 38,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "พาชาวบ้านกลับ"
+    ],
+    "secondary": [
+      "ฐาน รอดมาได้ตัวเดียว"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 6282.0,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\08_extra_6282.000.jpg",
+      "rationale": "ช่วงภารกิจกลับฐาน; เลี่ยวอ้างว่ารอดเพียงคนเดียวเพราะ candidate มี NPC มากกว่าหนึ่งคน",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 453600,
+    "safe_text_bbox": {
+      "hook": [
+        212,
+        585,
+        868,
+        684
+      ],
+      "secondary": [
+        162,
+        706,
+        918,
+        798
+      ]
+    },
+    "safe_avatar_bbox": [
+      118,
+      1230,
+      963,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 80
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      450,
+      22,
+      1009,
+      1015
+    ],
+    "evidence_window_source_crop_pixels": [
+      38,
+      317,
+      1421,
+      719
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.782,
+    "clip_title": "พาชาวบ้านกลับฐาน รอดมาได้ตัวเดียว",
+    "title_lines": {
+      "red": "พาชาวบ้านกลับ",
+      "white": "ฐาน รอดมาได้ตัวเดียว"
+    }
+  },
+  {
+    "filename": "ชวนชาวบ้านเพิ่มประชากร ขนมปังหายครึ่งกอง_Minecraft-vdo_9x16.jpg",
+    "timeline_name": "ชวนชาวบ้านเพิ่มประชากร ขนมปังหายครึ่งกอง_Minecraft-vdo_9x16",
+    "timeline_index": 39,
+    "selection_index": 9,
+    "index": 39,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ชวนชาวบ้านเพิ่ม"
+    ],
+    "secondary": [
+      "ประชากร ขนมปังหายครึ่งกอง"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 7965.6,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\09_2_7965.600.jpg",
+      "rationale": "เฟรมเห็นขนมปังตกในบ้านชาวบ้าน; marker ระบุจำนวนขนมปังลดลง",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 484192,
+    "safe_text_bbox": {
+      "hook": [
+        193,
+        585,
+        887,
+        703
+      ],
+      "secondary": [
+        162,
+        725,
+        918,
+        799
+      ]
+    },
+    "safe_avatar_bbox": [
+      152,
+      1230,
+      929,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 60
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      450,
+      22,
+      1009,
+      1015
+    ],
+    "evidence_window_source_crop_pixels": [
+      38,
+      317,
+      1421,
+      719
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.719,
+    "clip_title": "ชวนชาวบ้านเพิ่มประชากร ขนมปังหายครึ่งกอง",
+    "title_lines": {
+      "red": "ชวนชาวบ้านเพิ่ม",
+      "white": "ประชากร ขนมปังหายครึ่งกอง"
+    }
+  },
+  {
+    "filename": "ทำฟาร์มในหิมะ น้ำแข็งจนต้องทำหลังคา_Minecraft-vdo_9x16.jpg",
+    "timeline_name": "ทำฟาร์มในหิมะ น้ำแข็งจนต้องทำหลังคา_Minecraft-vdo_9x16",
+    "timeline_index": 40,
+    "selection_index": 10,
+    "index": 40,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ทำฟาร์มในหิมะ"
+    ],
+    "secondary": [
+      " น้ำแข็งจนต้องทำหลังคา"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 8602.0,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_half-lidded-pout_question-mark-front_046.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\10_extra_8602.000.jpg",
+      "rationale": "เฟรมช่วงทำฟาร์มหิมะ; hook อิง marker และบทสรุปเรื่องหลังคา",
+      "caveats": "Marker/subtitle ยังต้องเทียบกับคลิปสำหรับข้อความรอง"
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 516584,
+    "safe_text_bbox": {
+      "hook": [
+        230,
+        585,
+        850,
+        686
+      ],
+      "secondary": [
+        172,
+        708,
+        908,
+        799
+      ]
+    },
+    "safe_avatar_bbox": [
+      150,
+      1230,
+      930,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 72
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      450,
+      22,
+      1009,
+      1015
+    ],
+    "evidence_window_source_crop_pixels": [
+      38,
+      317,
+      1421,
+      719
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1017,
+      0,
+      2890,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.722,
+    "clip_title": "ทำฟาร์มในหิมะ น้ำแข็งจนต้องทำหลังคา",
+    "title_lines": {
+      "red": "ทำฟาร์มในหิมะ",
+      "white": " น้ำแข็งจนต้องทำหลังคา"
+    }
+  },
+  {
+    "filename": "ชวนเพื่อนไม่ได้ เพราะเผลอแบล็กลิสต์กัน_Soul Walker-vdo_9x16.jpg",
+    "timeline_name": "ชวนเพื่อนไม่ได้ เพราะเผลอแบล็กลิสต์กัน_Soul Walker-vdo_9x16",
+    "timeline_index": 41,
+    "selection_index": 11,
+    "index": 41,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ชวนเพื่อนไม่ได้"
+    ],
+    "secondary": [
+      " เพราะเผลอแบล็กลิสต์กัน"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 003 ｜ 12⧸09⧸2026 ｜  @NJaACh ​@LaffeyNilvalen.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 003 ｜ 12⧸09⧸2026 ｜  @NJaACh ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 221.383,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\11_2_221.383.jpg",
+      "rationale": "Subtitle ช่วงเดียวกันระบุ blacklist; marker อ้างหน้าต่าง community",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 519359,
+    "safe_text_bbox": {
+      "hook": [
+        228,
+        585,
+        853,
+        707
+      ],
+      "secondary": [
+        174,
+        729,
+        907,
+        802
+      ]
+    },
+    "safe_avatar_bbox": [
+      152,
+      1230,
+      929,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 70
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      450,
+      22,
+      1009,
+      1015
+    ],
+    "evidence_window_source_crop_pixels": [
+      38,
+      317,
+      1421,
+      719
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.719,
+    "clip_title": "ชวนเพื่อนไม่ได้ เพราะเผลอแบล็กลิสต์กัน",
+    "title_lines": {
+      "red": "ชวนเพื่อนไม่ได้",
+      "white": " เพราะเผลอแบล็กลิสต์กัน"
+    }
+  },
+  {
+    "filename": "เสียงสะท้อนสยองขวัญ_Soul Walker-vdo_9x16.jpg",
+    "timeline_name": "เสียงสะท้อนสยองขวัญ_Soul Walker-vdo_9x16",
+    "timeline_index": 42,
+    "selection_index": 12,
+    "index": 42,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เสียงสะท้อน"
+    ],
+    "secondary": [
+      "สยองขวัญ"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 003 ｜ 12⧸09⧸2026 ｜  @NJaACh ​@LaffeyNilvalen.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 003 ｜ 12⧸09⧸2026 ｜  @NJaACh ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 7937.267,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\12_2_7937.267.jpg",
+      "rationale": "ยึดเสียงสะท้อนและฉากต่อสู้ตาม marker; subtitle ASR ไม่ชัดพอสำหรับคำพูดตรง",
+      "caveats": "Marker/subtitle ยังต้องเทียบกับคลิปสำหรับข้อความรอง"
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 439023,
+    "safe_text_bbox": {
+      "hook": [
+        282,
+        585,
+        799,
+        684
+      ],
+      "secondary": [
+        328,
+        706,
+        752,
+        806
+      ]
+    },
+    "safe_avatar_bbox": [
+      152,
+      1230,
+      929,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 90
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      450,
+      22,
+      1009,
+      1015
+    ],
+    "evidence_window_source_crop_pixels": [
+      38,
+      317,
+      1421,
+      719
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.719,
+    "clip_title": "เสียงสะท้อนสยองขวัญ",
+    "title_lines": {
+      "red": "เสียงสะท้อน",
+      "white": "สยองขวัญ"
+    }
+  },
+  {
+    "filename": "กองทัพโอลด์วัน_Terraria-vdo_9x16.jpg",
+    "timeline_name": "กองทัพโอลด์วัน_Terraria-vdo_9x16",
+    "timeline_index": 43,
+    "selection_index": 13,
+    "index": 43,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "กองทัพโอลด์วัน"
+    ],
+    "secondary": [],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_time_seconds": 1924.1,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\13_2_1924.100.jpg",
+      "rationale": "เฟรมระหว่างเหตุการณ์ Old One Army ใน Terraria",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 597073,
+    "safe_text_bbox": {
+      "hook": [
+        203,
+        585,
+        877,
+        683
+      ],
+      "secondary": null
+    },
+    "safe_avatar_bbox": [
+      118,
+      1230,
+      963,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": null
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      450,
+      22,
+      1009,
+      1015
+    ],
+    "evidence_window_source_crop_pixels": [
+      38,
+      317,
+      1421,
+      719
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.782,
+    "clip_title": "กองทัพโอลด์วัน",
+    "title_lines": {
+      "red": "กองทัพโอลด์วัน",
+      "white": ""
+    }
+  },
+  {
+    "filename": "แพ้มูนลอร์ด_Terraria-vdo_9x16.jpg",
+    "timeline_name": "แพ้มูนลอร์ด_Terraria-vdo_9x16",
+    "timeline_index": 44,
+    "selection_index": 14,
+    "index": 44,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "แพ้"
+    ],
+    "secondary": [
+      "มูนลอร์ด"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_time_seconds": 3574.067,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_half-lidded-pout_question-mark-front_046.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\14_2_3574.067.jpg",
+      "rationale": "Defeat screen is visible and matches the timeline event; the main hook names the loss without adding an unverified near-win claim.",
+      "caveats": "In-game You were slain lettering remains visible in the footage background; no secondary line is used to reduce text competition."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 276680,
+    "safe_text_bbox": {
+      "hook": [
+        467,
+        585,
+        613,
+        683
+      ],
+      "secondary": [
+        369,
+        705,
+        711,
+        822
+      ]
+    },
+    "safe_avatar_bbox": [
+      150,
+      1230,
+      930,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 90
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      450,
+      22,
+      1009,
+      1015
+    ],
+    "evidence_window_source_crop_pixels": [
+      38,
+      317,
+      1421,
+      719
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1017,
+      0,
+      2890,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.722,
+    "clip_title": "แพ้มูนลอร์ด",
+    "title_lines": {
+      "red": "แพ้",
+      "white": "มูนลอร์ด"
+    }
+  },
+  {
+    "filename": "ปราบมูนลอร์ดได้ครั้งแรก_Terraria-vdo_9x16.jpg",
+    "timeline_name": "ปราบมูนลอร์ดได้ครั้งแรก_Terraria-vdo_9x16",
+    "timeline_index": 45,
+    "selection_index": 15,
+    "index": 45,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ปราบมูนลอร์ดได้"
+    ],
+    "secondary": [
+      "ครั้งแรก"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_time_seconds": 3821.55,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_closed-eyes-smile_hand-heart_041.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\15_1_3821.550.jpg",
+      "rationale": "ภาพจริงขึ้น Moon Lord has been defeated และ Champion of Terraria; ยืนยันชัยชนะ",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 391559,
+    "safe_text_bbox": {
+      "hook": [
+        182,
+        585,
+        898,
+        718
+      ],
+      "secondary": [
+        372,
+        740,
+        707,
+        852
+      ]
+    },
+    "safe_avatar_bbox": [
+      128,
+      1230,
+      953,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 90
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      450,
+      22,
+      1009,
+      1015
+    ],
+    "evidence_window_source_crop_pixels": [
+      38,
+      317,
+      1421,
+      719
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      842,
+      0,
+      2822,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.764,
+    "clip_title": "ปราบมูนลอร์ดได้ครั้งแรก",
+    "title_lines": {
+      "red": "ปราบมูนลอร์ดได้",
+      "white": "ครั้งแรก"
+    }
+  },
+  {
+    "filename": "ปราบมูนลอร์ดได้ครั้งที่สอง_Terraria-vdo_9x16.jpg",
+    "timeline_name": "ปราบมูนลอร์ดได้ครั้งที่สอง_Terraria-vdo_9x16",
+    "timeline_index": 46,
+    "selection_index": 16,
+    "index": 46,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ปราบมูนลอร์ดได้"
+    ],
+    "secondary": [
+      "ครั้งที่สอง"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_time_seconds": 5060,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\16-4.jpg",
+      "rationale": "5060s shows the large Moon Lord face, hands, and laser clearly. Nearby payoff candidates show the boss gone. Subtitles describe firing continuously.",
+      "caveats": "Victory marker is a hypothesis; selected frame is the fight before payoff, so hook states round two, not a visible defeat banner."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 538694,
+    "safe_text_bbox": {
+      "hook": [
+        182,
+        585,
+        898,
+        718
+      ],
+      "secondary": [
+        343,
+        740,
+        737,
+        852
+      ]
+    },
+    "safe_avatar_bbox": [
+      118,
+      1230,
+      963,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 90
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      529,
+      76,
+      1027,
+      961
+    ],
+    "evidence_window_source_crop_pixels": [
+      115,
+      326,
+      1440,
+      711
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.782,
+    "clip_title": "ปราบมูนลอร์ดได้ครั้งที่สอง",
+    "title_lines": {
+      "red": "ปราบมูนลอร์ดได้",
+      "white": "ครั้งที่สอง"
+    }
+  },
+  {
+    "filename": "คืนจันทร์ฟักทอง_Terraria-vdo_9x16.jpg",
+    "timeline_name": "คืนจันทร์ฟักทอง_Terraria-vdo_9x16",
+    "timeline_index": 47,
+    "selection_index": 17,
+    "index": 47,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "คืนจันทร์ฟักทอง"
+    ],
+    "secondary": [],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_time_seconds": 5537.933333333333,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\17-2.jpg",
+      "rationale": "You were slain appears at the center; lower-left in-game wave/event text and subtitles โหตาย/เขตาย support death during event.",
+      "caveats": "Dark game footage is intentional. Do not claim Empress; marker explicitly corrected to Pumpkin Moon."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 289378,
+    "safe_text_bbox": {
+      "hook": [
+        192,
+        585,
+        889,
+        684
+      ],
+      "secondary": null
+    },
+    "safe_avatar_bbox": [
+      152,
+      1230,
+      929,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": null
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      481,
+      86,
+      979,
+      972
+    ],
+    "evidence_window_source_crop_pixels": [
+      77,
+      339,
+      1382,
+      719
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.719,
+    "clip_title": "คืนจันทร์ฟักทอง",
+    "title_lines": {
+      "red": "คืนจันทร์ฟักทอง",
+      "white": ""
+    }
+  },
+  {
+    "filename": "ตัวละครโผล่ตอนสู้บอส_Terraria-vdo_9x16.jpg",
+    "timeline_name": "ตัวละครโผล่ตอนสู้บอส_Terraria-vdo_9x16",
+    "timeline_index": 48,
+    "selection_index": 18,
+    "index": 48,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ตัวละครโผล่"
+    ],
+    "secondary": [
+      "ตอนสู้บอส"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_time_seconds": 7740.0,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\18-2.jpg",
+      "rationale": "Moon Lord occupies the screen while NPC dialogue remains open above it, directly matching the visual contrast in marker.",
+      "caveats": "NPC identity need not be named. Keep dialogue window visible during crop and composition."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 628522,
+    "safe_text_bbox": {
+      "hook": [
+        282,
+        585,
+        797,
+        683
+      ],
+      "secondary": [
+        336,
+        705,
+        743,
+        825
+      ]
+    },
+    "safe_avatar_bbox": [
+      152,
+      1230,
+      929,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 90
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      538,
+      65,
+      1036,
+      950
+    ],
+    "evidence_window_source_crop_pixels": [
+      134,
+      318,
+      1440,
+      697
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.719,
+    "clip_title": "ตัวละครโผล่ตอนสู้บอส",
+    "title_lines": {
+      "red": "ตัวละครโผล่",
+      "white": "ตอนสู้บอส"
+    }
+  },
+  {
+    "filename": "สุ่มปี่สก็อตเหล็ก_Monster Hunter World-vdo_9x16.jpg",
+    "timeline_name": "สุ่มปี่สก็อตเหล็ก_Monster Hunter World-vdo_9x16",
+    "timeline_index": 49,
+    "selection_index": 19,
+    "index": 49,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "สุ่ม"
+    ],
+    "secondary": [
+      "ปี่สก็อตเหล็ก"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 1973.5,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_half-lidded-pout_question-mark-front_046.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\19-2.jpg",
+      "rationale": "The actual wheel result popup reads metal bagpipe. Subtitles establish first-time weapon selection and acceptance of random result.",
+      "caveats": "This is real browser footage; crop excludes browser tabs/toolbars and original VTuber overlay. Do not assert weapon mechanics from noisy ASR."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 357805,
+    "safe_text_bbox": {
+      "hook": [
+        471,
+        585,
+        609,
+        715
+      ],
+      "secondary": [
+        288,
+        737,
+        791,
+        846
+      ]
+    },
+    "safe_avatar_bbox": [
+      150,
+      1230,
+      930,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 90
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      646,
+      270,
+      1005,
+      907
+    ],
+    "evidence_window_source_crop_pixels": [
+      326,
+      443,
+      1325,
+      734
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1017,
+      0,
+      2890,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.722,
+    "clip_title": "สุ่มปี่สก็อตเหล็ก",
+    "title_lines": {
+      "red": "สุ่ม",
+      "white": "ปี่สก็อตเหล็ก"
+    }
+  },
+  {
+    "filename": "เกรตจากราส_Monster Hunter World-vdo_9x16.jpg",
+    "timeline_name": "เกรตจากราส_Monster Hunter World-vdo_9x16",
+    "timeline_index": 50,
+    "selection_index": 20,
+    "index": 50,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เกรตจากราส"
+    ],
+    "secondary": [],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 4339.666666666667,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\20-2.jpg",
+      "rationale": "Great Jagras body dominates the source image; countdown return indicator and completed hunt context support result.",
+      "caveats": "Use target name from actual timeline/visual rather than invented reaction."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 408233,
+    "safe_text_bbox": {
+      "hook": [
+        259,
+        585,
+        821,
+        660
+      ],
+      "secondary": null
+    },
+    "safe_avatar_bbox": [
+      118,
+      1230,
+      963,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": null
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      573,
+      130,
+      1040,
+      961
+    ],
+    "evidence_window_source_crop_pixels": [
+      230,
+      378,
+      1382,
+      713
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.782,
+    "clip_title": "เกรตจากราส",
+    "title_lines": {
+      "red": "เกรตจากราส",
+      "white": ""
+    }
+  },
+  {
+    "filename": "คูลูยาคู_Monster Hunter World-vdo_9x16.jpg",
+    "timeline_name": "คูลูยาคู_Monster Hunter World-vdo_9x16",
+    "timeline_index": 51,
+    "selection_index": 21,
+    "index": 51,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "คูลูยาคู"
+    ],
+    "secondary": [],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 5638.116666666667,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\21-1.jpg",
+      "rationale": "Assigned expedition objective complete is visible above the fallen Kulu-Ya-Ku. Nearby images show final collapse animation.",
+      "caveats": "Dark forest detail must remain unblurred. Crop retains monster and completion banner."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 353342,
+    "safe_text_bbox": {
+      "hook": [
+        385,
+        585,
+        695,
+        690
+      ],
+      "secondary": null
+    },
+    "safe_avatar_bbox": [
+      118,
+      1230,
+      963,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": null
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      534,
+      130,
+      1002,
+      961
+    ],
+    "evidence_window_source_crop_pixels": [
+      154,
+      367,
+      1382,
+      724
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.782,
+    "clip_title": "คูลูยาคู",
+    "title_lines": {
+      "red": "คูลูยาคู",
+      "white": ""
+    }
+  },
+  {
+    "filename": "พูเคพูเค_Monster Hunter World-vdo_9x16.jpg",
+    "timeline_name": "พูเคพูเค_Monster Hunter World-vdo_9x16",
+    "timeline_index": 52,
+    "selection_index": 22,
+    "index": 52,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "พูเคพูเค"
+    ],
+    "secondary": [],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 6080.2,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\22-1.jpg",
+      "rationale": "Main objective complete is visible in the real Pukei-Pukei frame; nearby frames show the monster body.",
+      "caveats": "Marker quote ผมทำแค่นี้เหรอ is not corroborated by available subtitle text, so it is not used."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 365771,
+    "safe_text_bbox": {
+      "hook": [
+        367,
+        585,
+        713,
+        690
+      ],
+      "secondary": null
+    },
+    "safe_avatar_bbox": [
+      118,
+      1230,
+      963,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": null
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      559,
+      151,
+      1015,
+      961
+    ],
+    "evidence_window_source_crop_pixels": [
+      192,
+      383,
+      1382,
+      729
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.782,
+    "clip_title": "พูเคพูเค",
+    "title_lines": {
+      "red": "พูเคพูเค",
+      "white": ""
+    }
+  },
+  {
+    "filename": "บาร์รอธ_Monster Hunter World-vdo_9x16.jpg",
+    "timeline_name": "บาร์รอธ_Monster Hunter World-vdo_9x16",
+    "timeline_index": 53,
+    "selection_index": 23,
+    "index": 53,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "บาร์รอธ"
+    ],
+    "secondary": [],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 7367.666666666667,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\23-1.jpg",
+      "rationale": "Main objective complete banner sits above the Barroth body in open terrain; subtitle ตายแล้ว occurs nearby.",
+      "caveats": "ASR is sparse and noisy. Result is based on completion banner rather than additional dialogue claims."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 342731,
+    "safe_text_bbox": {
+      "hook": [
+        367,
+        585,
+        713,
+        682
+      ],
+      "secondary": null
+    },
+    "safe_avatar_bbox": [
+      118,
+      1230,
+      963,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": null
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      534,
+      130,
+      1002,
+      961
+    ],
+    "evidence_window_source_crop_pixels": [
+      154,
+      367,
+      1382,
+      724
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.782,
+    "clip_title": "บาร์รอธ",
+    "title_lines": {
+      "red": "บาร์รอธ",
+      "white": ""
+    }
+  },
+  {
+    "filename": "จูราทอดัส_Monster Hunter World-vdo_9x16.jpg",
+    "timeline_name": "จูราทอดัส_Monster Hunter World-vdo_9x16",
+    "timeline_index": 54,
+    "selection_index": 24,
+    "index": 54,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "จูราทอดัส"
+    ],
+    "secondary": [],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 8370.0,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\24-1.jpg",
+      "rationale": "Real frame shows Jyuratodus in muddy water with Main objective complete. Subtitles complain about fighting in water and slow movement.",
+      "caveats": "Subtitle supports ผมไม่มีวันตาย but selected candidates do not prove a character death; do not use death contradiction hook."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 445404,
+    "safe_text_bbox": {
+      "hook": [
+        328,
+        585,
+        753,
+        717
+      ],
+      "secondary": null
+    },
+    "safe_avatar_bbox": [
+      118,
+      1230,
+      963,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": null
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      515,
+      130,
+      983,
+      961
+    ],
+    "evidence_window_source_crop_pixels": [
+      96,
+      356,
+      1402,
+      735
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.782,
+    "clip_title": "จูราทอดัส",
+    "title_lines": {
+      "red": "จูราทอดัส",
+      "white": ""
+    }
+  },
+  {
+    "filename": "บอสมังกร_Soul Walker-vdo_9x16.jpg",
+    "timeline_name": "บอสมังกร_Soul Walker-vdo_9x16",
+    "timeline_index": 55,
+    "selection_index": 25,
+    "index": 55,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "บอสมังกร"
+    ],
+    "secondary": [],
+    "timeline_fps": 30,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 004 ｜ 19⧸09⧸2026 ｜  @NJaACh ​@LaffeyNilvalen.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 004 ｜ 19⧸09⧸2026 ｜  @NJaACh ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 9241.4,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\25-1.jpg",
+      "rationale": "White mechanical dragon is down at 9241.4s in green crystal arena; next two candidates show dialogue over its fallen body.",
+      "caveats": "Actual ffprobe FPS=30/1. Source_start273480/30=9116s; payoff3882/30=129.4s=>9245.4s. Live source_end281580 yields9386s,270s duration. Marker duration4050=135s and range ending9251s are stale metadata; selection uses valid actual mapping."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 486618,
+    "safe_text_bbox": {
+      "hook": [
+        319,
+        585,
+        761,
+        683
+      ],
+      "secondary": null
+    },
+    "safe_avatar_bbox": [
+      118,
+      1230,
+      963,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": null
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      494,
+      32,
+      1023,
+      972
+    ],
+    "evidence_window_source_crop_pixels": [
+      96,
+      310,
+      1421,
+      695
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.782,
+    "clip_title": "บอสมังกร",
+    "title_lines": {
+      "red": "บอสมังกร",
+      "white": ""
+    }
+  },
+  {
+    "filename": "ปราบโกเล็มสำเร็จ_Soul Walker-vdo_9x16.jpg",
+    "timeline_name": "ปราบโกเล็มสำเร็จ_Soul Walker-vdo_9x16",
+    "timeline_index": 56,
+    "selection_index": 27,
+    "index": 56,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ปราบโกเล็ม"
+    ],
+    "secondary": [
+      "สำเร็จ"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 825,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\27-4.jpg",
+      "rationale": "825s shows the large block-shaped enemy and active boss HP; nearby frames at 839.2/843.2/845.2 show the clear. Hook uses generic boss wording because the in-game UI identifies Lv71 Anemone rather than a golem.",
+      "caveats": "Boss defeat is supported by nearby clear footage; specific species/rank is omitted from the thumbnail."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 415930,
+    "safe_text_bbox": {
+      "hook": [
+        290,
+        585,
+        791,
+        687
+      ],
+      "secondary": [
+        418,
+        709,
+        662,
+        801
+      ]
+    },
+    "safe_avatar_bbox": [
+      118,
+      1230,
+      963,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 90
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      530,
+      119,
+      968,
+      896
+    ],
+    "evidence_window_source_crop_pixels": [
+      115,
+      323,
+      1382,
+      692
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.782,
+    "clip_title": "ปราบโกเล็มสำเร็จ",
+    "title_lines": {
+      "red": "ปราบโกเล็ม",
+      "white": "สำเร็จ"
+    }
+  },
+  {
+    "filename": "นับถอยหลังในห้องโล่_Soul Walker-vdo_9x16.jpg",
+    "timeline_name": "นับถอยหลังในห้องโล่_Soul Walker-vdo_9x16",
+    "timeline_index": 57,
+    "selection_index": 28,
+    "index": 57,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "นับถอยหลัง"
+    ],
+    "secondary": [
+      "ในห้องโล่"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 4815,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\28-6.jpg",
+      "rationale": "4815s shows large00:16:28 countdown while combat continues;4750 and4790 show01:21:28 and00:41:28.",
+      "caveats": "Marker calls room Shield Room but actual UI says Binded Room. Avoid room-name claim. Payoff candidates are after countdown disappears, so earlier countdown frame chosen."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 409990,
+    "safe_text_bbox": {
+      "hook": [
+        284,
+        585,
+        797,
+        683
+      ],
+      "secondary": [
+        358,
+        705,
+        722,
+        795
+      ]
+    },
+    "safe_avatar_bbox": [
+      152,
+      1230,
+      929,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 90
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      696,
+      86,
+      1128,
+      853
+    ],
+    "evidence_window_source_crop_pixels": [
+      442,
+      333,
+      1382,
+      607
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.719,
+    "clip_title": "นับถอยหลังในห้องโล่",
+    "title_lines": {
+      "red": "นับถอยหลัง",
+      "white": "ในห้องโล่"
+    }
+  },
+  {
+    "filename": "เคลียร์เมืองนรก_Soul Walker-vdo_9x16.jpg",
+    "timeline_name": "เคลียร์เมืองนรก_Soul Walker-vdo_9x16",
+    "timeline_index": 58,
+    "selection_index": 29,
+    "index": 58,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เคลียร์"
+    ],
+    "secondary": [
+      "เมืองนรก"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 6634,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\29-6.jpg",
+      "rationale": "6634s shows clear results with A rank in lava arena; prior battle frame identifies Hell City and Hell Beast.",
+      "caveats": "Duplicate source segment6570–6650s with index30. Name-based distinct framing uses dungeon clear here. Payoff marker6642s is a Grace City loading screen, so earlier real results chosen."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 473640,
+    "safe_text_bbox": {
+      "hook": [
+        392,
+        585,
+        687,
+        684
+      ],
+      "secondary": [
+        356,
+        706,
+        725,
+        796
+      ]
+    },
+    "safe_avatar_bbox": [
+      118,
+      1230,
+      963,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 90
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      550,
+      97,
+      1024,
+      940
+    ],
+    "evidence_window_source_crop_pixels": [
+      192,
+      345,
+      1382,
+      691
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.782,
+    "clip_title": "เคลียร์เมืองนรก",
+    "title_lines": {
+      "red": "เคลียร์",
+      "white": "เมืองนรก"
+    }
+  },
+  {
+    "filename": "โดนบอสจับจนต้องใช้ท่าพิเศษสองครั้ง_Soul Walker-vdo_9x16.jpg",
+    "timeline_name": "โดนบอสจับจนต้องใช้ท่าพิเศษสองครั้ง_Soul Walker-vdo_9x16",
+    "timeline_index": 59,
+    "selection_index": 30,
+    "index": 59,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "โดนบอสจับจน"
+    ],
+    "secondary": [
+      "ต้องใช้ท่าพิเศษสองครั้ง"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 6620,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\30-4.jpg",
+      "rationale": "6620s shows the player inverted during close-contact Hell Beast attack; subtitle at relative50.4s says โดนจับไป,63.8s says โดนจับ,73.9s says ผมต้องใช้ EX สองที.",
+      "caveats": "Duplicate source segment6570–6650s with index29; index30 uses grab incident rather than clear result. EX twice is subtitle-supported commentary, not a count inferred from one still. Player inversion alone is not sole proof of grab; subtitles corroborate."
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 450923,
+    "safe_text_bbox": {
+      "hook": [
+        232,
+        585,
+        848,
+        683
+      ],
+      "secondary": [
+        162,
+        705,
+        918,
+        800
+      ]
+    },
+    "safe_avatar_bbox": [
+      152,
+      1230,
+      929,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 76
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      741,
+      130,
+      1160,
+      875
+    ],
+    "evidence_window_source_crop_pixels": [
+      518,
+      377,
+      1382,
+      628
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1035,
+      0,
+      2900,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.719,
+    "clip_title": "โดนบอสจับจนต้องใช้ท่าพิเศษสองครั้ง",
+    "title_lines": {
+      "red": "โดนบอสจับจน",
+      "white": "ต้องใช้ท่าพิเศษสองครั้ง"
+    }
+  },
+  {
+    "filename": "ขุดมั่วเจอเหล็กกองใหญ่_Minecraft-vdo_9x16.jpg",
+    "timeline_name": "ขุดมั่วเจอเหล็กกองใหญ่_Minecraft-vdo_9x16",
+    "timeline_index": 60,
+    "selection_index": 1,
+    "index": 60,
+    "format": "portrait",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ขุดมั่ว"
+    ],
+    "secondary": [
+      "เจอเหล็กกองใหญ่"
+    ],
+    "timeline_fps": 60,
+    "source": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 825.0,
+    "avatar": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "source_evidence": {
+      "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\a\\01_2_825.000.jpg",
+      "rationale": "เฟรมกลางเห็นแร่เหล็กหลายบล็อก; subtitle พูดว่าเจอเหล็กและเหล็กบานเลย",
+      "caveats": ""
+    },
+    "font": "C:\\Windows\\Fonts\\Mitr-Bold.ttf",
+    "raqm": true,
+    "color_profile": "sRGB",
+    "jpeg_quality": 95,
+    "bytes": 384609,
+    "safe_text_bbox": {
+      "hook": [
+        410,
+        585,
+        671,
+        741
+      ],
+      "secondary": [
+        194,
+        763,
+        887,
+        866
+      ]
+    },
+    "safe_avatar_bbox": [
+      118,
+      1230,
+      963,
+      2130
+    ],
+    "text_font_sizes": {
+      "hook": 100,
+      "secondary": 90
+    },
+    "text_stroke_ratio": 0.08,
+    "gameplay_source_crop_pixels": [
+      450,
+      22,
+      1009,
+      1015
+    ],
+    "evidence_window_source_crop_pixels": [
+      38,
+      317,
+      1421,
+      719
+    ],
+    "avatar_source_alpha_crop_pixels": [
+      1120,
+      0,
+      3148,
+      2160
+    ],
+    "circle_bbox": null,
+    "avatar_contact_shadow": false,
+    "avatar_rim": "slim white rim with muted teal outer edge",
+    "avatar_anchor": "centered enlarged bottom-edge crop",
+    "avatar_crop_bottom_px": 210,
+    "geometry_pass": true,
+    "violations": [],
+    "avatar_width_fraction": 0.782,
+    "clip_title": "ขุดมั่วเจอเหล็กกองใหญ่",
+    "title_lines": {
+      "red": "ขุดมั่ว",
+      "white": "เจอเหล็กกองใหญ่"
+    }
+  }
+]

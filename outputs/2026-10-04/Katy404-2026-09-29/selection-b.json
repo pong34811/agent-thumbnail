@@ -1,0 +1,323 @@
+[
+  {
+    "index": 16,
+    "hook_lines": [
+      "มูนลอร์ด",
+      "รอบสอง"
+    ],
+    "secondary_lines": [
+      "ยิงสวนต่อเนื่อง"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_time_seconds": 5060,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\16-4.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "rationale": "5060s shows the large Moon Lord face, hands, and laser clearly. Nearby payoff candidates show the boss gone. Subtitles describe firing continuously.",
+    "caveats": "Victory marker is a hypothesis; selected frame is the fight before payoff, so hook states round two, not a visible defeat banner.",
+    "gameplay_crop": [
+      0.06,
+      0.07,
+      0.75,
+      0.89
+    ]
+  },
+  {
+    "index": 17,
+    "hook_lines": [
+      "โดนรุมจนร่วง"
+    ],
+    "secondary_lines": [
+      "คืนจันทร์ฟักทอง"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_time_seconds": 5537.933333333333,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\17-2.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "rationale": "You were slain appears at the center; lower-left in-game wave/event text and subtitles โหตาย/เขตาย support death during event.",
+    "caveats": "Dark game footage is intentional. Do not claim Empress; marker explicitly corrected to Pumpkin Moon.",
+    "gameplay_crop": [
+      0.04,
+      0.08,
+      0.72,
+      0.9
+    ]
+  },
+  {
+    "index": 18,
+    "hook_lines": [
+      "บอสมาแล้ว",
+      "ยังคุยอยู่?!"
+    ],
+    "secondary_lines": [
+      "มูนลอร์ดบุกฐาน"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+    "source_time_seconds": 7740.0,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\18-2.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "rationale": "Moon Lord occupies the screen while NPC dialogue remains open above it, directly matching the visual contrast in marker.",
+    "caveats": "NPC identity need not be named. Keep dialogue window visible during crop and composition.",
+    "gameplay_crop": [
+      0.07,
+      0.06,
+      0.75,
+      0.88
+    ]
+  },
+  {
+    "index": 19,
+    "hook_lines": [
+      "สุ่มได้",
+      "ปี่สก็อต!"
+    ],
+    "secondary_lines": [
+      "Metal Bagpipe"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 1973.5,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\19-2.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_half-lidded-pout_question-mark-front_046.png",
+    "rationale": "The actual wheel result popup reads metal bagpipe. Subtitles establish first-time weapon selection and acceptance of random result.",
+    "caveats": "This is real browser footage; crop excludes browser tabs/toolbars and original VTuber overlay. Do not assert weapon mechanics from noisy ASR.",
+    "gameplay_crop": [
+      0.17,
+      0.25,
+      0.69,
+      0.84
+    ]
+  },
+  {
+    "index": 20,
+    "hook_lines": [
+      "จากราสล้มแล้ว"
+    ],
+    "secondary_lines": [
+      "ภารกิจแรก"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 4339.666666666667,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\20-2.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "rationale": "Great Jagras body dominates the source image; countdown return indicator and completed hunt context support result.",
+    "caveats": "Use target name from actual timeline/visual rather than invented reaction.",
+    "gameplay_crop": [
+      0.12,
+      0.12,
+      0.72,
+      0.89
+    ]
+  },
+  {
+    "index": 21,
+    "hook_lines": [
+      "คูลูยาคู",
+      "จบภารกิจ!"
+    ],
+    "secondary_lines": [
+      "ทีมช่วยกันล่า"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 5638.116666666667,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\21-1.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "rationale": "Assigned expedition objective complete is visible above the fallen Kulu-Ya-Ku. Nearby images show final collapse animation.",
+    "caveats": "Dark forest detail must remain unblurred. Crop retains monster and completion banner.",
+    "gameplay_crop": [
+      0.08,
+      0.12,
+      0.72,
+      0.89
+    ]
+  },
+  {
+    "index": 22,
+    "hook_lines": [
+      "พูเคพูเค",
+      "ล้มแล้ว!"
+    ],
+    "secondary_lines": [
+      "ภารกิจสำเร็จ"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 6080.2,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\22-1.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "rationale": "Main objective complete is visible in the real Pukei-Pukei frame; nearby frames show the monster body.",
+    "caveats": "Marker quote ผมทำแค่นี้เหรอ is not corroborated by available subtitle text, so it is not used.",
+    "gameplay_crop": [
+      0.1,
+      0.14,
+      0.72,
+      0.89
+    ]
+  },
+  {
+    "index": 23,
+    "hook_lines": [
+      "บาร์รอธ",
+      "ล้มแล้ว!"
+    ],
+    "secondary_lines": [
+      "ภารกิจสำเร็จ"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 7367.666666666667,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\23-1.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "rationale": "Main objective complete banner sits above the Barroth body in open terrain; subtitle ตายแล้ว occurs nearby.",
+    "caveats": "ASR is sparse and noisy. Result is based on completion banner rather than additional dialogue claims.",
+    "gameplay_crop": [
+      0.08,
+      0.12,
+      0.72,
+      0.89
+    ]
+  },
+  {
+    "index": 24,
+    "hook_lines": [
+      "ลุยน้ำโคลน"
+    ],
+    "secondary_lines": [
+      "จูราทอดัสล้มแล้ว"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Monster Hunter： World - 001  ｜ 15⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 8370.0,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\24-1.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "rationale": "Real frame shows Jyuratodus in muddy water with Main objective complete. Subtitles complain about fighting in water and slow movement.",
+    "caveats": "Subtitle supports ผมไม่มีวันตาย but selected candidates do not prove a character death; do not use death contradiction hook.",
+    "gameplay_crop": [
+      0.05,
+      0.12,
+      0.73,
+      0.89
+    ]
+  },
+  {
+    "index": 25,
+    "hook_lines": [
+      "มังกรยักษ์",
+      "ล้มแล้ว!"
+    ],
+    "secondary_lines": [
+      "สนามคริสตัล"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 004 ｜ 19⧸09⧸2026 ｜  @NJaACh ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 9241.4,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\25-1.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "rationale": "White mechanical dragon is down at 9241.4s in green crystal arena; next two candidates show dialogue over its fallen body.",
+    "caveats": "Actual ffprobe FPS=30/1. Source_start273480/30=9116s; payoff3882/30=129.4s=>9245.4s. Live source_end281580 yields9386s,270s duration. Marker duration4050=135s and range ending9251s are stale metadata; selection uses valid actual mapping.",
+    "gameplay_crop": [
+      0.05,
+      0.03,
+      0.74,
+      0.9
+    ]
+  },
+  {
+    "index": 26,
+    "hook_lines": [
+      "หนาวจนต้องหนี"
+    ],
+    "secondary_lines": [
+      "ขุดทางออกจากถ้ำ"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 003  ｜ 21⧸09⧸2569 ｜ #katy404live.mp4",
+    "source_time_seconds": 6080.0,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\26-2.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "rationale": "6080s frame visibly shows Heat up! [-10C] and Warning! Your temperature is really low, heat up quickly! while mining upward. Subtitles later say ถึงคืออิสรภาพ.",
+    "caveats": "Selected warning is before exit to snow, not a frame proving arrival at base. Crop must keep lower temperature warning.",
+    "gameplay_crop": [
+      0.0,
+      0.05,
+      0.72,
+      0.91
+    ]
+  },
+  {
+    "index": 27,
+    "hook_lines": [
+      "โค่นบอส"
+    ],
+    "secondary_lines": [],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 825,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\27-4.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "rationale": "825s shows the large block-shaped enemy and active boss HP; nearby frames at 839.2/843.2/845.2 show the clear. Hook uses generic boss wording because the in-game UI identifies Lv71 Anemone rather than a golem.",
+    "caveats": "Boss defeat is supported by nearby clear footage; specific species/rank is omitted from the thumbnail.",
+    "gameplay_crop": [
+      0.06,
+      0.11,
+      0.72,
+      0.83
+    ]
+  },
+  {
+    "index": 28,
+    "hook_lines": [
+      "เวลาจะหมด!"
+    ],
+    "secondary_lines": [
+      "ฝ่าศัตรูให้ทัน"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 4815,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\28-6.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "rationale": "4815s shows large00:16:28 countdown while combat continues;4750 and4790 show01:21:28 and00:41:28.",
+    "caveats": "Marker calls room Shield Room but actual UI says Binded Room. Avoid room-name claim. Payoff candidates are after countdown disappears, so earlier countdown frame chosen.",
+    "gameplay_crop": [
+      0.23,
+      0.08,
+      0.72,
+      0.79
+    ]
+  },
+  {
+    "index": 29,
+    "hook_lines": [
+      "เมืองนรก",
+      "เคลียร์แล้ว!"
+    ],
+    "secondary_lines": [
+      "Hell City"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 6634,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\29-6.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_soft-smile_game-controller_044.png",
+    "rationale": "6634s shows clear results with A rank in lava arena; prior battle frame identifies Hell City and Hell Beast.",
+    "caveats": "Duplicate source segment6570–6650s with index30. Name-based distinct framing uses dungeon clear here. Payoff marker6642s is a Grace City loading screen, so earlier real results chosen.",
+    "gameplay_crop": [
+      0.1,
+      0.09,
+      0.72,
+      0.87
+    ]
+  },
+  {
+    "index": 30,
+    "hook_lines": [
+      "โดนบอสจับ!"
+    ],
+    "secondary_lines": [
+      "ใช้ EX สองที"
+    ],
+    "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+    "source_time_seconds": 6620,
+    "frame_path": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\evidence\\b\\30-4.jpg",
+    "avatar_file": "G:\\My Drive\\Projects\\Katy404\\1.picture\\katy404_avatar_wide-eyes-open-mouth_question-mark-front_048.png",
+    "rationale": "6620s shows the player inverted during close-contact Hell Beast attack; subtitle at relative50.4s says โดนจับไป,63.8s says โดนจับ,73.9s says ผมต้องใช้ EX สองที.",
+    "caveats": "Duplicate source segment6570–6650s with index29; index30 uses grab incident rather than clear result. EX twice is subtitle-supported commentary, not a count inferred from one still. Player inversion alone is not sole proof of grab; subtitles corroborate.",
+    "gameplay_crop": [
+      0.27,
+      0.12,
+      0.72,
+      0.81
+    ]
+  }
+]

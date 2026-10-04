@@ -11,7 +11,7 @@ import json
 import sys
 from pathlib import Path
 
-DEFAULT_DATA = Path(r"C:\Users\warit\Desktop\agent-thumbnail\outputs\2026-10-04\Katy404-2026-09-29")
+DEFAULT_DATA = Path(__file__).resolve().parents[4] / "outputs" / "2026-10-04" / "Katy404-2026-09-29"
 _pre = argparse.ArgumentParser(add_help=False)
 _pre.add_argument("--data", default=str(DEFAULT_DATA))
 DATA = Path(_pre.parse_known_args()[0].data)

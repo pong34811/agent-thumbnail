@@ -1,0 +1,1571 @@
+{
+  "pass": true,
+  "count": 60,
+  "covers": [
+    {
+      "timeline_name": "ขุดมั่วเจอเหล็กกองใหญ่_Minecraft-vdo",
+      "timeline_index": 1,
+      "safe_text_bbox": {
+        "hook": [
+          48,
+          330,
+          973,
+          501
+        ],
+        "secondary": [
+          270,
+          525,
+          749,
+          681
+        ]
+      },
+      "safe_avatar_bbox": [
+        985,
+        308,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.385
+    },
+    {
+      "timeline_name": "คุยกับเพื่อนตั้งนาน ลืมเอาเสียงเข้าไลฟ์_Minecraft-vdo",
+      "timeline_index": 2,
+      "safe_text_bbox": {
+        "hook": [
+          134,
+          330,
+          885,
+          597
+        ],
+        "secondary": [
+          135,
+          621,
+          885,
+          743
+        ]
+      },
+      "safe_avatar_bbox": [
+        1037,
+        281,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.358
+    },
+    {
+      "timeline_name": "ลืมเสบียง จนต้องกินเนื้อซอมบี้_Minecraft-vdo",
+      "timeline_index": 3,
+      "safe_text_bbox": {
+        "hook": [
+          109,
+          330,
+          911,
+          515
+        ],
+        "secondary": [
+          154,
+          539,
+          865,
+          662
+        ]
+      },
+      "safe_avatar_bbox": [
+        1018,
+        281,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.368
+    },
+    {
+      "timeline_name": "ครีปเปอร์ระเบิดข้างกรง แต่กรงยังรอด_Minecraft-vdo",
+      "timeline_index": 4,
+      "safe_text_bbox": {
+        "hook": [
+          48,
+          330,
+          972,
+          529
+        ],
+        "secondary": [
+          226,
+          553,
+          794,
+          685
+        ]
+      },
+      "safe_avatar_bbox": [
+        1021,
+        281,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.367
+    },
+    {
+      "timeline_name": "เห็นแร่จนสงสัยว่าตัวเองมีเอกซเรย์_Minecraft-vdo",
+      "timeline_index": 5,
+      "safe_text_bbox": {
+        "hook": [
+          84,
+          330,
+          935,
+          544
+        ],
+        "secondary": [
+          140,
+          568,
+          879,
+          695
+        ]
+      },
+      "safe_avatar_bbox": [
+        1021,
+        281,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.367
+    },
+    {
+      "timeline_name": "ออกหาตัวละคร วนกลับมาบ้านตัวเอง_Minecraft-vdo",
+      "timeline_index": 6,
+      "safe_text_bbox": {
+        "hook": [
+          46,
+          337,
+          973,
+          520
+        ],
+        "secondary": [
+          103,
+          544,
+          917,
+          643
+        ]
+      },
+      "safe_avatar_bbox": [
+        1018,
+        281,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.368
+    },
+    {
+      "timeline_name": "ต้องพายเรือ หรือหิ้วเรือขึ้นเขา_Minecraft-vdo",
+      "timeline_index": 7,
+      "safe_text_bbox": {
+        "hook": [
+          137,
+          330,
+          883,
+          515
+        ],
+        "secondary": [
+          225,
+          539,
+          795,
+          662
+        ]
+      },
+      "safe_avatar_bbox": [
+        1021,
+        281,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.367
+    },
+    {
+      "timeline_name": "พาชาวบ้านกลับฐาน รอดมาได้ตัวเดียว_Minecraft-vdo",
+      "timeline_index": 8,
+      "safe_text_bbox": {
+        "hook": [
+          47,
+          354,
+          973,
+          503
+        ],
+        "secondary": [
+          192,
+          527,
+          828,
+          626
+        ]
+      },
+      "safe_avatar_bbox": [
+        985,
+        308,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.385
+    },
+    {
+      "timeline_name": "ชวนชาวบ้านเพิ่มประชากร ขนมปังหายครึ่งกอง_Minecraft-vdo",
+      "timeline_index": 9,
+      "safe_text_bbox": {
+        "hook": [
+          44,
+          337,
+          977,
+          520
+        ],
+        "secondary": [
+          148,
+          544,
+          873,
+          643
+        ]
+      },
+      "safe_avatar_bbox": [
+        1037,
+        281,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.358
+    },
+    {
+      "timeline_name": "ทำฟาร์มในหิมะ น้ำแข็งจนต้องทำหลังคา_Minecraft-vdo",
+      "timeline_index": 10,
+      "safe_text_bbox": {
+        "hook": [
+          44,
+          345,
+          976,
+          510
+        ],
+        "secondary": [
+          129,
+          534,
+          891,
+          635
+        ]
+      },
+      "safe_avatar_bbox": [
+        1018,
+        281,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.368
+    },
+    {
+      "timeline_name": "ชวนเพื่อนไม่ได้ เพราะเผลอแบล็กลิสต์กัน_Soul Walker-vdo",
+      "timeline_index": 11,
+      "safe_text_bbox": {
+        "hook": [
+          112,
+          330,
+          909,
+          514
+        ],
+        "secondary": [
+          93,
+          538,
+          927,
+          694
+        ]
+      },
+      "safe_avatar_bbox": [
+        1021,
+        281,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.367
+    },
+    {
+      "timeline_name": "เสียงสะท้อนสยองขวัญ_Soul Walker-vdo",
+      "timeline_index": 12,
+      "safe_text_bbox": {
+        "hook": [
+          50,
+          330,
+          969,
+          505
+        ],
+        "secondary": [
+          234,
+          529,
+          787,
+          652
+        ]
+      },
+      "safe_avatar_bbox": [
+        1021,
+        281,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.367
+    },
+    {
+      "timeline_name": "กองทัพโอลด์วัน_Terraria-vdo",
+      "timeline_index": 13,
+      "safe_text_bbox": {
+        "hook": [
+          52,
+          330,
+          968,
+          574
+        ],
+        "secondary": [
+          170,
+          598,
+          851,
+          697
+        ]
+      },
+      "safe_avatar_bbox": [
+        985,
+        308,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.385
+    },
+    {
+      "timeline_name": "แพ้มูนลอร์ด_Terraria-vdo",
+      "timeline_index": 14,
+      "safe_text_bbox": {
+        "hook": [
+          48,
+          376,
+          972,
+          603
+        ],
+        "secondary": null
+      },
+      "safe_avatar_bbox": [
+        1018,
+        281,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.368
+    },
+    {
+      "timeline_name": "ปราบมูนลอร์ดได้ครั้งแรก_Terraria-vdo",
+      "timeline_index": 15,
+      "safe_text_bbox": {
+        "hook": [
+          49,
+          330,
+          971,
+          559
+        ],
+        "secondary": [
+          51,
+          583,
+          969,
+          673
+        ]
+      },
+      "safe_avatar_bbox": [
+        1037,
+        281,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.358
+    },
+    {
+      "timeline_name": "ปราบมูนลอร์ดได้ครั้งที่สอง_Terraria-vdo",
+      "timeline_index": 16,
+      "safe_text_bbox": {
+        "hook": [
+          274,
+          330,
+          745,
+          600
+        ],
+        "secondary": [
+          177,
+          624,
+          843,
+          746
+        ]
+      },
+      "safe_avatar_bbox": [
+        985,
+        308,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.385
+    },
+    {
+      "timeline_name": "คืนจันทร์ฟักทอง_Terraria-vdo",
+      "timeline_index": 17,
+      "safe_text_bbox": {
+        "hook": [
+          44,
+          330,
+          976,
+          532
+        ],
+        "secondary": [
+          162,
+          556,
+          859,
+          655
+        ]
+      },
+      "safe_avatar_bbox": [
+        1021,
+        281,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.367
+    },
+    {
+      "timeline_name": "ตัวละครโผล่ตอนสู้บอส_Terraria-vdo",
+      "timeline_index": 18,
+      "safe_text_bbox": {
+        "hook": [
+          238,
+          330,
+          781,
+          598
+        ],
+        "secondary": [
+          170,
+          622,
+          850,
+          753
+        ]
+      },
+      "safe_avatar_bbox": [
+        1021,
+        281,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.367
+    },
+    {
+      "timeline_name": "สุ่มปี่สก็อตเหล็ก_Monster Hunter World-vdo",
+      "timeline_index": 19,
+      "safe_text_bbox": {
+        "hook": [
+          324,
+          330,
+          696,
+          599
+        ],
+        "secondary": [
+          148,
+          623,
+          873,
+          728
+        ]
+      },
+      "safe_avatar_bbox": [
+        1018,
+        281,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.368
+    },
+    {
+      "timeline_name": "เกรตจากราส_Monster Hunter World-vdo",
+      "timeline_index": 20,
+      "safe_text_bbox": {
+        "hook": [
+          43,
+          362,
+          977,
+          502
+        ],
+        "secondary": [
+          268,
+          526,
+          752,
+          617
+        ]
+      },
+      "safe_avatar_bbox": [
+        985,
+        308,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.385
+    },
+    {
+      "timeline_name": "คูลูยาคู_Monster Hunter World-vdo",
+      "timeline_index": 21,
+      "safe_text_bbox": {
+        "hook": [
+          215,
+          330,
+          805,
+          597
+        ],
+        "secondary": [
+          234,
+          621,
+          787,
+          720
+        ]
+      },
+      "safe_avatar_bbox": [
+        985,
+        308,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.385
+    },
+    {
+      "timeline_name": "พูเคพูเค_Monster Hunter World-vdo",
+      "timeline_index": 22,
+      "safe_text_bbox": {
+        "hook": [
+          287,
+          330,
+          733,
+          600
+        ],
+        "secondary": [
+          230,
+          624,
+          789,
+          726
+        ]
+      },
+      "safe_avatar_bbox": [
+        985,
+        308,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.385
+    },
+    {
+      "timeline_name": "บาร์รอธ_Monster Hunter World-vdo",
+      "timeline_index": 23,
+      "safe_text_bbox": {
+        "hook": [
+          280,
+          330,
+          739,
+          597
+        ],
+        "secondary": [
+          230,
+          621,
+          789,
+          723
+        ]
+      },
+      "safe_avatar_bbox": [
+        985,
+        308,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.385
+    },
+    {
+      "timeline_name": "จูราทอดัส_Monster Hunter World-vdo",
+      "timeline_index": 24,
+      "safe_text_bbox": {
+        "hook": [
+          102,
+          330,
+          918,
+          600
+        ],
+        "secondary": [
+          141,
+          624,
+          879,
+          757
+        ]
+      },
+      "safe_avatar_bbox": [
+        985,
+        308,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.385
+    },
+    {
+      "timeline_name": "บอสมังกร_Soul Walker-vdo",
+      "timeline_index": 25,
+      "safe_text_bbox": {
+        "hook": [
+          217,
+          330,
+          803,
+          599
+        ],
+        "secondary": [
+          231,
+          623,
+          789,
+          721
+        ]
+      },
+      "safe_avatar_bbox": [
+        985,
+        308,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.385
+    },
+    {
+      "timeline_name": "หนีฝ่าความหนาว_Minecraft-vdo",
+      "timeline_index": 26,
+      "safe_text_bbox": {
+        "hook": [
+          46,
+          330,
+          975,
+          466
+        ],
+        "secondary": [
+          124,
+          490,
+          896,
+          649
+        ]
+      },
+      "safe_avatar_bbox": [
+        1021,
+        281,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.367
+    },
+    {
+      "timeline_name": "ปราบโกเล็มสำเร็จ_Soul Walker-vdo",
+      "timeline_index": 27,
+      "safe_text_bbox": {
+        "hook": [
+          164,
+          398,
+          857,
+          582
+        ],
+        "secondary": null
+      },
+      "safe_avatar_bbox": [
+        985,
+        308,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.385
+    },
+    {
+      "timeline_name": "นับถอยหลังในห้องโล่_Soul Walker-vdo",
+      "timeline_index": 28,
+      "safe_text_bbox": {
+        "hook": [
+          47,
+          337,
+          973,
+          486
+        ],
+        "secondary": [
+          243,
+          510,
+          777,
+          643
+        ]
+      },
+      "safe_avatar_bbox": [
+        1021,
+        281,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.367
+    },
+    {
+      "timeline_name": "เคลียร์เมืองนรก_Soul Walker-vdo",
+      "timeline_index": 29,
+      "safe_text_bbox": {
+        "hook": [
+          183,
+          330,
+          837,
+          600
+        ],
+        "secondary": [
+          288,
+          624,
+          733,
+          726
+        ]
+      },
+      "safe_avatar_bbox": [
+        985,
+        308,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.385
+    },
+    {
+      "timeline_name": "โดนบอสจับจนต้องใช้ท่าพิเศษสองครั้ง_Soul Walker-vdo",
+      "timeline_index": 30,
+      "safe_text_bbox": {
+        "hook": [
+          44,
+          342,
+          975,
+          514
+        ],
+        "secondary": [
+          231,
+          538,
+          789,
+          637
+        ]
+      },
+      "safe_avatar_bbox": [
+        1021,
+        281,
+        1725,
+        1096
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.367
+    },
+    {
+      "timeline_name": "หนีฝ่าความหนาว_Minecraft-vdo_9x16",
+      "timeline_index": 31,
+      "safe_text_bbox": {
+        "hook": [
+          188,
+          585,
+          892,
+          684
+        ],
+        "secondary": null
+      },
+      "safe_avatar_bbox": [
+        152,
+        1230,
+        929,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.719
+    },
+    {
+      "timeline_name": "คุยกับเพื่อนตั้งนาน ลืมเอาเสียงเข้าไลฟ์_Minecraft-vdo_9x16",
+      "timeline_index": 32,
+      "safe_text_bbox": {
+        "hook": [
+          294,
+          585,
+          785,
+          739
+        ],
+        "secondary": [
+          162,
+          761,
+          917,
+          843
+        ]
+      },
+      "safe_avatar_bbox": [
+        130,
+        1230,
+        949,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.758
+    },
+    {
+      "timeline_name": "ลืมเสบียง จนต้องกินเนื้อซอมบี้_Minecraft-vdo_9x16",
+      "timeline_index": 33,
+      "safe_text_bbox": {
+        "hook": [
+          326,
+          585,
+          753,
+          684
+        ],
+        "secondary": [
+          169,
+          706,
+          911,
+          812
+        ]
+      },
+      "safe_avatar_bbox": [
+        150,
+        1230,
+        930,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.722
+    },
+    {
+      "timeline_name": "ครีปเปอร์ระเบิดข้างกรง แต่กรงยังรอด_Minecraft-vdo_9x16",
+      "timeline_index": 34,
+      "safe_text_bbox": {
+        "hook": [
+          210,
+          585,
+          871,
+          684
+        ],
+        "secondary": [
+          162,
+          706,
+          918,
+          781
+        ]
+      },
+      "safe_avatar_bbox": [
+        152,
+        1230,
+        929,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.719
+    },
+    {
+      "timeline_name": "เห็นแร่จนสงสัยว่าตัวเองมีเอกซเรย์_Minecraft-vdo_9x16",
+      "timeline_index": 35,
+      "safe_text_bbox": {
+        "hook": [
+          208,
+          585,
+          871,
+          687
+        ],
+        "secondary": [
+          164,
+          709,
+          915,
+          799
+        ]
+      },
+      "safe_avatar_bbox": [
+        152,
+        1230,
+        929,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.719
+    },
+    {
+      "timeline_name": "ออกหาตัวละคร วนกลับมาบ้านตัวเอง_Minecraft-vdo_9x16",
+      "timeline_index": 36,
+      "safe_text_bbox": {
+        "hook": [
+          218,
+          585,
+          863,
+          683
+        ],
+        "secondary": [
+          176,
+          705,
+          904,
+          786
+        ]
+      },
+      "safe_avatar_bbox": [
+        150,
+        1230,
+        930,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.722
+    },
+    {
+      "timeline_name": "ต้องพายเรือ หรือหิ้วเรือขึ้นเขา_Minecraft-vdo_9x16",
+      "timeline_index": 37,
+      "safe_text_bbox": {
+        "hook": [
+          276,
+          585,
+          803,
+          684
+        ],
+        "secondary": [
+          217,
+          706,
+          863,
+          816
+        ]
+      },
+      "safe_avatar_bbox": [
+        152,
+        1230,
+        929,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.719
+    },
+    {
+      "timeline_name": "พาชาวบ้านกลับฐาน รอดมาได้ตัวเดียว_Minecraft-vdo_9x16",
+      "timeline_index": 38,
+      "safe_text_bbox": {
+        "hook": [
+          212,
+          585,
+          868,
+          684
+        ],
+        "secondary": [
+          162,
+          706,
+          918,
+          798
+        ]
+      },
+      "safe_avatar_bbox": [
+        118,
+        1230,
+        963,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.782
+    },
+    {
+      "timeline_name": "ชวนชาวบ้านเพิ่มประชากร ขนมปังหายครึ่งกอง_Minecraft-vdo_9x16",
+      "timeline_index": 39,
+      "safe_text_bbox": {
+        "hook": [
+          193,
+          585,
+          887,
+          703
+        ],
+        "secondary": [
+          162,
+          725,
+          918,
+          799
+        ]
+      },
+      "safe_avatar_bbox": [
+        152,
+        1230,
+        929,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.719
+    },
+    {
+      "timeline_name": "ทำฟาร์มในหิมะ น้ำแข็งจนต้องทำหลังคา_Minecraft-vdo_9x16",
+      "timeline_index": 40,
+      "safe_text_bbox": {
+        "hook": [
+          230,
+          585,
+          850,
+          686
+        ],
+        "secondary": [
+          172,
+          708,
+          908,
+          799
+        ]
+      },
+      "safe_avatar_bbox": [
+        150,
+        1230,
+        930,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.722
+    },
+    {
+      "timeline_name": "ชวนเพื่อนไม่ได้ เพราะเผลอแบล็กลิสต์กัน_Soul Walker-vdo_9x16",
+      "timeline_index": 41,
+      "safe_text_bbox": {
+        "hook": [
+          228,
+          585,
+          853,
+          707
+        ],
+        "secondary": [
+          174,
+          729,
+          907,
+          802
+        ]
+      },
+      "safe_avatar_bbox": [
+        152,
+        1230,
+        929,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.719
+    },
+    {
+      "timeline_name": "เสียงสะท้อนสยองขวัญ_Soul Walker-vdo_9x16",
+      "timeline_index": 42,
+      "safe_text_bbox": {
+        "hook": [
+          282,
+          585,
+          799,
+          684
+        ],
+        "secondary": [
+          328,
+          706,
+          752,
+          806
+        ]
+      },
+      "safe_avatar_bbox": [
+        152,
+        1230,
+        929,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.719
+    },
+    {
+      "timeline_name": "กองทัพโอลด์วัน_Terraria-vdo_9x16",
+      "timeline_index": 43,
+      "safe_text_bbox": {
+        "hook": [
+          203,
+          585,
+          877,
+          683
+        ],
+        "secondary": null
+      },
+      "safe_avatar_bbox": [
+        118,
+        1230,
+        963,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.782
+    },
+    {
+      "timeline_name": "แพ้มูนลอร์ด_Terraria-vdo_9x16",
+      "timeline_index": 44,
+      "safe_text_bbox": {
+        "hook": [
+          467,
+          585,
+          613,
+          683
+        ],
+        "secondary": [
+          369,
+          705,
+          711,
+          822
+        ]
+      },
+      "safe_avatar_bbox": [
+        150,
+        1230,
+        930,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.722
+    },
+    {
+      "timeline_name": "ปราบมูนลอร์ดได้ครั้งแรก_Terraria-vdo_9x16",
+      "timeline_index": 45,
+      "safe_text_bbox": {
+        "hook": [
+          182,
+          585,
+          898,
+          718
+        ],
+        "secondary": [
+          372,
+          740,
+          707,
+          852
+        ]
+      },
+      "safe_avatar_bbox": [
+        128,
+        1230,
+        953,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.764
+    },
+    {
+      "timeline_name": "ปราบมูนลอร์ดได้ครั้งที่สอง_Terraria-vdo_9x16",
+      "timeline_index": 46,
+      "safe_text_bbox": {
+        "hook": [
+          182,
+          585,
+          898,
+          718
+        ],
+        "secondary": [
+          343,
+          740,
+          737,
+          852
+        ]
+      },
+      "safe_avatar_bbox": [
+        118,
+        1230,
+        963,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.782
+    },
+    {
+      "timeline_name": "คืนจันทร์ฟักทอง_Terraria-vdo_9x16",
+      "timeline_index": 47,
+      "safe_text_bbox": {
+        "hook": [
+          192,
+          585,
+          889,
+          684
+        ],
+        "secondary": null
+      },
+      "safe_avatar_bbox": [
+        152,
+        1230,
+        929,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.719
+    },
+    {
+      "timeline_name": "ตัวละครโผล่ตอนสู้บอส_Terraria-vdo_9x16",
+      "timeline_index": 48,
+      "safe_text_bbox": {
+        "hook": [
+          282,
+          585,
+          797,
+          683
+        ],
+        "secondary": [
+          336,
+          705,
+          743,
+          825
+        ]
+      },
+      "safe_avatar_bbox": [
+        152,
+        1230,
+        929,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.719
+    },
+    {
+      "timeline_name": "สุ่มปี่สก็อตเหล็ก_Monster Hunter World-vdo_9x16",
+      "timeline_index": 49,
+      "safe_text_bbox": {
+        "hook": [
+          471,
+          585,
+          609,
+          715
+        ],
+        "secondary": [
+          288,
+          737,
+          791,
+          846
+        ]
+      },
+      "safe_avatar_bbox": [
+        150,
+        1230,
+        930,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.722
+    },
+    {
+      "timeline_name": "เกรตจากราส_Monster Hunter World-vdo_9x16",
+      "timeline_index": 50,
+      "safe_text_bbox": {
+        "hook": [
+          259,
+          585,
+          821,
+          660
+        ],
+        "secondary": null
+      },
+      "safe_avatar_bbox": [
+        118,
+        1230,
+        963,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.782
+    },
+    {
+      "timeline_name": "คูลูยาคู_Monster Hunter World-vdo_9x16",
+      "timeline_index": 51,
+      "safe_text_bbox": {
+        "hook": [
+          385,
+          585,
+          695,
+          690
+        ],
+        "secondary": null
+      },
+      "safe_avatar_bbox": [
+        118,
+        1230,
+        963,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.782
+    },
+    {
+      "timeline_name": "พูเคพูเค_Monster Hunter World-vdo_9x16",
+      "timeline_index": 52,
+      "safe_text_bbox": {
+        "hook": [
+          367,
+          585,
+          713,
+          690
+        ],
+        "secondary": null
+      },
+      "safe_avatar_bbox": [
+        118,
+        1230,
+        963,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.782
+    },
+    {
+      "timeline_name": "บาร์รอธ_Monster Hunter World-vdo_9x16",
+      "timeline_index": 53,
+      "safe_text_bbox": {
+        "hook": [
+          367,
+          585,
+          713,
+          682
+        ],
+        "secondary": null
+      },
+      "safe_avatar_bbox": [
+        118,
+        1230,
+        963,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.782
+    },
+    {
+      "timeline_name": "จูราทอดัส_Monster Hunter World-vdo_9x16",
+      "timeline_index": 54,
+      "safe_text_bbox": {
+        "hook": [
+          328,
+          585,
+          753,
+          717
+        ],
+        "secondary": null
+      },
+      "safe_avatar_bbox": [
+        118,
+        1230,
+        963,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.782
+    },
+    {
+      "timeline_name": "บอสมังกร_Soul Walker-vdo_9x16",
+      "timeline_index": 55,
+      "safe_text_bbox": {
+        "hook": [
+          319,
+          585,
+          761,
+          683
+        ],
+        "secondary": null
+      },
+      "safe_avatar_bbox": [
+        118,
+        1230,
+        963,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.782
+    },
+    {
+      "timeline_name": "ปราบโกเล็มสำเร็จ_Soul Walker-vdo_9x16",
+      "timeline_index": 56,
+      "safe_text_bbox": {
+        "hook": [
+          290,
+          585,
+          791,
+          687
+        ],
+        "secondary": [
+          418,
+          709,
+          662,
+          801
+        ]
+      },
+      "safe_avatar_bbox": [
+        118,
+        1230,
+        963,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.782
+    },
+    {
+      "timeline_name": "นับถอยหลังในห้องโล่_Soul Walker-vdo_9x16",
+      "timeline_index": 57,
+      "safe_text_bbox": {
+        "hook": [
+          284,
+          585,
+          797,
+          683
+        ],
+        "secondary": [
+          358,
+          705,
+          722,
+          795
+        ]
+      },
+      "safe_avatar_bbox": [
+        152,
+        1230,
+        929,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.719
+    },
+    {
+      "timeline_name": "เคลียร์เมืองนรก_Soul Walker-vdo_9x16",
+      "timeline_index": 58,
+      "safe_text_bbox": {
+        "hook": [
+          392,
+          585,
+          687,
+          684
+        ],
+        "secondary": [
+          356,
+          706,
+          725,
+          796
+        ]
+      },
+      "safe_avatar_bbox": [
+        118,
+        1230,
+        963,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.782
+    },
+    {
+      "timeline_name": "โดนบอสจับจนต้องใช้ท่าพิเศษสองครั้ง_Soul Walker-vdo_9x16",
+      "timeline_index": 59,
+      "safe_text_bbox": {
+        "hook": [
+          232,
+          585,
+          848,
+          683
+        ],
+        "secondary": [
+          162,
+          705,
+          918,
+          800
+        ]
+      },
+      "safe_avatar_bbox": [
+        152,
+        1230,
+        929,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.719
+    },
+    {
+      "timeline_name": "ขุดมั่วเจอเหล็กกองใหญ่_Minecraft-vdo_9x16",
+      "timeline_index": 60,
+      "safe_text_bbox": {
+        "hook": [
+          410,
+          585,
+          671,
+          741
+        ],
+        "secondary": [
+          194,
+          763,
+          887,
+          866
+        ]
+      },
+      "safe_avatar_bbox": [
+        118,
+        1230,
+        963,
+        2130
+      ],
+      "geometry_pass": true,
+      "violations": [],
+      "avatar_width_fraction": 0.782
+    }
+  ]
+}
