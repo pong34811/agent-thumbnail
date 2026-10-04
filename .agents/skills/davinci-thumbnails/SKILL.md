@@ -41,6 +41,8 @@ metadata:
 - **คู่มืออ้างอิงเฉพาะช่อง:**
   - [สไตล์ช่อง Aomi-mama (@aomimamagd47)](references/channel-profiles/aomi-mama.md)
   - [คู่มือสไตล์ KATY404](references/style-guide.md)
+- **ตัวอย่างงานจริง:**
+  - [ปก Shorts KATY404 ชุด 2026-09-29 (v2, 30 ใบ แนวตั้ง)](references/examples/katy404-shorts-v2.md) — สูตรองค์ประกอบ ภาพตัวอย่าง และตัวเรนเดอร์ `scripts/katy404_render_shorts_v2.py`
 - **ทฤษฎีและแนวทางปฏิบัติ:**
   - [คู่มือจิตวิทยาปก YouTube VTuber & CTR](references/vtuber-thumbnail-engagement-guide.md)
   - [โน้ตการเรนเดอร์ภาพและจัดวางอักษรไทย](references/jpg-render-notes.md)
