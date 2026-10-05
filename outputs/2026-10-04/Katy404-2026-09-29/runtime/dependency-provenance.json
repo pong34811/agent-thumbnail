@@ -1,6 +1,0 @@
-{
-  "url": "https://mirror.msys2.org/mingw/mingw64/mingw-w64-x86_64-fribidi-1.0.17-1-any.pkg.tar.zst",
-  "sha256": "707f6a2f9a49c83938271bfd92a11f80bd4c18c4837210173fcb39e9d841e5ac",
-  "package": "MSYS2 mingw-w64-x86_64-fribidi 1.0.17-1",
-  "purpose": "task-local Pillow RAQM activation"
-}

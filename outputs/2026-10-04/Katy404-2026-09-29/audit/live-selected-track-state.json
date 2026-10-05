@@ -1,7 +1,0 @@
-{
-  "status": "unverified",
-  "reason": "Resolve multi-timeline selection timed out; bulk GetIsTrackEnabled invalid for unselected timelines; no false disabled-track claim",
-  "restore_observed": "เกรตจากราส_Monster Hunter World-vdo",
-  "restore_evidence": "Windows app screenshot after activating Resolve",
-  "timeline_edits": false
-}

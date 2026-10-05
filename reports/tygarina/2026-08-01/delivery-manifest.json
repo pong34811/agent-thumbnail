@@ -1,0 +1,258 @@
+[
+  {
+    "timeline": "กินแต่เซเว่นทุกวัน-vdo",
+    "orientation": "landscape",
+    "file": "กินแต่เซเว่นทุกวัน-vdo.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "กินแต่เซเว่น!"
+    ],
+    "secondary": [
+      "วนลูป 3 เมนูทุกเช้า"
+    ],
+    "model": "C:\\Users\\warit\\Downloads\\โม_\\4.png",
+    "mood": "หัวเราะตาปิด ขำตัวเองที่กินวนลูป 3 เมนูเดิมๆ",
+    "source_path": "G:\\My Drive\\Projects\\Tygarina\\2026-08-01\\กินแต่เซเว่นทุกวัน.mov",
+    "background_frame_time": "00:00:06",
+    "background_note": "blurred background only; not event evidence",
+    "evidence": "00:00:08 'เราวนลูป อยู่สามเมนู'; 00:00:13 'เซเว่นทั้งหมดเลยนะ'"
+  },
+  {
+    "timeline": "กินแต่เซเว่นทุกวัน-vdo_9x16",
+    "orientation": "shorts",
+    "file": "กินแต่เซเว่นทุกวัน-vdo_9x16.jpg",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "กินแต่เซเว่น!"
+    ],
+    "secondary": [
+      "วนลูป 3 เมนูทุกเช้า"
+    ],
+    "model": "C:\\Users\\warit\\Downloads\\โม_\\4.png",
+    "mood": "หัวเราะตาปิด ขำตัวเองที่กินวนลูป 3 เมนูเดิมๆ",
+    "source_path": "G:\\My Drive\\Projects\\Tygarina\\2026-08-01\\กินแต่เซเว่นทุกวัน.mov",
+    "background_frame_time": "00:00:06",
+    "background_note": "blurred background only; not event evidence",
+    "evidence": "00:00:08 'เราวนลูป อยู่สามเมนู'; 00:00:13 'เซเว่นทั้งหมดเลยนะ'"
+  },
+  {
+    "timeline": "ของับหูไทกะหน่อยสิ-vdo",
+    "orientation": "landscape",
+    "file": "ของับหูไทกะหน่อยสิ-vdo.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ขอ งับหูหน่อย!"
+    ],
+    "secondary": [
+      "เสือจีบหญิงเลเวลอัป?!"
+    ],
+    "model": "C:\\Users\\warit\\Downloads\\โม_\\3.png",
+    "mood": "ยิ้มตาปิด เขินปนกวน เมื่อโดนขอของับหู",
+    "source_path": "G:\\My Drive\\Projects\\Tygarina\\2026-08-01\\ของับหูไทกะหน่อยสิ.mov",
+    "background_frame_time": "00:00:05",
+    "background_note": "blurred background only; not event evidence",
+    "evidence": "00:00:00 'ของับหู'; 00:00:09 'ที่เป็นเสือ'; 00:00:11 'ให้เลเวล'"
+  },
+  {
+    "timeline": "ของับหูไทกะหน่อยสิ-vdo_9x16",
+    "orientation": "shorts",
+    "file": "ของับหูไทกะหน่อยสิ-vdo_9x16.jpg",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ขอ งับหูหน่อย!"
+    ],
+    "secondary": [
+      "เสือจีบหญิงเลเวลอัป?!"
+    ],
+    "model": "C:\\Users\\warit\\Downloads\\โม_\\3.png",
+    "mood": "ยิ้มตาปิด เขินปนกวน เมื่อโดนขอของับหู",
+    "source_path": "G:\\My Drive\\Projects\\Tygarina\\2026-08-01\\ของับหูไทกะหน่อยสิ.mov",
+    "background_frame_time": "00:00:05",
+    "background_note": "blurred background only; not event evidence",
+    "evidence": "00:00:00 'ของับหู'; 00:00:09 'ที่เป็นเสือ'; 00:00:11 'ให้เลเวล'"
+  },
+  {
+    "timeline": "ถ้าคุณคามิเป็นผู้สาวละก็-vdo",
+    "orientation": "landscape",
+    "file": "ถ้าคุณคามิเป็นผู้สาวละก็-vdo.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ได้ใจหนูไปแล้ว!"
+    ],
+    "secondary": [
+      "ถ้าคุณคามิเป็นผู้หญิง..."
+    ],
+    "model": "C:\\Users\\warit\\Downloads\\โม_\\1.png",
+    "mood": "ยิ้มหวาน ตาประกาย หยอดหวานใส่คนดู",
+    "source_path": "G:\\My Drive\\Projects\\Tygarina\\2026-08-01\\ถ้าคุณคามิเป็นผู้สาวละก็.mov",
+    "background_frame_time": "00:00:08",
+    "background_note": "blurred background only; not event evidence",
+    "evidence": "00:00:12 'จะได้ใจ'; 00:00:15 'คามิก็ได้ใจ'"
+  },
+  {
+    "timeline": "ถ้าคุณคามิเป็นผู้สาวละก็-vdo_9x16",
+    "orientation": "shorts",
+    "file": "ถ้าคุณคามิเป็นผู้สาวละก็-vdo_9x16.jpg",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ได้ใจหนูไปแล้ว!"
+    ],
+    "secondary": [
+      "ถ้าคุณคามิเป็นผู้หญิง..."
+    ],
+    "model": "C:\\Users\\warit\\Downloads\\โม_\\1.png",
+    "mood": "ยิ้มหวาน ตาประกาย หยอดหวานใส่คนดู",
+    "source_path": "G:\\My Drive\\Projects\\Tygarina\\2026-08-01\\ถ้าคุณคามิเป็นผู้สาวละก็.mov",
+    "background_frame_time": "00:00:08",
+    "background_note": "blurred background only; not event evidence",
+    "evidence": "00:00:12 'จะได้ใจ'; 00:00:15 'คามิก็ได้ใจ'"
+  },
+  {
+    "timeline": "รักแม่เขามา 10 ปี-vdo",
+    "orientation": "landscape",
+    "file": "รักแม่เขามา 10 ปี-vdo.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "รักแม่เขามา",
+      "10 ปี?!"
+    ],
+    "secondary": [
+      "มาเฟียอยากได้ก็แค่คว้า"
+    ],
+    "model": "C:\\Users\\warit\\Downloads\\โม_\\dsada.png",
+    "mood": "หน้ามืด มีเงาดำตกกระทบหน้า ช็อก ดาร์ก สไตล์มาเฟีย",
+    "source_path": "G:\\My Drive\\Projects\\Tygarina\\2026-08-01\\รักแม่เขามา 10 ปี.mov",
+    "background_frame_time": "00:00:05",
+    "background_note": "blurred background only; not event evidence",
+    "evidence": "00:00:00 'เราเป็นมาเฟีย'; 00:00:02 'เราก็แค่คว้า'; 00:00:48 'ประมาณ 10 ปี'"
+  },
+  {
+    "timeline": "รักแม่เขามา 10 ปี-vdo_9x16",
+    "orientation": "shorts",
+    "file": "รักแม่เขามา 10 ปี-vdo_9x16.jpg",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "รักแม่เขามา",
+      "10 ปี?!"
+    ],
+    "secondary": [
+      "มาเฟียอยากได้ก็แค่คว้า"
+    ],
+    "model": "C:\\Users\\warit\\Downloads\\โม_\\dsada.png",
+    "mood": "หน้ามืด มีเงาดำตกกระทบหน้า ช็อก ดาร์ก สไตล์มาเฟีย",
+    "source_path": "G:\\My Drive\\Projects\\Tygarina\\2026-08-01\\รักแม่เขามา 10 ปี.mov",
+    "background_frame_time": "00:00:05",
+    "background_note": "blurred background only; not event evidence",
+    "evidence": "00:00:00 'เราเป็นมาเฟีย'; 00:00:02 'เราก็แค่คว้า'; 00:00:48 'ประมาณ 10 ปี'"
+  },
+  {
+    "timeline": "รู้จักกะทงทองไหม-vdo",
+    "orientation": "landscape",
+    "file": "รู้จักกะทงทองไหม-vdo.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "กินครั้งเดียว",
+      "ในชีวิต!"
+    ],
+    "secondary": [
+      "รู้จักกระทงทองไหม?"
+    ],
+    "model": "C:\\Users\\warit\\Downloads\\โม_\\dsadadsad.png",
+    "mood": "ดันแว่น ท่าทางเล่าเรื่อง ชวนคุยถามคนดูอย่างมั่นใจ",
+    "source_path": "G:\\My Drive\\Projects\\Tygarina\\2026-08-01\\รู้จักกะทงทองไหม.mov",
+    "background_frame_time": "00:00:07",
+    "background_note": "blurred background only; not event evidence",
+    "evidence": "00:00:09 'เดียวในชีวิต'; 00:00:16 'คุณรู้จักกระทงทอง'"
+  },
+  {
+    "timeline": "รู้จักกะทงทองไหม-vdo_9x16",
+    "orientation": "shorts",
+    "file": "รู้จักกะทงทองไหม-vdo_9x16.jpg",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "กินครั้งเดียว",
+      "ในชีวิต!"
+    ],
+    "secondary": [
+      "รู้จักกระทงทองไหม?"
+    ],
+    "model": "C:\\Users\\warit\\Downloads\\โม_\\dsadadsad.png",
+    "mood": "ดันแว่น ท่าทางเล่าเรื่อง ชวนคุยถามคนดูอย่างมั่นใจ",
+    "source_path": "G:\\My Drive\\Projects\\Tygarina\\2026-08-01\\รู้จักกะทงทองไหม.mov",
+    "background_frame_time": "00:00:07",
+    "background_note": "blurred background only; not event evidence",
+    "evidence": "00:00:09 'เดียวในชีวิต'; 00:00:16 'คุณรู้จักกระทงทอง'"
+  },
+  {
+    "timeline": "อยากจับทำเมีย-vdo",
+    "orientation": "landscape",
+    "file": "อยากจับทำเมีย-vdo.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "น่าทำเมียมาก!"
+    ],
+    "secondary": [
+      "ขอพูดตรงๆ เลยนะ"
+    ],
+    "model": "C:\\Users\\warit\\Downloads\\โม_\\dsadsadas.png",
+    "mood": "แลบลิ้น ขี้เล่น กวนๆ แฟรงค์ๆ ชมว่าน้องน่ารักมาก",
+    "source_path": "G:\\My Drive\\Projects\\Tygarina\\2026-08-01\\อยากจับทำเมีย.mov",
+    "background_frame_time": "00:00:09",
+    "background_note": "blurred background only; not event evidence",
+    "evidence": "00:00:07 'ทำเมียมาก'; 00:00:10 'น้องน่ารัก'"
+  },
+  {
+    "timeline": "อยากจับทำเมีย-vdo_9x16",
+    "orientation": "shorts",
+    "file": "อยากจับทำเมีย-vdo_9x16.jpg",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "น่าทำเมียมาก!"
+    ],
+    "secondary": [
+      "ขอพูดตรงๆ เลยนะ"
+    ],
+    "model": "C:\\Users\\warit\\Downloads\\โม_\\dsadsadas.png",
+    "mood": "แลบลิ้น ขี้เล่น กวนๆ แฟรงค์ๆ ชมว่าน้องน่ารักมาก",
+    "source_path": "G:\\My Drive\\Projects\\Tygarina\\2026-08-01\\อยากจับทำเมีย.mov",
+    "background_frame_time": "00:00:09",
+    "background_note": "blurred background only; not event evidence",
+    "evidence": "00:00:07 'ทำเมียมาก'; 00:00:10 'น้องน่ารัก'"
+  }
+]

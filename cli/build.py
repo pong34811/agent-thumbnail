@@ -1,12 +1,9 @@
 """Unified CLI to build VTuber thumbnails for YouTube Landscape (16:9) and Shorts (9:16).
 
-Supports:
-1. Predefined project builds:
-    python -m cli.build --project tygarina
-    python -m cli.build --project armigon
-    python -m cli.build --project aomi_debut
-2. Direct ad-hoc generation for any channel:
-    python -m cli.build --channel katy404 --hook "เหล็กกองใหญ่" --sec "ขุดมั่วก็เจอ" --bg "bg.jpg" --avatar "model.png"
+Enforces:
+- outputs/<channel>/<date>/ contains 100% ONLY image files.
+- reports/<channel>/<date>/ stores manifests and QC logs.
+- Auto-opens Windows File Explorer for the user.
 """
 
 import argparse
@@ -14,6 +11,7 @@ import datetime
 import importlib
 import json
 import os
+import shutil
 import sys
 from pathlib import Path
 from typing import Dict, Any, Optional, List, Tuple
@@ -29,20 +27,11 @@ from src.engine import (
     LANDSCAPE_DIMS,
     SHORTS_DIMS,
 )
-from cli.organize import update_latest
 from cli.open import open_folder
+from cli.organize import sync_channel_latest
 
-CHANNELS_DIR = REPO_ROOT / "outputs" / "channels"
-
-
-def load_channels_registry() -> Dict[str, Any]:
-    reg_file = REPO_ROOT / "projects" / "channels.json"
-    if reg_file.exists():
-        try:
-            return json.loads(reg_file.read_text(encoding="utf-8"))
-        except Exception:
-            pass
-    return {}
+OUTPUTS_DIR = REPO_ROOT / "outputs"
+REPORTS_DIR = REPO_ROOT / "reports"
 
 
 def load_project_mapping(project_name: str) -> Dict[str, Any]:
@@ -58,7 +47,6 @@ def load_project_mapping(project_name: str) -> Dict[str, Any]:
             "accents": getattr(mod, "ACCENTS", {}),
         }
     except ModuleNotFoundError:
-        # Fallback to direct mapping under projects/
         for p in (REPO_ROOT / "projects").iterdir():
             if p.is_dir() and p.name.lower().replace("-", "_") == norm_name:
                 mod = importlib.import_module(f"projects.{p.name}.mapping")
@@ -77,7 +65,6 @@ def load_image_safe(path: Optional[str], default_dims: Tuple[int, int]) -> Image
             return Image.open(path).convert("RGBA")
         except Exception as e:
             print(f"Warning: Failed to load image {path}: {e}")
-    # Return placeholder
     return Image.new("RGBA", default_dims, (20, 24, 38, 255))
 
 
@@ -94,16 +81,13 @@ def build_adhoc_thumbnail(
     emotion_marker: Optional[Tuple[str, Tuple[int, int]]] = None,
     auto_open: bool = True,
 ) -> Dict[str, Any]:
-    """Builds an ad-hoc thumbnail for any channel and places it into the channel folder."""
+    """Builds an ad-hoc thumbnail and places image files directly in outputs/<channel>/<date>/."""
     ch_clean = channel.lower().replace("-", "_")
     target_date = date_str or datetime.date.today().strftime("%Y-%m-%d")
-    output_dir = CHANNELS_DIR / ch_clean / target_date
-    land_dir = output_dir / "16x9_Landscape"
-    shorts_dir = output_dir / "9x16_Shorts"
-    reports_dir = output_dir / "_reports"
+    output_dir = OUTPUTS_DIR / ch_clean / target_date
+    reports_dir = REPORTS_DIR / ch_clean / target_date
 
-    land_dir.mkdir(parents=True, exist_ok=True)
-    shorts_dir.mkdir(parents=True, exist_ok=True)
+    output_dir.mkdir(parents=True, exist_ok=True)
     reports_dir.mkdir(parents=True, exist_ok=True)
 
     compositor = ThumbnailCompositor(font_path=font_path)
@@ -125,7 +109,7 @@ def build_adhoc_thumbnail(
             focus_circle=focus_circle,
             emotion_marker=emotion_marker,
         )
-        out_file = land_dir / f"{safe_title}.jpg"
+        out_file = output_dir / f"{safe_title}.jpg"
         img.save(out_file, quality=92)
         manifest.append({
             "title": safe_title,
@@ -145,7 +129,7 @@ def build_adhoc_thumbnail(
             secondary_lines=sec,
             emotion_marker=emotion_marker,
         )
-        out_file = shorts_dir / f"{safe_title}-short.jpg"
+        out_file = output_dir / f"{safe_title}-short.jpg"
         img.save(out_file, quality=92)
         manifest.append({
             "title": safe_title,
@@ -155,15 +139,14 @@ def build_adhoc_thumbnail(
             "size": list(SHORTS_DIMS),
         })
 
-    # Write manifest
+    # Write manifest into reports/
     man_file = reports_dir / "delivery-manifest.json"
     man_file.write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    # Update latest pointer
-    latest_dir = CHANNELS_DIR / ch_clean / "_LATEST"
-    update_latest(latest_dir, output_dir)
-    update_latest(REPO_ROOT / "outputs" / "_LATEST_DELIVERY", output_dir)
+    # Update latest mirror
+    sync_channel_latest(ch_clean)
 
+    latest_dir = OUTPUTS_DIR / ch_clean / "_LATEST"
     if auto_open:
         open_folder(latest_dir)
 
@@ -189,13 +172,10 @@ def build_project_batch(
     channel_name = mapping.get("channel", project_name).lower().replace("-", "_")
 
     target_date = datetime.date.today().strftime("%Y-%m-%d")
-    output_dir = CHANNELS_DIR / channel_name / target_date
-    land_dir = output_dir / "16x9_Landscape"
-    shorts_dir = output_dir / "9x16_Shorts"
-    reports_dir = output_dir / "_reports"
+    output_dir = OUTPUTS_DIR / channel_name / target_date
+    reports_dir = REPORTS_DIR / channel_name / target_date
 
-    land_dir.mkdir(parents=True, exist_ok=True)
-    shorts_dir.mkdir(parents=True, exist_ok=True)
+    output_dir.mkdir(parents=True, exist_ok=True)
     reports_dir.mkdir(parents=True, exist_ok=True)
 
     compositor = ThumbnailCompositor(font_path=font_path)
@@ -217,13 +197,11 @@ def build_project_batch(
         focus_circle = tl.get("focus_circle")
         emotion_marker = tl.get("emotion_marker")
 
-        # Load avatar if specified
         av_img = None
         av_path = tl.get("avatar") or tl.get("model_file")
         if av_path and Path(av_path).is_file():
             av_img = Image.open(av_path).convert("RGBA")
 
-        # Fallback background
         bg_path = tl.get("frame_path") or tl.get("video")
         dummy_bg = load_image_safe(bg_path, LANDSCAPE_DIMS)
 
@@ -237,7 +215,7 @@ def build_project_batch(
                 focus_circle=focus_circle,
                 emotion_marker=emotion_marker,
             )
-            land_file = land_dir / f"{safe_title}.jpg"
+            land_file = output_dir / f"{safe_title}.jpg"
             land_img.save(land_file, quality=92)
             manifest.append({
                 "title": tl_title,
@@ -256,7 +234,7 @@ def build_project_batch(
                 secondary_lines=sec,
                 emotion_marker=emotion_marker,
             )
-            short_file = shorts_dir / f"{safe_title}-short.jpg"
+            short_file = output_dir / f"{safe_title}-short.jpg"
             short_img.save(short_file, quality=92)
             manifest.append({
                 "title": tl_title,
@@ -265,14 +243,13 @@ def build_project_batch(
                 "path": str(short_file),
             })
 
-    # Save manifest
+    # Save manifest into reports/
     man_file = reports_dir / "delivery-manifest.json"
     man_file.write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    latest_dir = CHANNELS_DIR / channel_name / "_LATEST"
-    update_latest(latest_dir, output_dir)
-    update_latest(REPO_ROOT / "outputs" / "_LATEST_DELIVERY", output_dir)
+    sync_channel_latest(channel_name)
 
+    latest_dir = OUTPUTS_DIR / channel_name / "_LATEST"
     if auto_open:
         open_folder(latest_dir)
 

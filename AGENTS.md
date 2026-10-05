@@ -64,31 +64,21 @@
 
 ทุกครั้งที่ Agent ทำปกคลิปเสร็จ ไม่ว่าจะเป็นช่องใด (Katy404, Tygarina, Armigon, หรือช่องใหม่):
 
-1. **จัดเก็บแยกช่องและสัดส่วนภาพชัดเจน (ห้ามปนกัน):**
-   ผลลัพธ์ภาพปกต้องอยู่ในโครงสร้าง:
-   ```
-   outputs/channels/<channel_name>/<YYYY-MM-DD>/
-       ├── 16x9_Landscape/    (ภาพปกแนวนอนทั้งหมด)
-       ├── 9x16_Shorts/       (ภาพปก Shorts แนวตั้งทั้งหมด)
-       ├── _summary_previews/ (ภาพรวม/Overview)
-       ├── _reports/          (QC report, Manifest, logs - แยกไม่ให้เกะกะสายตา)
-       └── <Channel>-<Date>.zip
-   ```
-   และอัปเดตโฟลเดอร์ลัดเสมอ:
-   - `outputs/channels/<channel_name>/_LATEST`
-   - `outputs/_LATEST_DELIVERY`
-   *(สามารถรัน `python -m cli.organize` เพื่อจัดระเบียบและซิงก์โฟลเดอร์ล่าสุดได้ทันที)*
+1. **โฟลเดอร์ outputs ต้องมี "เฉพาะรูปภาพเท่านั้น" (100% Images Only):**
+   - **`outputs/<channel_name>/<YYYY-MM-DD>/`**: รวมภาพปกทั้งหมด (ทั้ง 16:9 แนวนอน และ 9:16 Shorts) อยู่ในโฟลเดอร์นี้ด้วยกัน **โดยไม่ต้องแยกโฟลเดอร์ย่อย** และ **ห้ามมีไฟล์อื่นที่ไม่ใช่รูปภาพ (.jpg, .png) ใน outputs เด็ดขาด!**
+   - **`outputs/<channel_name>/_LATEST/`**: โฟลเดอร์ทางลัดรวมภาพของรอบล่าสุด
+   - **`reports/<channel_name>/<YYYY-MM-DD>/`**: สำหรับเก็บไฟล์ `.json`, `.md`, `.log` (Manifest และ QC)
+   - **`packages/<channel_name>/<YYYY-MM-DD>/`**: สำหรับเก็บไฟล์ `.zip` สำหรับส่งมอบ
 
 2. **เปิดหน้าต่างไฟล์ให้ผู้ใช้ดูอัตโนมัติ (บังคับ):**
    เมื่อทำภาพเสร็จ Agent ต้องรันคำสั่ง:
    ```bash
    python -m cli.open <channel_name>
    ```
-   คำสั่งนี้จะเปิดหน้าต่าง Windows File Explorer ไปยังโฟลเดอร์ผลลัพธ์ล่าสุดบนหน้าจอของผู้ใช้ทันที โดยที่ผู้ใช้ไม่ต้องไปค้นหาเอง
+   คำสั่งนี้จะเปิดหน้าต่าง Windows File Explorer ไปยังโฟลเดอร์ `outputs/<channel>/_LATEST` บนหน้าจอของผู้ใช้ทันที โดยที่ผู้ใช้ไม่ต้องไปค้นหาเอง
 
 3. **ส่งมอบด้วย Clickable Link ในข้อความสุดท้ายเสมอ:**
    ในข้อความตอบกลับผู้ใช้ Agent ต้องใส่ลิงก์ Markdown ตรงไปยังโฟลเดอร์ภาพ เช่น:
-   - `[เปิดโฟลเดอร์ปก 16:9 แนวนอน](file:///C:/Users/warit/Desktop/agent-thumbnail/outputs/channels/<channel>/_LATEST/16x9_Landscape)`
-   - `[เปิดโฟลเดอร์ปก Shorts แนวตั้ง](file:///C:/Users/warit/Desktop/agent-thumbnail/outputs/channels/<channel>/_LATEST/9x16_Shorts)`
-   - `[เปิดโฟลเดอร์ส่งมอบทั้งหมด](file:///C:/Users/warit/Desktop/agent-thumbnail/outputs/channels/<channel>/_LATEST)`
+   - `[เปิดโฟลเดอร์ภาพปกทั้งหมด](file:///C:/Users/warit/Desktop/agent-thumbnail/outputs/<channel>/_LATEST)`
+
 

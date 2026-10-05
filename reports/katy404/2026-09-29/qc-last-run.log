@@ -1,0 +1,964 @@
+[
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\กองทัพโอลด์วัน_Terraria-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 616166,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\กองทัพโอลด์วัน_Terraria-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 629623,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\เกรตจากราส_Monster Hunter World-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 464565,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\เกรตจากราส_Monster Hunter World-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 489496,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ขุดมั่วเจอเหล็กกองใหญ่_Minecraft-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 430540,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ขุดมั่วเจอเหล็กกองใหญ่_Minecraft-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 435424,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ครีปเปอร์ระเบิดข้างกรง แต่กรงยังรอด_Minecraft-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 450146,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ครีปเปอร์ระเบิดข้างกรง แต่กรงยังรอด_Minecraft-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 447627,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\คืนจันทร์ฟักทอง_Terraria-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 338844,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\คืนจันทร์ฟักทอง_Terraria-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 326043,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\คุยกับเพื่อนตั้งนาน ลืมเอาเสียงเข้าไลฟ์_Minecraft-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 424307,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\คุยกับเพื่อนตั้งนาน ลืมเอาเสียงเข้าไลฟ์_Minecraft-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 378380,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\คูลูยาคู_Monster Hunter World-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 411605,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\คูลูยาคู_Monster Hunter World-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 461855,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\เคลียร์เมืองนรก_Soul Walker-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 518916,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\เคลียร์เมืองนรก_Soul Walker-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 558400,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\จูราทอดัส_Monster Hunter World-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 500215,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\จูราทอดัส_Monster Hunter World-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 521358,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ชวนชาวบ้านเพิ่มประชากร ขนมปังหายครึ่งกอง_Minecraft-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 518462,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ชวนชาวบ้านเพิ่มประชากร ขนมปังหายครึ่งกอง_Minecraft-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 498317,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ชวนเพื่อนไม่ได้ เพราะเผลอแบล็กลิสต์กัน_Soul Walker-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 552009,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ชวนเพื่อนไม่ได้ เพราะเผลอแบล็กลิสต์กัน_Soul Walker-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 594611,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\โดนบอสจับจนต้องใช้ท่าพิเศษสองครั้ง_Soul Walker-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 496583,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\โดนบอสจับจนต้องใช้ท่าพิเศษสองครั้ง_Soul Walker-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 458294,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ต้องพายเรือ หรือหิ้วเรือขึ้นเขา_Minecraft-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 507621,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ต้องพายเรือ หรือหิ้วเรือขึ้นเขา_Minecraft-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 506687,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ตัวละครโผล่ตอนสู้บอส_Terraria-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 655403,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ตัวละครโผล่ตอนสู้บอส_Terraria-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 635976,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ทำฟาร์มในหิมะ น้ำแข็งจนต้องทำหลังคา_Minecraft-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 549559,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ทำฟาร์มในหิมะ น้ำแข็งจนต้องทำหลังคา_Minecraft-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 584021,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\นับถอยหลังในห้องโล่_Soul Walker-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 450972,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\นับถอยหลังในห้องโล่_Soul Walker-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 440519,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\บอสมังกร_Soul Walker-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 533597,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\บอสมังกร_Soul Walker-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 576977,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\บาร์รอธ_Monster Hunter World-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 402795,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\บาร์รอธ_Monster Hunter World-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 442665,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ปราบโกเล็มสำเร็จ_Soul Walker-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 469193,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ปราบโกเล็มสำเร็จ_Soul Walker-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 455758,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ปราบมูนลอร์ดได้ครั้งที่สอง_Terraria-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 577264,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ปราบมูนลอร์ดได้ครั้งที่สอง_Terraria-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 521298,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ปราบมูนลอร์ดได้ครั้งแรก_Terraria-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 444757,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ปราบมูนลอร์ดได้ครั้งแรก_Terraria-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 420418,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\พาชาวบ้านกลับฐาน รอดมาได้ตัวเดียว_Minecraft-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 517719,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\พาชาวบ้านกลับฐาน รอดมาได้ตัวเดียว_Minecraft-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 543926,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\พูเคพูเค_Monster Hunter World-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 426229,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\พูเคพูเค_Monster Hunter World-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 442774,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\แพ้มูนลอร์ด_Terraria-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 309966,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\แพ้มูนลอร์ด_Terraria-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 307210,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ลืมเสบียง จนต้องกินเนื้อซอมบี้_Minecraft-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 404880,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ลืมเสบียง จนต้องกินเนื้อซอมบี้_Minecraft-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 381661,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\สุ่มปี่สก็อตเหล็ก_Monster Hunter World-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 397264,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\สุ่มปี่สก็อตเหล็ก_Monster Hunter World-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 431906,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\เสียงสะท้อนสยองขวัญ_Soul Walker-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 481625,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\เสียงสะท้อนสยองขวัญ_Soul Walker-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 504900,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\หนีฝ่าความหนาว_Minecraft-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 379652,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\หนีฝ่าความหนาว_Minecraft-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 382556,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\เห็นแร่จนสงสัยว่าตัวเองมีเอกซเรย์_Minecraft-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 395418,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\เห็นแร่จนสงสัยว่าตัวเองมีเอกซเรย์_Minecraft-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 364915,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ออกหาตัวละคร วนกลับมาบ้านตัวเอง_Minecraft-vdo_9x16.jpg",
+    "width": 1080,
+    "height": 1920,
+    "ratio": 0.5625,
+    "kind": "shorts-9:16",
+    "bytes": 476855,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  },
+  {
+    "file": "C:\\Users\\warit\\Desktop\\agent-thumbnail\\outputs\\katy404-20260929\\jpg\\ออกหาตัวละคร วนกลับมาบ้านตัวเอง_Minecraft-vdo.jpg",
+    "width": 1920,
+    "height": 1080,
+    "ratio": 1.7778,
+    "kind": "landscape-16:9",
+    "bytes": 453358,
+    "mode": "RGB",
+    "format": "JPEG",
+    "icc_profile": true,
+    "issues": []
+  }
+]
+previews:
+  outputs\katy404-20260929\qc\กองทัพโอลด์วัน_Terraria-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\กองทัพโอลด์วัน_Terraria-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\กองทัพโอลด์วัน_Terraria-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\กองทัพโอลด์วัน_Terraria-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\กองทัพโอลด์วัน_Terraria-vdo_mobile.png
+  outputs\katy404-20260929\qc\กองทัพโอลด์วัน_Terraria-vdo_gray.png
+  outputs\katy404-20260929\qc\กองทัพโอลด์วัน_Terraria-vdo_squint.png
+  outputs\katy404-20260929\qc\กองทัพโอลด์วัน_Terraria-vdo_badge.png
+  outputs\katy404-20260929\qc\เกรตจากราส_Monster Hunter World-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\เกรตจากราส_Monster Hunter World-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\เกรตจากราส_Monster Hunter World-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\เกรตจากราส_Monster Hunter World-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\เกรตจากราส_Monster Hunter World-vdo_mobile.png
+  outputs\katy404-20260929\qc\เกรตจากราส_Monster Hunter World-vdo_gray.png
+  outputs\katy404-20260929\qc\เกรตจากราส_Monster Hunter World-vdo_squint.png
+  outputs\katy404-20260929\qc\เกรตจากราส_Monster Hunter World-vdo_badge.png
+  outputs\katy404-20260929\qc\ขุดมั่วเจอเหล็กกองใหญ่_Minecraft-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\ขุดมั่วเจอเหล็กกองใหญ่_Minecraft-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\ขุดมั่วเจอเหล็กกองใหญ่_Minecraft-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\ขุดมั่วเจอเหล็กกองใหญ่_Minecraft-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\ขุดมั่วเจอเหล็กกองใหญ่_Minecraft-vdo_mobile.png
+  outputs\katy404-20260929\qc\ขุดมั่วเจอเหล็กกองใหญ่_Minecraft-vdo_gray.png
+  outputs\katy404-20260929\qc\ขุดมั่วเจอเหล็กกองใหญ่_Minecraft-vdo_squint.png
+  outputs\katy404-20260929\qc\ขุดมั่วเจอเหล็กกองใหญ่_Minecraft-vdo_badge.png
+  outputs\katy404-20260929\qc\ครีปเปอร์ระเบิดข้างกรง แต่กรงยังรอด_Minecraft-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\ครีปเปอร์ระเบิดข้างกรง แต่กรงยังรอด_Minecraft-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\ครีปเปอร์ระเบิดข้างกรง แต่กรงยังรอด_Minecraft-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\ครีปเปอร์ระเบิดข้างกรง แต่กรงยังรอด_Minecraft-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\ครีปเปอร์ระเบิดข้างกรง แต่กรงยังรอด_Minecraft-vdo_mobile.png
+  outputs\katy404-20260929\qc\ครีปเปอร์ระเบิดข้างกรง แต่กรงยังรอด_Minecraft-vdo_gray.png
+  outputs\katy404-20260929\qc\ครีปเปอร์ระเบิดข้างกรง แต่กรงยังรอด_Minecraft-vdo_squint.png
+  outputs\katy404-20260929\qc\ครีปเปอร์ระเบิดข้างกรง แต่กรงยังรอด_Minecraft-vdo_badge.png
+  outputs\katy404-20260929\qc\คืนจันทร์ฟักทอง_Terraria-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\คืนจันทร์ฟักทอง_Terraria-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\คืนจันทร์ฟักทอง_Terraria-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\คืนจันทร์ฟักทอง_Terraria-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\คืนจันทร์ฟักทอง_Terraria-vdo_mobile.png
+  outputs\katy404-20260929\qc\คืนจันทร์ฟักทอง_Terraria-vdo_gray.png
+  outputs\katy404-20260929\qc\คืนจันทร์ฟักทอง_Terraria-vdo_squint.png
+  outputs\katy404-20260929\qc\คืนจันทร์ฟักทอง_Terraria-vdo_badge.png
+  outputs\katy404-20260929\qc\คุยกับเพื่อนตั้งนาน ลืมเอาเสียงเข้าไลฟ์_Minecraft-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\คุยกับเพื่อนตั้งนาน ลืมเอาเสียงเข้าไลฟ์_Minecraft-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\คุยกับเพื่อนตั้งนาน ลืมเอาเสียงเข้าไลฟ์_Minecraft-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\คุยกับเพื่อนตั้งนาน ลืมเอาเสียงเข้าไลฟ์_Minecraft-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\คุยกับเพื่อนตั้งนาน ลืมเอาเสียงเข้าไลฟ์_Minecraft-vdo_mobile.png
+  outputs\katy404-20260929\qc\คุยกับเพื่อนตั้งนาน ลืมเอาเสียงเข้าไลฟ์_Minecraft-vdo_gray.png
+  outputs\katy404-20260929\qc\คุยกับเพื่อนตั้งนาน ลืมเอาเสียงเข้าไลฟ์_Minecraft-vdo_squint.png
+  outputs\katy404-20260929\qc\คุยกับเพื่อนตั้งนาน ลืมเอาเสียงเข้าไลฟ์_Minecraft-vdo_badge.png
+  outputs\katy404-20260929\qc\คูลูยาคู_Monster Hunter World-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\คูลูยาคู_Monster Hunter World-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\คูลูยาคู_Monster Hunter World-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\คูลูยาคู_Monster Hunter World-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\คูลูยาคู_Monster Hunter World-vdo_mobile.png
+  outputs\katy404-20260929\qc\คูลูยาคู_Monster Hunter World-vdo_gray.png
+  outputs\katy404-20260929\qc\คูลูยาคู_Monster Hunter World-vdo_squint.png
+  outputs\katy404-20260929\qc\คูลูยาคู_Monster Hunter World-vdo_badge.png
+  outputs\katy404-20260929\qc\เคลียร์เมืองนรก_Soul Walker-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\เคลียร์เมืองนรก_Soul Walker-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\เคลียร์เมืองนรก_Soul Walker-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\เคลียร์เมืองนรก_Soul Walker-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\เคลียร์เมืองนรก_Soul Walker-vdo_mobile.png
+  outputs\katy404-20260929\qc\เคลียร์เมืองนรก_Soul Walker-vdo_gray.png
+  outputs\katy404-20260929\qc\เคลียร์เมืองนรก_Soul Walker-vdo_squint.png
+  outputs\katy404-20260929\qc\เคลียร์เมืองนรก_Soul Walker-vdo_badge.png
+  outputs\katy404-20260929\qc\จูราทอดัส_Monster Hunter World-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\จูราทอดัส_Monster Hunter World-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\จูราทอดัส_Monster Hunter World-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\จูราทอดัส_Monster Hunter World-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\จูราทอดัส_Monster Hunter World-vdo_mobile.png
+  outputs\katy404-20260929\qc\จูราทอดัส_Monster Hunter World-vdo_gray.png
+  outputs\katy404-20260929\qc\จูราทอดัส_Monster Hunter World-vdo_squint.png
+  outputs\katy404-20260929\qc\จูราทอดัส_Monster Hunter World-vdo_badge.png
+  outputs\katy404-20260929\qc\ชวนชาวบ้านเพิ่มประชากร ขนมปังหายครึ่งกอง_Minecraft-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\ชวนชาวบ้านเพิ่มประชากร ขนมปังหายครึ่งกอง_Minecraft-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\ชวนชาวบ้านเพิ่มประชากร ขนมปังหายครึ่งกอง_Minecraft-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\ชวนชาวบ้านเพิ่มประชากร ขนมปังหายครึ่งกอง_Minecraft-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\ชวนชาวบ้านเพิ่มประชากร ขนมปังหายครึ่งกอง_Minecraft-vdo_mobile.png
+  outputs\katy404-20260929\qc\ชวนชาวบ้านเพิ่มประชากร ขนมปังหายครึ่งกอง_Minecraft-vdo_gray.png
+  outputs\katy404-20260929\qc\ชวนชาวบ้านเพิ่มประชากร ขนมปังหายครึ่งกอง_Minecraft-vdo_squint.png
+  outputs\katy404-20260929\qc\ชวนชาวบ้านเพิ่มประชากร ขนมปังหายครึ่งกอง_Minecraft-vdo_badge.png
+  outputs\katy404-20260929\qc\ชวนเพื่อนไม่ได้ เพราะเผลอแบล็กลิสต์กัน_Soul Walker-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\ชวนเพื่อนไม่ได้ เพราะเผลอแบล็กลิสต์กัน_Soul Walker-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\ชวนเพื่อนไม่ได้ เพราะเผลอแบล็กลิสต์กัน_Soul Walker-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\ชวนเพื่อนไม่ได้ เพราะเผลอแบล็กลิสต์กัน_Soul Walker-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\ชวนเพื่อนไม่ได้ เพราะเผลอแบล็กลิสต์กัน_Soul Walker-vdo_mobile.png
+  outputs\katy404-20260929\qc\ชวนเพื่อนไม่ได้ เพราะเผลอแบล็กลิสต์กัน_Soul Walker-vdo_gray.png
+  outputs\katy404-20260929\qc\ชวนเพื่อนไม่ได้ เพราะเผลอแบล็กลิสต์กัน_Soul Walker-vdo_squint.png
+  outputs\katy404-20260929\qc\ชวนเพื่อนไม่ได้ เพราะเผลอแบล็กลิสต์กัน_Soul Walker-vdo_badge.png
+  outputs\katy404-20260929\qc\โดนบอสจับจนต้องใช้ท่าพิเศษสองครั้ง_Soul Walker-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\โดนบอสจับจนต้องใช้ท่าพิเศษสองครั้ง_Soul Walker-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\โดนบอสจับจนต้องใช้ท่าพิเศษสองครั้ง_Soul Walker-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\โดนบอสจับจนต้องใช้ท่าพิเศษสองครั้ง_Soul Walker-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\โดนบอสจับจนต้องใช้ท่าพิเศษสองครั้ง_Soul Walker-vdo_mobile.png
+  outputs\katy404-20260929\qc\โดนบอสจับจนต้องใช้ท่าพิเศษสองครั้ง_Soul Walker-vdo_gray.png
+  outputs\katy404-20260929\qc\โดนบอสจับจนต้องใช้ท่าพิเศษสองครั้ง_Soul Walker-vdo_squint.png
+  outputs\katy404-20260929\qc\โดนบอสจับจนต้องใช้ท่าพิเศษสองครั้ง_Soul Walker-vdo_badge.png
+  outputs\katy404-20260929\qc\ต้องพายเรือ หรือหิ้วเรือขึ้นเขา_Minecraft-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\ต้องพายเรือ หรือหิ้วเรือขึ้นเขา_Minecraft-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\ต้องพายเรือ หรือหิ้วเรือขึ้นเขา_Minecraft-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\ต้องพายเรือ หรือหิ้วเรือขึ้นเขา_Minecraft-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\ต้องพายเรือ หรือหิ้วเรือขึ้นเขา_Minecraft-vdo_mobile.png
+  outputs\katy404-20260929\qc\ต้องพายเรือ หรือหิ้วเรือขึ้นเขา_Minecraft-vdo_gray.png
+  outputs\katy404-20260929\qc\ต้องพายเรือ หรือหิ้วเรือขึ้นเขา_Minecraft-vdo_squint.png
+  outputs\katy404-20260929\qc\ต้องพายเรือ หรือหิ้วเรือขึ้นเขา_Minecraft-vdo_badge.png
+  outputs\katy404-20260929\qc\ตัวละครโผล่ตอนสู้บอส_Terraria-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\ตัวละครโผล่ตอนสู้บอส_Terraria-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\ตัวละครโผล่ตอนสู้บอส_Terraria-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\ตัวละครโผล่ตอนสู้บอส_Terraria-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\ตัวละครโผล่ตอนสู้บอส_Terraria-vdo_mobile.png
+  outputs\katy404-20260929\qc\ตัวละครโผล่ตอนสู้บอส_Terraria-vdo_gray.png
+  outputs\katy404-20260929\qc\ตัวละครโผล่ตอนสู้บอส_Terraria-vdo_squint.png
+  outputs\katy404-20260929\qc\ตัวละครโผล่ตอนสู้บอส_Terraria-vdo_badge.png
+  outputs\katy404-20260929\qc\ทำฟาร์มในหิมะ น้ำแข็งจนต้องทำหลังคา_Minecraft-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\ทำฟาร์มในหิมะ น้ำแข็งจนต้องทำหลังคา_Minecraft-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\ทำฟาร์มในหิมะ น้ำแข็งจนต้องทำหลังคา_Minecraft-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\ทำฟาร์มในหิมะ น้ำแข็งจนต้องทำหลังคา_Minecraft-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\ทำฟาร์มในหิมะ น้ำแข็งจนต้องทำหลังคา_Minecraft-vdo_mobile.png
+  outputs\katy404-20260929\qc\ทำฟาร์มในหิมะ น้ำแข็งจนต้องทำหลังคา_Minecraft-vdo_gray.png
+  outputs\katy404-20260929\qc\ทำฟาร์มในหิมะ น้ำแข็งจนต้องทำหลังคา_Minecraft-vdo_squint.png
+  outputs\katy404-20260929\qc\ทำฟาร์มในหิมะ น้ำแข็งจนต้องทำหลังคา_Minecraft-vdo_badge.png
+  outputs\katy404-20260929\qc\นับถอยหลังในห้องโล่_Soul Walker-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\นับถอยหลังในห้องโล่_Soul Walker-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\นับถอยหลังในห้องโล่_Soul Walker-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\นับถอยหลังในห้องโล่_Soul Walker-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\นับถอยหลังในห้องโล่_Soul Walker-vdo_mobile.png
+  outputs\katy404-20260929\qc\นับถอยหลังในห้องโล่_Soul Walker-vdo_gray.png
+  outputs\katy404-20260929\qc\นับถอยหลังในห้องโล่_Soul Walker-vdo_squint.png
+  outputs\katy404-20260929\qc\นับถอยหลังในห้องโล่_Soul Walker-vdo_badge.png
+  outputs\katy404-20260929\qc\บอสมังกร_Soul Walker-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\บอสมังกร_Soul Walker-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\บอสมังกร_Soul Walker-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\บอสมังกร_Soul Walker-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\บอสมังกร_Soul Walker-vdo_mobile.png
+  outputs\katy404-20260929\qc\บอสมังกร_Soul Walker-vdo_gray.png
+  outputs\katy404-20260929\qc\บอสมังกร_Soul Walker-vdo_squint.png
+  outputs\katy404-20260929\qc\บอสมังกร_Soul Walker-vdo_badge.png
+  outputs\katy404-20260929\qc\บาร์รอธ_Monster Hunter World-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\บาร์รอธ_Monster Hunter World-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\บาร์รอธ_Monster Hunter World-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\บาร์รอธ_Monster Hunter World-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\บาร์รอธ_Monster Hunter World-vdo_mobile.png
+  outputs\katy404-20260929\qc\บาร์รอธ_Monster Hunter World-vdo_gray.png
+  outputs\katy404-20260929\qc\บาร์รอธ_Monster Hunter World-vdo_squint.png
+  outputs\katy404-20260929\qc\บาร์รอธ_Monster Hunter World-vdo_badge.png
+  outputs\katy404-20260929\qc\ปราบโกเล็มสำเร็จ_Soul Walker-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\ปราบโกเล็มสำเร็จ_Soul Walker-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\ปราบโกเล็มสำเร็จ_Soul Walker-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\ปราบโกเล็มสำเร็จ_Soul Walker-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\ปราบโกเล็มสำเร็จ_Soul Walker-vdo_mobile.png
+  outputs\katy404-20260929\qc\ปราบโกเล็มสำเร็จ_Soul Walker-vdo_gray.png
+  outputs\katy404-20260929\qc\ปราบโกเล็มสำเร็จ_Soul Walker-vdo_squint.png
+  outputs\katy404-20260929\qc\ปราบโกเล็มสำเร็จ_Soul Walker-vdo_badge.png
+  outputs\katy404-20260929\qc\ปราบมูนลอร์ดได้ครั้งที่สอง_Terraria-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\ปราบมูนลอร์ดได้ครั้งที่สอง_Terraria-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\ปราบมูนลอร์ดได้ครั้งที่สอง_Terraria-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\ปราบมูนลอร์ดได้ครั้งที่สอง_Terraria-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\ปราบมูนลอร์ดได้ครั้งที่สอง_Terraria-vdo_mobile.png
+  outputs\katy404-20260929\qc\ปราบมูนลอร์ดได้ครั้งที่สอง_Terraria-vdo_gray.png
+  outputs\katy404-20260929\qc\ปราบมูนลอร์ดได้ครั้งที่สอง_Terraria-vdo_squint.png
+  outputs\katy404-20260929\qc\ปราบมูนลอร์ดได้ครั้งที่สอง_Terraria-vdo_badge.png
+  outputs\katy404-20260929\qc\ปราบมูนลอร์ดได้ครั้งแรก_Terraria-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\ปราบมูนลอร์ดได้ครั้งแรก_Terraria-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\ปราบมูนลอร์ดได้ครั้งแรก_Terraria-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\ปราบมูนลอร์ดได้ครั้งแรก_Terraria-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\ปราบมูนลอร์ดได้ครั้งแรก_Terraria-vdo_mobile.png
+  outputs\katy404-20260929\qc\ปราบมูนลอร์ดได้ครั้งแรก_Terraria-vdo_gray.png
+  outputs\katy404-20260929\qc\ปราบมูนลอร์ดได้ครั้งแรก_Terraria-vdo_squint.png
+  outputs\katy404-20260929\qc\ปราบมูนลอร์ดได้ครั้งแรก_Terraria-vdo_badge.png
+  outputs\katy404-20260929\qc\พาชาวบ้านกลับฐาน รอดมาได้ตัวเดียว_Minecraft-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\พาชาวบ้านกลับฐาน รอดมาได้ตัวเดียว_Minecraft-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\พาชาวบ้านกลับฐาน รอดมาได้ตัวเดียว_Minecraft-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\พาชาวบ้านกลับฐาน รอดมาได้ตัวเดียว_Minecraft-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\พาชาวบ้านกลับฐาน รอดมาได้ตัวเดียว_Minecraft-vdo_mobile.png
+  outputs\katy404-20260929\qc\พาชาวบ้านกลับฐาน รอดมาได้ตัวเดียว_Minecraft-vdo_gray.png
+  outputs\katy404-20260929\qc\พาชาวบ้านกลับฐาน รอดมาได้ตัวเดียว_Minecraft-vdo_squint.png
+  outputs\katy404-20260929\qc\พาชาวบ้านกลับฐาน รอดมาได้ตัวเดียว_Minecraft-vdo_badge.png
+  outputs\katy404-20260929\qc\พูเคพูเค_Monster Hunter World-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\พูเคพูเค_Monster Hunter World-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\พูเคพูเค_Monster Hunter World-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\พูเคพูเค_Monster Hunter World-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\พูเคพูเค_Monster Hunter World-vdo_mobile.png
+  outputs\katy404-20260929\qc\พูเคพูเค_Monster Hunter World-vdo_gray.png
+  outputs\katy404-20260929\qc\พูเคพูเค_Monster Hunter World-vdo_squint.png
+  outputs\katy404-20260929\qc\พูเคพูเค_Monster Hunter World-vdo_badge.png
+  outputs\katy404-20260929\qc\แพ้มูนลอร์ด_Terraria-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\แพ้มูนลอร์ด_Terraria-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\แพ้มูนลอร์ด_Terraria-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\แพ้มูนลอร์ด_Terraria-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\แพ้มูนลอร์ด_Terraria-vdo_mobile.png
+  outputs\katy404-20260929\qc\แพ้มูนลอร์ด_Terraria-vdo_gray.png
+  outputs\katy404-20260929\qc\แพ้มูนลอร์ด_Terraria-vdo_squint.png
+  outputs\katy404-20260929\qc\แพ้มูนลอร์ด_Terraria-vdo_badge.png
+  outputs\katy404-20260929\qc\ลืมเสบียง จนต้องกินเนื้อซอมบี้_Minecraft-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\ลืมเสบียง จนต้องกินเนื้อซอมบี้_Minecraft-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\ลืมเสบียง จนต้องกินเนื้อซอมบี้_Minecraft-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\ลืมเสบียง จนต้องกินเนื้อซอมบี้_Minecraft-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\ลืมเสบียง จนต้องกินเนื้อซอมบี้_Minecraft-vdo_mobile.png
+  outputs\katy404-20260929\qc\ลืมเสบียง จนต้องกินเนื้อซอมบี้_Minecraft-vdo_gray.png
+  outputs\katy404-20260929\qc\ลืมเสบียง จนต้องกินเนื้อซอมบี้_Minecraft-vdo_squint.png
+  outputs\katy404-20260929\qc\ลืมเสบียง จนต้องกินเนื้อซอมบี้_Minecraft-vdo_badge.png
+  outputs\katy404-20260929\qc\สุ่มปี่สก็อตเหล็ก_Monster Hunter World-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\สุ่มปี่สก็อตเหล็ก_Monster Hunter World-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\สุ่มปี่สก็อตเหล็ก_Monster Hunter World-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\สุ่มปี่สก็อตเหล็ก_Monster Hunter World-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\สุ่มปี่สก็อตเหล็ก_Monster Hunter World-vdo_mobile.png
+  outputs\katy404-20260929\qc\สุ่มปี่สก็อตเหล็ก_Monster Hunter World-vdo_gray.png
+  outputs\katy404-20260929\qc\สุ่มปี่สก็อตเหล็ก_Monster Hunter World-vdo_squint.png
+  outputs\katy404-20260929\qc\สุ่มปี่สก็อตเหล็ก_Monster Hunter World-vdo_badge.png
+  outputs\katy404-20260929\qc\เสียงสะท้อนสยองขวัญ_Soul Walker-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\เสียงสะท้อนสยองขวัญ_Soul Walker-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\เสียงสะท้อนสยองขวัญ_Soul Walker-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\เสียงสะท้อนสยองขวัญ_Soul Walker-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\เสียงสะท้อนสยองขวัญ_Soul Walker-vdo_mobile.png
+  outputs\katy404-20260929\qc\เสียงสะท้อนสยองขวัญ_Soul Walker-vdo_gray.png
+  outputs\katy404-20260929\qc\เสียงสะท้อนสยองขวัญ_Soul Walker-vdo_squint.png
+  outputs\katy404-20260929\qc\เสียงสะท้อนสยองขวัญ_Soul Walker-vdo_badge.png
+  outputs\katy404-20260929\qc\หนีฝ่าความหนาว_Minecraft-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\หนีฝ่าความหนาว_Minecraft-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\หนีฝ่าความหนาว_Minecraft-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\หนีฝ่าความหนาว_Minecraft-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\หนีฝ่าความหนาว_Minecraft-vdo_mobile.png
+  outputs\katy404-20260929\qc\หนีฝ่าความหนาว_Minecraft-vdo_gray.png
+  outputs\katy404-20260929\qc\หนีฝ่าความหนาว_Minecraft-vdo_squint.png
+  outputs\katy404-20260929\qc\หนีฝ่าความหนาว_Minecraft-vdo_badge.png
+  outputs\katy404-20260929\qc\เห็นแร่จนสงสัยว่าตัวเองมีเอกซเรย์_Minecraft-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\เห็นแร่จนสงสัยว่าตัวเองมีเอกซเรย์_Minecraft-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\เห็นแร่จนสงสัยว่าตัวเองมีเอกซเรย์_Minecraft-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\เห็นแร่จนสงสัยว่าตัวเองมีเอกซเรย์_Minecraft-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\เห็นแร่จนสงสัยว่าตัวเองมีเอกซเรย์_Minecraft-vdo_mobile.png
+  outputs\katy404-20260929\qc\เห็นแร่จนสงสัยว่าตัวเองมีเอกซเรย์_Minecraft-vdo_gray.png
+  outputs\katy404-20260929\qc\เห็นแร่จนสงสัยว่าตัวเองมีเอกซเรย์_Minecraft-vdo_squint.png
+  outputs\katy404-20260929\qc\เห็นแร่จนสงสัยว่าตัวเองมีเอกซเรย์_Minecraft-vdo_badge.png
+  outputs\katy404-20260929\qc\ออกหาตัวละคร วนกลับมาบ้านตัวเอง_Minecraft-vdo_9x16_mobile.png
+  outputs\katy404-20260929\qc\ออกหาตัวละคร วนกลับมาบ้านตัวเอง_Minecraft-vdo_9x16_gray.png
+  outputs\katy404-20260929\qc\ออกหาตัวละคร วนกลับมาบ้านตัวเอง_Minecraft-vdo_9x16_squint.png
+  outputs\katy404-20260929\qc\ออกหาตัวละคร วนกลับมาบ้านตัวเอง_Minecraft-vdo_9x16_badge.png
+  outputs\katy404-20260929\qc\ออกหาตัวละคร วนกลับมาบ้านตัวเอง_Minecraft-vdo_mobile.png
+  outputs\katy404-20260929\qc\ออกหาตัวละคร วนกลับมาบ้านตัวเอง_Minecraft-vdo_gray.png
+  outputs\katy404-20260929\qc\ออกหาตัวละคร วนกลับมาบ้านตัวเอง_Minecraft-vdo_squint.png
+  outputs\katy404-20260929\qc\ออกหาตัวละคร วนกลับมาบ้านตัวเอง_Minecraft-vdo_badge.png
+  outputs\katy404-20260929\qc\feed_sheet.png

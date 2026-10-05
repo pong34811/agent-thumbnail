@@ -1,11 +1,10 @@
-"""Helper command to open the deliverables folder directly in Windows Explorer
-and display clickable URLs.
+"""Helper command to open thumbnail deliverables directly in Windows Explorer.
 
 Usage:
-    python -m cli.open            # Opens the latest delivery across all channels
-    python -m cli.open katy404    # Opens Katy404's latest thumbnails
-    python -m cli.open tygarina   # Opens Tygarina's latest thumbnails
-    python -m cli.open --list     # Lists all available channels and their paths
+    python -m cli.open katy404    # Opens Katy404's latest images folder
+    python -m cli.open tygarina   # Opens Tygarina's latest images folder
+    python -m cli.open            # Opens outputs/ directory
+    python -m cli.open --list     # Lists all available channels and paths
 """
 
 import argparse
@@ -16,23 +15,23 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 OUTPUTS_DIR = REPO_ROOT / "outputs"
-CHANNELS_DIR = OUTPUTS_DIR / "channels"
 
 
 def list_channels():
-    print("\n=== Available Channel Deliverables ===")
-    if not CHANNELS_DIR.exists():
-        print("No channels found. Run 'python -m cli.organize' first.")
+    print("\n=== Available Channel Deliverables (Images Only) ===")
+    if not OUTPUTS_DIR.exists():
+        print("outputs/ directory not found.")
         return
 
-    for ch in CHANNELS_DIR.iterdir():
-        if ch.is_dir():
+    for ch in OUTPUTS_DIR.iterdir():
+        if ch.is_dir() and not ch.name.startswith("."):
             latest = ch / "_LATEST"
-            dates = [d.name for d in ch.iterdir() if d.is_dir() and not d.name.startswith("_")]
+            dates = [d.name for d in ch.iterdir() if d.is_dir() and d.name != "_LATEST" and not d.name.startswith(".")]
+            img_count = len(list(latest.glob("*.jpg"))) + len(list(latest.glob("*.png"))) if latest.exists() else 0
             print(f"- {ch.name.upper()}:")
             print(f"    Latest:   file:///{str(latest.resolve()).replace(chr(92), '/')}")
+            print(f"    Images:   {img_count} images in _LATEST")
             print(f"    Batches:  {', '.join(sorted(dates))}")
-    print(f"\nGlobal Latest: file:///{str((OUTPUTS_DIR / '_LATEST_DELIVERY').resolve()).replace(chr(92), '/')}")
 
 
 def open_folder(target_path: Path):
@@ -48,7 +47,7 @@ def open_folder(target_path: Path):
         try:
             os.startfile(str(target_path.resolve()))
             print("[Opened]: Windows File Explorer has opened the folder.")
-        except Exception as e:
+        except Exception:
             subprocess.run(["explorer.exe", str(target_path.resolve())], check=False)
             print("[Opened]: Launched explorer.exe")
     return True
@@ -65,17 +64,13 @@ def main():
         return
 
     if not args.channel:
-        target = OUTPUTS_DIR / "_LATEST_DELIVERY"
-        if not target.exists():
-            target = CHANNELS_DIR
-        open_folder(target)
+        open_folder(OUTPUTS_DIR)
         return
 
-    ch_name = args.channel.lower().replace("-", "_")
-    target = CHANNELS_DIR / ch_name / "_LATEST"
+    ch_clean = args.channel.lower().replace("-", "_")
+    target = OUTPUTS_DIR / ch_clean / "_LATEST"
     if not target.exists():
-        # Try direct match
-        target = CHANNELS_DIR / args.channel / "_LATEST"
+        target = OUTPUTS_DIR / args.channel / "_LATEST"
 
     if not target.exists():
         print(f"Channel '{args.channel}' not found.")
