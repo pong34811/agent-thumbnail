@@ -3,6 +3,7 @@ __pycache__/
 *$py.class
 .pytest_cache/
 
+
 # Temporary test outputs and frames cache
 outputs/test_*
 outputs/video_frames/
@@ -10,4 +11,7 @@ outputs/*_overview.*
 outputs/tygarina_existing_overview.jpg
 outputs/tygarina-20260801/frames/
 outputs/tygarina-20260801/work/
+outputs/
 tools/tygarina-covers/
+.work/aomi-noblur/
+.work/katy404-assets/tile-*.jpg

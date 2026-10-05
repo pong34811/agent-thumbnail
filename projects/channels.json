@@ -1,0 +1,34 @@
+{
+  "katy404": {
+    "name": "Katy404",
+    "display_name": "KATY404",
+    "accent_color": [236, 28, 36],
+    "default_font": "Mitr-Bold.ttf",
+    "avatar_hints": [
+      "outputs/katy404-assets",
+      ".work/katy404-assets",
+      "G:/My Drive/Projects/Katy404/1.picture"
+    ]
+  },
+  "tygarina": {
+    "name": "Tygarina",
+    "display_name": "Tygarina",
+    "accent_color": [255, 140, 0],
+    "default_font": "Mitr-Bold.ttf",
+    "mapping_module": "projects.tygarina.mapping"
+  },
+  "armigon": {
+    "name": "Armigon",
+    "display_name": "Armigon",
+    "accent_color": [74, 196, 255],
+    "default_font": "Mitr-Bold.ttf",
+    "mapping_module": "projects.armigon.mapping"
+  },
+  "aomi_debut": {
+    "name": "aomi_debut",
+    "display_name": "Aomi Mama Debut",
+    "accent_color": [255, 102, 184],
+    "default_font": "Mitr-Bold.ttf",
+    "mapping_module": "projects.aomi_debut.mapping"
+  }
+}

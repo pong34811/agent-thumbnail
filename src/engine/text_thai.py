@@ -7,8 +7,28 @@ Supports:
 - Upper mark collision detection and left-nudging on tall consonants (ป, ฝ, ฟ)
 """
 import os
+import sys
 from pathlib import Path
 from typing import List, Tuple, Optional
+
+# Ensure libraqm / FriBidi is loaded on Windows for complex Thai OpenType layout
+if os.name == "nt":
+    RUNTIME_DIRS = [
+        Path(__file__).resolve().parent / "runtime",
+        Path(__file__).resolve().parents[2] / "outputs" / "katy404-20260929" / "runtime",
+    ]
+    for rdir in RUNTIME_DIRS:
+        if rdir.is_dir():
+            try:
+                os.add_dll_directory(str(rdir))
+                import ctypes
+                for dll_name in ("fribidi.dll", "libfribidi-0.dll"):
+                    dll_path = rdir / dll_name
+                    if dll_path.is_file():
+                        ctypes.WinDLL(str(dll_path))
+                break
+            except Exception:
+                pass
 
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont

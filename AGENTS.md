@@ -59,3 +59,36 @@
 - **Avatar Silhouette & Gaze:** อวาตาร์วางฝั่งขวาบนปกแนวนอน (สัดส่วน 35-50% ของเฟรม) หลบ UI มุมขวาล่าง มี White Rim Light และ Drop Shadow ดึงโมเดลลอยออกจากฉาก
 - **Unblurred Footage:** ฉากเกมเพลย์คงความคมชัด 0px blur เสมอ แล้วใช้ Gradient Mask ด้านซ้ายเพื่อรองรับตัวหนังสือ
 - **Shorts Composition:** ขนาด 1080x1920 จัดองค์ประกอบให้อวาตาร์และข้อความอยู่ใน Safe Zone ครึ่งบนและกลาง (หลบแถบล่าง 25% และขวา 15%) โดยไม่นำปกแนวนอนมาครอปตรงๆ
+
+## Channel Output & User Handover Protocol (กฎเหล็กการส่งมอบงาน)
+
+ทุกครั้งที่ Agent ทำปกคลิปเสร็จ ไม่ว่าจะเป็นช่องใด (Katy404, Tygarina, Armigon, หรือช่องใหม่):
+
+1. **จัดเก็บแยกช่องและสัดส่วนภาพชัดเจน (ห้ามปนกัน):**
+   ผลลัพธ์ภาพปกต้องอยู่ในโครงสร้าง:
+   ```
+   outputs/channels/<channel_name>/<YYYY-MM-DD>/
+       ├── 16x9_Landscape/    (ภาพปกแนวนอนทั้งหมด)
+       ├── 9x16_Shorts/       (ภาพปก Shorts แนวตั้งทั้งหมด)
+       ├── _summary_previews/ (ภาพรวม/Overview)
+       ├── _reports/          (QC report, Manifest, logs - แยกไม่ให้เกะกะสายตา)
+       └── <Channel>-<Date>.zip
+   ```
+   และอัปเดตโฟลเดอร์ลัดเสมอ:
+   - `outputs/channels/<channel_name>/_LATEST`
+   - `outputs/_LATEST_DELIVERY`
+   *(สามารถรัน `python -m cli.organize` เพื่อจัดระเบียบและซิงก์โฟลเดอร์ล่าสุดได้ทันที)*
+
+2. **เปิดหน้าต่างไฟล์ให้ผู้ใช้ดูอัตโนมัติ (บังคับ):**
+   เมื่อทำภาพเสร็จ Agent ต้องรันคำสั่ง:
+   ```bash
+   python -m cli.open <channel_name>
+   ```
+   คำสั่งนี้จะเปิดหน้าต่าง Windows File Explorer ไปยังโฟลเดอร์ผลลัพธ์ล่าสุดบนหน้าจอของผู้ใช้ทันที โดยที่ผู้ใช้ไม่ต้องไปค้นหาเอง
+
+3. **ส่งมอบด้วย Clickable Link ในข้อความสุดท้ายเสมอ:**
+   ในข้อความตอบกลับผู้ใช้ Agent ต้องใส่ลิงก์ Markdown ตรงไปยังโฟลเดอร์ภาพ เช่น:
+   - `[เปิดโฟลเดอร์ปก 16:9 แนวนอน](file:///C:/Users/warit/Desktop/agent-thumbnail/outputs/channels/<channel>/_LATEST/16x9_Landscape)`
+   - `[เปิดโฟลเดอร์ปก Shorts แนวตั้ง](file:///C:/Users/warit/Desktop/agent-thumbnail/outputs/channels/<channel>/_LATEST/9x16_Shorts)`
+   - `[เปิดโฟลเดอร์ส่งมอบทั้งหมด](file:///C:/Users/warit/Desktop/agent-thumbnail/outputs/channels/<channel>/_LATEST)`
+
