@@ -14,19 +14,26 @@
   - `audit.py` — ตรวจสอบและดึงข้อมูล Project / Timeline แบบ Headless
   - `textplus.py` — สกัดข้อความ Text+ และ Subtitle จาก `.drp`
 - `projects/` — การตั้งค่าและ Mapping ข้อมูลเฉพาะแต่ละโปรเจกต์:
+  - `channels.json` — Central Registry รวบรวมข้อมูลแบรนด์ สีประจำตัว และ Asset ของทุกช่อง
   - `aomi_debut/` — Timeline และข้อมูลปก Aomi Debut
   - `tygarina/` — Timeline และ Hook สำหรับ Tygarina
   - `armigon/` — Timeline 16 ชุด และ Accents สำหรับ Armigon
-- `outputs/2026-10-04/Katy404-2026-09-29/` — ชุดส่งมอบ KATY404 (60 ปก + Shorts v2 30 ใบใน `jpg-shorts-v2/`, manifest, QC, selection, `render_covers.py`); ตัวเรนเดอร์ Shorts v2 อยู่ที่ `.agents/skills/davinci-thumbnails/scripts/katy404_render_shorts_v2.py`
-- `.work/katy404-assets/` — แคตาล็อกและสคริปต์จัดชื่อ asset อวาตาร์ KATY404
+- `outputs/` — แกลเลอรีภาพปก (100% Images Only):
+  - `katy404/` — ปกของ Katy404 (`_LATEST/` และโฟลเดอร์วันที่)
+  - `tygarina/` — ปกของ Tygarina
+  - `armigon/` — ปกของ Armigon
+  - `aomi_debut/` — ปกของ Aomi Debut
+- `reports/` — ที่จัดเก็บไฟล์ `.json` Manifest, รายงาน QC, และ Audit logs
+- `packages/` — ที่จัดเก็บไฟล์บีบอัด `.zip` สำหรับส่งมอบงาน
 - `cli/` — เครื่องมือ Command Line กลาง:
-  - `build.py` — สั่งสร้างปกด้วย `--project <name>`
+  - `build.py` — สั่งสร้างปกด้วย `--project <name>` หรือ Ad-hoc `--channel <name> --hook "..."`
+  - `open.py` — เปิดโฟลเดอร์ภาพปกใน Windows File Explorer ทันที (`python -m cli.open [channel]`)
+  - `organize.py` — จัดระเบียบภาพและซิงก์โฟลเดอร์ `_LATEST`
   - `verify.py` — ตรวจสอบคุณภาพอัตโนมัติ (Dimensions, Max 2MB, sRGB/RGB, Margins, Squint Preview 320x180)
   - `package.py` — ตรวจสอบและบีบอัด ZIP พร้อม Manifest และทดสอบ CRC + Decodability
   - `sample_frames.py` — ดึงเฟรมจากวิดีโอด้วย ffmpeg ตาม Timestamp
 - `tests/` — ชุดการทดสอบระบบอัตโนมัติ (Pytest)
-- `outputs/` — ภาพ JPG, preview, manifest และ ZIP ที่ส่งมอบแล้ว
-- `.agents/skills/davinci-thumbnails/` — องค์ความรู้ด้าน Thumbnail Psychology, CTR Strategy, Canva Workflow และ YouTube Surface Guides
+- `.agents/skills/` — องค์ความรู้ด้าน Thumbnail Psychology, CTR Strategy, Channel Profiles, Canva Workflow และ YouTube Surface Guides
 
 ## Environment & Dependencies
 

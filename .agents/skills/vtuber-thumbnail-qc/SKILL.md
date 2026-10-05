@@ -62,10 +62,10 @@ Acts as Senior YouTube Thumbnail QC Director + VTuber Creative Director + Thai A
 ### Auto-QC after a build
 
 1. Trigger: every cover in the job is exported and `python -m cli.verify` (repo) passes. Don't wait for the user to ask.
-2. Run `scripts/qc_previews.py` on ALL final JPGs in one call (feed sheet doubles as the repetition check, step 17); use the job's hook, timeline/subtitle and `delivery-manifest.json` as content evidence.
-3. 1–3 covers → full 12-section report each. 4+ covers → one summary table (file · score · CRITICAL count · top fix) plus full reports only for covers with any 🔴 or score < 80; for large sets split covers across `delegate_task` children (same rubric, return the table row + report).
+2. Run `scripts/qc_previews.py` on ALL final JPGs in one call (feed sheet doubles as the repetition check, step 17); use the job's hook, timeline/subtitle and manifest in `reports/<channel>/<date>/delivery-manifest.json` as content evidence. (หมายเหตุ: ไฟล์ภาพทั้งหมดอยู่ใน `outputs/<channel>/<date>/` รวมกันทั้ง 16:9 และ Shorts โดยไม่มีโฟลเดอร์ย่อย และไม่มีไฟล์ที่ไม่ใช่ภาพ)
+3. 1–3 covers → full 12-section report each. 4+ covers → one summary table (file · score · CRITICAL count · top fix) plus full reports only for covers with any 🔴 or score < 80; for large sets split covers across `delegate_task` children (same rubric, return the table row + report). บันทึกรายงานลงใน `reports/<channel>/<date>/qc-summary.md`
 4. Fix every 🔴 CRITICAL, rebuild, re-verify, re-QC only the fixed covers; loop until none remain. Can't fix (missing asset/expression)? Stop and report — never mark it passed.
-5. Package/deliver only after QC passes; include the QC summary in the handoff.
+5. Package/deliver only after QC passes; include the QC summary in the handoff. ห้ามเขียนไฟล์ที่ไม่ใช่ภาพลงใน `outputs/` เด็ดขาด
 
 ## Pitfalls
 

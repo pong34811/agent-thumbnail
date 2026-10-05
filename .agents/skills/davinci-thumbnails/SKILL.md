@@ -40,12 +40,20 @@ metadata:
 - `image_generate(...)`
 - **คู่มืออ้างอิงเฉพาะช่อง:**
   - [สไตล์ช่อง Aomi-mama (@aomimamagd47)](references/channel-profiles/aomi-mama.md)
-  - [คู่มือสไตล์ KATY404](references/style-guide.md)
+  - [สไตล์ช่อง Tygarina (@Tygarina)](references/channel-profiles/tygarina.md)
+  - [สไตล์ช่อง Armigon (@Armigon)](references/channel-profiles/armigon.md)
+  - [สไตล์ช่อง KATY404 (@Katy404)](references/channel-profiles/katy404.md)
+  - [คู่มือสไตล์ KATY404 (ละเอียด)](references/style-guide.md)
+- **เครื่องมือสั่งงาน:**
+  - `python -m cli.build` — สร้างภาพปกแบบ Predefined หรือ Ad-hoc พร้อมส่งภาพลง `outputs/<channel>/<date>/`
+  - `python -m cli.open <channel>` — เปิด Windows File Explorer ไปยังโฟลเดอร์ภาพปกบนหน้าจอผู้ใช้ทันที
+  - `python -m cli.organize` — ซิงก์ภาพและอัปเดตโฟลเดอร์ `_LATEST`
 - **ตัวอย่างงานจริง:**
-  - [ปก Shorts KATY404 ชุด 2026-09-29 (v2, 30 ใบ แนวตั้ง)](references/examples/katy404-shorts-v2.md) — สูตรองค์ประกอบ ภาพตัวอย่าง และตัวเรนเดอร์ `scripts/katy404_render_shorts_v2.py`
+  - [ปก Shorts KATY404 ชุด 2026-09-29 (v2, 30 ใบ แนวตั้ง)](references/examples/katy404-shorts-v2.md)
 - **ทฤษฎีและแนวทางปฏิบัติ:**
   - [คู่มือจิตวิทยาปก YouTube VTuber & CTR](references/vtuber-thumbnail-engagement-guide.md)
   - [โน้ตการเรนเดอร์ภาพและจัดวางอักษรไทย](references/jpg-render-notes.md)
+- **กฎเหล็กการส่งมอบ:** โฟลเดอร์ `outputs/<channel>/<date>/` ต้องมีเฉพาะภาพ .jpg/.png 100% ล้วนๆ (รวมแนวนอนและ Shorts ไว้ด้วยกัน ไม่ต้องแยกโฟลเดอร์ย่อย) ส่วนรายงานเก็บใน `reports/` และ ZIP เก็บใน `packages/`
 
 ## Procedure
 
