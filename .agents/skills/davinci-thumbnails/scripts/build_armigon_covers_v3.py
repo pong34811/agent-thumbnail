@@ -10,7 +10,7 @@ from pathlib import Path
 
 from PIL import Image, ImageChops, ImageDraw, ImageEnhance, ImageFilter, ImageFont, ImageOps
 
-from graphics_overlay import draw_hand_drawn_circle, draw_emotion_marker
+from armigon_graphics_overlay import draw_hand_drawn_circle, draw_emotion_marker
 
 # --- Paths -------------------------------------------------------------------
 # Overridable via environment so the module imports and runs on any machine:

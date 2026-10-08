@@ -76,11 +76,11 @@
 ```
 
 ### คลังเครื่องมือและสคริปต์ในระบบ:
-* `tools/timeline-covers/resolve_timeline_audit.py`: เชื่อมต่อ Resolve API อ่าน Metadata ทุก Timeline แบบ Headless
-* `tools/timeline-covers/extract_textplus.py`: ถอดรหัสโครงสร้าง `.drp` ดึงข้อความ Text+ โดยตรงโดยไม่ต้องเปิด Fusion
-* `tools/timeline-covers/sample_frames.py`: แคปเฟรมภาพความละเอียดสูงจาก `src.mp4` ตรงตามจุดเวลาของ Subtitle
-* `tools/timeline-covers/build_covers.py`: เอนจินประกอบภาพแบบ Batch อัตโนมัติ รองรับพารามิเตอร์ Hook, Secondary, Crop, และ Expression
-* `tools/timeline-covers/verify_covers.py`: ระบบตรวจรับประกันคุณภาพอัตโนมัติ (Automated QA Gatekeeper)
+* `(ลบแล้ว) tools/timeline-covers/resolve_timeline_audit.py`: เชื่อมต่อ Resolve API อ่าน Metadata ทุก Timeline แบบ Headless
+* `(ลบแล้ว) tools/timeline-covers/extract_textplus.py`: ถอดรหัสโครงสร้าง `.drp` ดึงข้อความ Text+ โดยตรงโดยไม่ต้องเปิด Fusion
+* `(ลบแล้ว) tools/timeline-covers/sample_frames.py`: แคปเฟรมภาพความละเอียดสูงจาก `src.mp4` ตรงตามจุดเวลาของ Subtitle
+* `(ลบแล้ว) tools/timeline-covers/build_covers.py`: เอนจินประกอบภาพแบบ Batch อัตโนมัติ รองรับพารามิเตอร์ Hook, Secondary, Crop, และ Expression
+* `(ลบแล้ว) tools/timeline-covers/verify_covers.py`: ระบบตรวจรับประกันคุณภาพอัตโนมัติ (Automated QA Gatekeeper)
 * `.agents/skills/davinci-thumbnails/`: ทักษะเอเจนต์พร้อมคู่มือยุทธศาสตร์ [vtuber-thumbnail-engagement-guide.md](.agents/skills/davinci-thumbnails/references/vtuber-thumbnail-engagement-guide.md)
 
 ---
