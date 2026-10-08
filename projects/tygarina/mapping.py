@@ -1,4 +1,9 @@
-"""Project mapping for Tygarina 2026-08-01 (6 Timelines).
+"""Project mapping for Tygarina 2026-08-01 (6 Timelines x 2 orientations).
+
+Single source of truth for tools/timeline-covers/build_tygarina_covers_v2.py.
+`hook` / `sec` are lists of lines. `evidence` is the subtitle cue (timeline time,
+from captions_clipN_fixed*.srt on G:) that supports the hook. `ss_time` is the
+source-video time of the blurred background frame only; it is not event evidence.
 """
 PROJECT_NAME = "tygarina-20260801"
 CHARACTER_NAME = "Tygarina"
@@ -15,6 +20,7 @@ TIMELINES = [
         "mood": "หัวเราะตาปิด ขำตัวเองที่กินวนลูป 3 เมนูเดิมๆ",
         "sec": ["วนลูป 3 เมนูทุกเช้า"],
         "hook": ["กินแต่เซเว่น!"],
+        "evidence": "00:00:08 'เราวนลูป อยู่สามเมนู'; 00:00:13 'เซเว่นทั้งหมดเลยนะ'",
         "ss_time": "00:00:06",
     },
     {
@@ -27,7 +33,8 @@ TIMELINES = [
         "is_bust": True,
         "mood": "ยิ้มตาปิด เขินปนกวน เมื่อโดนขอของับหู",
         "sec": ["เสือจีบหญิงเลเวลอัป?!"],
-        "hook": ["ของับหูหน่อย!"],
+        "hook": ["ขอ งับหูหน่อย!"],
+        "evidence": "00:00:00 'ของับหู'; 00:00:09 'ที่เป็นเสือ'; 00:00:11 'ให้เลเวล'",
         "ss_time": "00:00:05",
     },
     {
@@ -39,8 +46,9 @@ TIMELINES = [
         "model_file": "1.png",
         "is_bust": True,
         "mood": "ยิ้มหวาน ตาประกาย หยอดหวานใส่คนดู",
-        "sec": ["ถ้าคุณคามิเป็นผู้สาว..."],
+        "sec": ["ถ้าคุณคามิเป็นผู้หญิง..."],
         "hook": ["ได้ใจหนูไปแล้ว!"],
+        "evidence": "00:00:12 'จะได้ใจ'; 00:00:15 'คามิก็ได้ใจ'",
         "ss_time": "00:00:08",
     },
     {
@@ -53,9 +61,10 @@ TIMELINES = [
         "is_bust": False,
         "crop_bottom": 2750,
         "mood": "หน้ามืด มีเงาดำตกกระทบหน้า ช็อก ดาร์ก สไตล์มาเฟีย",
-        "sec": ["ความลับ 10 ปีที่เพิ่งรู้"],
-        "hook": ["รักแม่เขามา 10 ปี!"],
-        "ss_time": "00:00:09",
+        "sec": ["มาเฟียอยากได้ก็แค่คว้า"],
+        "hook": ["รักแม่เขามา", "10 ปี?!"],
+        "evidence": "00:00:00 'เราเป็นมาเฟีย'; 00:00:02 'เราก็แค่คว้า'; 00:00:48 'ประมาณ 10 ปี'",
+        "ss_time": "00:00:05",
     },
     {
         "id": 5,
@@ -63,11 +72,14 @@ TIMELINES = [
         "video": "รู้จักกะทงทองไหม.mov",
         "tl_land": "รู้จักกะทงทองไหม-vdo",
         "tl_short": "รู้จักกะทงทองไหม-vdo_9x16",
-        "model_file": "1.png",
-        "is_bust": True,
-        "mood": "ยิ้มสดใส มั่นใจ ภูมิใจในความรู้ของตัวเอง",
-        "sec": ["ขนมไทยโบราณที่หากินยาก"],
-        "hook": ["รู้จักกระทงทองมั้ย?"],
+        "model_file": "dsadadsad.png",
+        "is_bust": False,
+        "alpha_clear": [(500, 2240, 960, 2800)],  # faint line-art hand in the asset (no colour, alpha ~0)
+        "crop_bottom": 2750,
+        "mood": "ดันแว่น ท่าทางเล่าเรื่อง ชวนคุยถามคนดูอย่างมั่นใจ",
+        "sec": ["รู้จักกระทงทองไหม?"],
+        "hook": ["กินครั้งเดียว", "ในชีวิต!"],
+        "evidence": "00:00:09 'เดียวในชีวิต'; 00:00:16 'คุณรู้จักกระทงทอง'",
         "ss_time": "00:00:07",
     },
     {
@@ -76,11 +88,13 @@ TIMELINES = [
         "video": "อยากจับทำเมีย.mov",
         "tl_land": "อยากจับทำเมีย-vdo",
         "tl_short": "อยากจับทำเมีย-vdo_9x16",
-        "model_file": "2.png",
-        "is_bust": True,
-        "mood": "ยิ้มกรุ้มกริ่ม แสบ กวนๆ หว่านเสน่ห์",
-        "sec": ["คำพูดติดปากสุดอันตราย"],
-        "hook": ["อยากจับทำเมีย?!"],
-        "ss_time": "00:00:08",
+        "model_file": "dsadsadas.png",
+        "is_bust": False,
+        "crop_bottom": 2750,
+        "mood": "แลบลิ้น ขี้เล่น กวนๆ แฟรงค์ๆ ชมว่าน้องน่ารักมาก",
+        "sec": ["ขอพูดตรงๆ เลยนะ"],
+        "hook": ["น่าทำเมียมาก!"],
+        "evidence": "00:00:07 'ทำเมียมาก'; 00:00:10 'น้องน่ารัก'",
+        "ss_time": "00:00:09",
     },
 ]
