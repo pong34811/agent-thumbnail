@@ -30,3 +30,13 @@ def test_armigon_timelines():
         assert "avatar" in tl
         assert "game" in tl
         assert tl["game"] in ARMIGON_ACCENTS
+
+
+def test_armigon_has_hooks_and_resolves_models():
+    from cli.build import resolve_text
+    from projects.armigon import mapping
+
+    for tl in ARMIGON_TL.values():
+        assert resolve_text(tl, "hook", "landscape")
+        assert resolve_text(tl, "sec", "landscape")
+    assert mapping.MODEL_DIR.endswith("armigon")

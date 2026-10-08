@@ -166,12 +166,13 @@ class ThumbnailCompositor:
             )
             hook_rendered = render_thai_lines(
                 SHORTS_DIMS,
-                (70, y_cursor),
+                (ShortsLayout.CENTER_X, y_cursor),
                 hook_lines,
                 f_hook,
                 fill_color=RED_COLOR,
                 stroke_color=BLACK_COLOR,
                 stroke_width=s_hook,
+                anchor="ms",
             )
             text_layer.alpha_composite(hook_rendered)
             y_cursor += len(hook_lines) * round(f_hook.size * 1.15) + 20
@@ -187,12 +188,13 @@ class ThumbnailCompositor:
             )
             sec_rendered = render_thai_lines(
                 SHORTS_DIMS,
-                (70, y_cursor),
+                (ShortsLayout.CENTER_X, y_cursor),
                 secondary_lines,
                 f_sec,
                 fill_color=WHITE_COLOR,
                 stroke_color=BLACK_COLOR,
                 stroke_width=s_sec,
+                anchor="ms",
             )
             text_layer.alpha_composite(sec_rendered)
 

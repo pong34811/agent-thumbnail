@@ -36,3 +36,14 @@ def test_composite_shorts():
     
     assert result.size == SHORTS_DIMS
     assert result.mode == "RGB"
+
+
+def test_shorts_text_is_horizontally_centered():
+    import numpy as np
+
+    compositor = ThumbnailCompositor()
+    bg = Image.new("RGBA", (1080, 1920), (0, 0, 0, 255))
+    result = compositor.composite_shorts(bg_image=bg, hook_lines=["ช็อตฟีล!"], brightness=1.0)
+    ink = np.asarray(result.convert("L")) > 40
+    xs = np.nonzero(ink.any(axis=0))[0]
+    assert abs((xs.min() + xs.max()) / 2 - 540) <= 20

@@ -3,6 +3,9 @@
 PROJECT_NAME = "armigon-20260920"
 CHARACTER_NAME = "Armigon"
 
+# Folder holding the RGBA avatar PNGs named in TIMELINES[*]["avatar"] (resolved by cli.build)
+MODEL_DIR = r"I:\My Drive\Dreamlight_projects\GEN-Sercet" + "\\" + "armigon"
+
 ACCENTS = {
     "Peak": (74, 196, 255),
     "Linxicon": (255, 102, 184),
@@ -19,6 +22,8 @@ ACCENTS = {
 TIMELINES = {
     1: {
         "title": "01-01 Peak - ช่วยโฮชิให้รอดจากเขา",
+        "hook": ["ใครก็ได้", "แบกโฮชิหน่อย"],
+        "sec": ["ชุบได้ไหม"],
         "game": "Peak",
         "avatar": "cry.png",
         "focus_circle": (520, 360, 110),
@@ -26,6 +31,8 @@ TIMELINES = {
     },
     2: {
         "title": "02-01 Linxicon - ต่อคำจนโยงไปถึงไส้ติ่ง",
+        "hook": ["เชื่อมไส้ติ่งด้วย"],
+        "sec": ["คำเดียวเชื่อมทุกอย่าง"],
         "game": "Linxicon",
         "avatar": "hello.png",
         "focus_circle": None,
@@ -33,6 +40,8 @@ TIMELINES = {
     },
     3: {
         "title": "02-02 Linxicon - คำว่าแค้นวนจนขำ",
+        "hook": ["ฉันสามารถนะ"],
+        "sec": ["แต่ฉันก็ไม่สามารถ"],
         "game": "Linxicon",
         "avatar": "angry.png",
         "focus_circle": None,
@@ -40,6 +49,8 @@ TIMELINES = {
     },
     4: {
         "title": "03-01 Starbound - บอสแพ้ก่อนเทสลาจะได้ลงมือ",
+        "hook": ["บอสแพ้ก่อน"],
+        "sec": ["ยังไม่ได้ทดสอบปืนเลย"],
         "game": "Starbound",
         "avatar": "cry.png",
         "focus_circle": (910, 290, 120),
@@ -47,6 +58,8 @@ TIMELINES = {
     },
     5: {
         "title": "03-02 Starbound - ของชิ้นใหญ่เท่าควาย",
+        "hook": ["ชิ้นใหญ่เท่าควาย"],
+        "sec": ["เชื่อมสายไฟเสร็จแล้ว"],
         "game": "Starbound",
         "avatar": "great.png",
         "focus_circle": None,
@@ -54,6 +67,8 @@ TIMELINES = {
     },
     6: {
         "title": "04-01 MC RPG 005 - กลับมารับโทษเดี๋ยวนี้",
+        "hook": ["กลับมารับโทษ!"],
+        "sec": ["หลบหนีความผิด"],
         "game": "MC RPG 005",
         "avatar": "sadistic.png",
         "focus_circle": (700, 350, 130),
@@ -61,6 +76,8 @@ TIMELINES = {
     },
     7: {
         "title": "05-01 Roblox วันเกิด - หลงทางในเกมผี",
+        "hook": ["ยิงหัวแดง"],
+        "sec": ["ตอนนี้มันล่าเรา"],
         "game": "Roblox",
         "avatar": "cry.png",
         "focus_circle": None,
@@ -68,6 +85,8 @@ TIMELINES = {
     },
     8: {
         "title": "05-02 Roblox วันเกิด - เดาตัวละครให้ถูกสิ",
+        "hook": ["ฟีเลน!"],
+        "sec": ["ออมเลือกตัวนี้"],
         "game": "Roblox",
         "avatar": "adore.png",
         "focus_circle": None,
@@ -75,6 +94,8 @@ TIMELINES = {
     },
     9: {
         "title": "06-01 Mecha Chameleon - ซ่อนเนียนจนเพื่อนหาไม่เจอ",
+        "hook": ["ไม่เห็นจริงอะ"],
+        "sec": ["คุณรอดได้ไงวะ"],
         "game": "Mecha Chameleon",
         "avatar": "great.png",
         "focus_circle": (840, 350, 115),
@@ -82,6 +103,8 @@ TIMELINES = {
     },
     10: {
         "title": "06-02 Mecha Chameleon - ซ่อนหลังกล่องเขียว",
+        "hook": ["ทำไมมาแอบอยู่", "หลังกล่อง"],
+        "sec": ["กล่องเขียวบนเพดาน"],
         "game": "Mecha Chameleon",
         "avatar": "angry.png",
         "focus_circle": (640, 600, 120),
@@ -89,6 +112,8 @@ TIMELINES = {
     },
     11: {
         "title": "07-01 Palworld - วางของแล้วดันติดตัว",
+        "hook": ["มันติดตัว"],
+        "sec": ["วางบันไดไม่ได้สักที"],
         "game": "Palworld",
         "avatar": "hello.png",
         "focus_circle": (870, 360, 125),
@@ -96,6 +121,8 @@ TIMELINES = {
     },
     12: {
         "title": "08-01 MC เลือดเดียวกัน - หลุมยักษ์กับผีที่หายไป",
+        "hook": ["ผีหาย!"],
+        "sec": ["ผีเลี้ยวอีกแล้ว"],
         "game": "MC เลือดเดียวกัน",
         "avatar": "angry.png",
         "focus_circle": (620, 520, 135),
@@ -103,6 +130,8 @@ TIMELINES = {
     },
     13: {
         "title": "08-02 MC เลือดเดียวกัน - ห้องน้ำนี้ห้ามใครเข้า",
+        "hook": ["ห้องน้ำนี้", "ห้ามเข้า"],
+        "sec": ["เจ้าของเซิร์ฟ", "หลับไปแล้ว"],
         "game": "MC เลือดเดียวกัน",
         "avatar": "sadistic.png",
         "focus_circle": None,
@@ -110,6 +139,8 @@ TIMELINES = {
     },
     14: {
         "title": "09-01 Backrooms - หันมาเจออะไรอยู่ข้างหลัง",
+        "hook": ["อะไร อะไร ถอย!"],
+        "sec": ["ไฟฉาย ไฟฉาย"],
         "game": "Backrooms",
         "avatar": "cry.png",
         "focus_circle": (850, 480, 110),
@@ -117,6 +148,8 @@ TIMELINES = {
     },
     15: {
         "title": "10-01 Valorant - ยังไม่ตาย รีบหมุนไซต์",
+        "hook": ["ยังไม่ตาย!"],
+        "sec": ["รีบหมุนไซต์"],
         "game": "Valorant",
         "avatar": "angry.png",
         "focus_circle": None,
@@ -124,6 +157,8 @@ TIMELINES = {
     },
     16: {
         "title": "10-02 Valorant - เพื่อนเลือกเอเจนต์ตามที่ถนัด",
+        "hook": ["เล่นได้ไม่กี่ตัว"],
+        "sec": ["Smoke / Scan / Skye / Sova"],
         "game": "Valorant",
         "avatar": "hello.png",
         "focus_circle": None,

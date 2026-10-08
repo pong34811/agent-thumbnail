@@ -45,6 +45,7 @@ def load_project_mapping(project_name: str) -> Dict[str, Any]:
             "channel": getattr(mod, "CHARACTER_NAME", norm_name),
             "timelines": getattr(mod, "TIMELINES", {}),
             "accents": getattr(mod, "ACCENTS", {}),
+            "model_dir": getattr(mod, "MODEL_DIR", None),
         }
     except ModuleNotFoundError:
         for p in (REPO_ROOT / "projects").iterdir():
@@ -55,6 +56,7 @@ def load_project_mapping(project_name: str) -> Dict[str, Any]:
                     "channel": getattr(mod, "CHARACTER_NAME", p.name),
                     "timelines": getattr(mod, "TIMELINES", {}),
                     "accents": getattr(mod, "ACCENTS", {}),
+                    "model_dir": getattr(mod, "MODEL_DIR", None),
                 }
         raise ValueError(f"Project mapping '{project_name}' not found under projects/")
 
@@ -209,6 +211,10 @@ def build_project_batch(
 
         av_img = None
         av_path = tl.get("avatar") or tl.get("model_file") or tl.get("model")
+        if av_path and mapping.get("model_dir") and not Path(av_path).is_absolute():
+            av_path = str(Path(mapping["model_dir"]) / av_path)
+        if av_path and not Path(av_path).is_file():
+            print(f"Warning: avatar not found for '{tl_title}': {av_path}")
         if av_path and Path(av_path).is_file():
             av_img = Image.open(av_path).convert("RGBA")
 

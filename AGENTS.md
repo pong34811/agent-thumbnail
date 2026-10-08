@@ -12,7 +12,8 @@
 
 - **libraqm ต้อง import `src.engine.text_thai` ก่อน** เพราะโมดูลนี้โหลด `fribidi` จาก `src/engine/runtime/` ถ้าเช็ก `features.check("raqm")` ก่อน import จะได้ `False` ทั้งที่ใช้ได้
 - **รูปแบบ mapping ต่างกันตามโปรเจกต์** `cli/build.py` (`resolve_text`) รองรับ `hook`/`sec` ระดับบนสุด, บล็อก `land`/`short` (Aomi) และดึง hook จากข้อความหลัง `" - "` ในชื่อ (Armigon) เมื่อเพิ่มโปรเจกต์ใหม่ ให้ใช้รูปแบบใดรูปแบบหนึ่งนี้
-- **mapping ต้องระบุพาธเฟรมพื้นหลัง (`bg`/`frame_path`) และโมเดล RGBA จริง** ไม่เช่นนั้นปกจะเป็นพื้นสีเรียบไม่มีโมเดล (Armigon ตอนนี้ยังมีแค่ชื่อไฟล์ลอยๆ เช่น `cry.png`)
+- **mapping ต้องระบุพาธเฟรมพื้นหลัง (`bg`/`frame_path`) และโมเดล RGBA จริง** ไม่เช่นนั้นปกจะเป็นพื้นสีเรียบไม่มีโมเดล โปรเจกต์ที่มี `MODEL_DIR` (Armigon) จะ resolve ชื่อไฟล์โมเดลจากโฟลเดอร์นั้น และ `cli.build` เตือนเมื่อหาไฟล์ไม่เจอ
+- ปก Shorts จัดข้อความกึ่งกลางที่ `ShortsLayout.CENTER_X` (มีเทสต์ล็อกไว้)
 - **`_LATEST` ซิงก์จากโฟลเดอร์วันที่ล่าสุดที่มีรูปจริง** (`cli/organize.py`) โฟลเดอร์ว่างจะไม่ล้างของเดิม
 - สคริปต์ตัวอย่างเก่าของ Armigon อยู่ที่ `.agents/skills/davinci-thumbnails/scripts/` ส่วน `tools/` และ `.work/` ถูกลบแล้ว (ดู git history)
 
