@@ -7,7 +7,7 @@ Supports:
 - Upper mark collision detection and left-nudging on tall consonants (ป, ฝ, ฟ)
 """
 import os
-import sys
+import warnings
 from pathlib import Path
 from typing import List, Tuple, Optional
 
@@ -15,7 +15,6 @@ from typing import List, Tuple, Optional
 if os.name == "nt":
     RUNTIME_DIRS = [
         Path(__file__).resolve().parent / "runtime",
-        Path(__file__).resolve().parents[2] / "outputs" / "katy404-20260929" / "runtime",
     ]
     for rdir in RUNTIME_DIRS:
         if rdir.is_dir():
@@ -57,21 +56,34 @@ def resolve_font_path(custom_path: Optional[str] = None) -> Optional[Path]:
     return None
 
 
+def raqm_available() -> bool:
+    """True when Pillow can use libraqm (required for correct Thai mark positioning)."""
+    from PIL import features
+
+    return bool(features.check("raqm"))
+
+
+_warned = set()
+
+
+def _warn_once(key: str, message: str) -> None:
+    if key not in _warned:
+        _warned.add(key)
+        warnings.warn(message, RuntimeWarning, stacklevel=3)
+
+
 def get_font(size: int, font_path: Optional[str] = None) -> ImageFont.FreeTypeFont:
-    """Loads font with RAQM layout engine if available, falling back gracefully."""
+    """Loads Mitr Bold with the RAQM layout engine, warning loudly when degraded."""
     resolved = resolve_font_path(font_path)
-    if resolved and resolved.exists():
-        try:
-            return ImageFont.truetype(str(resolved), size, layout_engine=ImageFont.Layout.RAQM)
-        except Exception:
-            try:
-                return ImageFont.truetype(str(resolved), size)
-            except Exception:
-                pass
-    try:
-        return ImageFont.load_default()
-    except Exception:
-        return ImageFont.load_default()
+    if resolved is None:
+        _warn_once("font", "Mitr-Bold.ttf not found; Thai text will render with a fallback font. "
+                           "Set THUMBNAIL_FONT_PATH or pass --font.")
+        return ImageFont.load_default(size)
+    if not raqm_available():
+        _warn_once("raqm", "libraqm is unavailable; Thai vowels/tone marks may be mispositioned. "
+                           "Run `python -m cli.doctor` for details.")
+        return ImageFont.truetype(str(resolved), size)
+    return ImageFont.truetype(str(resolved), size, layout_engine=ImageFont.Layout.RAQM)
 
 
 def text_box(text: str, font: ImageFont.ImageFont, stroke_width: int = 0) -> Tuple[int, int, int, int]:
@@ -94,7 +106,8 @@ def fit_text(
     while size > min_size:
         f = get_font(size, font_path)
         stroke = max(4, round(size * stroke_ratio))
-        if all(text_box(ln, f, stroke)[2] - text_box(ln, f, stroke)[0] <= max_w for ln in lines):
+        widths = [(b[2] - b[0]) for b in (text_box(ln, f, stroke) for ln in lines)]
+        if all(w <= max_w for w in widths):
             return f, stroke
         size -= 2
     f = get_font(min_size, font_path)

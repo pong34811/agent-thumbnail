@@ -59,6 +59,23 @@ def load_project_mapping(project_name: str) -> Dict[str, Any]:
         raise ValueError(f"Project mapping '{project_name}' not found under projects/")
 
 
+def _lines(value) -> Optional[List[str]]:
+    if isinstance(value, str):
+        return [value]
+    return list(value) if value else None
+
+
+def resolve_text(tl: Dict[str, Any], key: str, orientation: str) -> Optional[List[str]]:
+    """Reads hook/sec for one orientation: nested `land`/`short` block first, then top level."""
+    nested = tl.get("land" if orientation == "landscape" else "short")
+    if isinstance(nested, dict) and nested.get(key):
+        return _lines(nested[key])
+    value = _lines(tl.get(key))
+    if value is None and key == "hook" and " - " in (tl.get("title") or ""):
+        value = [tl["title"].split(" - ", 1)[1].strip()]
+    return value
+
+
 def load_image_safe(path: Optional[str], default_dims: Tuple[int, int]) -> Image.Image:
     if path and Path(path).is_file():
         try:
@@ -187,22 +204,15 @@ def build_project_batch(
         tl_title = tl.get("title") or tl.get("name") or f"timeline_{idx}"
         safe_title = "".join(c if c.isalnum() or c in " -_ก-๙" else "_" for c in tl_title).strip()
 
-        hook = tl.get("hook")
-        if isinstance(hook, str):
-            hook = [hook]
-        sec = tl.get("sec")
-        if isinstance(sec, str):
-            sec = [sec]
-
         focus_circle = tl.get("focus_circle")
         emotion_marker = tl.get("emotion_marker")
 
         av_img = None
-        av_path = tl.get("avatar") or tl.get("model_file")
+        av_path = tl.get("avatar") or tl.get("model_file") or tl.get("model")
         if av_path and Path(av_path).is_file():
             av_img = Image.open(av_path).convert("RGBA")
 
-        bg_path = tl.get("frame_path") or tl.get("video")
+        bg_path = tl.get("frame_path") or tl.get("bg") or tl.get("video")
         dummy_bg = load_image_safe(bg_path, LANDSCAPE_DIMS)
 
         # 1. Landscape
@@ -210,8 +220,8 @@ def build_project_batch(
             land_img = compositor.composite_landscape(
                 bg_image=dummy_bg,
                 avatar_image=av_img,
-                hook_lines=hook,
-                secondary_lines=sec,
+                hook_lines=resolve_text(tl, "hook", "landscape"),
+                secondary_lines=resolve_text(tl, "sec", "landscape"),
                 focus_circle=focus_circle,
                 emotion_marker=emotion_marker,
             )
@@ -230,8 +240,8 @@ def build_project_batch(
             short_img = compositor.composite_shorts(
                 bg_image=dummy_shorts,
                 avatar_image=av_img,
-                hook_lines=hook,
-                secondary_lines=sec,
+                hook_lines=resolve_text(tl, "hook", "shorts"),
+                secondary_lines=resolve_text(tl, "sec", "shorts"),
                 emotion_marker=emotion_marker,
             )
             short_file = output_dir / f"{safe_title}-short.jpg"

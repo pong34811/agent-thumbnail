@@ -38,7 +38,8 @@ def package_delivery(
         for n in packaged_jpgs:
             with Image.open(io.BytesIO(zf.read(n))) as im:
                 im.load()
-                assert im.format == "JPEG", f"{n} is not a valid JPEG"
+                if im.format != "JPEG":
+                    raise RuntimeError(f"{n} is not a valid JPEG")
 
     return {
         "zip_path": str(zip_p),

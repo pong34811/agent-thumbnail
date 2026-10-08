@@ -7,45 +7,37 @@ Guarantees:
 - packages/<channel>/<date>/ contains delivery zip archives.
 """
 
-import os
+import re
 import shutil
-import sys
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 OUTPUTS_DIR = REPO_ROOT / "outputs"
 REPORTS_DIR = REPO_ROOT / "reports"
 PACKAGES_DIR = REPO_ROOT / "packages"
-
-
-def copy_or_replace(src: Path, dst: Path):
-    dst.parent.mkdir(parents=True, exist_ok=True)
-    if dst.exists():
-        return
-    shutil.copy2(src, dst)
+DATE_DIR = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+IMAGE_SUFFIXES = {".jpg", ".jpeg", ".png"}
 
 
 def sync_channel_latest(channel_name: str):
     ch_dir = OUTPUTS_DIR / channel_name
     if not ch_dir.exists():
         return
-    # Find all date folders
-    date_folders = [d for d in ch_dir.iterdir() if d.is_dir() and d.name != "_LATEST" and not d.name.startswith(".")]
-    if not date_folders:
+    date_folders = [d for d in ch_dir.iterdir() if d.is_dir() and DATE_DIR.match(d.name)]
+    # Newest batch that actually has images, so an empty/failed run never wipes _LATEST
+    for latest_date_dir in sorted(date_folders, key=lambda x: x.name, reverse=True):
+        images = [p for p in latest_date_dir.iterdir() if p.is_file() and p.suffix.lower() in IMAGE_SUFFIXES]
+        if images:
+            break
+    else:
         return
-    latest_date_dir = sorted(date_folders, key=lambda x: x.name)[-1]
     latest_mirror = ch_dir / "_LATEST"
     latest_mirror.mkdir(parents=True, exist_ok=True)
 
-    # Clean old files in _LATEST
     for f in latest_mirror.iterdir():
         if f.is_file():
             f.unlink()
-
-    # Mirror latest images
-    for img in latest_date_dir.glob("*.jpg"):
-        shutil.copy2(img, latest_mirror / img.name)
-    for img in latest_date_dir.glob("*.png"):
+    for img in images:
         shutil.copy2(img, latest_mirror / img.name)
 
 

@@ -27,13 +27,15 @@
 - `packages/` — ที่จัดเก็บไฟล์บีบอัด `.zip` สำหรับส่งมอบงาน
 - `cli/` — เครื่องมือ Command Line กลาง:
   - `build.py` — สั่งสร้างปกด้วย `--project <name>` หรือ Ad-hoc `--channel <name> --hook "..."`
+  - `doctor.py` — ตรวจสภาพแวดล้อม (Pillow, numpy, libraqm, ฟอนต์ Mitr Bold, ffmpeg) ด้วย `python -m cli.doctor` ควรรันก่อนเริ่มงานทุกครั้ง
   - `open.py` — เปิดโฟลเดอร์ภาพปกใน Windows File Explorer ทันที (`python -m cli.open [channel]`)
   - `organize.py` — จัดระเบียบภาพและซิงก์โฟลเดอร์ `_LATEST`
   - `verify.py` — ตรวจสอบคุณภาพอัตโนมัติ (Dimensions, Max 2MB, sRGB/RGB, Margins, Squint Preview 320x180)
   - `package.py` — ตรวจสอบและบีบอัด ZIP พร้อม Manifest และทดสอบ CRC + Decodability
   - `sample_frames.py` — ดึงเฟรมจากวิดีโอด้วย ffmpeg ตาม Timestamp
 - `tests/` — ชุดการทดสอบระบบอัตโนมัติ (Pytest)
-- `.agents/skills/` — องค์ความรู้ด้าน Thumbnail Psychology, CTR Strategy, Channel Profiles, Canva Workflow และ YouTube Surface Guides
+- `.claude/skills/` — skill ทั่วไป (grill-me, tdd, code-review ฯลฯ) พร้อม `skills-lock.json`
+- `.agents/skills/` — skill เฉพาะโปรเจกต์: องค์ความรู้ด้าน Thumbnail Psychology, CTR Strategy, Channel Profiles, Canva Workflow และ YouTube Surface Guides
 
 ## Environment & Dependencies
 
@@ -42,7 +44,7 @@
   - `numpy >= 1.24.0` (ใช้ในการคำนวณ Mask, Dilation, Morphological Shift)
   - `pytest >= 7.0.0`
 - `ffmpeg` ต้องมีอยู่ใน `PATH` สำหรับการรัน `cli/sample_frames.py`
-- ฟอนต์หลัก: `Mitr Bold` (ค้นหาอัตโนมัติจาก environment variable, Windows Fonts, หรือในไดเรกทอรี `outputs/timeline-covers/fonts/`)
+- ฟอนต์หลัก: `Mitr Bold` (ค้นหาอัตโนมัติจาก environment variable, Windows Fonts, ฟอนต์ผู้ใช้ใน `%LOCALAPPDATA%`, หรือ `fonts/Mitr-Bold.ttf` ในรากโปรเจกต์)
 
 ## Testing & Quality Assurance
 

@@ -81,6 +81,13 @@ def verify_directory(
     if manifest_path and Path(manifest_path).exists():
         manifest_data = json.loads(Path(manifest_path).read_text(encoding="utf-8"))
         manifest_checks.append(f"Manifest found with {len(manifest_data)} entries")
+        if isinstance(manifest_data, list):
+            on_disk = {f.name for f in files}
+            for entry in manifest_data:
+                name = entry.get("file") if isinstance(entry, dict) else None
+                if name and name not in on_disk:
+                    manifest_checks.append(f"MISSING: manifest lists {name} but it is not in {jpg_dir}")
+                    total_problems += 1
 
     return {
         "status": "PASS" if total_problems == 0 else "FAIL",
