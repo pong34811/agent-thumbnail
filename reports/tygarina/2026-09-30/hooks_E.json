@@ -1,0 +1,292 @@
+[
+ {
+  "project": "tygarina_2026-09-30_Ib",
+  "i": 1,
+  "name": "ประตูมิติชวนขนหัวลุก_Ib-vdo",
+  "tl_short": "ประตูมิติชวนขนหัวลุก_Ib-vdo_9x16",
+  "hook": [
+   "ทุบประตู!"
+  ],
+  "sec": [
+   "ตัวแดงทุบประตู"
+  ],
+  "frame_tl": 51,
+  "talk": false,
+  "model": "03_shock.png",
+  "evidence": "51s \"ประตูพัง\", 34s \"แดงทุบประตู\", 44s \"ประตูเหล็ก\"",
+  "flag": "subs doubtful: ASR garbled, only door-pounding theme clear"
+ },
+ {
+  "project": "tygarina_2026-09-30_Ib",
+  "i": 2,
+  "name": "สะดุ้งตัวโยนเลือดหยดใส่หน้าภาพวาด_Ib-vdo",
+  "tl_short": "สะดุ้งตัวโยนเลือดหยดใส่หน้าภาพวาด_Ib-vdo_9x16",
+  "hook": [
+   "สีฟ้าห้ามแตะ!"
+  ],
+  "sec": [
+   "ไขปริศนาถ้วยชา"
+  ],
+  "frame_tl": 24,
+  "talk": false,
+  "model": "05_smug.png",
+  "evidence": "1-3s \"สีฟ้าห้ามแตะ\", 15-17s \"น้ำชาจะไม่ยอมหยุดจนกว่าจะชน\"",
+  "flag": "subs doubtful: title says blood-drop scare, cues are about tea puzzle"
+ },
+ {
+  "project": "tygarina_2026-09-30_Ib",
+  "i": 3,
+  "name": "เจอตัวละครใหม่ตกใจจนร้องลั่น_Ib-vdo",
+  "tl_short": "เจอตัวละครใหม่ตกใจจนร้องลั่น_Ib-vdo_9x16",
+  "hook": [
+   "ตกใจหมด!"
+  ],
+  "sec": [
+   "เจอตัวละครใหม่"
+  ],
+  "frame_tl": 24,
+  "talk": false,
+  "model": "03_shock.png",
+  "evidence": "no subs; title + frames: new purple-haired NPC appears ~24s",
+  "flag": "title-only: no subtitles in timeline"
+ },
+ {
+  "project": "tygarina_2026-09-30_Ib",
+  "i": 4,
+  "name": "Highlight_Gaming_Ib_Horror",
+  "tl_short": "Highlight_Gaming_Ib_Horror_9x16",
+  "hook": [
+   "กดครบทุกประโยค!"
+  ],
+  "sec": [
+   "เดินคนเดียวในนี้"
+  ],
+  "frame_tl": 45,
+  "talk": false,
+  "model": "05_smug.png",
+  "evidence": "49-51s \"จะกดให้มันครบทุกประโยคเลย\", 38s \"เดินอยู่ในนี้คนเดียว\", 47s \"ใจกล้ามากเลย\"",
+  "flag": "subs doubtful: ASR noisy"
+ },
+ {
+  "project": "tygarina_2026-09-30_Ib",
+  "i": 5,
+  "name": "ไขปริศนาภาพวาดมรณะ_Ib-vdo",
+  "tl_short": "ไขปริศนาภาพวาดมรณะ_Ib-vdo_9x16",
+  "hook": [
+   "น่าขนลุก!"
+  ],
+  "sec": [
+   "คุยเรื่องศิลปะ"
+  ],
+  "frame_tl": 24,
+  "talk": false,
+  "model": "01_neutral.png",
+  "evidence": "38s \"เลยน่าขนลุก\", 30-34s ศิลปะ...ไม่เหมือนมนุษย์",
+  "flag": "subs doubtful: ASR noisy"
+ },
+ {
+  "project": "tygarina_2026-09-30_Ib",
+  "i": 6,
+  "name": "พากันวิ่งหนีผีเสื้อยักษ์เกือบไม่รอด_Ib-vdo",
+  "tl_short": "พากันวิ่งหนีผีเสื้อยักษ์เกือบไม่รอด_Ib-vdo_9x16",
+  "hook": [
+   "Speedrun",
+   "ละนะ!"
+  ],
+  "sec": [
+   "ขอห้าสิบซับ"
+  ],
+  "frame_tl": 24,
+  "talk": false,
+  "model": "02_smile.png",
+  "evidence": "18-24s \"Speedrun ละนะ/ยินดีต้อนรับสู่การ Speedrun\", 42s \"หวังว่าจะได้ห้าสิบซับ\"",
+  "flag": "subs doubtful: title says butterfly chase, cues are a joke speedrun intro"
+ },
+ {
+  "project": "tygarina_2026-09-30_Ib",
+  "i": 7,
+  "name": "กรี๊ดลั่นหอศิลป์เมื่อเจอรูปปั้นขยับได้_Ib-vdo",
+  "tl_short": "กรี๊ดลั่นหอศิลป์เมื่อเจอรูปปั้นขยับได้_Ib-vdo_9x16",
+  "hook": [
+   "จับมือพี่ว่าไง"
+  ],
+  "sec": [
+   "หอศิลป์สุดแปลก"
+  ],
+  "frame_tl": 44,
+  "talk": false,
+  "model": "05_smug.png",
+  "evidence": "40-44s \"พี่ว่าไง แปลกๆ ... จับมือพี่ว่าไง\"; 3-36s \"เก้า\" repeated",
+  "flag": "subs doubtful: repeated \"เก้า\" unclear"
+ },
+ {
+  "project": "tygarina_2026-09-30_LoL",
+  "i": 1,
+  "name": "จังหวะไฟต์ชุลมุนกดมั่วจนได้คิลเฉย_LoL-vdo",
+  "tl_short": "จังหวะไฟต์ชุลมุนกดมั่วจนได้คิลเฉย_LoL-vdo_9x16",
+  "hook": [
+   "ชุลมุนมาก!"
+  ],
+  "sec": [
+   "ไฟต์กลางป่า"
+  ],
+  "frame_tl": 24,
+  "talk": false,
+  "model": "07_panic.png",
+  "evidence": "2 cues only; frames: fight at ~24s then death screen",
+  "flag": "title-only: only 2 cues; frames show fight then death"
+ },
+ {
+  "project": "tygarina_2026-09-30_LoL",
+  "i": 2,
+  "name": "กดสกิลวืดกลางเลนจนโดนป้อมยิงตาย_LoL-vdo",
+  "tl_short": "กดสกิลวืดกลางเลนจนโดนป้อมยิงตาย_LoL-vdo_9x16",
+  "hook": [
+   "สกิลวืด!"
+  ],
+  "sec": [
+   "โดนป้อมยิงตาย"
+  ],
+  "frame_tl": 38,
+  "talk": false,
+  "model": "06_cry.png",
+  "evidence": "no subs; title + frames: fight/teamfight 38-45s, shop 52s",
+  "flag": "title-only: no subtitles in timeline"
+ },
+ {
+  "project": "tygarina_2026-09-30_LoL",
+  "i": 3,
+  "name": "จังหวะโดนดักซุ่มพุ่มไม้ร้องเสียงหลง_LoL-vdo",
+  "tl_short": "จังหวะโดนดักซุ่มพุ่มไม้ร้องเสียงหลง_LoL-vdo_9x16",
+  "hook": [
+   "กดไม่ติด!"
+  ],
+  "sec": [
+   "เซงเลยอ่ะ"
+  ],
+  "frame_tl": 17,
+  "talk": false,
+  "model": "06_cry.png",
+  "evidence": "31s \"ทำไมกดไม่ติด\", 50-53s \"เซงเลยอ่ะ เมื่อกี้เอาได้นะ แต่กดไม่ติดอ่ะ\"; frame 17s fight",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_LoL",
+  "i": 4,
+  "name": "จังหวะลาสบอสใหญ่ขโมยมังกรสุดเทพ_LoL-vdo",
+  "tl_short": "จังหวะลาสบอสใหญ่ขโมยมังกรสุดเทพ_LoL-vdo_9x16",
+  "hook": [
+   "เอาไม่ได้อีก!"
+  ],
+  "sec": [
+   "เลือดแค่กระจก"
+  ],
+  "frame_tl": 38,
+  "talk": false,
+  "model": "04_angry.png",
+  "evidence": "10-11s \"เลือดแค่กระจกนึงมึงเอาไม่ได้อีก\", 28s \"ยังเอาไม่ได้อ่ะ\"",
+  "flag": "subs doubtful: dragon steal not in cues"
+ },
+ {
+  "project": "tygarina_2026-09-30_LoL",
+  "i": 5,
+  "name": "โดนโค้ชบ่นเรื่องลืมซื้อของตอนเริ่มเกม_LoL-vdo",
+  "tl_short": "โดนโค้ชบ่นเรื่องลืมซื้อของตอนเริ่มเกม_LoL-vdo_9x16",
+  "hook": [
+   "โดนบูลี่ทั้งวัน!"
+  ],
+  "sec": [
+   "สงสารบอสหน่อย"
+  ],
+  "frame_tl": 31,
+  "talk": false,
+  "model": "04_angry.png",
+  "evidence": "21-32s \"สงสารบอส...โดนหนูบูลี่บ่อยมาก...ทั้งวันทั้งคืน\"",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_Overcooked",
+  "i": 1,
+  "name": "เปิดครัววันแรกก็วุ่นวายซะแล้ว_Overcooked-vdo",
+  "tl_short": "เปิดครัววันแรกก็วุ่นวายซะแล้ว_Overcooked-vdo_9x16",
+  "hook": [
+   "ได้ยินไหม?"
+  ],
+  "sec": [
+   "เช็กเสียงก่อนเล่น"
+  ],
+  "frame_tl": 30,
+  "talk": true,
+  "model": "02_smile.png",
+  "evidence": "20-39s \"ตั้งให้เสียงเข้าหูฟังตัวเอง...มีเสียง\"; frames = story map menu",
+  "flag": "subs doubtful: ASR garbled; no kitchen gameplay in clip"
+ },
+ {
+  "project": "tygarina_2026-09-30_Overcooked",
+  "i": 2,
+  "name": "ออเดอร์ล้นครัวสั่งความวิกฤต_Overcooked-vdo",
+  "tl_short": "ออเดอร์ล้นครัวสั่งความวิกฤต_Overcooked-vdo_9x16",
+  "hook": [
+   "ส่งไก่มา!"
+  ],
+  "sec": [
+   "ออเดอร์ล้นครัว"
+  ],
+  "frame_tl": 31,
+  "talk": false,
+  "model": "07_panic.png",
+  "evidence": "40-43s \"หันไก่ให้น้อยส่งไก่มา\", 32-35s \"เอาไก่ไปฝั่งนู้น\"",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_Overcooked",
+  "i": 3,
+  "name": "Highlight_Fun_Overcooked_KitchenFire",
+  "tl_short": "Highlight_Fun_Overcooked_KitchenFire_9x16",
+  "hook": [
+   "อย่าเพิ่งโยนไข่!"
+  ],
+  "sec": [
+   "ครัวป่วนสุดๆ"
+  ],
+  "frame_tl": 58,
+  "talk": false,
+  "model": "03_shock.png",
+  "evidence": "57-58s \"ไม่ๆๆอย่า เพิ่งโยดไข่\", 44s \"ชนฉันล้ม\"",
+  "flag": "subs doubtful: \"โยด\" read as โยน"
+ },
+ {
+  "project": "tygarina_2026-09-30_Overcooked",
+  "i": 4,
+  "name": "โยนวัตถุดิบข้ามฝั่งชนหัวเพื่อนเต็มๆ_Overcooked-vdo",
+  "tl_short": "โยนวัตถุดิบข้ามฝั่งชนหัวเพื่อนเต็มๆ_Overcooked-vdo_9x16",
+  "hook": [
+   "เต้ทำอะไร!"
+  ],
+  "sec": [
+   "ไม่มีเมนูแล้ว"
+  ],
+  "frame_tl": 10,
+  "talk": false,
+  "model": "04_angry.png",
+  "evidence": "5-10s \"ไม่มีเมนูเนี่ย เต้ทำอะไร เต้เต้มึง\"",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_Overcooked",
+  "i": 5,
+  "name": "จานตกน้ำหมดครัวนาทีสุดท้าย_Overcooked-vdo",
+  "tl_short": "จานตกน้ำหมดครัวนาทีสุดท้าย_Overcooked-vdo_9x16",
+  "hook": [
+   "น้ำผึ้งกับไข่!"
+  ],
+  "sec": [
+   "นาทีสุดท้าย"
+  ],
+  "frame_tl": 38,
+  "talk": false,
+  "model": "07_panic.png",
+  "evidence": "37-42s \"ขอน้ำผึ้งกับไข่ครับ\"; frames: final minute",
+  "flag": ""
+ }
+]

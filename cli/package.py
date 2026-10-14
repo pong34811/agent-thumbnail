@@ -56,8 +56,18 @@ def main():
     parser.add_argument("--out-zip", required=True, help="Path for generated ZIP package")
     args = parser.parse_args()
 
+    import sys
+    if sys.platform == "win32" and hasattr(sys.stdout, "reconfigure"):
+        try:
+            sys.stdout.reconfigure(encoding="utf-8")
+        except Exception:
+            pass
+
     res = package_delivery(args.jpg_dir, args.manifest, args.out_zip)
-    print(json.dumps(res, ensure_ascii=False, indent=2))
+    try:
+        print(json.dumps(res, ensure_ascii=False, indent=2))
+    except UnicodeEncodeError:
+        print(json.dumps(res, ensure_ascii=True, indent=2))
 
 
 if __name__ == "__main__":

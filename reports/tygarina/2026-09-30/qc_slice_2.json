@@ -1,0 +1,470 @@
+[
+ {
+  "file": "ถ้าต้องติดเกาะขอเลือกนอนเฉยๆดีกว่า_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ไมค์แดงตลอด!"
+  ],
+  "secondary": [
+   "ไมค์ดังไปไหม"
+  ],
+  "evidence": "31-38s 'ไมค์ไทกะมันขึ้นแดงตลอดเลย' 'ไมค์ดังเกินไปไหม'",
+  "flag": "title-only: cues ไม่พูดถึงติดเกาะ",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ถ้าต้องติดเกาะขอเลือกนอนเฉยๆดีกว่า_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ไมค์แดงตลอด!"
+  ],
+  "secondary": [
+   "ไมค์ดังไปไหม"
+  ],
+  "evidence": "31-38s 'ไมค์ไทกะมันขึ้นแดงตลอดเลย' 'ไมค์ดังเกินไปไหม'",
+  "flag": "title-only: cues ไม่พูดถึงติดเกาะ",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เตือนสติคนดูเรื่องความรักสุดพัง_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ไทกะไม่เอา!"
+  ],
+  "secondary": [
+   "เรื่องจริงนะ"
+  ],
+  "evidence": "46-52s 'ไทกะเลยไม่เอา' 'อันนี้คือเรื่องจริง แต่ไทกะไม่เอา'",
+  "flag": "subs doubtful: เนื้อเรื่องสร้อย/ยามไม่ชัด",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เตือนสติคนดูเรื่องความรักสุดพัง_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ไทกะไม่เอา!"
+  ],
+  "secondary": [
+   "เรื่องจริงนะ"
+  ],
+  "evidence": "46-52s 'ไทกะเลยไม่เอา' 'อันนี้คือเรื่องจริง แต่ไทกะไม่เอา'",
+  "flag": "subs doubtful: เนื้อเรื่องสร้อย/ยามไม่ชัด",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "บทเรียนชีวิตจีบสิบปีแต่มีหนี้แถมมา_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "เป็น PTSD เลย"
+  ],
+  "secondary": [
+   "ทำงานกับผู้สูงอายุ"
+  ],
+  "evidence": "8-19s 'ทำงานกับผู้สูงอายุ ไทกะยังมีอาการ PTSD เลยอ่ะ'",
+  "flag": "subs doubtful: ชื่อเรื่องจีบสิบปีไม่ปรากฏใน cues; hook จาก cues",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "บทเรียนชีวิตจีบสิบปีแต่มีหนี้แถมมา_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "เป็น PTSD เลย"
+  ],
+  "secondary": [
+   "ทำงานกับผู้สูงอายุ"
+  ],
+  "evidence": "8-19s 'ทำงานกับผู้สูงอายุ ไทกะยังมีอาการ PTSD เลยอ่ะ'",
+  "flag": "subs doubtful: ชื่อเรื่องจีบสิบปีไม่ปรากฏใน cues; hook จาก cues",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "สอนวิชาป้องกันตัวด้วยกำปั้นเปล่าสุดฮา_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "หลุดเกม!"
+  ],
+  "secondary": [
+   "ตัวละครหายหมด"
+  ],
+  "evidence": "12-13s 'ตัวละครพวกผมสามคน หลุดเกม อ้าวชิบหายแล้ว'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "สอนวิชาป้องกันตัวด้วยกำปั้นเปล่าสุดฮา_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "หลุดเกม!"
+  ],
+  "secondary": [
+   "ตัวละครหายหมด"
+  ],
+  "evidence": "12-13s 'ตัวละครพวกผมสามคน หลุดเกม อ้าวชิบหายแล้ว'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "อ่านคอมเมนต์สุดกาวขำจนตัวโยก_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "โอ๊ยร้อน!"
+  ],
+  "secondary": [
+   "โดนไฟลวก"
+  ],
+  "evidence": "20-21s 'โอ๊ยโดนไฟ โอ๊ยร้อน'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "อ่านคอมเมนต์สุดกาวขำจนตัวโยก_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "โอ๊ยร้อน!"
+  ],
+  "secondary": [
+   "โดนไฟลวก"
+  ],
+  "evidence": "20-21s 'โอ๊ยโดนไฟ โอ๊ยร้อน'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ตอบแชทเรื่องสู้เสือด้วยมือเปล่า_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ฆ่ามันทิ้ง!"
+  ],
+  "secondary": [
+   "ใครหยิบโกโกนอล"
+  ],
+  "evidence": "49-50s 'ถ้าเกิดมี ไทกะก็ฆ่ามันทิ้ง'",
+  "flag": "subs doubtful: 'โกโกนอล' ASR ไม่ชัด",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ตอบแชทเรื่องสู้เสือด้วยมือเปล่า_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ฆ่ามันทิ้ง!"
+  ],
+  "secondary": [
+   "ใครหยิบโกโกนอล"
+  ],
+  "evidence": "49-50s 'ถ้าเกิดมี ไทกะก็ฆ่ามันทิ้ง'",
+  "flag": "subs doubtful: 'โกโกนอล' ASR ไม่ชัด",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "จำลองเหตุการณ์ถ้าเจอเสือของจริง_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "โคตรสนุกอ่ะ!"
+  ],
+  "secondary": [
+   "ตอนเล่นจริง"
+  ],
+  "evidence": "36-37s 'ตอนเล่นจริง นี่คือโคตรสนุกอ่ะ'",
+  "flag": "",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "จำลองเหตุการณ์ถ้าเจอเสือของจริง_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "โคตรสนุกอ่ะ!"
+  ],
+  "secondary": [
+   "ตอนเล่นจริง"
+  ],
+  "evidence": "36-37s 'ตอนเล่นจริง นี่คือโคตรสนุกอ่ะ'",
+  "flag": "",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "Highlight_Meme_FreeTalk_Tiger.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "สนิท NPC เกินไป"
+  ],
+  "secondary": [
+   "ไทกะไม่พอใจ"
+  ],
+  "evidence": "11-13s 'การสนิทกับ NPC มากเกินไปเป็นสิ่งที่ไม่ดีนะคะ'",
+  "flag": "",
+  "model": "21.png"
+ },
+ {
+  "file": "Highlight_Meme_FreeTalk_Tiger_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "สนิท NPC เกินไป"
+  ],
+  "secondary": [
+   "ไทกะไม่พอใจ"
+  ],
+  "evidence": "11-13s 'การสนิทกับ NPC มากเกินไปเป็นสิ่งที่ไม่ดีนะคะ'",
+  "flag": "",
+  "model": "21.png"
+ },
+ {
+  "file": "ฝึกเป็นกัปตันเรือแต่โดนลูกเรือแซว_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "โดนบูชายัญ!"
+  ],
+  "secondary": [
+   "เรือล่มติดเกาะ"
+  ],
+  "evidence": "16-27s 'เรือล่ม ติดที่เกาะ โดนจับบูชายัญ'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ฝึกเป็นกัปตันเรือแต่โดนลูกเรือแซว_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "โดนบูชายัญ!"
+  ],
+  "secondary": [
+   "เรือล่มติดเกาะ"
+  ],
+  "evidence": "16-27s 'เรือล่ม ติดที่เกาะ โดนจับบูชายัญ'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "แผนการออกทะเลล่าขุมทรัพย์สุดเพี้ยน_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "มันมีเหตุผล!"
+  ],
+  "secondary": [
+   "ไทกะพูดจริง"
+  ],
+  "evidence": "5-7s 'ไทกะพูดอ่ะ มันมีเหตุผลมากๆเลย'",
+  "flag": "subs doubtful: เนื้อหาเรื่องเด็ก/ฟาร์ม ไม่ตรงชื่อ (ล่าขุมทรัพย์)",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "แผนการออกทะเลล่าขุมทรัพย์สุดเพี้ยน_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "มันมีเหตุผล!"
+  ],
+  "secondary": [
+   "ไทกะพูดจริง"
+  ],
+  "evidence": "5-7s 'ไทกะพูดอ่ะ มันมีเหตุผลมากๆเลย'",
+  "flag": "subs doubtful: เนื้อหาเรื่องเด็ก/ฟาร์ม ไม่ตรงชื่อ (ล่าขุมทรัพย์)",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "โดนเพื่อนรุมแกงจนแทบอยากปิดไมค์_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "หล่อมากเลย!"
+  ],
+  "secondary": [
+   "แต่โดนบูชายัญ"
+  ],
+  "evidence": "14-18s 'มึงหล่อมากเลยนะ' + 29-31s 'โดนจับไปบูชายัญ'",
+  "flag": "",
+  "model": "21.png"
+ },
+ {
+  "file": "โดนเพื่อนรุมแกงจนแทบอยากปิดไมค์_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "หล่อมากเลย!"
+  ],
+  "secondary": [
+   "แต่โดนบูชายัญ"
+  ],
+  "evidence": "14-18s 'มึงหล่อมากเลยนะ' + 29-31s 'โดนจับไปบูชายัญ'",
+  "flag": "",
+  "model": "21.png"
+ },
+ {
+  "file": "ตัดพ้อชีวิตทำไมต้องเป็นตัวโดนตลอด_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ปากดีตอแหล"
+  ],
+  "secondary": [
+   "ไทกะเล่นบทขุนนาง"
+  ],
+  "evidence": "29-34s 'ไทกะต้องโรลเป็นคนปากดี ตอแหล กวนตีน'",
+  "flag": "",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "ตัดพ้อชีวิตทำไมต้องเป็นตัวโดนตลอด_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ปากดีตอแหล"
+  ],
+  "secondary": [
+   "ไทกะเล่นบทขุนนาง"
+  ],
+  "evidence": "29-34s 'ไทกะต้องโรลเป็นคนปากดี ตอแหล กวนตีน'",
+  "flag": "",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "สับสนบทบาทจนเพื่อนต้องสะกิดเตือน_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "โต๊ะไม่ขึ้นสักที!"
+  ],
+  "secondary": [
+   "รอเกือบเที่ยงคืน"
+  ],
+  "evidence": "25-30s 'เกือบถึงเที่ยงคืน ยังไม่ได้ขึ้นโต๊ะเลย ไอ้บ้า'",
+  "flag": "title-only: ชื่อเรื่องสับสนบทบาทไม่ปรากฏใน cues",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "สับสนบทบาทจนเพื่อนต้องสะกิดเตือน_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "โต๊ะไม่ขึ้นสักที!"
+  ],
+  "secondary": [
+   "รอเกือบเที่ยงคืน"
+  ],
+  "evidence": "25-30s 'เกือบถึงเที่ยงคืน ยังไม่ได้ขึ้นโต๊ะเลย ไอ้บ้า'",
+  "flag": "title-only: ชื่อเรื่องสับสนบทบาทไม่ปรากฏใน cues",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เผลอสร้างตำนานคู่จิ้นกลางวงสนทนา_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "เป็นคนเลวมาก!"
+  ],
+  "secondary": [
+   "ร่ายเวทใน DnD"
+  ],
+  "evidence": "46-52s 'ไทกะรู้สึกเป็นคนเลว หนูเป็นคนเลวมากๆ' + 1-14s สกิล DnD",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เผลอสร้างตำนานคู่จิ้นกลางวงสนทนา_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "เป็นคนเลวมาก!"
+  ],
+  "secondary": [
+   "ร่ายเวทใน DnD"
+  ],
+  "evidence": "46-52s 'ไทกะรู้สึกเป็นคนเลว หนูเป็นคนเลวมากๆ' + 1-14s สกิล DnD",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "บ่นน้อยใจลูกน้องแกล้งทำเป็นไม่ได้ยิน_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ไทกะเป็นคนโดน!"
+  ],
+  "secondary": [
+   "ไม่ได้เปิดฮาเร็ม"
+  ],
+  "evidence": "32-33s 'ไทกะไม่ได้เปิดฮาเร็ม' 45-52s 'ไทกะเป็นคนโดนโว้ย'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "บ่นน้อยใจลูกน้องแกล้งทำเป็นไม่ได้ยิน_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ไทกะเป็นคนโดน!"
+  ],
+  "secondary": [
+   "ไม่ได้เปิดฮาเร็ม"
+  ],
+  "evidence": "32-33s 'ไทกะไม่ได้เปิดฮาเร็ม' 45-52s 'ไทกะเป็นคนโดนโว้ย'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เรียกชื่อลูกน้องรัวๆจนต้องยอมเปิดไมค์_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "เป็นบาร์ดด้วย?!"
+  ],
+  "secondary": [
+   "ตัวละครสายร้องเพลง"
+  ],
+  "evidence": "25-28s 'สายบาร์ด สายร้องเพลง' 52s 'เป็นบาร์ดด้วย'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เรียกชื่อลูกน้องรัวๆจนต้องยอมเปิดไมค์_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "เป็นบาร์ดด้วย?!"
+  ],
+  "secondary": [
+   "ตัวละครสายร้องเพลง"
+  ],
+  "evidence": "25-28s 'สายบาร์ด สายร้องเพลง' 52s 'เป็นบาร์ดด้วย'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "โดนแซวเรื่องแพ้ทางผู้หญิงจนหน้าแดง_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ให้ผิดหวัง!"
+  ],
+  "secondary": [
+   "ไลฟ์ครบสองร้อย"
+  ],
+  "evidence": "20-29s 'ไทกะจะทำให้คนที่ไม่ได้เข้ามาผิดหวัง' 12s 'ไลฟ์ที่สองร้อยพอดี'",
+  "flag": "title-only: ชื่อแพ้ทางผู้หญิงไม่ปรากฏใน cues",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "โดนแซวเรื่องแพ้ทางผู้หญิงจนหน้าแดง_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ให้ผิดหวัง!"
+  ],
+  "secondary": [
+   "ไลฟ์ครบสองร้อย"
+  ],
+  "evidence": "20-29s 'ไทกะจะทำให้คนที่ไม่ได้เข้ามาผิดหวัง' 12s 'ไลฟ์ที่สองร้อยพอดี'",
+  "flag": "title-only: ชื่อแพ้ทางผู้หญิงไม่ปรากฏใน cues",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "อาการเสียอาการเมื่อต้องคุยกับสาวสวย_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "พูดไม่ออก!"
+  ],
+  "secondary": [
+   "เจอสาวสวย"
+  ],
+  "evidence": "cue 34s \"เอ่อไม่ได้\" only; title: คุยกับสาวสวย",
+  "flag": "title-only: 1 cue only",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "อาการเสียอาการเมื่อต้องคุยกับสาวสวย_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "พูดไม่ออก!"
+  ],
+  "secondary": [
+   "เจอสาวสวย"
+  ],
+  "evidence": "cue 34s \"เอ่อไม่ได้\" only; title: คุยกับสาวสวย",
+  "flag": "title-only: 1 cue only",
+  "model": "dsasa.png"
+ }
+]

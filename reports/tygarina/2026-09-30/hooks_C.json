@@ -1,0 +1,291 @@
+[
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_3",
+  "i": 1,
+  "name": "อาการเสียอาการเมื่อต้องคุยกับสาวสวย_FreeTalk-vdo",
+  "tl_short": "อาการเสียอาการเมื่อต้องคุยกับสาวสวย_FreeTalk-vdo_9x16",
+  "hook": [
+   "พูดไม่ออก!"
+  ],
+  "sec": [
+   "เจอสาวสวย"
+  ],
+  "frame_tl": 34,
+  "talk": true,
+  "model": "07_panic.png",
+  "evidence": "cue 34s \"เอ่อไม่ได้\" only; title: คุยกับสาวสวย",
+  "flag": "title-only: 1 cue only"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_3",
+  "i": 2,
+  "name": "หมุนวงล้อเสี่ยงทายเจอแต่บทลงโทษสุดกาว_FreeTalk-vdo",
+  "tl_short": "หมุนวงล้อเสี่ยงทายเจอแต่บทลงโทษสุดกาว_FreeTalk-vdo_9x16",
+  "hook": [
+   "อยากตายใช่ป่ะ!"
+  ],
+  "sec": [
+   "วงล้อบทลงโทษ"
+  ],
+  "frame_tl": 27,
+  "talk": true,
+  "model": "04_angry.png",
+  "evidence": "25-30s \"อยากตายใช่ป่ะ ให้กูพูดอะล่ะ\"",
+  "flag": "subs doubtful: ASR noisy"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_3",
+  "i": 3,
+  "name": "กราบขอบคุณคนดูที่ร่วมเดินทางมาด้วยกัน_FreeTalk-vdo",
+  "tl_short": "กราบขอบคุณคนดูที่ร่วมเดินทางมาด้วยกัน_FreeTalk-vdo_9x16",
+  "hook": [
+   "เขาหายไปแล้ว!"
+  ],
+  "sec": [
+   "ฉลอง 800 ซับ"
+  ],
+  "frame_tl": 38,
+  "talk": true,
+  "model": "03_shock.png",
+  "evidence": "35-39s \"เขาหายไปแล้ว\" x4; 800 ซับ from source filename",
+  "flag": "subs doubtful: ASR noisy, context unclear"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_3",
+  "i": 4,
+  "name": "เผยพฤติกรรมสุดแปลกตอนดึกสงัด_FreeTalk-vdo",
+  "tl_short": "เผยพฤติกรรมสุดแปลกตอนดึกสงัด_FreeTalk-vdo_9x16",
+  "hook": [
+   "ไม่ใส่หูฟัง!"
+  ],
+  "sec": [
+   "ตีสองคุยเอง"
+  ],
+  "frame_tl": 31,
+  "talk": true,
+  "model": "05_smug.png",
+  "evidence": "30-31s \"ผมไม่ใส่หูฟังด้วยซ้ำ\"; src: บอสทำไรตอนตี 2",
+  "flag": "subs doubtful: ASR noisy"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_3",
+  "i": 5,
+  "name": "นั่งคุยคนเดียวตอนตีสองจนรู้สึกวังเวง_FreeTalk-vdo",
+  "tl_short": "นั่งคุยคนเดียวตอนตีสองจนรู้สึกวังเวง_FreeTalk-vdo_9x16",
+  "hook": [
+   "วังเวง"
+  ],
+  "sec": [
+   "ตีสองคุยคนเดียว"
+  ],
+  "frame_tl": 27,
+  "talk": true,
+  "model": "01_neutral.png",
+  "evidence": "no subs; title: นั่งคุยคนเดียวตอนตีสอง",
+  "flag": "title-only: no subtitles, frame viewed"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_3",
+  "i": 6,
+  "name": "นกแก้วพูดแทรกจังหวะสำคัญจนหลุดขำ_FreeTalk-vdo",
+  "tl_short": "นกแก้วพูดแทรกจังหวะสำคัญจนหลุดขำ_FreeTalk-vdo_9x16",
+  "hook": [
+   "เกลียดไอ้เฮีย!"
+  ],
+  "sec": [
+   "เจอกันครั้งแรก"
+  ],
+  "frame_tl": 3,
+  "talk": true,
+  "model": "04_angry.png",
+  "evidence": "2-3s \"ครั้งแรกผมโคตรเกลียดไอ้เฮีย\"",
+  "flag": "subs doubtful: ASR noisy"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_3",
+  "i": 7,
+  "name": "ตอบคำถามแฟนคลับเรื่องอาหารจานโปรด_FreeTalk-vdo",
+  "tl_short": "ตอบคำถามแฟนคลับเรื่องอาหารจานโปรด_FreeTalk-vdo_9x16",
+  "hook": [
+   "สายธนู!"
+  ],
+  "sec": [
+   "เล่นสาย Archer"
+  ],
+  "frame_tl": 12,
+  "talk": true,
+  "model": "02_smile.png",
+  "evidence": "9-13s \"เล่นสาย Archer ก็คือเล่นธนู\"",
+  "flag": "subs doubtful: title (อาหารจานโปรด) does not match cues"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_3",
+  "i": 8,
+  "name": "เล่าเรื่องวัยเด็กสุดแสบที่ไม่มีใครเคยรู้_FreeTalk-vdo",
+  "tl_short": "เล่าเรื่องวัยเด็กสุดแสบที่ไม่มีใครเคยรู้_FreeTalk-vdo_9x16",
+  "hook": [
+   "กลัวผี!"
+  ],
+  "sec": [
+   "ทอย Perception"
+  ],
+  "frame_tl": 40,
+  "talk": true,
+  "model": "03_shock.png",
+  "evidence": "26s \"ตัวละครผมมันกลัวผี\", 40s \"ผมเห็นผี\"",
+  "flag": "subs doubtful: title (วัยเด็ก) does not match cues"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_3",
+  "i": 9,
+  "name": "ร้องเพลงเพี้ยนแต่ใส่อารมณ์เกินร้อย_FreeTalk-vdo",
+  "tl_short": "ร้องเพลงเพี้ยนแต่ใส่อารมณ์เกินร้อย_FreeTalk-vdo_9x16",
+  "hook": [
+   "ผมไม่ได้ทำ!"
+  ],
+  "sec": [
+   "อย่ามองหน้าผม"
+  ],
+  "frame_tl": 44,
+  "talk": true,
+  "model": "07_panic.png",
+  "evidence": "38-46s \"ผมไม่ได้ทำ อย่ามองหน้าผม\"",
+  "flag": "subs doubtful: ASR noisy, story content graphic"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_3",
+  "i": 10,
+  "name": "ถกประเด็นของกินข้างทางที่อร่อยที่สุด_FreeTalk-vdo",
+  "tl_short": "ถกประเด็นของกินข้างทางที่อร่อยที่สุด_FreeTalk-vdo_9x16",
+  "hook": [
+   "ช่วยด้วย!"
+  ],
+  "sec": [
+   "ผมไม่ใช่เสือ"
+  ],
+  "frame_tl": 50,
+  "talk": true,
+  "model": "06_cry.png",
+  "evidence": "48-54s \"ช่วยด้วย...ผมไม่ใช่เสือ\"",
+  "flag": "subs doubtful: ASR noisy"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_4",
+  "i": 1,
+  "name": "จังหวะจามเสียงดังจนกล้องสั่น_FreeTalk-vdo",
+  "tl_short": "จังหวะจามเสียงดังจนกล้องสั่น_FreeTalk-vdo_9x16",
+  "hook": [
+   "ฟังกูบ้าง!"
+  ],
+  "sec": [
+   "ไม่มีใครฟัง"
+  ],
+  "frame_tl": 29,
+  "talk": true,
+  "model": "04_angry.png",
+  "evidence": "29s/36s \"ฟังกูบ้าง\"; 41-47s ทำหมัน",
+  "flag": "subs doubtful: title (จาม) does not match cues"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_4",
+  "i": 2,
+  "name": "แชร์ประสบการณ์นอนดึกจนตาเป็นหมีแพนด้า_FreeTalk-vdo",
+  "tl_short": "แชร์ประสบการณ์นอนดึกจนตาเป็นหมีแพนด้า_FreeTalk-vdo_9x16",
+  "hook": [
+   "มหาลัยเดียวกัน!"
+  ],
+  "sec": [
+   "เพื่อนไทกะด่า"
+  ],
+  "frame_tl": 12,
+  "talk": true,
+  "model": "05_smug.png",
+  "evidence": "8-14s \"เพื่อนไทกะเรียนจบมหาลัยเดียวกัน ด่า\"",
+  "flag": "subs doubtful: ASR noisy"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_4",
+  "i": 3,
+  "name": "อ่านแชทคอมเมนต์กวนๆแล้วหลุดขำก๊าก_FreeTalk-vdo",
+  "tl_short": "อ่านแชทคอมเมนต์กวนๆแล้วหลุดขำก๊าก_FreeTalk-vdo_9x16",
+  "hook": [
+   "อยากได้เฟรม!"
+  ],
+  "sec": [
+   "ตามเนื้อเรื่อง"
+  ],
+  "frame_tl": 33,
+  "talk": true,
+  "model": "01_neutral.png",
+  "evidence": "33s \"ผมอยากได้เฟรม\", 40s \"ถ้าเฟรมตกลง\"",
+  "flag": "subs doubtful: ASR noisy, title (คอมเมนต์) mismatch"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_4",
+  "i": 4,
+  "name": "สอนวิธีปรับตัวเมื่อต้องเจอกับคนแปลกหน้า_FreeTalk-vdo",
+  "tl_short": "สอนวิธีปรับตัวเมื่อต้องเจอกับคนแปลกหน้า_FreeTalk-vdo_9x16",
+  "hook": [
+   "ลิ้นติดตู้เย็น!"
+  ],
+  "sec": [
+   "ขอพรได้ข้อเดียว"
+  ],
+  "frame_tl": 46,
+  "talk": true,
+  "model": "03_shock.png",
+  "evidence": "7-13s \"เลียตู้เย็น\", 44-48s \"ลิ้นคุณจะติด เอาออกไม่ได้\"",
+  "flag": "subs doubtful: title mismatch"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_4",
+  "i": 5,
+  "name": "เขินกล้องจนทำตัวไม่ถูกในไลฟ์แรกๆ_FreeTalk-vdo",
+  "tl_short": "เขินกล้องจนทำตัวไม่ถูกในไลฟ์แรกๆ_FreeTalk-vdo_9x16",
+  "hook": [
+   "สัญญามาเลย!"
+  ],
+  "sec": [
+   "เดี๋ยวนี้เลย"
+  ],
+  "frame_tl": 27,
+  "talk": true,
+  "model": "05_smug.png",
+  "evidence": "19-28s \"สัญญามาดีวะ รีบสัญญามาเดี๋ยวนี้เลย\"",
+  "flag": "subs doubtful: ASR noisy"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_4",
+  "i": 6,
+  "name": "บ่นความเหงาในวันฝนตกชวนง่วงนอน_FreeTalk-vdo",
+  "tl_short": "บ่นความเหงาในวันฝนตกชวนง่วงนอน_FreeTalk-vdo_9x16",
+  "hook": [
+   "ช่วยด่าหน่อย!"
+  ],
+  "sec": [
+   "ขอบอสเหยียบ"
+  ],
+  "frame_tl": 27,
+  "talk": true,
+  "model": "02_smile.png",
+  "evidence": "20-28s \"ช่วยเหยียบหลัง ช่วยด่าผมหน่อยครับ\"",
+  "flag": "subs doubtful: ASR noisy, title (เหงาฝนตก) mismatch"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_4",
+  "i": 7,
+  "name": "เล่นมุกแป้กแต่หัวเราะแก้เขินคนเดียว_FreeTalk-vdo",
+  "tl_short": "เล่นมุกแป้กแต่หัวเราะแก้เขินคนเดียว_FreeTalk-vdo_9x16",
+  "hook": [
+   "มานี่เลย!"
+  ],
+  "sec": [
+   "ต่อยกันหน่อย"
+  ],
+  "frame_tl": 16,
+  "talk": true,
+  "model": "04_angry.png",
+  "evidence": "14-17s \"ต้องต่อยกันหน่อย มานี่เลย\"",
+  "flag": "subs doubtful: ASR noisy, title mismatch"
+ }
+]

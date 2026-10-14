@@ -115,7 +115,8 @@ def build_adhoc_thumbnail(
     avatar_img = Image.open(avatar_path).convert("RGBA") if avatar_path and Path(avatar_path).is_file() else None
 
     safe_title = "_".join(hook)
-    safe_title = "".join(c if c.isalnum() or c in " -_ก-๙" else "_" for c in safe_title).strip() or "thumbnail"
+    safe_title = "".join(c if c.isalnum() or "\u0e00" <= c <= "\u0e7f" or c in " -_" else "_" for c in safe_title).strip() or "thumbnail"
+
 
     manifest = []
     # 1. Landscape
@@ -147,6 +148,7 @@ def build_adhoc_thumbnail(
             hook_lines=hook,
             secondary_lines=sec,
             emotion_marker=emotion_marker,
+            avatar_height=ShortsLayout.AVATAR_HEIGHT_RECOMMENDED_MIN,
         )
         out_file = output_dir / f"{safe_title}-short.jpg"
         img.save(out_file, quality=92)
@@ -204,7 +206,7 @@ def build_project_batch(
 
     for idx, tl in enumerate(items, start=1):
         tl_title = tl.get("title") or tl.get("name") or f"timeline_{idx}"
-        safe_title = "".join(c if c.isalnum() or c in " -_ก-๙" else "_" for c in tl_title).strip()
+        safe_title = "".join(c if c.isalnum() or "\u0e00" <= c <= "\u0e7f" or c in " -_" else "_" for c in tl_title).strip()
 
         focus_circle = tl.get("focus_circle")
         emotion_marker = tl.get("emotion_marker")
@@ -242,13 +244,15 @@ def build_project_batch(
 
         # 2. Shorts
         if orientation in ("all", "short", "shorts"):
-            dummy_shorts = load_image_safe(bg_path, SHORTS_DIMS)
+            bg_short = tl.get("bg_short") or tl.get("frame_path_short") or bg_path
+            dummy_shorts = load_image_safe(bg_short, SHORTS_DIMS)
             short_img = compositor.composite_shorts(
                 bg_image=dummy_shorts,
                 avatar_image=av_img,
                 hook_lines=resolve_text(tl, "hook", "shorts"),
                 secondary_lines=resolve_text(tl, "sec", "shorts"),
                 emotion_marker=emotion_marker,
+                avatar_height=ShortsLayout.AVATAR_HEIGHT_RECOMMENDED_MIN,
             )
             short_file = output_dir / f"{safe_title}-short.jpg"
             short_img.save(short_file, quality=92)

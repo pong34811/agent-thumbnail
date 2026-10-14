@@ -12,7 +12,9 @@
       "outputs/katy404-assets",
       ".work/katy404-assets",
       "G:/My Drive/Projects/Katy404/1.picture"
-    ]
+    ],
+    "mapping_module": "projects.katy404.mapping",
+    "reference_doc": "projects/katy404/references/production-examples.md"
   },
   "tygarina": {
     "name": "Tygarina",
@@ -56,6 +58,24 @@
       36
     ],
     "default_font": "Mitr-Bold.ttf",
-    "mapping_module": "projects.aomi_p2.mapping"
+    "avatar_hints": [
+      "G:/My Drive/Projects/Aomi-mama/1.picture"
+    ],
+    "mapping_module": "projects.aomi.mapping",
+    "reference_doc": "projects/aomi/references/production-examples.md"
+  },
+  "sakuyako": {
+    "name": "sakuyako",
+    "display_name": "Sakuyako-Cheris",
+    "accent_color": [
+      255,
+      105,
+      180
+    ],
+    "default_font": "Mitr-Bold.ttf",
+    "avatar_hints": [
+      "G:/My Drive/Projects/Sakuyako-Cheris/1.picture",
+      "G:/My Drive/Projects/Sakuyako-Cheris/00_Channel_Kit/01_Emotions"
+    ]
   }
 }

@@ -1,0 +1,342 @@
+[
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_1",
+  "i": 1,
+  "name": "บ่นเรื่องงานจนลืมเวลาพักผ่อน_FreeTalk-vdo",
+  "tl_short": "บ่นเรื่องงานจนลืมเวลาพักผ่อน_FreeTalk-vdo_9x16",
+  "hook": [
+   "ไม่ได้โม้เลย!"
+  ],
+  "sec": [
+   "ยืนยันเรื่องจริง"
+  ],
+  "frame_tl": 49,
+  "talk": true,
+  "model": "05_smug.png",
+  "evidence": "48-49s 'จริงไม่ได้โม้ ไม่ได้โม้เลย'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_1",
+  "i": 2,
+  "name": "ปิดคาสิโนแล้วไปหาของกินรอบดึก_FreeTalk-vdo",
+  "tl_short": "ปิดคาสิโนแล้วไปหาของกินรอบดึก_FreeTalk-vdo_9x16",
+  "hook": [
+   "ลืมไปนะ!"
+  ],
+  "sec": [
+   "ที่ได้ยินเมื่อกี้"
+  ],
+  "frame_tl": 28,
+  "talk": false,
+  "model": "07_panic.png",
+  "evidence": "19-28s 'ที่ได้ยินเมื่อกี้ ทุกคนต้องลืมไปนะ'",
+  "flag": "title-only: ชื่อพูดถึงคาสิโน/ของกิน แต่ cues มีแค่ขอให้ลืม; hook จาก cues"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_1",
+  "i": 3,
+  "name": "จ้างร้อยล้านก็ไม่ยอมย้ายไปไหน_FreeTalk-vdo",
+  "tl_short": "จ้างร้อยล้านก็ไม่ยอมย้ายไปไหน_FreeTalk-vdo_9x16",
+  "hook": [
+   "น่ากลัวจริงๆ"
+  ],
+  "sec": [
+   "มีคนเปิดแล้ว"
+  ],
+  "frame_tl": 28,
+  "talk": false,
+  "model": "03_shock.png",
+  "evidence": "25-28s 'มีคนเปิดจุดตันแล้วเหรอเนี่ย แป๊บเดียวเอง น่ากลัวจริงๆเลย'",
+  "flag": "subs doubtful: 'จุดตัน/ติดม้า' ASR ไม่ชัด, ไม่ตรงชื่อ"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_1",
+  "i": 4,
+  "name": "ถ้าต้องติดเกาะขอเลือกนอนเฉยๆดีกว่า_FreeTalk-vdo",
+  "tl_short": "ถ้าต้องติดเกาะขอเลือกนอนเฉยๆดีกว่า_FreeTalk-vdo_9x16",
+  "hook": [
+   "ไมค์แดงตลอด!"
+  ],
+  "sec": [
+   "ไมค์ดังไปไหม"
+  ],
+  "frame_tl": 34,
+  "talk": true,
+  "model": "07_panic.png",
+  "evidence": "31-38s 'ไมค์ไทกะมันขึ้นแดงตลอดเลย' 'ไมค์ดังเกินไปไหม'",
+  "flag": "title-only: cues ไม่พูดถึงติดเกาะ"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_1",
+  "i": 5,
+  "name": "เตือนสติคนดูเรื่องความรักสุดพัง_FreeTalk-vdo",
+  "tl_short": "เตือนสติคนดูเรื่องความรักสุดพัง_FreeTalk-vdo_9x16",
+  "hook": [
+   "ไทกะไม่เอา!"
+  ],
+  "sec": [
+   "เรื่องจริงนะ"
+  ],
+  "frame_tl": 52,
+  "talk": true,
+  "model": "04_angry.png",
+  "evidence": "46-52s 'ไทกะเลยไม่เอา' 'อันนี้คือเรื่องจริง แต่ไทกะไม่เอา'",
+  "flag": "subs doubtful: เนื้อเรื่องสร้อย/ยามไม่ชัด"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_1",
+  "i": 6,
+  "name": "บทเรียนชีวิตจีบสิบปีแต่มีหนี้แถมมา_FreeTalk-vdo",
+  "tl_short": "บทเรียนชีวิตจีบสิบปีแต่มีหนี้แถมมา_FreeTalk-vdo_9x16",
+  "hook": [
+   "เป็น PTSD เลย"
+  ],
+  "sec": [
+   "ทำงานกับผู้สูงอายุ"
+  ],
+  "frame_tl": 19,
+  "talk": false,
+  "model": "06_cry.png",
+  "evidence": "8-19s 'ทำงานกับผู้สูงอายุ ไทกะยังมีอาการ PTSD เลยอ่ะ'",
+  "flag": "subs doubtful: ชื่อเรื่องจีบสิบปีไม่ปรากฏใน cues; hook จาก cues"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_1",
+  "i": 7,
+  "name": "สอนวิชาป้องกันตัวด้วยกำปั้นเปล่าสุดฮา_FreeTalk-vdo",
+  "tl_short": "สอนวิชาป้องกันตัวด้วยกำปั้นเปล่าสุดฮา_FreeTalk-vdo_9x16",
+  "hook": [
+   "หลุดเกม!"
+  ],
+  "sec": [
+   "ตัวละครหายหมด"
+  ],
+  "frame_tl": 13,
+  "talk": false,
+  "model": "07_panic.png",
+  "evidence": "12-13s 'ตัวละครพวกผมสามคน หลุดเกม อ้าวชิบหายแล้ว'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_1",
+  "i": 8,
+  "name": "อ่านคอมเมนต์สุดกาวขำจนตัวโยก_FreeTalk-vdo",
+  "tl_short": "อ่านคอมเมนต์สุดกาวขำจนตัวโยก_FreeTalk-vdo_9x16",
+  "hook": [
+   "โอ๊ยร้อน!"
+  ],
+  "sec": [
+   "โดนไฟลวก"
+  ],
+  "frame_tl": 21,
+  "talk": false,
+  "model": "03_shock.png",
+  "evidence": "20-21s 'โอ๊ยโดนไฟ โอ๊ยร้อน'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_1",
+  "i": 9,
+  "name": "ตอบแชทเรื่องสู้เสือด้วยมือเปล่า_FreeTalk-vdo",
+  "tl_short": "ตอบแชทเรื่องสู้เสือด้วยมือเปล่า_FreeTalk-vdo_9x16",
+  "hook": [
+   "ฆ่ามันทิ้ง!"
+  ],
+  "sec": [
+   "ใครหยิบโกโกนอล"
+  ],
+  "frame_tl": 50,
+  "talk": false,
+  "model": "04_angry.png",
+  "evidence": "49-50s 'ถ้าเกิดมี ไทกะก็ฆ่ามันทิ้ง'",
+  "flag": "subs doubtful: 'โกโกนอล' ASR ไม่ชัด"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_1",
+  "i": 10,
+  "name": "จำลองเหตุการณ์ถ้าเจอเสือของจริง_FreeTalk-vdo",
+  "tl_short": "จำลองเหตุการณ์ถ้าเจอเสือของจริง_FreeTalk-vdo_9x16",
+  "hook": [
+   "โคตรสนุกอ่ะ!"
+  ],
+  "sec": [
+   "ตอนเล่นจริง"
+  ],
+  "frame_tl": 37,
+  "talk": false,
+  "model": "02_smile.png",
+  "evidence": "36-37s 'ตอนเล่นจริง นี่คือโคตรสนุกอ่ะ'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_2",
+  "i": 1,
+  "name": "Highlight_Meme_FreeTalk_Tiger",
+  "tl_short": "Highlight_Meme_FreeTalk_Tiger_9x16",
+  "hook": [
+   "สนิท NPC เกินไป"
+  ],
+  "sec": [
+   "ไทกะไม่พอใจ"
+  ],
+  "frame_tl": 13,
+  "talk": false,
+  "model": "05_smug.png",
+  "evidence": "11-13s 'การสนิทกับ NPC มากเกินไปเป็นสิ่งที่ไม่ดีนะคะ'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_2",
+  "i": 2,
+  "name": "ฝึกเป็นกัปตันเรือแต่โดนลูกเรือแซว_FreeTalk-vdo",
+  "tl_short": "ฝึกเป็นกัปตันเรือแต่โดนลูกเรือแซว_FreeTalk-vdo_9x16",
+  "hook": [
+   "โดนบูชายัญ!"
+  ],
+  "sec": [
+   "เรือล่มติดเกาะ"
+  ],
+  "frame_tl": 27,
+  "talk": true,
+  "model": "03_shock.png",
+  "evidence": "16-27s 'เรือล่ม ติดที่เกาะ โดนจับบูชายัญ'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_2",
+  "i": 3,
+  "name": "แผนการออกทะเลล่าขุมทรัพย์สุดเพี้ยน_FreeTalk-vdo",
+  "tl_short": "แผนการออกทะเลล่าขุมทรัพย์สุดเพี้ยน_FreeTalk-vdo_9x16",
+  "hook": [
+   "มันมีเหตุผล!"
+  ],
+  "sec": [
+   "ไทกะพูดจริง"
+  ],
+  "frame_tl": 7,
+  "talk": true,
+  "model": "01_neutral.png",
+  "evidence": "5-7s 'ไทกะพูดอ่ะ มันมีเหตุผลมากๆเลย'",
+  "flag": "subs doubtful: เนื้อหาเรื่องเด็ก/ฟาร์ม ไม่ตรงชื่อ (ล่าขุมทรัพย์)"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_2",
+  "i": 4,
+  "name": "โดนเพื่อนรุมแกงจนแทบอยากปิดไมค์_FreeTalk-vdo",
+  "tl_short": "โดนเพื่อนรุมแกงจนแทบอยากปิดไมค์_FreeTalk-vdo_9x16",
+  "hook": [
+   "หล่อมากเลย!"
+  ],
+  "sec": [
+   "แต่โดนบูชายัญ"
+  ],
+  "frame_tl": 18,
+  "talk": true,
+  "model": "05_smug.png",
+  "evidence": "14-18s 'มึงหล่อมากเลยนะ' + 29-31s 'โดนจับไปบูชายัญ'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_2",
+  "i": 5,
+  "name": "ตัดพ้อชีวิตทำไมต้องเป็นตัวโดนตลอด_FreeTalk-vdo",
+  "tl_short": "ตัดพ้อชีวิตทำไมต้องเป็นตัวโดนตลอด_FreeTalk-vdo_9x16",
+  "hook": [
+   "ปากดีตอแหล"
+  ],
+  "sec": [
+   "ไทกะเล่นบทขุนนาง"
+  ],
+  "frame_tl": 31,
+  "talk": true,
+  "model": "02_smile.png",
+  "evidence": "29-34s 'ไทกะต้องโรลเป็นคนปากดี ตอแหล กวนตีน'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_2",
+  "i": 6,
+  "name": "สับสนบทบาทจนเพื่อนต้องสะกิดเตือน_FreeTalk-vdo",
+  "tl_short": "สับสนบทบาทจนเพื่อนต้องสะกิดเตือน_FreeTalk-vdo_9x16",
+  "hook": [
+   "โต๊ะไม่ขึ้นสักที!"
+  ],
+  "sec": [
+   "รอเกือบเที่ยงคืน"
+  ],
+  "frame_tl": 30,
+  "talk": true,
+  "model": "04_angry.png",
+  "evidence": "25-30s 'เกือบถึงเที่ยงคืน ยังไม่ได้ขึ้นโต๊ะเลย ไอ้บ้า'",
+  "flag": "title-only: ชื่อเรื่องสับสนบทบาทไม่ปรากฏใน cues"
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_2",
+  "i": 7,
+  "name": "เผลอสร้างตำนานคู่จิ้นกลางวงสนทนา_FreeTalk-vdo",
+  "tl_short": "เผลอสร้างตำนานคู่จิ้นกลางวงสนทนา_FreeTalk-vdo_9x16",
+  "hook": [
+   "เป็นคนเลวมาก!"
+  ],
+  "sec": [
+   "ร่ายเวทใน DnD"
+  ],
+  "frame_tl": 52,
+  "talk": true,
+  "model": "06_cry.png",
+  "evidence": "46-52s 'ไทกะรู้สึกเป็นคนเลว หนูเป็นคนเลวมากๆ' + 1-14s สกิล DnD",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_2",
+  "i": 8,
+  "name": "บ่นน้อยใจลูกน้องแกล้งทำเป็นไม่ได้ยิน_FreeTalk-vdo",
+  "tl_short": "บ่นน้อยใจลูกน้องแกล้งทำเป็นไม่ได้ยิน_FreeTalk-vdo_9x16",
+  "hook": [
+   "ไทกะเป็นคนโดน!"
+  ],
+  "sec": [
+   "ไม่ได้เปิดฮาเร็ม"
+  ],
+  "frame_tl": 46,
+  "talk": true,
+  "model": "04_angry.png",
+  "evidence": "32-33s 'ไทกะไม่ได้เปิดฮาเร็ม' 45-52s 'ไทกะเป็นคนโดนโว้ย'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_2",
+  "i": 9,
+  "name": "เรียกชื่อลูกน้องรัวๆจนต้องยอมเปิดไมค์_FreeTalk-vdo",
+  "tl_short": "เรียกชื่อลูกน้องรัวๆจนต้องยอมเปิดไมค์_FreeTalk-vdo_9x16",
+  "hook": [
+   "เป็นบาร์ดด้วย?!"
+  ],
+  "sec": [
+   "ตัวละครสายร้องเพลง"
+  ],
+  "frame_tl": 52,
+  "talk": true,
+  "model": "03_shock.png",
+  "evidence": "25-28s 'สายบาร์ด สายร้องเพลง' 52s 'เป็นบาร์ดด้วย'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_FreeTalk_2",
+  "i": 10,
+  "name": "โดนแซวเรื่องแพ้ทางผู้หญิงจนหน้าแดง_FreeTalk-vdo",
+  "tl_short": "โดนแซวเรื่องแพ้ทางผู้หญิงจนหน้าแดง_FreeTalk-vdo_9x16",
+  "hook": [
+   "ให้ผิดหวัง!"
+  ],
+  "sec": [
+   "ไลฟ์ครบสองร้อย"
+  ],
+  "frame_tl": 28,
+  "talk": true,
+  "model": "02_smile.png",
+  "evidence": "20-29s 'ไทกะจะทำให้คนที่ไม่ได้เข้ามาผิดหวัง' 12s 'ไลฟ์ที่สองร้อยพอดี'",
+  "flag": "title-only: ชื่อแพ้ทางผู้หญิงไม่ปรากฏใน cues"
+ }
+]

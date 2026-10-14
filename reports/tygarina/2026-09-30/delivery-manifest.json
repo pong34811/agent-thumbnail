@@ -1,0 +1,3526 @@
+[
+  {
+    "timeline": "เจอกับดักระเบิดตู้มเดียวบินขึ้นฟ้า_Fallout4-vdo",
+    "file": "เจอกับดักระเบิดตู้มเดียวบินขึ้นฟ้า_Fallout4-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "บินขึ้นฟ้า!"
+    ],
+    "secondary": [
+      "ตู้มเดียวจบ"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ไลฟ์นี้จะเล่น Fallout 4 Nuka-world P1.mp4",
+    "source_time_s": 4311.0,
+    "evidence": "cue 8-9s มีแค่ \"ให้ภาพบรรยากาศ/เหล้า\"; เฟรม 25s เห็นระเบิดไฟ",
+    "flag": "title-only: ซับไม่เกี่ยวกับกับดัก"
+  },
+  {
+    "timeline": "เจอกับดักระเบิดตู้มเดียวบินขึ้นฟ้า_Fallout4-vdo_9x16",
+    "file": "เจอกับดักระเบิดตู้มเดียวบินขึ้นฟ้า_Fallout4-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "บินขึ้นฟ้า!"
+    ],
+    "secondary": [
+      "ตู้มเดียวจบ"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ไลฟ์นี้จะเล่น Fallout 4 Nuka-world P1.mp4",
+    "source_time_s": 4311.0,
+    "evidence": "cue 8-9s มีแค่ \"ให้ภาพบรรยากาศ/เหล้า\"; เฟรม 25s เห็นระเบิดไฟ",
+    "flag": "title-only: ซับไม่เกี่ยวกับกับดัก"
+  },
+  {
+    "timeline": "หลงทางในแดนรกร้างเดินวนอยู่ที่เดิม_Fallout4-vdo",
+    "file": "หลงทางในแดนรกร้างเดินวนอยู่ที่เดิม_Fallout4-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "อุ๊ย!"
+    ],
+    "secondary": [
+      "หลงทางอีกแล้ว"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ไลฟ์นี้จะเล่น Fallout 4 Nuka-world P1.mp4",
+    "source_time_s": 5122.0,
+    "evidence": "cue 16s \"อุ้ย\" x2; ชื่อ=หลงทาง",
+    "flag": "subs doubtful: มีแค่คำว่า อุ้ย"
+  },
+  {
+    "timeline": "หลงทางในแดนรกร้างเดินวนอยู่ที่เดิม_Fallout4-vdo_9x16",
+    "file": "หลงทางในแดนรกร้างเดินวนอยู่ที่เดิม_Fallout4-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "อุ๊ย!"
+    ],
+    "secondary": [
+      "หลงทางอีกแล้ว"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ไลฟ์นี้จะเล่น Fallout 4 Nuka-world P1.mp4",
+    "source_time_s": 5122.0,
+    "evidence": "cue 16s \"อุ้ย\" x2; ชื่อ=หลงทาง",
+    "flag": "subs doubtful: มีแค่คำว่า อุ้ย"
+  },
+  {
+    "timeline": "สู้สัตว์ประหลาดในสวนสนุกจนกระสุนหมดเกลี้ยง_Fallout4-vdo",
+    "file": "สู้สัตว์ประหลาดในสวนสนุกจนกระสุนหมดเกลี้ยง_Fallout4-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ไม่รอดอ่ะ!"
+    ],
+    "secondary": [
+      "กระสุนหมดเกลี้ยง"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ไลฟ์นี้จะเล่น Fallout 4 Nuka-world P1.mp4",
+    "source_time_s": 17972.0,
+    "evidence": "cue 44s \"ไม่รอดอ่ะ\"; 10s \"โอ้ว\"",
+    "flag": ""
+  },
+  {
+    "timeline": "สู้สัตว์ประหลาดในสวนสนุกจนกระสุนหมดเกลี้ยง_Fallout4-vdo_9x16",
+    "file": "สู้สัตว์ประหลาดในสวนสนุกจนกระสุนหมดเกลี้ยง_Fallout4-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ไม่รอดอ่ะ!"
+    ],
+    "secondary": [
+      "กระสุนหมดเกลี้ยง"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ไลฟ์นี้จะเล่น Fallout 4 Nuka-world P1.mp4",
+    "source_time_s": 17972.0,
+    "evidence": "cue 44s \"ไม่รอดอ่ะ\"; 10s \"โอ้ว\"",
+    "flag": ""
+  },
+  {
+    "timeline": "เปิดตี้แจกความฮากับเพื่อน_REPO-vdo",
+    "file": "เปิดตี้แจกความฮากับเพื่อน_REPO-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ไร้เสียงเลย"
+    ],
+    "secondary": [
+      "สงบจนผิดปกติ"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Collab R.E.P.O - เก็บของไว้ให้ไกลเสือ.mp4",
+    "source_time_s": 394.0,
+    "evidence": "cue 43-46s \"ไม่มี Sound Effects เลยสงบ\" (ฉากลอบบี้)",
+    "flag": "subs doubtful: ฉากลอบบี้ ไม่ใช่เกมเพลย์"
+  },
+  {
+    "timeline": "เปิดตี้แจกความฮากับเพื่อน_REPO-vdo_9x16",
+    "file": "เปิดตี้แจกความฮากับเพื่อน_REPO-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ไร้เสียงเลย"
+    ],
+    "secondary": [
+      "สงบจนผิดปกติ"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Collab R.E.P.O - เก็บของไว้ให้ไกลเสือ.mp4",
+    "source_time_s": 394.0,
+    "evidence": "cue 43-46s \"ไม่มี Sound Effects เลยสงบ\" (ฉากลอบบี้)",
+    "flag": "subs doubtful: ฉากลอบบี้ ไม่ใช่เกมเพลย์"
+  },
+  {
+    "timeline": "เสียงกรีดร้องสะท้อนทางเดินใต้ดินสุดหลอน_REPO-vdo",
+    "file": "เสียงกรีดร้องสะท้อนทางเดินใต้ดินสุดหลอน_REPO-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "มืดมาก!"
+    ],
+    "secondary": [
+      "มีอะไรเดินมา"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Collab R.E.P.O - เก็บของไว้ให้ไกลเสือ.mp4",
+    "source_time_s": 2643.0,
+    "evidence": "cue 4-5s \"เกมมันมืดมากเลย\", 22s \"เดินมาตึ้งๆ\"",
+    "flag": "subs doubtful: ASR เพี้ยนหลายคำ"
+  },
+  {
+    "timeline": "เสียงกรีดร้องสะท้อนทางเดินใต้ดินสุดหลอน_REPO-vdo_9x16",
+    "file": "เสียงกรีดร้องสะท้อนทางเดินใต้ดินสุดหลอน_REPO-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "มืดมาก!"
+    ],
+    "secondary": [
+      "มีอะไรเดินมา"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Collab R.E.P.O - เก็บของไว้ให้ไกลเสือ.mp4",
+    "source_time_s": 2643.0,
+    "evidence": "cue 4-5s \"เกมมันมืดมากเลย\", 22s \"เดินมาตึ้งๆ\"",
+    "flag": "subs doubtful: ASR เพี้ยนหลายคำ"
+  },
+  {
+    "timeline": "วิ่งหนีปีศาจแทบไม่ทัน_REPO-vdo",
+    "file": "วิ่งหนีปีศาจแทบไม่ทัน_REPO-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "วิ่งหนีไม่ทัน!"
+    ],
+    "secondary": [
+      "ปีศาจไล่ไม่เลิก"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Collab R.E.P.O - เก็บของไว้ให้ไกลเสือ.mp4",
+    "source_time_s": 4628.0,
+    "evidence": "เฟรมเห็นมอนสเตอร์ชมพู; ซับ ASR เพี้ยนหนัก",
+    "flag": "title-only: ซับอ่านไม่ออก"
+  },
+  {
+    "timeline": "วิ่งหนีปีศาจแทบไม่ทัน_REPO-vdo_9x16",
+    "file": "วิ่งหนีปีศาจแทบไม่ทัน_REPO-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "วิ่งหนีไม่ทัน!"
+    ],
+    "secondary": [
+      "ปีศาจไล่ไม่เลิก"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Collab R.E.P.O - เก็บของไว้ให้ไกลเสือ.mp4",
+    "source_time_s": 4628.0,
+    "evidence": "เฟรมเห็นมอนสเตอร์ชมพู; ซับ ASR เพี้ยนหนัก",
+    "flag": "title-only: ซับอ่านไม่ออก"
+  },
+  {
+    "timeline": "Highlight_Gaming_REPO_Jumpscare",
+    "file": "Highlight_Gaming_REPO_Jumpscare.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ร้านนี้หลอน"
+    ],
+    "secondary": [
+      "ช็อปปิ้งเกมสยอง"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Collab R.E.P.O - เก็บของไว้ให้ไกลเสือ.mp4",
+    "source_time_s": 6784.0,
+    "evidence": "cue 60-65s เป็นเลข/คำเพี้ยน",
+    "flag": "title-only: ชื่อ Jumpscare ซับไม่ชัด; เฟรมเป็นฉากร้านค้า"
+  },
+  {
+    "timeline": "Highlight_Gaming_REPO_Jumpscare_9x16",
+    "file": "Highlight_Gaming_REPO_Jumpscare_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ร้านนี้หลอน"
+    ],
+    "secondary": [
+      "ช็อปปิ้งเกมสยอง"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Collab R.E.P.O - เก็บของไว้ให้ไกลเสือ.mp4",
+    "source_time_s": 6784.0,
+    "evidence": "cue 60-65s เป็นเลข/คำเพี้ยน",
+    "flag": "title-only: ชื่อ Jumpscare ซับไม่ชัด; เฟรมเป็นฉากร้านค้า"
+  },
+  {
+    "timeline": "จังหวะเอาชีวิตรอดเฉียดฉิว_REPO-vdo",
+    "file": "จังหวะเอาชีวิตรอดเฉียดฉิว_REPO-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เกือบตายแล้ว!"
+    ],
+    "secondary": [
+      "รอดมาได้ไง"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Collab R.E.P.O - เก็บของไว้ให้ไกลเสือ.mp4",
+    "source_time_s": 9626.0,
+    "evidence": "cue 47-48s \"เมื่อกี้เคยยัง ไม่ตาย\", 54s \"วิ่งไปตาย\"",
+    "flag": "subs doubtful: ซับเพี้ยนบางส่วน"
+  },
+  {
+    "timeline": "จังหวะเอาชีวิตรอดเฉียดฉิว_REPO-vdo_9x16",
+    "file": "จังหวะเอาชีวิตรอดเฉียดฉิว_REPO-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เกือบตายแล้ว!"
+    ],
+    "secondary": [
+      "รอดมาได้ไง"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Collab R.E.P.O - เก็บของไว้ให้ไกลเสือ.mp4",
+    "source_time_s": 9626.0,
+    "evidence": "cue 47-48s \"เมื่อกี้เคยยัง ไม่ตาย\", 54s \"วิ่งไปตาย\"",
+    "flag": "subs doubtful: ซับเพี้ยนบางส่วน"
+  },
+  {
+    "timeline": "โดนตัวประหลาดลากเข้าเงามืดต่อหน้าเพื่อน_REPO-vdo",
+    "file": "โดนตัวประหลาดลากเข้าเงามืดต่อหน้าเพื่อน_REPO-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เอ้า!แล้วไง"
+    ],
+    "secondary": [
+      "ต่อหน้าเพื่อน"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/R.E.P.O @Luche_Sinclair @Kungphaokung @RahhatemPSM @Salika_SaharasCh.mp4",
+    "source_time_s": 400.0,
+    "evidence": "ซับ 38-40s \"เอ้าแล้วยังไง\" ไม่พอ",
+    "flag": "title-only: ซับเกือบไม่มี ฉากเป็นเมนู/โหลด ไม่ตรงชื่อ"
+  },
+  {
+    "timeline": "โดนตัวประหลาดลากเข้าเงามืดต่อหน้าเพื่อน_REPO-vdo_9x16",
+    "file": "โดนตัวประหลาดลากเข้าเงามืดต่อหน้าเพื่อน_REPO-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เอ้า!แล้วไง"
+    ],
+    "secondary": [
+      "ต่อหน้าเพื่อน"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/R.E.P.O @Luche_Sinclair @Kungphaokung @RahhatemPSM @Salika_SaharasCh.mp4",
+    "source_time_s": 400.0,
+    "evidence": "ซับ 38-40s \"เอ้าแล้วยังไง\" ไม่พอ",
+    "flag": "title-only: ซับเกือบไม่มี ฉากเป็นเมนู/โหลด ไม่ตรงชื่อ"
+  },
+  {
+    "timeline": "จังหวะขโมยของหนีออกจากประตูลับ_REPO-vdo",
+    "file": "จังหวะขโมยของหนีออกจากประตูลับ_REPO-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เลือดเย็นมาก!"
+    ],
+    "secondary": [
+      "ขโมยแล้วหนี"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/R.E.P.O @Luche_Sinclair @Kungphaokung @RahhatemPSM @Salika_SaharasCh.mp4",
+    "source_time_s": 6771.0,
+    "evidence": "cue 38s \"เลือดเย็นมาก\", 42s \"ยังไม่ตายวะ\"",
+    "flag": "subs doubtful: ซับช่วงอื่นเพี้ยน"
+  },
+  {
+    "timeline": "จังหวะขโมยของหนีออกจากประตูลับ_REPO-vdo_9x16",
+    "file": "จังหวะขโมยของหนีออกจากประตูลับ_REPO-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เลือดเย็นมาก!"
+    ],
+    "secondary": [
+      "ขโมยแล้วหนี"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/R.E.P.O @Luche_Sinclair @Kungphaokung @RahhatemPSM @Salika_SaharasCh.mp4",
+    "source_time_s": 6771.0,
+    "evidence": "cue 38s \"เลือดเย็นมาก\", 42s \"ยังไม่ตายวะ\"",
+    "flag": "subs doubtful: ซับช่วงอื่นเพี้ยน"
+  },
+  {
+    "timeline": "เพื่อนโดนงาบต่อหน้าต่อตาช่วยไม่ทัน_REPO-vdo",
+    "file": "เพื่อนโดนงาบต่อหน้าต่อตาช่วยไม่ทัน_REPO-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เงียบจัง…"
+    ],
+    "secondary": [
+      "ช่วยไม่ทัน"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/R.E.P.O @Luche_Sinclair @Kungphaokung @RahhatemPSM @Salika_SaharasCh.mp4",
+    "source_time_s": 6947.0,
+    "evidence": "ไม่มีซับ",
+    "flag": "title-only: ไม่มีซับ ฉากเป็นลอบบี้"
+  },
+  {
+    "timeline": "เพื่อนโดนงาบต่อหน้าต่อตาช่วยไม่ทัน_REPO-vdo_9x16",
+    "file": "เพื่อนโดนงาบต่อหน้าต่อตาช่วยไม่ทัน_REPO-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เงียบจัง…"
+    ],
+    "secondary": [
+      "ช่วยไม่ทัน"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/R.E.P.O @Luche_Sinclair @Kungphaokung @RahhatemPSM @Salika_SaharasCh.mp4",
+    "source_time_s": 6947.0,
+    "evidence": "ไม่มีซับ",
+    "flag": "title-only: ไม่มีซับ ฉากเป็นลอบบี้"
+  },
+  {
+    "timeline": "เสียงฝีเท้าปริศนาทำเอาสะดุ้งทั้งตี้_REPO-vdo",
+    "file": "เสียงฝีเท้าปริศนาทำเอาสะดุ้งทั้งตี้_REPO-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "มีผีไหม?"
+    ],
+    "secondary": [
+      "ตกใจหมด"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/R.E.P.O @ballkarozumar1238 @F4RC14  @momomewmoi @Mikhail_Cerise.mp4",
+    "source_time_s": 194.0,
+    "evidence": "cue 3s \"ตกใจหมด\", 24-25s \"มีผีไหม ครับมีครับ\"",
+    "flag": "ฉากเป็นลอบบี้/คุย"
+  },
+  {
+    "timeline": "เสียงฝีเท้าปริศนาทำเอาสะดุ้งทั้งตี้_REPO-vdo_9x16",
+    "file": "เสียงฝีเท้าปริศนาทำเอาสะดุ้งทั้งตี้_REPO-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "มีผีไหม?"
+    ],
+    "secondary": [
+      "ตกใจหมด"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/R.E.P.O @ballkarozumar1238 @F4RC14  @momomewmoi @Mikhail_Cerise.mp4",
+    "source_time_s": 194.0,
+    "evidence": "cue 3s \"ตกใจหมด\", 24-25s \"มีผีไหม ครับมีครับ\"",
+    "flag": "ฉากเป็นลอบบี้/คุย"
+  },
+  {
+    "timeline": "ตะโกนเตือนเพื่อนแต่โดนทิ้งไว้ข้างหลัง_REPO-vdo",
+    "file": "ตะโกนเตือนเพื่อนแต่โดนทิ้งไว้ข้างหลัง_REPO-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เดี๋ยวๆ!"
+    ],
+    "secondary": [
+      "เพื่อนทิ้งไว้"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/R.E.P.O @ballkarozumar1238 @F4RC14  @momomewmoi @Mikhail_Cerise.mp4",
+    "source_time_s": 8703.0,
+    "evidence": "cue 22-24s \"เดี๋ยวๆๆๆ\", 45-52s เพื่อนไปก่อน",
+    "flag": "subs doubtful: ซับท้ายเพี้ยน"
+  },
+  {
+    "timeline": "ตะโกนเตือนเพื่อนแต่โดนทิ้งไว้ข้างหลัง_REPO-vdo_9x16",
+    "file": "ตะโกนเตือนเพื่อนแต่โดนทิ้งไว้ข้างหลัง_REPO-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เดี๋ยวๆ!"
+    ],
+    "secondary": [
+      "เพื่อนทิ้งไว้"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/R.E.P.O @ballkarozumar1238 @F4RC14  @momomewmoi @Mikhail_Cerise.mp4",
+    "source_time_s": 8703.0,
+    "evidence": "cue 22-24s \"เดี๋ยวๆๆๆ\", 45-52s เพื่อนไปก่อน",
+    "flag": "subs doubtful: ซับท้ายเพี้ยน"
+  },
+  {
+    "timeline": "เดินตกหลุมกับดักเพราะมัวแต่มองของ_REPO-vdo",
+    "file": "เดินตกหลุมกับดักเพราะมัวแต่มองของ_REPO-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ไม่กลัวผีแล้ว!"
+    ],
+    "secondary": [
+      "ได้เล่นสักที"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/R.E.P.O @ballkarozumar1238 @F4RC14  @momomewmoi @mitsuki_mayu@NANOZEROO.mp4",
+    "source_time_s": 962.0,
+    "evidence": "cue 17-19s \"เคยไม่กลัวผีกันแล้วว่ะ ในที่สุด...ได้เล่น\"",
+    "flag": "subs doubtful: ชื่อกับซับไม่ตรงกัน"
+  },
+  {
+    "timeline": "เดินตกหลุมกับดักเพราะมัวแต่มองของ_REPO-vdo_9x16",
+    "file": "เดินตกหลุมกับดักเพราะมัวแต่มองของ_REPO-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ไม่กลัวผีแล้ว!"
+    ],
+    "secondary": [
+      "ได้เล่นสักที"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/R.E.P.O @ballkarozumar1238 @F4RC14  @momomewmoi @mitsuki_mayu@NANOZEROO.mp4",
+    "source_time_s": 962.0,
+    "evidence": "cue 17-19s \"เคยไม่กลัวผีกันแล้วว่ะ ในที่สุด...ได้เล่น\"",
+    "flag": "subs doubtful: ชื่อกับซับไม่ตรงกัน"
+  },
+  {
+    "timeline": "แบกของหนักวิ่งหนีตายวินาทีสุดท้าย_REPO-vdo",
+    "file": "แบกของหนักวิ่งหนีตายวินาทีสุดท้าย_REPO-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "รีบขายๆ!"
+    ],
+    "secondary": [
+      "วินาทีสุดท้าย"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/R.E.P.O @ballkarozumar1238 @F4RC14  @momomewmoi @mitsuki_mayu@NANOZEROO.mp4",
+    "source_time_s": 8738.0,
+    "evidence": "cue 52s \"อ่ะรีบขายๆ\" 54s \"เฮ้ย\"",
+    "flag": ""
+  },
+  {
+    "timeline": "แบกของหนักวิ่งหนีตายวินาทีสุดท้าย_REPO-vdo_9x16",
+    "file": "แบกของหนักวิ่งหนีตายวินาทีสุดท้าย_REPO-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "รีบขายๆ!"
+    ],
+    "secondary": [
+      "วินาทีสุดท้าย"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/R.E.P.O @ballkarozumar1238 @F4RC14  @momomewmoi @mitsuki_mayu@NANOZEROO.mp4",
+    "source_time_s": 8738.0,
+    "evidence": "cue 52s \"อ่ะรีบขายๆ\" 54s \"เฮ้ย\"",
+    "flag": ""
+  },
+  {
+    "timeline": "บ่นเรื่องงานจนลืมเวลาพักผ่อน_FreeTalk-vdo",
+    "file": "บ่นเรื่องงานจนลืมเวลาพักผ่อน_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ไม่ได้โม้เลย!"
+    ],
+    "secondary": [
+      "ยืนยันเรื่องจริง"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk - ปิดคาสิโนแล้วบอสไปทำไรต่อ.mp4",
+    "source_time_s": 2349.0,
+    "evidence": "48-49s 'จริงไม่ได้โม้ ไม่ได้โม้เลย'",
+    "flag": ""
+  },
+  {
+    "timeline": "บ่นเรื่องงานจนลืมเวลาพักผ่อน_FreeTalk-vdo_9x16",
+    "file": "บ่นเรื่องงานจนลืมเวลาพักผ่อน_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ไม่ได้โม้เลย!"
+    ],
+    "secondary": [
+      "ยืนยันเรื่องจริง"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk - ปิดคาสิโนแล้วบอสไปทำไรต่อ.mp4",
+    "source_time_s": 2349.0,
+    "evidence": "48-49s 'จริงไม่ได้โม้ ไม่ได้โม้เลย'",
+    "flag": ""
+  },
+  {
+    "timeline": "ปิดคาสิโนแล้วไปหาของกินรอบดึก_FreeTalk-vdo",
+    "file": "ปิดคาสิโนแล้วไปหาของกินรอบดึก_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ลืมไปนะ!"
+    ],
+    "secondary": [
+      "ที่ได้ยินเมื่อกี้"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk - ปิดคาสิโนแล้วบอสไปทำไรต่อ.mp4",
+    "source_time_s": 3256.0,
+    "evidence": "19-28s 'ที่ได้ยินเมื่อกี้ ทุกคนต้องลืมไปนะ'",
+    "flag": "title-only: ชื่อพูดถึงคาสิโน/ของกิน แต่ cues มีแค่ขอให้ลืม; hook จาก cues"
+  },
+  {
+    "timeline": "ปิดคาสิโนแล้วไปหาของกินรอบดึก_FreeTalk-vdo_9x16",
+    "file": "ปิดคาสิโนแล้วไปหาของกินรอบดึก_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ลืมไปนะ!"
+    ],
+    "secondary": [
+      "ที่ได้ยินเมื่อกี้"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk - ปิดคาสิโนแล้วบอสไปทำไรต่อ.mp4",
+    "source_time_s": 3256.0,
+    "evidence": "19-28s 'ที่ได้ยินเมื่อกี้ ทุกคนต้องลืมไปนะ'",
+    "flag": "title-only: ชื่อพูดถึงคาสิโน/ของกิน แต่ cues มีแค่ขอให้ลืม; hook จาก cues"
+  },
+  {
+    "timeline": "จ้างร้อยล้านก็ไม่ยอมย้ายไปไหน_FreeTalk-vdo",
+    "file": "จ้างร้อยล้านก็ไม่ยอมย้ายไปไหน_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "น่ากลัวจริงๆ"
+    ],
+    "secondary": [
+      "มีคนเปิดแล้ว"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ติดเกาะกับเธอ จ้างเท่าไหร่ก็ไม่ออก.mp4",
+    "source_time_s": 234.0,
+    "evidence": "25-28s 'มีคนเปิดจุดตันแล้วเหรอเนี่ย แป๊บเดียวเอง น่ากลัวจริงๆเลย'",
+    "flag": "subs doubtful: 'จุดตัน/ติดม้า' ASR ไม่ชัด, ไม่ตรงชื่อ"
+  },
+  {
+    "timeline": "จ้างร้อยล้านก็ไม่ยอมย้ายไปไหน_FreeTalk-vdo_9x16",
+    "file": "จ้างร้อยล้านก็ไม่ยอมย้ายไปไหน_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "น่ากลัวจริงๆ"
+    ],
+    "secondary": [
+      "มีคนเปิดแล้ว"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ติดเกาะกับเธอ จ้างเท่าไหร่ก็ไม่ออก.mp4",
+    "source_time_s": 234.0,
+    "evidence": "25-28s 'มีคนเปิดจุดตันแล้วเหรอเนี่ย แป๊บเดียวเอง น่ากลัวจริงๆเลย'",
+    "flag": "subs doubtful: 'จุดตัน/ติดม้า' ASR ไม่ชัด, ไม่ตรงชื่อ"
+  },
+  {
+    "timeline": "ถ้าต้องติดเกาะขอเลือกนอนเฉยๆดีกว่า_FreeTalk-vdo",
+    "file": "ถ้าต้องติดเกาะขอเลือกนอนเฉยๆดีกว่า_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ไมค์แดงตลอด!"
+    ],
+    "secondary": [
+      "ไมค์ดังไปไหม"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ติดเกาะกับเธอ จ้างเท่าไหร่ก็ไม่ออก.mp4",
+    "source_time_s": 394.0,
+    "evidence": "31-38s 'ไมค์ไทกะมันขึ้นแดงตลอดเลย' 'ไมค์ดังเกินไปไหม'",
+    "flag": "title-only: cues ไม่พูดถึงติดเกาะ"
+  },
+  {
+    "timeline": "ถ้าต้องติดเกาะขอเลือกนอนเฉยๆดีกว่า_FreeTalk-vdo_9x16",
+    "file": "ถ้าต้องติดเกาะขอเลือกนอนเฉยๆดีกว่า_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ไมค์แดงตลอด!"
+    ],
+    "secondary": [
+      "ไมค์ดังไปไหม"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ติดเกาะกับเธอ จ้างเท่าไหร่ก็ไม่ออก.mp4",
+    "source_time_s": 394.0,
+    "evidence": "31-38s 'ไมค์ไทกะมันขึ้นแดงตลอดเลย' 'ไมค์ดังเกินไปไหม'",
+    "flag": "title-only: cues ไม่พูดถึงติดเกาะ"
+  },
+  {
+    "timeline": "เตือนสติคนดูเรื่องความรักสุดพัง_FreeTalk-vdo",
+    "file": "เตือนสติคนดูเรื่องความรักสุดพัง_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ไทกะไม่เอา!"
+    ],
+    "secondary": [
+      "เรื่องจริงนะ"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ： จีบ 10 ปี แถมฟรีหนี้ 200 ล้าน.mp4",
+    "source_time_s": 4234.0,
+    "evidence": "46-52s 'ไทกะเลยไม่เอา' 'อันนี้คือเรื่องจริง แต่ไทกะไม่เอา'",
+    "flag": "subs doubtful: เนื้อเรื่องสร้อย/ยามไม่ชัด"
+  },
+  {
+    "timeline": "เตือนสติคนดูเรื่องความรักสุดพัง_FreeTalk-vdo_9x16",
+    "file": "เตือนสติคนดูเรื่องความรักสุดพัง_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ไทกะไม่เอา!"
+    ],
+    "secondary": [
+      "เรื่องจริงนะ"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ： จีบ 10 ปี แถมฟรีหนี้ 200 ล้าน.mp4",
+    "source_time_s": 4234.0,
+    "evidence": "46-52s 'ไทกะเลยไม่เอา' 'อันนี้คือเรื่องจริง แต่ไทกะไม่เอา'",
+    "flag": "subs doubtful: เนื้อเรื่องสร้อย/ยามไม่ชัด"
+  },
+  {
+    "timeline": "บทเรียนชีวิตจีบสิบปีแต่มีหนี้แถมมา_FreeTalk-vdo",
+    "file": "บทเรียนชีวิตจีบสิบปีแต่มีหนี้แถมมา_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เป็น PTSD เลย"
+    ],
+    "secondary": [
+      "ทำงานกับผู้สูงอายุ"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ： จีบ 10 ปี แถมฟรีหนี้ 200 ล้าน.mp4",
+    "source_time_s": 6581.0,
+    "evidence": "8-19s 'ทำงานกับผู้สูงอายุ ไทกะยังมีอาการ PTSD เลยอ่ะ'",
+    "flag": "subs doubtful: ชื่อเรื่องจีบสิบปีไม่ปรากฏใน cues; hook จาก cues"
+  },
+  {
+    "timeline": "บทเรียนชีวิตจีบสิบปีแต่มีหนี้แถมมา_FreeTalk-vdo_9x16",
+    "file": "บทเรียนชีวิตจีบสิบปีแต่มีหนี้แถมมา_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เป็น PTSD เลย"
+    ],
+    "secondary": [
+      "ทำงานกับผู้สูงอายุ"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ： จีบ 10 ปี แถมฟรีหนี้ 200 ล้าน.mp4",
+    "source_time_s": 6581.0,
+    "evidence": "8-19s 'ทำงานกับผู้สูงอายุ ไทกะยังมีอาการ PTSD เลยอ่ะ'",
+    "flag": "subs doubtful: ชื่อเรื่องจีบสิบปีไม่ปรากฏใน cues; hook จาก cues"
+  },
+  {
+    "timeline": "สอนวิชาป้องกันตัวด้วยกำปั้นเปล่าสุดฮา_FreeTalk-vdo",
+    "file": "สอนวิชาป้องกันตัวด้วยกำปั้นเปล่าสุดฮา_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "หลุดเกม!"
+    ],
+    "secondary": [
+      "ตัวละครหายหมด"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ： หยุดเสือด้วยมือเปล่า？？.mp4",
+    "source_time_s": 593.0,
+    "evidence": "12-13s 'ตัวละครพวกผมสามคน หลุดเกม อ้าวชิบหายแล้ว'",
+    "flag": ""
+  },
+  {
+    "timeline": "สอนวิชาป้องกันตัวด้วยกำปั้นเปล่าสุดฮา_FreeTalk-vdo_9x16",
+    "file": "สอนวิชาป้องกันตัวด้วยกำปั้นเปล่าสุดฮา_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "หลุดเกม!"
+    ],
+    "secondary": [
+      "ตัวละครหายหมด"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ： หยุดเสือด้วยมือเปล่า？？.mp4",
+    "source_time_s": 593.0,
+    "evidence": "12-13s 'ตัวละครพวกผมสามคน หลุดเกม อ้าวชิบหายแล้ว'",
+    "flag": ""
+  },
+  {
+    "timeline": "อ่านคอมเมนต์สุดกาวขำจนตัวโยก_FreeTalk-vdo",
+    "file": "อ่านคอมเมนต์สุดกาวขำจนตัวโยก_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "โอ๊ยร้อน!"
+    ],
+    "secondary": [
+      "โดนไฟลวก"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ： หยุดเสือด้วยมือเปล่า？？.mp4",
+    "source_time_s": 1539.0,
+    "evidence": "20-21s 'โอ๊ยโดนไฟ โอ๊ยร้อน'",
+    "flag": ""
+  },
+  {
+    "timeline": "อ่านคอมเมนต์สุดกาวขำจนตัวโยก_FreeTalk-vdo_9x16",
+    "file": "อ่านคอมเมนต์สุดกาวขำจนตัวโยก_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "โอ๊ยร้อน!"
+    ],
+    "secondary": [
+      "โดนไฟลวก"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ： หยุดเสือด้วยมือเปล่า？？.mp4",
+    "source_time_s": 1539.0,
+    "evidence": "20-21s 'โอ๊ยโดนไฟ โอ๊ยร้อน'",
+    "flag": ""
+  },
+  {
+    "timeline": "ตอบแชทเรื่องสู้เสือด้วยมือเปล่า_FreeTalk-vdo",
+    "file": "ตอบแชทเรื่องสู้เสือด้วยมือเปล่า_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ฆ่ามันทิ้ง!"
+    ],
+    "secondary": [
+      "สู้เสือมือเปล่า"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ： หยุดเสือด้วยมือเปล่า？？.mp4",
+    "source_time_s": 1784.0,
+    "evidence": "49-50s 'ถ้าเกิดมี ไทกะก็ฆ่ามันทิ้ง'",
+    "flag": "subs doubtful: 'โกโกนอล' ASR ไม่ชัด"
+  },
+  {
+    "timeline": "ตอบแชทเรื่องสู้เสือด้วยมือเปล่า_FreeTalk-vdo_9x16",
+    "file": "ตอบแชทเรื่องสู้เสือด้วยมือเปล่า_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ฆ่ามันทิ้ง!"
+    ],
+    "secondary": [
+      "สู้เสือมือเปล่า"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ： หยุดเสือด้วยมือเปล่า？？.mp4",
+    "source_time_s": 1784.0,
+    "evidence": "49-50s 'ถ้าเกิดมี ไทกะก็ฆ่ามันทิ้ง'",
+    "flag": "subs doubtful: 'โกโกนอล' ASR ไม่ชัด"
+  },
+  {
+    "timeline": "จำลองเหตุการณ์ถ้าเจอเสือของจริง_FreeTalk-vdo",
+    "file": "จำลองเหตุการณ์ถ้าเจอเสือของจริง_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "โคตรสนุกอ่ะ!"
+    ],
+    "secondary": [
+      "ตอนเล่นจริง"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ： หยุดเสือด้วยมือเปล่า？？.mp4",
+    "source_time_s": 1983.0,
+    "evidence": "36-37s 'ตอนเล่นจริง นี่คือโคตรสนุกอ่ะ'",
+    "flag": ""
+  },
+  {
+    "timeline": "จำลองเหตุการณ์ถ้าเจอเสือของจริง_FreeTalk-vdo_9x16",
+    "file": "จำลองเหตุการณ์ถ้าเจอเสือของจริง_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "โคตรสนุกอ่ะ!"
+    ],
+    "secondary": [
+      "ตอนเล่นจริง"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ： หยุดเสือด้วยมือเปล่า？？.mp4",
+    "source_time_s": 1983.0,
+    "evidence": "36-37s 'ตอนเล่นจริง นี่คือโคตรสนุกอ่ะ'",
+    "flag": ""
+  },
+  {
+    "timeline": "Highlight_Meme_FreeTalk_Tiger",
+    "file": "Highlight_Meme_FreeTalk_Tiger.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "สนิท NPC เกินไป"
+    ],
+    "secondary": [
+      "ไทกะไม่พอใจ"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ： หยุดเสือด้วยมือเปล่า？？.mp4",
+    "source_time_s": 2248.0,
+    "evidence": "11-13s 'การสนิทกับ NPC มากเกินไปเป็นสิ่งที่ไม่ดีนะคะ'",
+    "flag": ""
+  },
+  {
+    "timeline": "Highlight_Meme_FreeTalk_Tiger_9x16",
+    "file": "Highlight_Meme_FreeTalk_Tiger_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "สนิท NPC เกินไป"
+    ],
+    "secondary": [
+      "ไทกะไม่พอใจ"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ： หยุดเสือด้วยมือเปล่า？？.mp4",
+    "source_time_s": 2248.0,
+    "evidence": "11-13s 'การสนิทกับ NPC มากเกินไปเป็นสิ่งที่ไม่ดีนะคะ'",
+    "flag": ""
+  },
+  {
+    "timeline": "ฝึกเป็นกัปตันเรือแต่โดนลูกเรือแซว_FreeTalk-vdo",
+    "file": "ฝึกเป็นกัปตันเรือแต่โดนลูกเรือแซว_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "โดนบูชายัญ!"
+    ],
+    "secondary": [
+      "เรือล่มติดเกาะ"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ：สอนไทกะเป็นโจรสลัดที.mp4",
+    "source_time_s": 4335.0,
+    "evidence": "16-27s 'เรือล่ม ติดที่เกาะ โดนจับบูชายัญ'",
+    "flag": ""
+  },
+  {
+    "timeline": "ฝึกเป็นกัปตันเรือแต่โดนลูกเรือแซว_FreeTalk-vdo_9x16",
+    "file": "ฝึกเป็นกัปตันเรือแต่โดนลูกเรือแซว_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "โดนบูชายัญ!"
+    ],
+    "secondary": [
+      "เรือล่มติดเกาะ"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ：สอนไทกะเป็นโจรสลัดที.mp4",
+    "source_time_s": 4335.0,
+    "evidence": "16-27s 'เรือล่ม ติดที่เกาะ โดนจับบูชายัญ'",
+    "flag": ""
+  },
+  {
+    "timeline": "แผนการออกทะเลล่าขุมทรัพย์สุดเพี้ยน_FreeTalk-vdo",
+    "file": "แผนการออกทะเลล่าขุมทรัพย์สุดเพี้ยน_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "มันมีเหตุผล!"
+    ],
+    "secondary": [
+      "ไทกะพูดจริง"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ：สอนไทกะเป็นโจรสลัดที.mp4",
+    "source_time_s": 4565.0,
+    "evidence": "5-7s 'ไทกะพูดอ่ะ มันมีเหตุผลมากๆเลย'",
+    "flag": "subs doubtful: เนื้อหาเรื่องเด็ก/ฟาร์ม ไม่ตรงชื่อ (ล่าขุมทรัพย์)"
+  },
+  {
+    "timeline": "แผนการออกทะเลล่าขุมทรัพย์สุดเพี้ยน_FreeTalk-vdo_9x16",
+    "file": "แผนการออกทะเลล่าขุมทรัพย์สุดเพี้ยน_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "มันมีเหตุผล!"
+    ],
+    "secondary": [
+      "ไทกะพูดจริง"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ：สอนไทกะเป็นโจรสลัดที.mp4",
+    "source_time_s": 4565.0,
+    "evidence": "5-7s 'ไทกะพูดอ่ะ มันมีเหตุผลมากๆเลย'",
+    "flag": "subs doubtful: เนื้อหาเรื่องเด็ก/ฟาร์ม ไม่ตรงชื่อ (ล่าขุมทรัพย์)"
+  },
+  {
+    "timeline": "โดนเพื่อนรุมแกงจนแทบอยากปิดไมค์_FreeTalk-vdo",
+    "file": "โดนเพื่อนรุมแกงจนแทบอยากปิดไมค์_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "หล่อมากเลย!"
+    ],
+    "secondary": [
+      "แต่โดนบูชายัญ"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ：เมื่อได้เป็นตัวโดนประจำตี้.mp4",
+    "source_time_s": 526.0,
+    "evidence": "14-18s 'มึงหล่อมากเลยนะ' + 29-31s 'โดนจับไปบูชายัญ'",
+    "flag": ""
+  },
+  {
+    "timeline": "โดนเพื่อนรุมแกงจนแทบอยากปิดไมค์_FreeTalk-vdo_9x16",
+    "file": "โดนเพื่อนรุมแกงจนแทบอยากปิดไมค์_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "หล่อมากเลย!"
+    ],
+    "secondary": [
+      "แต่โดนบูชายัญ"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ：เมื่อได้เป็นตัวโดนประจำตี้.mp4",
+    "source_time_s": 526.0,
+    "evidence": "14-18s 'มึงหล่อมากเลยนะ' + 29-31s 'โดนจับไปบูชายัญ'",
+    "flag": ""
+  },
+  {
+    "timeline": "ตัดพ้อชีวิตทำไมต้องเป็นตัวโดนตลอด_FreeTalk-vdo",
+    "file": "ตัดพ้อชีวิตทำไมต้องเป็นตัวโดนตลอด_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ปากดีตอแหล"
+    ],
+    "secondary": [
+      "ไทกะเล่นบทขุนนาง"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ：เมื่อได้เป็นตัวโดนประจำตี้.mp4",
+    "source_time_s": 6081.0,
+    "evidence": "29-34s 'ไทกะต้องโรลเป็นคนปากดี ตอแหล กวนตีน'",
+    "flag": ""
+  },
+  {
+    "timeline": "ตัดพ้อชีวิตทำไมต้องเป็นตัวโดนตลอด_FreeTalk-vdo_9x16",
+    "file": "ตัดพ้อชีวิตทำไมต้องเป็นตัวโดนตลอด_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ปากดีตอแหล"
+    ],
+    "secondary": [
+      "ไทกะเล่นบทขุนนาง"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ：เมื่อได้เป็นตัวโดนประจำตี้.mp4",
+    "source_time_s": 6081.0,
+    "evidence": "29-34s 'ไทกะต้องโรลเป็นคนปากดี ตอแหล กวนตีน'",
+    "flag": ""
+  },
+  {
+    "timeline": "สับสนบทบาทจนเพื่อนต้องสะกิดเตือน_FreeTalk-vdo",
+    "file": "สับสนบทบาทจนเพื่อนต้องสะกิดเตือน_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "โต๊ะไม่ขึ้นสักที!"
+    ],
+    "secondary": [
+      "รอเกือบเที่ยงคืน"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ：เมื่อไทกะเล่น เกย์กับชายใน DnD โดยไม่รู้ตัว.mp4",
+    "source_time_s": 3810.0,
+    "evidence": "25-30s 'เกือบถึงเที่ยงคืน ยังไม่ได้ขึ้นโต๊ะเลย ไอ้บ้า'",
+    "flag": "title-only: ชื่อเรื่องสับสนบทบาทไม่ปรากฏใน cues"
+  },
+  {
+    "timeline": "สับสนบทบาทจนเพื่อนต้องสะกิดเตือน_FreeTalk-vdo_9x16",
+    "file": "สับสนบทบาทจนเพื่อนต้องสะกิดเตือน_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "โต๊ะไม่ขึ้นสักที!"
+    ],
+    "secondary": [
+      "รอเกือบเที่ยงคืน"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ：เมื่อไทกะเล่น เกย์กับชายใน DnD โดยไม่รู้ตัว.mp4",
+    "source_time_s": 3810.0,
+    "evidence": "25-30s 'เกือบถึงเที่ยงคืน ยังไม่ได้ขึ้นโต๊ะเลย ไอ้บ้า'",
+    "flag": "title-only: ชื่อเรื่องสับสนบทบาทไม่ปรากฏใน cues"
+  },
+  {
+    "timeline": "เผลอสร้างตำนานคู่จิ้นกลางวงสนทนา_FreeTalk-vdo",
+    "file": "เผลอสร้างตำนานคู่จิ้นกลางวงสนทนา_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เป็นคนเลวมาก!"
+    ],
+    "secondary": [
+      "ร่ายเวทใน DnD"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ：เมื่อไทกะเล่น เกย์กับชายใน DnD โดยไม่รู้ตัว.mp4",
+    "source_time_s": 5142.0,
+    "evidence": "46-52s 'ไทกะรู้สึกเป็นคนเลว หนูเป็นคนเลวมากๆ' + 1-14s สกิล DnD",
+    "flag": ""
+  },
+  {
+    "timeline": "เผลอสร้างตำนานคู่จิ้นกลางวงสนทนา_FreeTalk-vdo_9x16",
+    "file": "เผลอสร้างตำนานคู่จิ้นกลางวงสนทนา_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เป็นคนเลวมาก!"
+    ],
+    "secondary": [
+      "ร่ายเวทใน DnD"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk ：เมื่อไทกะเล่น เกย์กับชายใน DnD โดยไม่รู้ตัว.mp4",
+    "source_time_s": 5142.0,
+    "evidence": "46-52s 'ไทกะรู้สึกเป็นคนเลว หนูเป็นคนเลวมากๆ' + 1-14s สกิล DnD",
+    "flag": ""
+  },
+  {
+    "timeline": "บ่นน้อยใจลูกน้องแกล้งทำเป็นไม่ได้ยิน_FreeTalk-vdo",
+    "file": "บ่นน้อยใจลูกน้องแกล้งทำเป็นไม่ได้ยิน_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ไทกะเป็นคนโดน!"
+    ],
+    "secondary": [
+      "ไม่ได้เปิดฮาเร็ม"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk： ลูกน้องไม่ตอบก็จะคุย!.mp4",
+    "source_time_s": 4092.0,
+    "evidence": "32-33s 'ไทกะไม่ได้เปิดฮาเร็ม' 45-52s 'ไทกะเป็นคนโดนโว้ย'",
+    "flag": ""
+  },
+  {
+    "timeline": "บ่นน้อยใจลูกน้องแกล้งทำเป็นไม่ได้ยิน_FreeTalk-vdo_9x16",
+    "file": "บ่นน้อยใจลูกน้องแกล้งทำเป็นไม่ได้ยิน_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ไทกะเป็นคนโดน!"
+    ],
+    "secondary": [
+      "ไม่ได้เปิดฮาเร็ม"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk： ลูกน้องไม่ตอบก็จะคุย!.mp4",
+    "source_time_s": 4092.0,
+    "evidence": "32-33s 'ไทกะไม่ได้เปิดฮาเร็ม' 45-52s 'ไทกะเป็นคนโดนโว้ย'",
+    "flag": ""
+  },
+  {
+    "timeline": "เรียกชื่อลูกน้องรัวๆจนต้องยอมเปิดไมค์_FreeTalk-vdo",
+    "file": "เรียกชื่อลูกน้องรัวๆจนต้องยอมเปิดไมค์_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เป็นบาร์ดด้วย?!"
+    ],
+    "secondary": [
+      "ตัวละครสายร้องเพลง"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk： ลูกน้องไม่ตอบก็จะคุย!.mp4",
+    "source_time_s": 4766.0,
+    "evidence": "25-28s 'สายบาร์ด สายร้องเพลง' 52s 'เป็นบาร์ดด้วย'",
+    "flag": ""
+  },
+  {
+    "timeline": "เรียกชื่อลูกน้องรัวๆจนต้องยอมเปิดไมค์_FreeTalk-vdo_9x16",
+    "file": "เรียกชื่อลูกน้องรัวๆจนต้องยอมเปิดไมค์_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เป็นบาร์ดด้วย?!"
+    ],
+    "secondary": [
+      "ตัวละครสายร้องเพลง"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Free Talk： ลูกน้องไม่ตอบก็จะคุย!.mp4",
+    "source_time_s": 4766.0,
+    "evidence": "25-28s 'สายบาร์ด สายร้องเพลง' 52s 'เป็นบาร์ดด้วย'",
+    "flag": ""
+  },
+  {
+    "timeline": "โดนแซวเรื่องแพ้ทางผู้หญิงจนหน้าแดง_FreeTalk-vdo",
+    "file": "โดนแซวเรื่องแพ้ทางผู้หญิงจนหน้าแดง_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ให้ผิดหวัง!"
+    ],
+    "secondary": [
+      "ไลฟ์ครบสองร้อย"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/MEET BOSS ： บอสเราเจอผู้หญิงไม่ได้เลย.mp4",
+    "source_time_s": 3778.0,
+    "evidence": "20-29s 'ไทกะจะทำให้คนที่ไม่ได้เข้ามาผิดหวัง' 12s 'ไลฟ์ที่สองร้อยพอดี'",
+    "flag": "title-only: ชื่อแพ้ทางผู้หญิงไม่ปรากฏใน cues"
+  },
+  {
+    "timeline": "โดนแซวเรื่องแพ้ทางผู้หญิงจนหน้าแดง_FreeTalk-vdo_9x16",
+    "file": "โดนแซวเรื่องแพ้ทางผู้หญิงจนหน้าแดง_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ให้ผิดหวัง!"
+    ],
+    "secondary": [
+      "ไลฟ์ครบสองร้อย"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/MEET BOSS ： บอสเราเจอผู้หญิงไม่ได้เลย.mp4",
+    "source_time_s": 3778.0,
+    "evidence": "20-29s 'ไทกะจะทำให้คนที่ไม่ได้เข้ามาผิดหวัง' 12s 'ไลฟ์ที่สองร้อยพอดี'",
+    "flag": "title-only: ชื่อแพ้ทางผู้หญิงไม่ปรากฏใน cues"
+  },
+  {
+    "timeline": "อาการเสียอาการเมื่อต้องคุยกับสาวสวย_FreeTalk-vdo",
+    "file": "อาการเสียอาการเมื่อต้องคุยกับสาวสวย_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เอ่อ…ไม่ได้!"
+    ],
+    "secondary": [
+      "เจอสาวสวย"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/MEET BOSS ： บอสเราเจอผู้หญิงไม่ได้เลย.mp4",
+    "source_time_s": 6192.0,
+    "evidence": "cue 34s \"เอ่อไม่ได้\" only; title: คุยกับสาวสวย",
+    "flag": "title-only: 1 cue only"
+  },
+  {
+    "timeline": "อาการเสียอาการเมื่อต้องคุยกับสาวสวย_FreeTalk-vdo_9x16",
+    "file": "อาการเสียอาการเมื่อต้องคุยกับสาวสวย_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เอ่อ…ไม่ได้!"
+    ],
+    "secondary": [
+      "เจอสาวสวย"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/MEET BOSS ： บอสเราเจอผู้หญิงไม่ได้เลย.mp4",
+    "source_time_s": 6192.0,
+    "evidence": "cue 34s \"เอ่อไม่ได้\" only; title: คุยกับสาวสวย",
+    "flag": "title-only: 1 cue only"
+  },
+  {
+    "timeline": "หมุนวงล้อเสี่ยงทายเจอแต่บทลงโทษสุดกาว_FreeTalk-vdo",
+    "file": "หมุนวงล้อเสี่ยงทายเจอแต่บทลงโทษสุดกาว_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "อยากตายใช่ป่ะ!"
+    ],
+    "secondary": [
+      "วงล้อบทลงโทษ"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ฉลอง 800 ซับ! วงล้อเสี่ยงท้าย!!.mp4",
+    "source_time_s": 1013.0,
+    "evidence": "25-30s \"อยากตายใช่ป่ะ ให้กูพูดอะล่ะ\"",
+    "flag": "subs doubtful: ASR noisy"
+  },
+  {
+    "timeline": "หมุนวงล้อเสี่ยงทายเจอแต่บทลงโทษสุดกาว_FreeTalk-vdo_9x16",
+    "file": "หมุนวงล้อเสี่ยงทายเจอแต่บทลงโทษสุดกาว_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "อยากตายใช่ป่ะ!"
+    ],
+    "secondary": [
+      "วงล้อบทลงโทษ"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ฉลอง 800 ซับ! วงล้อเสี่ยงท้าย!!.mp4",
+    "source_time_s": 1013.0,
+    "evidence": "25-30s \"อยากตายใช่ป่ะ ให้กูพูดอะล่ะ\"",
+    "flag": "subs doubtful: ASR noisy"
+  },
+  {
+    "timeline": "กราบขอบคุณคนดูที่ร่วมเดินทางมาด้วยกัน_FreeTalk-vdo",
+    "file": "กราบขอบคุณคนดูที่ร่วมเดินทางมาด้วยกัน_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เขาหายไปแล้ว!"
+    ],
+    "secondary": [
+      "ฉลอง 800 ซับ"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ฉลอง 800 ซับ! วงล้อเสี่ยงท้าย!!.mp4",
+    "source_time_s": 3546.0,
+    "evidence": "35-39s \"เขาหายไปแล้ว\" x4; 800 ซับ from source filename",
+    "flag": "subs doubtful: ASR noisy, context unclear"
+  },
+  {
+    "timeline": "กราบขอบคุณคนดูที่ร่วมเดินทางมาด้วยกัน_FreeTalk-vdo_9x16",
+    "file": "กราบขอบคุณคนดูที่ร่วมเดินทางมาด้วยกัน_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เขาหายไปแล้ว!"
+    ],
+    "secondary": [
+      "ฉลอง 800 ซับ"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ฉลอง 800 ซับ! วงล้อเสี่ยงท้าย!!.mp4",
+    "source_time_s": 3546.0,
+    "evidence": "35-39s \"เขาหายไปแล้ว\" x4; 800 ซับ from source filename",
+    "flag": "subs doubtful: ASR noisy, context unclear"
+  },
+  {
+    "timeline": "เผยพฤติกรรมสุดแปลกตอนดึกสงัด_FreeTalk-vdo",
+    "file": "เผยพฤติกรรมสุดแปลกตอนดึกสงัด_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ไม่ใส่หูฟัง!"
+    ],
+    "secondary": [
+      "ตีสองคุยเอง"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/บอสทำไรตอนตี 2？？.mp4",
+    "source_time_s": 219.0,
+    "evidence": "30-31s \"ผมไม่ใส่หูฟังด้วยซ้ำ\"; src: บอสทำไรตอนตี 2",
+    "flag": "subs doubtful: ASR noisy"
+  },
+  {
+    "timeline": "เผยพฤติกรรมสุดแปลกตอนดึกสงัด_FreeTalk-vdo_9x16",
+    "file": "เผยพฤติกรรมสุดแปลกตอนดึกสงัด_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ไม่ใส่หูฟัง!"
+    ],
+    "secondary": [
+      "ตีสองคุยเอง"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/บอสทำไรตอนตี 2？？.mp4",
+    "source_time_s": 219.0,
+    "evidence": "30-31s \"ผมไม่ใส่หูฟังด้วยซ้ำ\"; src: บอสทำไรตอนตี 2",
+    "flag": "subs doubtful: ASR noisy"
+  },
+  {
+    "timeline": "นั่งคุยคนเดียวตอนตีสองจนรู้สึกวังเวง_FreeTalk-vdo",
+    "file": "นั่งคุยคนเดียวตอนตีสองจนรู้สึกวังเวง_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "วังเวง"
+    ],
+    "secondary": [
+      "ตีสองคุยคนเดียว"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/บอสทำไรตอนตี 2？？.mp4",
+    "source_time_s": 2853.0,
+    "evidence": "no subs; title: นั่งคุยคนเดียวตอนตีสอง",
+    "flag": "title-only: no subtitles, frame viewed"
+  },
+  {
+    "timeline": "นั่งคุยคนเดียวตอนตีสองจนรู้สึกวังเวง_FreeTalk-vdo_9x16",
+    "file": "นั่งคุยคนเดียวตอนตีสองจนรู้สึกวังเวง_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "วังเวง"
+    ],
+    "secondary": [
+      "ตีสองคุยคนเดียว"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/บอสทำไรตอนตี 2？？.mp4",
+    "source_time_s": 2853.0,
+    "evidence": "no subs; title: นั่งคุยคนเดียวตอนตีสอง",
+    "flag": "title-only: no subtitles, frame viewed"
+  },
+  {
+    "timeline": "นกแก้วพูดแทรกจังหวะสำคัญจนหลุดขำ_FreeTalk-vdo",
+    "file": "นกแก้วพูดแทรกจังหวะสำคัญจนหลุดขำ_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เกลียดไอ้เฮีย!"
+    ],
+    "secondary": [
+      "เจอกันครั้งแรก"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/รายการ ： Q&A คุยกับนกแก้ว.mp4",
+    "source_time_s": 633.0,
+    "evidence": "2-3s \"ครั้งแรกผมโคตรเกลียดไอ้เฮีย\"",
+    "flag": "subs doubtful: ASR noisy"
+  },
+  {
+    "timeline": "นกแก้วพูดแทรกจังหวะสำคัญจนหลุดขำ_FreeTalk-vdo_9x16",
+    "file": "นกแก้วพูดแทรกจังหวะสำคัญจนหลุดขำ_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เกลียดไอ้เฮีย!"
+    ],
+    "secondary": [
+      "เจอกันครั้งแรก"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/รายการ ： Q&A คุยกับนกแก้ว.mp4",
+    "source_time_s": 633.0,
+    "evidence": "2-3s \"ครั้งแรกผมโคตรเกลียดไอ้เฮีย\"",
+    "flag": "subs doubtful: ASR noisy"
+  },
+  {
+    "timeline": "ตอบคำถามแฟนคลับเรื่องอาหารจานโปรด_FreeTalk-vdo",
+    "file": "ตอบคำถามแฟนคลับเรื่องอาหารจานโปรด_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "สายธนู!"
+    ],
+    "secondary": [
+      "เล่นสาย Archer"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/รายการ ： Q&A คุยกับนกแก้ว.mp4",
+    "source_time_s": 2506.0,
+    "evidence": "9-13s \"เล่นสาย Archer ก็คือเล่นธนู\"",
+    "flag": "subs doubtful: title (อาหารจานโปรด) does not match cues"
+  },
+  {
+    "timeline": "ตอบคำถามแฟนคลับเรื่องอาหารจานโปรด_FreeTalk-vdo_9x16",
+    "file": "ตอบคำถามแฟนคลับเรื่องอาหารจานโปรด_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "สายธนู!"
+    ],
+    "secondary": [
+      "เล่นสาย Archer"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/รายการ ： Q&A คุยกับนกแก้ว.mp4",
+    "source_time_s": 2506.0,
+    "evidence": "9-13s \"เล่นสาย Archer ก็คือเล่นธนู\"",
+    "flag": "subs doubtful: title (อาหารจานโปรด) does not match cues"
+  },
+  {
+    "timeline": "เล่าเรื่องวัยเด็กสุดแสบที่ไม่มีใครเคยรู้_FreeTalk-vdo",
+    "file": "เล่าเรื่องวัยเด็กสุดแสบที่ไม่มีใครเคยรู้_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "กลัวผี!"
+    ],
+    "secondary": [
+      "ทอย Perception"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เสืออยากคุย [VqELVP2u2oU].mp4",
+    "source_time_s": 2938.0,
+    "evidence": "26s \"ตัวละครผมมันกลัวผี\", 40s \"ผมเห็นผี\"",
+    "flag": "subs doubtful: title (วัยเด็ก) does not match cues"
+  },
+  {
+    "timeline": "เล่าเรื่องวัยเด็กสุดแสบที่ไม่มีใครเคยรู้_FreeTalk-vdo_9x16",
+    "file": "เล่าเรื่องวัยเด็กสุดแสบที่ไม่มีใครเคยรู้_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "กลัวผี!"
+    ],
+    "secondary": [
+      "ทอย Perception"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เสืออยากคุย [VqELVP2u2oU].mp4",
+    "source_time_s": 2938.0,
+    "evidence": "26s \"ตัวละครผมมันกลัวผี\", 40s \"ผมเห็นผี\"",
+    "flag": "subs doubtful: title (วัยเด็ก) does not match cues"
+  },
+  {
+    "timeline": "ร้องเพลงเพี้ยนแต่ใส่อารมณ์เกินร้อย_FreeTalk-vdo",
+    "file": "ร้องเพลงเพี้ยนแต่ใส่อารมณ์เกินร้อย_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ผมไม่ได้ทำ!"
+    ],
+    "secondary": [
+      "อย่ามองหน้าผม"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เสืออยากคุย [VqELVP2u2oU].mp4",
+    "source_time_s": 3562.0,
+    "evidence": "38-46s \"ผมไม่ได้ทำ อย่ามองหน้าผม\"",
+    "flag": "subs doubtful: ASR noisy, story content graphic"
+  },
+  {
+    "timeline": "ร้องเพลงเพี้ยนแต่ใส่อารมณ์เกินร้อย_FreeTalk-vdo_9x16",
+    "file": "ร้องเพลงเพี้ยนแต่ใส่อารมณ์เกินร้อย_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ผมไม่ได้ทำ!"
+    ],
+    "secondary": [
+      "อย่ามองหน้าผม"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เสืออยากคุย [VqELVP2u2oU].mp4",
+    "source_time_s": 3562.0,
+    "evidence": "38-46s \"ผมไม่ได้ทำ อย่ามองหน้าผม\"",
+    "flag": "subs doubtful: ASR noisy, story content graphic"
+  },
+  {
+    "timeline": "ถกประเด็นของกินข้างทางที่อร่อยที่สุด_FreeTalk-vdo",
+    "file": "ถกประเด็นของกินข้างทางที่อร่อยที่สุด_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ช่วยด้วย!"
+    ],
+    "secondary": [
+      "ผมไม่ใช่เสือ"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เสืออยากคุย [ns0I3EihIUI].mp4",
+    "source_time_s": 9838.0,
+    "evidence": "48-54s \"ช่วยด้วย...ผมไม่ใช่เสือ\"",
+    "flag": "subs doubtful: ASR noisy"
+  },
+  {
+    "timeline": "ถกประเด็นของกินข้างทางที่อร่อยที่สุด_FreeTalk-vdo_9x16",
+    "file": "ถกประเด็นของกินข้างทางที่อร่อยที่สุด_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ช่วยด้วย!"
+    ],
+    "secondary": [
+      "ผมไม่ใช่เสือ"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เสืออยากคุย [ns0I3EihIUI].mp4",
+    "source_time_s": 9838.0,
+    "evidence": "48-54s \"ช่วยด้วย...ผมไม่ใช่เสือ\"",
+    "flag": "subs doubtful: ASR noisy"
+  },
+  {
+    "timeline": "จังหวะจามเสียงดังจนกล้องสั่น_FreeTalk-vdo",
+    "file": "จังหวะจามเสียงดังจนกล้องสั่น_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ฟังกูบ้าง!"
+    ],
+    "secondary": [
+      "ไม่มีใครฟัง"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เสืออยากคุย [ns0I3EihIUI].mp4",
+    "source_time_s": 11525.0,
+    "evidence": "29s/36s \"ฟังกูบ้าง\"; 41-47s ทำหมัน",
+    "flag": "subs doubtful: title (จาม) does not match cues"
+  },
+  {
+    "timeline": "จังหวะจามเสียงดังจนกล้องสั่น_FreeTalk-vdo_9x16",
+    "file": "จังหวะจามเสียงดังจนกล้องสั่น_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ฟังกูบ้าง!"
+    ],
+    "secondary": [
+      "ไม่มีใครฟัง"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เสืออยากคุย [ns0I3EihIUI].mp4",
+    "source_time_s": 11525.0,
+    "evidence": "29s/36s \"ฟังกูบ้าง\"; 41-47s ทำหมัน",
+    "flag": "subs doubtful: title (จาม) does not match cues"
+  },
+  {
+    "timeline": "แชร์ประสบการณ์นอนดึกจนตาเป็นหมีแพนด้า_FreeTalk-vdo",
+    "file": "แชร์ประสบการณ์นอนดึกจนตาเป็นหมีแพนด้า_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "มหาลัยเดียวกัน!"
+    ],
+    "secondary": [
+      "เพื่อนไทกะด่า"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เสืออยากคุย [qZVnCXIjfzo].mp4",
+    "source_time_s": 1010.0,
+    "evidence": "8-14s \"เพื่อนไทกะเรียนจบมหาลัยเดียวกัน ด่า\"",
+    "flag": "subs doubtful: ASR noisy"
+  },
+  {
+    "timeline": "แชร์ประสบการณ์นอนดึกจนตาเป็นหมีแพนด้า_FreeTalk-vdo_9x16",
+    "file": "แชร์ประสบการณ์นอนดึกจนตาเป็นหมีแพนด้า_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "มหาลัยเดียวกัน!"
+    ],
+    "secondary": [
+      "เพื่อนไทกะด่า"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เสืออยากคุย [qZVnCXIjfzo].mp4",
+    "source_time_s": 1010.0,
+    "evidence": "8-14s \"เพื่อนไทกะเรียนจบมหาลัยเดียวกัน ด่า\"",
+    "flag": "subs doubtful: ASR noisy"
+  },
+  {
+    "timeline": "อ่านแชทคอมเมนต์กวนๆแล้วหลุดขำก๊าก_FreeTalk-vdo",
+    "file": "อ่านแชทคอมเมนต์กวนๆแล้วหลุดขำก๊าก_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "อยากได้เฟรม!"
+    ],
+    "secondary": [
+      "ตามเนื้อเรื่อง"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เสืออยากคุย [qZVnCXIjfzo].mp4",
+    "source_time_s": 5665.0,
+    "evidence": "33s \"ผมอยากได้เฟรม\", 40s \"ถ้าเฟรมตกลง\"",
+    "flag": "subs doubtful: ASR noisy, title (คอมเมนต์) mismatch"
+  },
+  {
+    "timeline": "อ่านแชทคอมเมนต์กวนๆแล้วหลุดขำก๊าก_FreeTalk-vdo_9x16",
+    "file": "อ่านแชทคอมเมนต์กวนๆแล้วหลุดขำก๊าก_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "อยากได้เฟรม!"
+    ],
+    "secondary": [
+      "ตามเนื้อเรื่อง"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เสืออยากคุย [qZVnCXIjfzo].mp4",
+    "source_time_s": 5665.0,
+    "evidence": "33s \"ผมอยากได้เฟรม\", 40s \"ถ้าเฟรมตกลง\"",
+    "flag": "subs doubtful: ASR noisy, title (คอมเมนต์) mismatch"
+  },
+  {
+    "timeline": "สอนวิธีปรับตัวเมื่อต้องเจอกับคนแปลกหน้า_FreeTalk-vdo",
+    "file": "สอนวิธีปรับตัวเมื่อต้องเจอกับคนแปลกหน้า_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ลิ้นติดตู้เย็น!"
+    ],
+    "secondary": [
+      "ขอพรได้ข้อเดียว"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ใช้ชีวิตไปกับไทกะ 101 (ไม่ชินกล้องเลย).mp4",
+    "source_time_s": 1680.0,
+    "evidence": "7-13s \"เลียตู้เย็น\", 44-48s \"ลิ้นคุณจะติด เอาออกไม่ได้\"",
+    "flag": "subs doubtful: title mismatch"
+  },
+  {
+    "timeline": "สอนวิธีปรับตัวเมื่อต้องเจอกับคนแปลกหน้า_FreeTalk-vdo_9x16",
+    "file": "สอนวิธีปรับตัวเมื่อต้องเจอกับคนแปลกหน้า_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ลิ้นติดตู้เย็น!"
+    ],
+    "secondary": [
+      "ขอพรได้ข้อเดียว"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ใช้ชีวิตไปกับไทกะ 101 (ไม่ชินกล้องเลย).mp4",
+    "source_time_s": 1680.0,
+    "evidence": "7-13s \"เลียตู้เย็น\", 44-48s \"ลิ้นคุณจะติด เอาออกไม่ได้\"",
+    "flag": "subs doubtful: title mismatch"
+  },
+  {
+    "timeline": "เขินกล้องจนทำตัวไม่ถูกในไลฟ์แรกๆ_FreeTalk-vdo",
+    "file": "เขินกล้องจนทำตัวไม่ถูกในไลฟ์แรกๆ_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "สัญญามาเลย!"
+    ],
+    "secondary": [
+      "เดี๋ยวนี้เลย"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ใช้ชีวิตไปกับไทกะ 101 (ไม่ชินกล้องเลย).mp4",
+    "source_time_s": 5203.0,
+    "evidence": "19-28s \"สัญญามาดีวะ รีบสัญญามาเดี๋ยวนี้เลย\"",
+    "flag": "subs doubtful: ASR noisy"
+  },
+  {
+    "timeline": "เขินกล้องจนทำตัวไม่ถูกในไลฟ์แรกๆ_FreeTalk-vdo_9x16",
+    "file": "เขินกล้องจนทำตัวไม่ถูกในไลฟ์แรกๆ_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "สัญญามาเลย!"
+    ],
+    "secondary": [
+      "เดี๋ยวนี้เลย"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ใช้ชีวิตไปกับไทกะ 101 (ไม่ชินกล้องเลย).mp4",
+    "source_time_s": 5203.0,
+    "evidence": "19-28s \"สัญญามาดีวะ รีบสัญญามาเดี๋ยวนี้เลย\"",
+    "flag": "subs doubtful: ASR noisy"
+  },
+  {
+    "timeline": "บ่นความเหงาในวันฝนตกชวนง่วงนอน_FreeTalk-vdo",
+    "file": "บ่นความเหงาในวันฝนตกชวนง่วงนอน_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ช่วยด่าหน่อย!"
+    ],
+    "secondary": [
+      "ขอบอสเหยียบ"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ไลฟ์คุยไปเรื่อยแบบเสือขี้เบื่อ.mp4",
+    "source_time_s": 4579.0,
+    "evidence": "20-28s \"ช่วยเหยียบหลัง ช่วยด่าผมหน่อยครับ\"",
+    "flag": "subs doubtful: ASR noisy, title (เหงาฝนตก) mismatch"
+  },
+  {
+    "timeline": "บ่นความเหงาในวันฝนตกชวนง่วงนอน_FreeTalk-vdo_9x16",
+    "file": "บ่นความเหงาในวันฝนตกชวนง่วงนอน_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ช่วยด่าหน่อย!"
+    ],
+    "secondary": [
+      "ขอบอสเหยียบ"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ไลฟ์คุยไปเรื่อยแบบเสือขี้เบื่อ.mp4",
+    "source_time_s": 4579.0,
+    "evidence": "20-28s \"ช่วยเหยียบหลัง ช่วยด่าผมหน่อยครับ\"",
+    "flag": "subs doubtful: ASR noisy, title (เหงาฝนตก) mismatch"
+  },
+  {
+    "timeline": "เล่นมุกแป้กแต่หัวเราะแก้เขินคนเดียว_FreeTalk-vdo",
+    "file": "เล่นมุกแป้กแต่หัวเราะแก้เขินคนเดียว_FreeTalk-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "มานี่เลย!"
+    ],
+    "secondary": [
+      "ต่อยกันหน่อย"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ไลฟ์คุยไปเรื่อยแบบเสือขี้เบื่อ.mp4",
+    "source_time_s": 5734.0,
+    "evidence": "14-17s \"ต้องต่อยกันหน่อย มานี่เลย\"",
+    "flag": "subs doubtful: ASR noisy, title mismatch"
+  },
+  {
+    "timeline": "เล่นมุกแป้กแต่หัวเราะแก้เขินคนเดียว_FreeTalk-vdo_9x16",
+    "file": "เล่นมุกแป้กแต่หัวเราะแก้เขินคนเดียว_FreeTalk-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "มานี่เลย!"
+    ],
+    "secondary": [
+      "ต่อยกันหน่อย"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ไลฟ์คุยไปเรื่อยแบบเสือขี้เบื่อ.mp4",
+    "source_time_s": 5734.0,
+    "evidence": "14-17s \"ต้องต่อยกันหน่อย มานี่เลย\"",
+    "flag": "subs doubtful: ASR noisy, title mismatch"
+  },
+  {
+    "timeline": "ลืมปิดไมค์วาดรูปไฟลนก้น_GarticPhone-vdo",
+    "file": "ลืมปิดไมค์วาดรูปไฟลนก้น_GarticPhone-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ลืมปิดไมค์!"
+    ],
+    "secondary": [
+      "วาดรูปไฟลนก้น"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Gartic phone - ไทกะสกิลวาดรูป 999999.mp4",
+    "source_time_s": 870.0,
+    "evidence": "34s 'สวัสดี', 40s 'ฝากตัวด้วยครับ' (lobby)",
+    "flag": "title-only: cues มีแค่ทักทาย"
+  },
+  {
+    "timeline": "ลืมปิดไมค์วาดรูปไฟลนก้น_GarticPhone-vdo_9x16",
+    "file": "ลืมปิดไมค์วาดรูปไฟลนก้น_GarticPhone-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ลืมปิดไมค์!"
+    ],
+    "secondary": [
+      "วาดรูปไฟลนก้น"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Gartic phone - ไทกะสกิลวาดรูป 999999.mp4",
+    "source_time_s": 870.0,
+    "evidence": "34s 'สวัสดี', 40s 'ฝากตัวด้วยครับ' (lobby)",
+    "flag": "title-only: cues มีแค่ทักทาย"
+  },
+  {
+    "timeline": "Highlight_Meme_GarticPhone_Art",
+    "file": "Highlight_Meme_GarticPhone_Art.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "หล่อสุดๆ!"
+    ],
+    "secondary": [
+      "วาดยากที่สุด"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Gartic phone - ไทกะสกิลวาดรูป 999999.mp4",
+    "source_time_s": 2550.0,
+    "evidence": "1s 'ยากที่สุด', 4s/19s/28s 'หล่อ'",
+    "flag": "subs doubtful: ASR เพี้ยน (เลนักศูนย์/หล่อลื่น)"
+  },
+  {
+    "timeline": "Highlight_Meme_GarticPhone_Art_9x16",
+    "file": "Highlight_Meme_GarticPhone_Art_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "หล่อสุดๆ!"
+    ],
+    "secondary": [
+      "วาดยากที่สุด"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Gartic phone - ไทกะสกิลวาดรูป 999999.mp4",
+    "source_time_s": 2550.0,
+    "evidence": "1s 'ยากที่สุด', 4s/19s/28s 'หล่อ'",
+    "flag": "subs doubtful: ASR เพี้ยน (เลนักศูนย์/หล่อลื่น)"
+  },
+  {
+    "timeline": "วาดรูปเพี้ยนจนกลายเป็นมีม_GarticPhone-vdo",
+    "file": "วาดรูปเพี้ยนจนกลายเป็นมีม_GarticPhone-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "สวยที่สุดในโลก!"
+    ],
+    "secondary": [
+      "วาดรูปเพี้ยนจนเป็นมีม"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Gartic phone - ไทกะสกิลวาดรูป 999999.mp4",
+    "source_time_s": 2271.0,
+    "evidence": "21-25s 'รูปสวยที่สุดในโลกแล้วครับ'",
+    "flag": ""
+  },
+  {
+    "timeline": "วาดรูปเพี้ยนจนกลายเป็นมีม_GarticPhone-vdo_9x16",
+    "file": "วาดรูปเพี้ยนจนกลายเป็นมีม_GarticPhone-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "สวยที่สุดในโลก!"
+    ],
+    "secondary": [
+      "วาดรูปเพี้ยนจนเป็นมีม"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Gartic phone - ไทกะสกิลวาดรูป 999999.mp4",
+    "source_time_s": 2271.0,
+    "evidence": "21-25s 'รูปสวยที่สุดในโลกแล้วครับ'",
+    "flag": ""
+  },
+  {
+    "timeline": "เฉลยภาพวาดจนเพื่อนอึ้งทั้งห้อง_GarticPhone-vdo",
+    "file": "เฉลยภาพวาดจนเพื่อนอึ้งทั้งห้อง_GarticPhone-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "โอ้มายก๊อด!"
+    ],
+    "secondary": [
+      "เฉลยภาพวาด"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Gartic phone - ไทกะสกิลวาดรูป 999999.mp4",
+    "source_time_s": 2683.0,
+    "evidence": "53s 'โอ้มายก็ อด'",
+    "flag": "subs doubtful: cue สั้น"
+  },
+  {
+    "timeline": "เฉลยภาพวาดจนเพื่อนอึ้งทั้งห้อง_GarticPhone-vdo_9x16",
+    "file": "เฉลยภาพวาดจนเพื่อนอึ้งทั้งห้อง_GarticPhone-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "โอ้มายก๊อด!"
+    ],
+    "secondary": [
+      "เฉลยภาพวาด"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Gartic phone - ไทกะสกิลวาดรูป 999999.mp4",
+    "source_time_s": 2683.0,
+    "evidence": "53s 'โอ้มายก็ อด'",
+    "flag": "subs doubtful: cue สั้น"
+  },
+  {
+    "timeline": "ทายคำตอบผิดจนเนื้อเรื่องออกทะเล_GarticPhone-vdo",
+    "file": "ทายคำตอบผิดจนเนื้อเรื่องออกทะเล_GarticPhone-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ขำจนต้องขอโทษ!"
+    ],
+    "secondary": [
+      "ทายผิดจนออกทะเล"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Gartic phone - ไทกะสกิลวาดรูป 999999.mp4",
+    "source_time_s": 2914.0,
+    "evidence": "45-52s 'ฮ่าฮ่า','ขอโทษนะ'",
+    "flag": ""
+  },
+  {
+    "timeline": "ทายคำตอบผิดจนเนื้อเรื่องออกทะเล_GarticPhone-vdo_9x16",
+    "file": "ทายคำตอบผิดจนเนื้อเรื่องออกทะเล_GarticPhone-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ขำจนต้องขอโทษ!"
+    ],
+    "secondary": [
+      "ทายผิดจนออกทะเล"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/Gartic phone - ไทกะสกิลวาดรูป 999999.mp4",
+    "source_time_s": 2914.0,
+    "evidence": "45-52s 'ฮ่าฮ่า','ขอโทษนะ'",
+    "flag": ""
+  },
+  {
+    "timeline": "แกล้งเพื่อนตั้งแต่จุดสตาร์ท_Climbing-vdo",
+    "file": "แกล้งเพื่อนตั้งแต่จุดสตาร์ท_Climbing-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เสียงหายกลางตี้!"
+    ],
+    "secondary": [
+      "เปิดดิสใหม่"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ปืนเขาที่เราหมดแรง @KRATOI_26  @Mixzy21PM  @Pleiades_Frontier.mp4",
+    "source_time_s": 271.0,
+    "evidence": "17s 'หายไป', 33s 'มันหายไป', 36s 'เปิดดิส', 39s 'หลุดปะ'",
+    "flag": ""
+  },
+  {
+    "timeline": "แกล้งเพื่อนตั้งแต่จุดสตาร์ท_Climbing-vdo_9x16",
+    "file": "แกล้งเพื่อนตั้งแต่จุดสตาร์ท_Climbing-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เสียงหายกลางตี้!"
+    ],
+    "secondary": [
+      "เปิดดิสใหม่"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ปืนเขาที่เราหมดแรง @KRATOI_26  @Mixzy21PM  @Pleiades_Frontier.mp4",
+    "source_time_s": 271.0,
+    "evidence": "17s 'หายไป', 33s 'มันหายไป', 36s 'เปิดดิส', 39s 'หลุดปะ'",
+    "flag": ""
+  },
+  {
+    "timeline": "เชือกตึงเปรี๊ยะห้อยต่องแต่งกลางสายหมอก_Climbing-vdo",
+    "file": "เชือกตึงเปรี๊ยะห้อยต่องแต่งกลางสายหมอก_Climbing-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "คลิกขวาปักที!"
+    ],
+    "secondary": [
+      "เริ่มหมดแรง"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ปืนเขาที่เราหมดแรง @KRATOI_26  @Mixzy21PM  @Pleiades_Frontier.mp4",
+    "source_time_s": 3307.0,
+    "evidence": "21-26s 'เริ่มหมด','คลิกขวาปักที','พักได้'",
+    "flag": ""
+  },
+  {
+    "timeline": "เชือกตึงเปรี๊ยะห้อยต่องแต่งกลางสายหมอก_Climbing-vdo_9x16",
+    "file": "เชือกตึงเปรี๊ยะห้อยต่องแต่งกลางสายหมอก_Climbing-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "คลิกขวาปักที!"
+    ],
+    "secondary": [
+      "เริ่มหมดแรง"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ปืนเขาที่เราหมดแรง @KRATOI_26  @Mixzy21PM  @Pleiades_Frontier.mp4",
+    "source_time_s": 3307.0,
+    "evidence": "21-26s 'เริ่มหมด','คลิกขวาปักที','พักได้'",
+    "flag": ""
+  },
+  {
+    "timeline": "เหลือสองชีวิตเกาะหน้าผาไว้_Climbing-vdo",
+    "file": "เหลือสองชีวิตเกาะหน้าผาไว้_Climbing-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เหลือสองชีวิต!"
+    ],
+    "secondary": [
+      "เกาะหน้าผาไว้"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ปืนเขาที่เราหมดแรง @KRATOI_26  @Mixzy21PM  @Pleiades_Frontier.mp4",
+    "source_time_s": 4330.0,
+    "evidence": "33-35s 'เหลือเพียงแค่สองชีวิต'",
+    "flag": ""
+  },
+  {
+    "timeline": "เหลือสองชีวิตเกาะหน้าผาไว้_Climbing-vdo_9x16",
+    "file": "เหลือสองชีวิตเกาะหน้าผาไว้_Climbing-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เหลือสองชีวิต!"
+    ],
+    "secondary": [
+      "เกาะหน้าผาไว้"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ปืนเขาที่เราหมดแรง @KRATOI_26  @Mixzy21PM  @Pleiades_Frontier.mp4",
+    "source_time_s": 4330.0,
+    "evidence": "33-35s 'เหลือเพียงแค่สองชีวิต'",
+    "flag": ""
+  },
+  {
+    "timeline": "จังหวะกระโดดข้ามหุบเหวสุดเสียว_Climbing-vdo",
+    "file": "จังหวะกระโดดข้ามหุบเหวสุดเสียว_Climbing-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ระวังระเบิด!"
+    ],
+    "secondary": [
+      "กระโดดข้ามหุบเหว"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ปืนเขาที่เราหมดแรง @KRATOI_26  @Mixzy21PM  @Pleiades_Frontier.mp4",
+    "source_time_s": 5046.0,
+    "evidence": "25-26s 'ระวังระวัง ระเบิดระเบิด'",
+    "flag": ""
+  },
+  {
+    "timeline": "จังหวะกระโดดข้ามหุบเหวสุดเสียว_Climbing-vdo_9x16",
+    "file": "จังหวะกระโดดข้ามหุบเหวสุดเสียว_Climbing-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ระวังระเบิด!"
+    ],
+    "secondary": [
+      "กระโดดข้ามหุบเหว"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ปืนเขาที่เราหมดแรง @KRATOI_26  @Mixzy21PM  @Pleiades_Frontier.mp4",
+    "source_time_s": 5046.0,
+    "evidence": "25-26s 'ระวังระวัง ระเบิดระเบิด'",
+    "flag": ""
+  },
+  {
+    "timeline": "Highlight_Gaming_Climbing_Clutch",
+    "file": "Highlight_Gaming_Climbing_Clutch.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ต้องวิ่งหนี!"
+    ],
+    "secondary": [
+      "แต่ยังไงดี"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ปืนเขาที่เราหมดแรง @KRATOI_26  @Mixzy21PM  @Pleiades_Frontier.mp4",
+    "source_time_s": 5905.0,
+    "evidence": "49-53s 'ต้องวิ่งหนีมันใช่ไหม'",
+    "flag": ""
+  },
+  {
+    "timeline": "Highlight_Gaming_Climbing_Clutch_9x16",
+    "file": "Highlight_Gaming_Climbing_Clutch_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ต้องวิ่งหนี!"
+    ],
+    "secondary": [
+      "แต่ยังไงดี"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ปืนเขาที่เราหมดแรง @KRATOI_26  @Mixzy21PM  @Pleiades_Frontier.mp4",
+    "source_time_s": 5905.0,
+    "evidence": "49-53s 'ต้องวิ่งหนีมันใช่ไหม'",
+    "flag": ""
+  },
+  {
+    "timeline": "เล่าเรื่องความรักจนนอนไม่หลับ_DnD-vdo",
+    "file": "เล่าเรื่องความรักจนนอนไม่หลับ_DnD-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "มือสั่นพูดไม่ออก"
+    ],
+    "secondary": [
+      "นอนไม่หลับเพราะรัก"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/After DnD EP.4 ตอน เมื่อไทกะนอนไม่หลับเพราะความรัก.mp4",
+    "source_time_s": 435.0,
+    "evidence": "21-27s 'มือสั่น','พูดไม่ออก'; 43s 'นอนไม่ได้'",
+    "flag": ""
+  },
+  {
+    "timeline": "เล่าเรื่องความรักจนนอนไม่หลับ_DnD-vdo_9x16",
+    "file": "เล่าเรื่องความรักจนนอนไม่หลับ_DnD-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "มือสั่นพูดไม่ออก"
+    ],
+    "secondary": [
+      "นอนไม่หลับเพราะรัก"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/After DnD EP.4 ตอน เมื่อไทกะนอนไม่หลับเพราะความรัก.mp4",
+    "source_time_s": 435.0,
+    "evidence": "21-27s 'มือสั่น','พูดไม่ออก'; 43s 'นอนไม่ได้'",
+    "flag": ""
+  },
+  {
+    "timeline": "สารภาพความในใจสุดเขินกลางตี้_DnD-vdo",
+    "file": "สารภาพความในใจสุดเขินกลางตี้_DnD-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เลือกสองรูท!"
+    ],
+    "secondary": [
+      "เขินกลางตี้"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/After DnD EP.4 ตอน เมื่อไทกะนอนไม่หลับเพราะความรัก.mp4",
+    "source_time_s": 2350.0,
+    "evidence": "7-9s 'เลือกอยู่สองรูด'",
+    "flag": "subs doubtful: 'รูด' คงเป็น route"
+  },
+  {
+    "timeline": "สารภาพความในใจสุดเขินกลางตี้_DnD-vdo_9x16",
+    "file": "สารภาพความในใจสุดเขินกลางตี้_DnD-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เลือกสองรูท!"
+    ],
+    "secondary": [
+      "เขินกลางตี้"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/After DnD EP.4 ตอน เมื่อไทกะนอนไม่หลับเพราะความรัก.mp4",
+    "source_time_s": 2350.0,
+    "evidence": "7-9s 'เลือกอยู่สองรูด'",
+    "flag": "subs doubtful: 'รูด' คงเป็น route"
+  },
+  {
+    "timeline": "เปิดประสบการณ์หลอนครั้งแรกในชีวิต_DnD-vdo",
+    "file": "เปิดประสบการณ์หลอนครั้งแรกในชีวิต_DnD-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "น้ำลายฟูมปาก!"
+    ],
+    "secondary": [
+      "หลอนครั้งแรก"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/After DnD ： หลอนครั้งแรกแต่จบดาร์กขั้นสุด.mp4",
+    "source_time_s": 6254.0,
+    "evidence": "25-28s 'น้ำลายฟูปาก'; 36s 'จมน้ำลายตัวเอง'",
+    "flag": ""
+  },
+  {
+    "timeline": "เปิดประสบการณ์หลอนครั้งแรกในชีวิต_DnD-vdo_9x16",
+    "file": "เปิดประสบการณ์หลอนครั้งแรกในชีวิต_DnD-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "น้ำลายฟูมปาก!"
+    ],
+    "secondary": [
+      "หลอนครั้งแรก"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/After DnD ： หลอนครั้งแรกแต่จบดาร์กขั้นสุด.mp4",
+    "source_time_s": 6254.0,
+    "evidence": "25-28s 'น้ำลายฟูปาก'; 36s 'จมน้ำลายตัวเอง'",
+    "flag": ""
+  },
+  {
+    "timeline": "ตอนจบสุดดาร์กทำเอาเหวอทั้งโต๊ะ_DnD-vdo",
+    "file": "ตอนจบสุดดาร์กทำเอาเหวอทั้งโต๊ะ_DnD-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เขามีลูกแล้ว!"
+    ],
+    "secondary": [
+      "จบดาร์กทั้งโต๊ะ"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/After DnD ： หลอนครั้งแรกแต่จบดาร์กขั้นสุด.mp4",
+    "source_time_s": 8094.0,
+    "evidence": "19-20s 'เขามีลูกอยู่แล้ว'",
+    "flag": ""
+  },
+  {
+    "timeline": "ตอนจบสุดดาร์กทำเอาเหวอทั้งโต๊ะ_DnD-vdo_9x16",
+    "file": "ตอนจบสุดดาร์กทำเอาเหวอทั้งโต๊ะ_DnD-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เขามีลูกแล้ว!"
+    ],
+    "secondary": [
+      "จบดาร์กทั้งโต๊ะ"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/After DnD ： หลอนครั้งแรกแต่จบดาร์กขั้นสุด.mp4",
+    "source_time_s": 8094.0,
+    "evidence": "19-20s 'เขามีลูกอยู่แล้ว'",
+    "flag": ""
+  },
+  {
+    "timeline": "Highlight_Fun_DnD_Bard",
+    "file": "Highlight_Fun_DnD_Bard.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "นักกวีผมแดง"
+    ],
+    "secondary": [
+      "บาร์ดสุดภูมิฐาน"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/After DnD ： เมื่อบาร์ดด่าจนมังกรตาย!.mp4",
+    "source_time_s": 1006.0,
+    "evidence": "23-28s 'เป็นนักกวี ผมสีแดง'",
+    "flag": ""
+  },
+  {
+    "timeline": "Highlight_Fun_DnD_Bard_9x16",
+    "file": "Highlight_Fun_DnD_Bard_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "นักกวีผมแดง"
+    ],
+    "secondary": [
+      "บาร์ดสุดภูมิฐาน"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/After DnD ： เมื่อบาร์ดด่าจนมังกรตาย!.mp4",
+    "source_time_s": 1006.0,
+    "evidence": "23-28s 'เป็นนักกวี ผมสีแดง'",
+    "flag": ""
+  },
+  {
+    "timeline": "ทอยเต๋าพลาดจนแผนพังยับ_DnD-vdo",
+    "file": "ทอยเต๋าพลาดจนแผนพังยับ_DnD-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "บัฟนักกังฟู!"
+    ],
+    "secondary": [
+      "แผนพังยับ"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/After DnD ： เมื่อบาร์ดด่าจนมังกรตาย!.mp4",
+    "source_time_s": 3498.0,
+    "evidence": "4-8s 'บับให้นักกังฟู'; 39-40s 'โกรธ'",
+    "flag": "subs doubtful: 'บับ'=buff? ตีความ"
+  },
+  {
+    "timeline": "ทอยเต๋าพลาดจนแผนพังยับ_DnD-vdo_9x16",
+    "file": "ทอยเต๋าพลาดจนแผนพังยับ_DnD-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "บัฟนักกังฟู!"
+    ],
+    "secondary": [
+      "แผนพังยับ"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/After DnD ： เมื่อบาร์ดด่าจนมังกรตาย!.mp4",
+    "source_time_s": 3498.0,
+    "evidence": "4-8s 'บับให้นักกังฟู'; 39-40s 'โกรธ'",
+    "flag": "subs doubtful: 'บับ'=buff? ตีความ"
+  },
+  {
+    "timeline": "เล่าวินาทีบอสแพ้แบบอนาถ_DnD-vdo",
+    "file": "เล่าวินาทีบอสแพ้แบบอนาถ_DnD-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "โดนด่าตาย!"
+    ],
+    "secondary": [
+      "บอสแพ้แบบอนาถ"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/After DnD ： เมื่อบาร์ดด่าจนมังกรตาย!.mp4",
+    "source_time_s": 4404.0,
+    "evidence": "21-22s 'โดนด่าจนแตกตาย'; 47s 'สนุก'",
+    "flag": ""
+  },
+  {
+    "timeline": "เล่าวินาทีบอสแพ้แบบอนาถ_DnD-vdo_9x16",
+    "file": "เล่าวินาทีบอสแพ้แบบอนาถ_DnD-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "โดนด่าตาย!"
+    ],
+    "secondary": [
+      "บอสแพ้แบบอนาถ"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/After DnD ： เมื่อบาร์ดด่าจนมังกรตาย!.mp4",
+    "source_time_s": 4404.0,
+    "evidence": "21-22s 'โดนด่าจนแตกตาย'; 47s 'สนุก'",
+    "flag": ""
+  },
+  {
+    "timeline": "ฉากโรลเพลย์สุดกาวในห้องน้ำ_DnD-vdo",
+    "file": "ฉากโรลเพลย์สุดกาวในห้องน้ำ_DnD-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "บุกห้องน้ำหญิง!"
+    ],
+    "secondary": [
+      "โรลเพลย์สุดกาว"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/After DnD ： เมื่อบาร์ดด่าจนมังกรตาย!.mp4",
+    "source_time_s": 4800.0,
+    "evidence": "8-9s 'ผู้ชายบุกเข้าห้องน้ำหญิง'; 30s 'โอดแตก'",
+    "flag": ""
+  },
+  {
+    "timeline": "ฉากโรลเพลย์สุดกาวในห้องน้ำ_DnD-vdo_9x16",
+    "file": "ฉากโรลเพลย์สุดกาวในห้องน้ำ_DnD-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "บุกห้องน้ำหญิง!"
+    ],
+    "secondary": [
+      "โรลเพลย์สุดกาว"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/After DnD ： เมื่อบาร์ดด่าจนมังกรตาย!.mp4",
+    "source_time_s": 4800.0,
+    "evidence": "8-9s 'ผู้ชายบุกเข้าห้องน้ำหญิง'; 30s 'โอดแตก'",
+    "flag": ""
+  },
+  {
+    "timeline": "รวมพลังด่ามังกรจนบอสสิ้นใจคาที่_DnD-vdo",
+    "file": "รวมพลังด่ามังกรจนบอสสิ้นใจคาที่_DnD-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "สะเทือนใจหมด!"
+    ],
+    "secondary": [
+      "เล่าแคมเปญใหม่"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/After DnD ： เมื่อบาร์ดด่าจนมังกรตาย!.mp4",
+    "source_time_s": 5043.0,
+    "evidence": "40-41s 'สะเทือนใจหมด'",
+    "flag": "subs doubtful: ASR 'แม่งสะเทือนใจ'"
+  },
+  {
+    "timeline": "รวมพลังด่ามังกรจนบอสสิ้นใจคาที่_DnD-vdo_9x16",
+    "file": "รวมพลังด่ามังกรจนบอสสิ้นใจคาที่_DnD-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "สะเทือนใจหมด!"
+    ],
+    "secondary": [
+      "เล่าแคมเปญใหม่"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/After DnD ： เมื่อบาร์ดด่าจนมังกรตาย!.mp4",
+    "source_time_s": 5043.0,
+    "evidence": "40-41s 'สะเทือนใจหมด'",
+    "flag": "subs doubtful: ASR 'แม่งสะเทือนใจ'"
+  },
+  {
+    "timeline": "ประตูมิติชวนขนหัวลุก_Ib-vdo",
+    "file": "ประตูมิติชวนขนหัวลุก_Ib-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ทุบประตู!"
+    ],
+    "secondary": [
+      "ตัวแดงทุบประตู"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/IB - สำรวจโลกภาพวาด P1.mp4",
+    "source_time_s": 2139.0,
+    "evidence": "51s \"ประตูพัง\", 34s \"แดงทุบประตู\", 44s \"ประตูเหล็ก\"",
+    "flag": "subs doubtful: ASR garbled, only door-pounding theme clear"
+  },
+  {
+    "timeline": "ประตูมิติชวนขนหัวลุก_Ib-vdo_9x16",
+    "file": "ประตูมิติชวนขนหัวลุก_Ib-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ทุบประตู!"
+    ],
+    "secondary": [
+      "ตัวแดงทุบประตู"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/IB - สำรวจโลกภาพวาด P1.mp4",
+    "source_time_s": 2139.0,
+    "evidence": "51s \"ประตูพัง\", 34s \"แดงทุบประตู\", 44s \"ประตูเหล็ก\"",
+    "flag": "subs doubtful: ASR garbled, only door-pounding theme clear"
+  },
+  {
+    "timeline": "สะดุ้งตัวโยนเลือดหยดใส่หน้าภาพวาด_Ib-vdo",
+    "file": "สะดุ้งตัวโยนเลือดหยดใส่หน้าภาพวาด_Ib-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "สีฟ้าห้ามแตะ!"
+    ],
+    "secondary": [
+      "ไขปริศนาถ้วยชา"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/IB - สำรวจโลกภาพวาด P1.mp4",
+    "source_time_s": 2514.0,
+    "evidence": "1-3s \"สีฟ้าห้ามแตะ\", 15-17s \"น้ำชาจะไม่ยอมหยุดจนกว่าจะชน\"",
+    "flag": "subs doubtful: title says blood-drop scare, cues are about tea puzzle"
+  },
+  {
+    "timeline": "สะดุ้งตัวโยนเลือดหยดใส่หน้าภาพวาด_Ib-vdo_9x16",
+    "file": "สะดุ้งตัวโยนเลือดหยดใส่หน้าภาพวาด_Ib-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "สีฟ้าห้ามแตะ!"
+    ],
+    "secondary": [
+      "ไขปริศนาถ้วยชา"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/IB - สำรวจโลกภาพวาด P1.mp4",
+    "source_time_s": 2514.0,
+    "evidence": "1-3s \"สีฟ้าห้ามแตะ\", 15-17s \"น้ำชาจะไม่ยอมหยุดจนกว่าจะชน\"",
+    "flag": "subs doubtful: title says blood-drop scare, cues are about tea puzzle"
+  },
+  {
+    "timeline": "เจอตัวละครใหม่ตกใจจนร้องลั่น_Ib-vdo",
+    "file": "เจอตัวละครใหม่ตกใจจนร้องลั่น_Ib-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ตกใจหมด!"
+    ],
+    "secondary": [
+      "เจอตัวละครใหม่"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/IB - สำรวจโลกภาพวาด P1.mp4",
+    "source_time_s": 4182.0,
+    "evidence": "no subs; title + frames: new purple-haired NPC appears ~24s",
+    "flag": "title-only: no subtitles in timeline"
+  },
+  {
+    "timeline": "เจอตัวละครใหม่ตกใจจนร้องลั่น_Ib-vdo_9x16",
+    "file": "เจอตัวละครใหม่ตกใจจนร้องลั่น_Ib-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ตกใจหมด!"
+    ],
+    "secondary": [
+      "เจอตัวละครใหม่"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/IB - สำรวจโลกภาพวาด P1.mp4",
+    "source_time_s": 4182.0,
+    "evidence": "no subs; title + frames: new purple-haired NPC appears ~24s",
+    "flag": "title-only: no subtitles in timeline"
+  },
+  {
+    "timeline": "Highlight_Gaming_Ib_Horror",
+    "file": "Highlight_Gaming_Ib_Horror.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "กดครบ",
+      "ทุกประโยค!"
+    ],
+    "secondary": [
+      "เดินคนเดียวในนี้"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/IB - สำรวจโลกภาพวาด P1.mp4",
+    "source_time_s": 4520.0,
+    "evidence": "49-51s \"จะกดให้มันครบทุกประโยคเลย\", 38s \"เดินอยู่ในนี้คนเดียว\", 47s \"ใจกล้ามากเลย\"",
+    "flag": "subs doubtful: ASR noisy"
+  },
+  {
+    "timeline": "Highlight_Gaming_Ib_Horror_9x16",
+    "file": "Highlight_Gaming_Ib_Horror_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "กดครบ",
+      "ทุกประโยค!"
+    ],
+    "secondary": [
+      "เดินคนเดียวในนี้"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/IB - สำรวจโลกภาพวาด P1.mp4",
+    "source_time_s": 4520.0,
+    "evidence": "49-51s \"จะกดให้มันครบทุกประโยคเลย\", 38s \"เดินอยู่ในนี้คนเดียว\", 47s \"ใจกล้ามากเลย\"",
+    "flag": "subs doubtful: ASR noisy"
+  },
+  {
+    "timeline": "ไขปริศนาภาพวาดมรณะ_Ib-vdo",
+    "file": "ไขปริศนาภาพวาดมรณะ_Ib-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "น่าขนลุก!"
+    ],
+    "secondary": [
+      "คุยเรื่องศิลปะ"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/IB - สำรวจโลกภาพวาด P1.mp4",
+    "source_time_s": 7638.0,
+    "evidence": "38s \"เลยน่าขนลุก\", 30-34s ศิลปะ...ไม่เหมือนมนุษย์",
+    "flag": "subs doubtful: ASR noisy"
+  },
+  {
+    "timeline": "ไขปริศนาภาพวาดมรณะ_Ib-vdo_9x16",
+    "file": "ไขปริศนาภาพวาดมรณะ_Ib-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "น่าขนลุก!"
+    ],
+    "secondary": [
+      "คุยเรื่องศิลปะ"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/IB - สำรวจโลกภาพวาด P1.mp4",
+    "source_time_s": 7638.0,
+    "evidence": "38s \"เลยน่าขนลุก\", 30-34s ศิลปะ...ไม่เหมือนมนุษย์",
+    "flag": "subs doubtful: ASR noisy"
+  },
+  {
+    "timeline": "พากันวิ่งหนีผีเสื้อยักษ์เกือบไม่รอด_Ib-vdo",
+    "file": "พากันวิ่งหนีผีเสื้อยักษ์เกือบไม่รอด_Ib-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "Speedrun",
+      "ละนะ!"
+    ],
+    "secondary": [
+      "ขอห้าสิบซับ"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/IB - สำรวจโลกภาพวาด P2 @caramellatte710.mp4",
+    "source_time_s": 2392.0,
+    "evidence": "18-24s \"Speedrun ละนะ/ยินดีต้อนรับสู่การ Speedrun\", 42s \"หวังว่าจะได้ห้าสิบซับ\"",
+    "flag": "subs doubtful: title says butterfly chase, cues are a joke speedrun intro"
+  },
+  {
+    "timeline": "พากันวิ่งหนีผีเสื้อยักษ์เกือบไม่รอด_Ib-vdo_9x16",
+    "file": "พากันวิ่งหนีผีเสื้อยักษ์เกือบไม่รอด_Ib-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "Speedrun",
+      "ละนะ!"
+    ],
+    "secondary": [
+      "ขอห้าสิบซับ"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/IB - สำรวจโลกภาพวาด P2 @caramellatte710.mp4",
+    "source_time_s": 2392.0,
+    "evidence": "18-24s \"Speedrun ละนะ/ยินดีต้อนรับสู่การ Speedrun\", 42s \"หวังว่าจะได้ห้าสิบซับ\"",
+    "flag": "subs doubtful: title says butterfly chase, cues are a joke speedrun intro"
+  },
+  {
+    "timeline": "กรี๊ดลั่นหอศิลป์เมื่อเจอรูปปั้นขยับได้_Ib-vdo",
+    "file": "กรี๊ดลั่นหอศิลป์เมื่อเจอรูปปั้นขยับได้_Ib-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "จับมือพี่ว่าไง"
+    ],
+    "secondary": [
+      "หอศิลป์สุดแปลก"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/IB - สำรวจโลกภาพวาด P2 @caramellatte710.mp4",
+    "source_time_s": 2902.0,
+    "evidence": "40-44s \"พี่ว่าไง แปลกๆ ... จับมือพี่ว่าไง\"; 3-36s \"เก้า\" repeated",
+    "flag": "subs doubtful: repeated \"เก้า\" unclear"
+  },
+  {
+    "timeline": "กรี๊ดลั่นหอศิลป์เมื่อเจอรูปปั้นขยับได้_Ib-vdo_9x16",
+    "file": "กรี๊ดลั่นหอศิลป์เมื่อเจอรูปปั้นขยับได้_Ib-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "จับมือพี่ว่าไง"
+    ],
+    "secondary": [
+      "หอศิลป์สุดแปลก"
+    ],
+    "model": "21.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/IB - สำรวจโลกภาพวาด P2 @caramellatte710.mp4",
+    "source_time_s": 2902.0,
+    "evidence": "40-44s \"พี่ว่าไง แปลกๆ ... จับมือพี่ว่าไง\"; 3-36s \"เก้า\" repeated",
+    "flag": "subs doubtful: repeated \"เก้า\" unclear"
+  },
+  {
+    "timeline": "จังหวะไฟต์ชุลมุนกดมั่วจนได้คิลเฉย_LoL-vdo",
+    "file": "จังหวะไฟต์ชุลมุนกดมั่วจนได้คิลเฉย_LoL-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ชุลมุนมาก!"
+    ],
+    "secondary": [
+      "ไฟต์กลางป่า"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ฝึกเล่น LoL.mp4",
+    "source_time_s": 1430.0,
+    "evidence": "2 cues only; frames: fight at ~24s then death screen",
+    "flag": "title-only: only 2 cues; frames show fight then death"
+  },
+  {
+    "timeline": "จังหวะไฟต์ชุลมุนกดมั่วจนได้คิลเฉย_LoL-vdo_9x16",
+    "file": "จังหวะไฟต์ชุลมุนกดมั่วจนได้คิลเฉย_LoL-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ชุลมุนมาก!"
+    ],
+    "secondary": [
+      "ไฟต์กลางป่า"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ฝึกเล่น LoL.mp4",
+    "source_time_s": 1430.0,
+    "evidence": "2 cues only; frames: fight at ~24s then death screen",
+    "flag": "title-only: only 2 cues; frames show fight then death"
+  },
+  {
+    "timeline": "กดสกิลวืดกลางเลนจนโดนป้อมยิงตาย_LoL-vdo",
+    "file": "กดสกิลวืดกลางเลนจนโดนป้อมยิงตาย_LoL-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "สกิลวืด!"
+    ],
+    "secondary": [
+      "โดนป้อมยิงตาย"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ฝึกเล่น LoL.mp4",
+    "source_time_s": 5600.0,
+    "evidence": "no subs; title + frames: fight/teamfight 38-45s, shop 52s",
+    "flag": "title-only: no subtitles in timeline"
+  },
+  {
+    "timeline": "กดสกิลวืดกลางเลนจนโดนป้อมยิงตาย_LoL-vdo_9x16",
+    "file": "กดสกิลวืดกลางเลนจนโดนป้อมยิงตาย_LoL-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "สกิลวืด!"
+    ],
+    "secondary": [
+      "โดนป้อมยิงตาย"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/ฝึกเล่น LoL.mp4",
+    "source_time_s": 5600.0,
+    "evidence": "no subs; title + frames: fight/teamfight 38-45s, shop 52s",
+    "flag": "title-only: no subtitles in timeline"
+  },
+  {
+    "timeline": "จังหวะโดนดักซุ่มพุ่มไม้ร้องเสียงหลง_LoL-vdo",
+    "file": "จังหวะโดนดักซุ่มพุ่มไม้ร้องเสียงหลง_LoL-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "กดไม่ติด!"
+    ],
+    "secondary": [
+      "เซ็งเลยอ่ะ"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/สอนไทกะเล่น LoL ที.mp4",
+    "source_time_s": 2783.0,
+    "evidence": "31s \"ทำไมกดไม่ติด\", 50-53s \"เซงเลยอ่ะ เมื่อกี้เอาได้นะ แต่กดไม่ติดอ่ะ\"; frame 17s fight",
+    "flag": ""
+  },
+  {
+    "timeline": "จังหวะโดนดักซุ่มพุ่มไม้ร้องเสียงหลง_LoL-vdo_9x16",
+    "file": "จังหวะโดนดักซุ่มพุ่มไม้ร้องเสียงหลง_LoL-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "กดไม่ติด!"
+    ],
+    "secondary": [
+      "เซ็งเลยอ่ะ"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/สอนไทกะเล่น LoL ที.mp4",
+    "source_time_s": 2783.0,
+    "evidence": "31s \"ทำไมกดไม่ติด\", 50-53s \"เซงเลยอ่ะ เมื่อกี้เอาได้นะ แต่กดไม่ติดอ่ะ\"; frame 17s fight",
+    "flag": ""
+  },
+  {
+    "timeline": "จังหวะลาสบอสใหญ่ขโมยมังกรสุดเทพ_LoL-vdo",
+    "file": "จังหวะลาสบอสใหญ่ขโมยมังกรสุดเทพ_LoL-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เอาไม่ได้อีก!"
+    ],
+    "secondary": [
+      "เลือดแค่กระจิ๊ดเดียว"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/สอนไทกะเล่น LoL ที.mp4",
+    "source_time_s": 5540.0,
+    "evidence": "10-11s \"เลือดแค่กระจกนึงมึงเอาไม่ได้อีก\", 28s \"ยังเอาไม่ได้อ่ะ\"",
+    "flag": "subs doubtful: dragon steal not in cues"
+  },
+  {
+    "timeline": "จังหวะลาสบอสใหญ่ขโมยมังกรสุดเทพ_LoL-vdo_9x16",
+    "file": "จังหวะลาสบอสใหญ่ขโมยมังกรสุดเทพ_LoL-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เอาไม่ได้อีก!"
+    ],
+    "secondary": [
+      "เลือดแค่กระจิ๊ดเดียว"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/สอนไทกะเล่น LoL ที.mp4",
+    "source_time_s": 5540.0,
+    "evidence": "10-11s \"เลือดแค่กระจกนึงมึงเอาไม่ได้อีก\", 28s \"ยังเอาไม่ได้อ่ะ\"",
+    "flag": "subs doubtful: dragon steal not in cues"
+  },
+  {
+    "timeline": "โดนโค้ชบ่นเรื่องลืมซื้อของตอนเริ่มเกม_LoL-vdo",
+    "file": "โดนโค้ชบ่นเรื่องลืมซื้อของตอนเริ่มเกม_LoL-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "โดนบูลี่ทั้งวัน!"
+    ],
+    "secondary": [
+      "สงสารบอสหน่อย"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/สอนไทกะเล่น LoL ที.mp4",
+    "source_time_s": 5867.0,
+    "evidence": "21-32s \"สงสารบอส...โดนหนูบูลี่บ่อยมาก...ทั้งวันทั้งคืน\"",
+    "flag": ""
+  },
+  {
+    "timeline": "โดนโค้ชบ่นเรื่องลืมซื้อของตอนเริ่มเกม_LoL-vdo_9x16",
+    "file": "โดนโค้ชบ่นเรื่องลืมซื้อของตอนเริ่มเกม_LoL-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "โดนบูลี่ทั้งวัน!"
+    ],
+    "secondary": [
+      "สงสารบอสหน่อย"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/สอนไทกะเล่น LoL ที.mp4",
+    "source_time_s": 5867.0,
+    "evidence": "21-32s \"สงสารบอส...โดนหนูบูลี่บ่อยมาก...ทั้งวันทั้งคืน\"",
+    "flag": ""
+  },
+  {
+    "timeline": "เปิดครัววันแรกก็วุ่นวายซะแล้ว_Overcooked-vdo",
+    "file": "เปิดครัววันแรกก็วุ่นวายซะแล้ว_Overcooked-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ได้ยินไหม?"
+    ],
+    "secondary": [
+      "เช็กเสียงก่อนเล่น"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เมื่อไทกะคือความชิบหายในครัว!.mp4",
+    "source_time_s": 460.0,
+    "evidence": "20-39s \"ตั้งให้เสียงเข้าหูฟังตัวเอง...มีเสียง\"; frames = story map menu",
+    "flag": "subs doubtful: ASR garbled; no kitchen gameplay in clip"
+  },
+  {
+    "timeline": "เปิดครัววันแรกก็วุ่นวายซะแล้ว_Overcooked-vdo_9x16",
+    "file": "เปิดครัววันแรกก็วุ่นวายซะแล้ว_Overcooked-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ได้ยินไหม?"
+    ],
+    "secondary": [
+      "เช็กเสียงก่อนเล่น"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เมื่อไทกะคือความชิบหายในครัว!.mp4",
+    "source_time_s": 460.0,
+    "evidence": "20-39s \"ตั้งให้เสียงเข้าหูฟังตัวเอง...มีเสียง\"; frames = story map menu",
+    "flag": "subs doubtful: ASR garbled; no kitchen gameplay in clip"
+  },
+  {
+    "timeline": "ออเดอร์ล้นครัวสั่งความวิกฤต_Overcooked-vdo",
+    "file": "ออเดอร์ล้นครัวสั่งความวิกฤต_Overcooked-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "ส่งไก่มา!"
+    ],
+    "secondary": [
+      "ออเดอร์ล้นครัว"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เมื่อไทกะคือความชิบหายในครัว!.mp4",
+    "source_time_s": 3881.0,
+    "evidence": "40-43s \"หันไก่ให้น้อยส่งไก่มา\", 32-35s \"เอาไก่ไปฝั่งนู้น\"",
+    "flag": ""
+  },
+  {
+    "timeline": "ออเดอร์ล้นครัวสั่งความวิกฤต_Overcooked-vdo_9x16",
+    "file": "ออเดอร์ล้นครัวสั่งความวิกฤต_Overcooked-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "ส่งไก่มา!"
+    ],
+    "secondary": [
+      "ออเดอร์ล้นครัว"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เมื่อไทกะคือความชิบหายในครัว!.mp4",
+    "source_time_s": 3881.0,
+    "evidence": "40-43s \"หันไก่ให้น้อยส่งไก่มา\", 32-35s \"เอาไก่ไปฝั่งนู้น\"",
+    "flag": ""
+  },
+  {
+    "timeline": "Highlight_Fun_Overcooked_KitchenFire",
+    "file": "Highlight_Fun_Overcooked_KitchenFire.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "อย่าเพิ่งโยนไข่!"
+    ],
+    "secondary": [
+      "ครัวป่วนสุดๆ"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เมื่อไทกะคือความชิบหายในครัว!.mp4",
+    "source_time_s": 7698.0,
+    "evidence": "57-58s \"ไม่ๆๆอย่า เพิ่งโยดไข่\", 44s \"ชนฉันล้ม\"",
+    "flag": "subs doubtful: \"โยด\" read as โยน"
+  },
+  {
+    "timeline": "Highlight_Fun_Overcooked_KitchenFire_9x16",
+    "file": "Highlight_Fun_Overcooked_KitchenFire_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "อย่าเพิ่งโยนไข่!"
+    ],
+    "secondary": [
+      "ครัวป่วนสุดๆ"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เมื่อไทกะคือความชิบหายในครัว!.mp4",
+    "source_time_s": 7698.0,
+    "evidence": "57-58s \"ไม่ๆๆอย่า เพิ่งโยดไข่\", 44s \"ชนฉันล้ม\"",
+    "flag": "subs doubtful: \"โยด\" read as โยน"
+  },
+  {
+    "timeline": "โยนวัตถุดิบข้ามฝั่งชนหัวเพื่อนเต็มๆ_Overcooked-vdo",
+    "file": "โยนวัตถุดิบข้ามฝั่งชนหัวเพื่อนเต็มๆ_Overcooked-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "เต้ทำอะไร!"
+    ],
+    "secondary": [
+      "ไม่มีเมนูแล้ว"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เมื่อไทกะคือความชิบหายในครัว!.mp4",
+    "source_time_s": 8414.0,
+    "evidence": "5-10s \"ไม่มีเมนูเนี่ย เต้ทำอะไร เต้เต้มึง\"",
+    "flag": ""
+  },
+  {
+    "timeline": "โยนวัตถุดิบข้ามฝั่งชนหัวเพื่อนเต็มๆ_Overcooked-vdo_9x16",
+    "file": "โยนวัตถุดิบข้ามฝั่งชนหัวเพื่อนเต็มๆ_Overcooked-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "เต้ทำอะไร!"
+    ],
+    "secondary": [
+      "ไม่มีเมนูแล้ว"
+    ],
+    "model": "dsasa.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เมื่อไทกะคือความชิบหายในครัว!.mp4",
+    "source_time_s": 8414.0,
+    "evidence": "5-10s \"ไม่มีเมนูเนี่ย เต้ทำอะไร เต้เต้มึง\"",
+    "flag": ""
+  },
+  {
+    "timeline": "จานตกน้ำหมดครัวนาทีสุดท้าย_Overcooked-vdo",
+    "file": "จานตกน้ำหมดครัวนาทีสุดท้าย_Overcooked-vdo.jpg",
+    "orientation": "landscape",
+    "size": [
+      1920,
+      1080
+    ],
+    "hook": [
+      "น้ำผึ้งกับไข่!"
+    ],
+    "secondary": [
+      "นาทีสุดท้าย"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เมื่อไทกะคือความชิบหายในครัว!.mp4",
+    "source_time_s": 9068.0,
+    "evidence": "37-42s \"ขอน้ำผึ้งกับไข่ครับ\"; frames: final minute",
+    "flag": ""
+  },
+  {
+    "timeline": "จานตกน้ำหมดครัวนาทีสุดท้าย_Overcooked-vdo_9x16",
+    "file": "จานตกน้ำหมดครัวนาทีสุดท้าย_Overcooked-vdo_9x16.jpg",
+    "orientation": "shorts",
+    "size": [
+      1080,
+      1920
+    ],
+    "hook": [
+      "น้ำผึ้งกับไข่!"
+    ],
+    "secondary": [
+      "นาทีสุดท้าย"
+    ],
+    "model": "dsadadsad.png",
+    "source": "G:/My Drive/Projects/Tygarina/tygarina_2026-09-30/เมื่อไทกะคือความชิบหายในครัว!.mp4",
+    "source_time_s": 9068.0,
+    "evidence": "37-42s \"ขอน้ำผึ้งกับไข่ครับ\"; frames: final minute",
+    "flag": ""
+  }
+]

@@ -1,0 +1,1 @@
+"""Aomi-mama project package."""

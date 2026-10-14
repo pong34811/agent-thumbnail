@@ -48,8 +48,8 @@ Use every step; mark N/A only when the input truly lacks the data (say which dat
 23. Resolution, aspect ratio, compression, pixelation, blur, JPG artifacts, jagged edges, cutout edges, white halo, colour banding, oversharpening, noise, AI artifacts. On the VTuber zoom into: hair, hair tips, ears, horns, accessories, hands, fingers, eyes, mouth, clothing.
 
 ## Severity examples
-- 🔴 CRITICAL: Thai misspelling; unreadable text; wrong character design; thumbnail doesn't match clip; obvious AI artifact; key element under duration badge.
-- 🟠 IMPORTANT: character too small; low contrast; weak expression; unclear composition.
+- 🔴 CRITICAL: Thai misspelling; unreadable text; wrong character design; thumbnail doesn't match clip; obvious AI artifact; key element under duration badge or Shorts danger zone (bottom 25% / right 15%); stream overlay clutter in background (burned-in stream facecam causing duplicate avatar, donation goal bar, chat overlay); direct 16:9 crop for Shorts without dedicated 3-tier composition.
+- 🟠 IMPORTANT: character too small (especially in Shorts where avatar should be ≥1,100px or ~70-80% screen width); focus circle or graphic elements colliding with text; low contrast; weak expression; unclear composition; repetitive pose across feed.
 - 🟡 OPTIONAL: glow tweak, spacing, fewer effects, small hue shift.
 
 ## QC rules

@@ -1,0 +1,325 @@
+[
+ {
+  "project": "tygarina_2026-09-30_GarticPhone_VTuberFocus",
+  "i": 1,
+  "name": "ลืมปิดไมค์วาดรูปไฟลนก้น_GarticPhone-vdo",
+  "tl_short": "ลืมปิดไมค์วาดรูปไฟลนก้น_GarticPhone-vdo_9x16",
+  "hook": [
+   "ลืมปิดไมค์!"
+  ],
+  "sec": [
+   "วาดรูปไฟลนก้น"
+  ],
+  "frame_tl": 36,
+  "talk": true,
+  "model": "03_shock.png",
+  "evidence": "34s 'สวัสดี', 40s 'ฝากตัวด้วยครับ' (lobby)",
+  "flag": "title-only: cues มีแค่ทักทาย"
+ },
+ {
+  "project": "tygarina_2026-09-30_GarticPhone_VTuberFocus",
+  "i": 2,
+  "name": "Highlight_Meme_GarticPhone_Art",
+  "tl_short": "Highlight_Meme_GarticPhone_Art_9x16",
+  "hook": [
+   "หล่อสุดๆ!"
+  ],
+  "sec": [
+   "วาดยากที่สุด"
+  ],
+  "frame_tl": 40,
+  "talk": false,
+  "model": "05_smug.png",
+  "evidence": "1s 'ยากที่สุด', 4s/19s/28s 'หล่อ'",
+  "flag": "subs doubtful: ASR เพี้ยน (เลนักศูนย์/หล่อลื่น)"
+ },
+ {
+  "project": "tygarina_2026-09-30_GarticPhone_VTuberFocus",
+  "i": 5,
+  "name": "วาดรูปเพี้ยนจนกลายเป็นมีม_GarticPhone-vdo",
+  "tl_short": "วาดรูปเพี้ยนจนกลายเป็นมีม_GarticPhone-vdo_9x16",
+  "hook": [
+   "สวยที่สุดในโลก!"
+  ],
+  "sec": [
+   "วาดรูปเพี้ยนจนเป็นมีม"
+  ],
+  "frame_tl": 23,
+  "talk": false,
+  "model": "02_smile.png",
+  "evidence": "21-25s 'รูปสวยที่สุดในโลกแล้วครับ'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_GarticPhone_VTuberFocus",
+  "i": 6,
+  "name": "เฉลยภาพวาดจนเพื่อนอึ้งทั้งห้อง_GarticPhone-vdo",
+  "tl_short": "เฉลยภาพวาดจนเพื่อนอึ้งทั้งห้อง_GarticPhone-vdo_9x16",
+  "hook": [
+   "โอ้มายก๊อด!"
+  ],
+  "sec": [
+   "เฉลยภาพวาด"
+  ],
+  "frame_tl": 53,
+  "talk": false,
+  "model": "03_shock.png",
+  "evidence": "53s 'โอ้มายก็ อด'",
+  "flag": "subs doubtful: cue สั้น"
+ },
+ {
+  "project": "tygarina_2026-09-30_GarticPhone_VTuberFocus",
+  "i": 9,
+  "name": "ทายคำตอบผิดจนเนื้อเรื่องออกทะเล_GarticPhone-vdo",
+  "tl_short": "ทายคำตอบผิดจนเนื้อเรื่องออกทะเล_GarticPhone-vdo_9x16",
+  "hook": [
+   "ขำจนต้องขอโทษ!"
+  ],
+  "sec": [
+   "ทายผิดจนออกทะเล"
+  ],
+  "frame_tl": 48,
+  "talk": false,
+  "model": "07_panic.png",
+  "evidence": "45-52s 'ฮ่าฮ่า','ขอโทษนะ'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_Climbing",
+  "i": 1,
+  "name": "แกล้งเพื่อนตั้งแต่จุดสตาร์ท_Climbing-vdo",
+  "tl_short": "แกล้งเพื่อนตั้งแต่จุดสตาร์ท_Climbing-vdo_9x16",
+  "hook": [
+   "เสียงหายกลางตี้!"
+  ],
+  "sec": [
+   "เปิดดิสใหม่"
+  ],
+  "frame_tl": 33,
+  "talk": false,
+  "model": "07_panic.png",
+  "evidence": "17s 'หายไป', 33s 'มันหายไป', 36s 'เปิดดิส', 39s 'หลุดปะ'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_Climbing",
+  "i": 2,
+  "name": "เชือกตึงเปรี๊ยะห้อยต่องแต่งกลางสายหมอก_Climbing-vdo",
+  "tl_short": "เชือกตึงเปรี๊ยะห้อยต่องแต่งกลางสายหมอก_Climbing-vdo_9x16",
+  "hook": [
+   "คลิกขวาปักที!"
+  ],
+  "sec": [
+   "เริ่มหมดแรง"
+  ],
+  "frame_tl": 25,
+  "talk": false,
+  "model": "01_neutral.png",
+  "evidence": "21-26s 'เริ่มหมด','คลิกขวาปักที','พักได้'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_Climbing",
+  "i": 3,
+  "name": "เหลือสองชีวิตเกาะหน้าผาไว้_Climbing-vdo",
+  "tl_short": "เหลือสองชีวิตเกาะหน้าผาไว้_Climbing-vdo_9x16",
+  "hook": [
+   "เหลือสองชีวิต!"
+  ],
+  "sec": [
+   "เกาะหน้าผาไว้"
+  ],
+  "frame_tl": 34,
+  "talk": false,
+  "model": "03_shock.png",
+  "evidence": "33-35s 'เหลือเพียงแค่สองชีวิต'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_Climbing",
+  "i": 4,
+  "name": "จังหวะกระโดดข้ามหุบเหวสุดเสียว_Climbing-vdo",
+  "tl_short": "จังหวะกระโดดข้ามหุบเหวสุดเสียว_Climbing-vdo_9x16",
+  "hook": [
+   "ระวังระเบิด!"
+  ],
+  "sec": [
+   "กระโดดข้ามหุบเหว"
+  ],
+  "frame_tl": 26,
+  "talk": false,
+  "model": "07_panic.png",
+  "evidence": "25-26s 'ระวังระวัง ระเบิดระเบิด'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_Climbing",
+  "i": 5,
+  "name": "Highlight_Gaming_Climbing_Clutch",
+  "tl_short": "Highlight_Gaming_Climbing_Clutch_9x16",
+  "hook": [
+   "ต้องวิ่งหนี!"
+  ],
+  "sec": [
+   "แต่ยังไงดี"
+  ],
+  "frame_tl": 50,
+  "talk": false,
+  "model": "04_angry.png",
+  "evidence": "49-53s 'ต้องวิ่งหนีมันใช่ไหม'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_DnD",
+  "i": 1,
+  "name": "เล่าเรื่องความรักจนนอนไม่หลับ_DnD-vdo",
+  "tl_short": "เล่าเรื่องความรักจนนอนไม่หลับ_DnD-vdo_9x16",
+  "hook": [
+   "มือสั่นพูดไม่ออก"
+  ],
+  "sec": [
+   "นอนไม่หลับเพราะรัก"
+  ],
+  "frame_tl": 27,
+  "talk": true,
+  "model": "06_cry.png",
+  "evidence": "21-27s 'มือสั่น','พูดไม่ออก'; 43s 'นอนไม่ได้'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_DnD",
+  "i": 2,
+  "name": "สารภาพความในใจสุดเขินกลางตี้_DnD-vdo",
+  "tl_short": "สารภาพความในใจสุดเขินกลางตี้_DnD-vdo_9x16",
+  "hook": [
+   "เลือกสองรูท!"
+  ],
+  "sec": [
+   "เขินกลางตี้"
+  ],
+  "frame_tl": 8,
+  "talk": true,
+  "model": "02_smile.png",
+  "evidence": "7-9s 'เลือกอยู่สองรูด'",
+  "flag": "subs doubtful: 'รูด' คงเป็น route"
+ },
+ {
+  "project": "tygarina_2026-09-30_DnD",
+  "i": 3,
+  "name": "เปิดประสบการณ์หลอนครั้งแรกในชีวิต_DnD-vdo",
+  "tl_short": "เปิดประสบการณ์หลอนครั้งแรกในชีวิต_DnD-vdo_9x16",
+  "hook": [
+   "น้ำลายฟูปาก!"
+  ],
+  "sec": [
+   "หลอนครั้งแรก"
+  ],
+  "frame_tl": 28,
+  "talk": false,
+  "model": "05_smug.png",
+  "evidence": "25-28s 'น้ำลายฟูปาก'; 36s 'จมน้ำลายตัวเอง'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_DnD",
+  "i": 4,
+  "name": "ตอนจบสุดดาร์กทำเอาเหวอทั้งโต๊ะ_DnD-vdo",
+  "tl_short": "ตอนจบสุดดาร์กทำเอาเหวอทั้งโต๊ะ_DnD-vdo_9x16",
+  "hook": [
+   "เขามีลูกแล้ว!"
+  ],
+  "sec": [
+   "จบดาร์กทั้งโต๊ะ"
+  ],
+  "frame_tl": 20,
+  "talk": true,
+  "model": "03_shock.png",
+  "evidence": "19-20s 'เขามีลูกอยู่แล้ว'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_DnD",
+  "i": 5,
+  "name": "Highlight_Fun_DnD_Bard",
+  "tl_short": "Highlight_Fun_DnD_Bard_9x16",
+  "hook": [
+   "นักกวีผมแดง"
+  ],
+  "sec": [
+   "บาร์ดสุดภูมิฐาน"
+  ],
+  "frame_tl": 26,
+  "talk": true,
+  "model": "05_smug.png",
+  "evidence": "23-28s 'เป็นนักกวี ผมสีแดง'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_DnD",
+  "i": 6,
+  "name": "ทอยเต๋าพลาดจนแผนพังยับ_DnD-vdo",
+  "tl_short": "ทอยเต๋าพลาดจนแผนพังยับ_DnD-vdo_9x16",
+  "hook": [
+   "บัฟนักกังฟู!"
+  ],
+  "sec": [
+   "แผนพังยับ"
+  ],
+  "frame_tl": 8,
+  "talk": true,
+  "model": "04_angry.png",
+  "evidence": "4-8s 'บับให้นักกังฟู'; 39-40s 'โกรธ'",
+  "flag": "subs doubtful: 'บับ'=buff? ตีความ"
+ },
+ {
+  "project": "tygarina_2026-09-30_DnD",
+  "i": 7,
+  "name": "เล่าวินาทีบอสแพ้แบบอนาถ_DnD-vdo",
+  "tl_short": "เล่าวินาทีบอสแพ้แบบอนาถ_DnD-vdo_9x16",
+  "hook": [
+   "โดนด่าตาย!"
+  ],
+  "sec": [
+   "บอสแพ้แบบอนาถ"
+  ],
+  "frame_tl": 22,
+  "talk": true,
+  "model": "02_smile.png",
+  "evidence": "21-22s 'โดนด่าจนแตกตาย'; 47s 'สนุก'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_DnD",
+  "i": 8,
+  "name": "ฉากโรลเพลย์สุดกาวในห้องน้ำ_DnD-vdo",
+  "tl_short": "ฉากโรลเพลย์สุดกาวในห้องน้ำ_DnD-vdo_9x16",
+  "hook": [
+   "บุกห้องน้ำหญิง!"
+  ],
+  "sec": [
+   "โรลเพลย์สุดกาว"
+  ],
+  "frame_tl": 20,
+  "talk": true,
+  "model": "07_panic.png",
+  "evidence": "8-9s 'ผู้ชายบุกเข้าห้องน้ำหญิง'; 30s 'โอดแตก'",
+  "flag": ""
+ },
+ {
+  "project": "tygarina_2026-09-30_DnD",
+  "i": 9,
+  "name": "รวมพลังด่ามังกรจนบอสสิ้นใจคาที่_DnD-vdo",
+  "tl_short": "รวมพลังด่ามังกรจนบอสสิ้นใจคาที่_DnD-vdo_9x16",
+  "hook": [
+   "สะเทือนใจหมด!"
+  ],
+  "sec": [
+   "เล่าแคมเปญใหม่"
+  ],
+  "frame_tl": 41,
+  "talk": true,
+  "model": "06_cry.png",
+  "evidence": "40-41s 'สะเทือนใจหมด'",
+  "flag": "subs doubtful: ASR 'แม่งสะเทือนใจ'"
+ }
+]

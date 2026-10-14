@@ -1,0 +1,470 @@
+[
+ {
+  "file": "วาดรูปเพี้ยนจนกลายเป็นมีม_GarticPhone-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "สวยที่สุดในโลก!"
+  ],
+  "secondary": [
+   "วาดรูปเพี้ยนจนเป็นมีม"
+  ],
+  "evidence": "21-25s 'รูปสวยที่สุดในโลกแล้วครับ'",
+  "flag": "",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "วาดรูปเพี้ยนจนกลายเป็นมีม_GarticPhone-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "สวยที่สุดในโลก!"
+  ],
+  "secondary": [
+   "วาดรูปเพี้ยนจนเป็นมีม"
+  ],
+  "evidence": "21-25s 'รูปสวยที่สุดในโลกแล้วครับ'",
+  "flag": "",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "เฉลยภาพวาดจนเพื่อนอึ้งทั้งห้อง_GarticPhone-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "โอ้มายก๊อด!"
+  ],
+  "secondary": [
+   "เฉลยภาพวาด"
+  ],
+  "evidence": "53s 'โอ้มายก็ อด'",
+  "flag": "subs doubtful: cue สั้น",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เฉลยภาพวาดจนเพื่อนอึ้งทั้งห้อง_GarticPhone-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "โอ้มายก๊อด!"
+  ],
+  "secondary": [
+   "เฉลยภาพวาด"
+  ],
+  "evidence": "53s 'โอ้มายก็ อด'",
+  "flag": "subs doubtful: cue สั้น",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ทายคำตอบผิดจนเนื้อเรื่องออกทะเล_GarticPhone-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ขำจนต้องขอโทษ!"
+  ],
+  "secondary": [
+   "ทายผิดจนออกทะเล"
+  ],
+  "evidence": "45-52s 'ฮ่าฮ่า','ขอโทษนะ'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ทายคำตอบผิดจนเนื้อเรื่องออกทะเล_GarticPhone-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ขำจนต้องขอโทษ!"
+  ],
+  "secondary": [
+   "ทายผิดจนออกทะเล"
+  ],
+  "evidence": "45-52s 'ฮ่าฮ่า','ขอโทษนะ'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "แกล้งเพื่อนตั้งแต่จุดสตาร์ท_Climbing-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "เสียงหายกลางตี้!"
+  ],
+  "secondary": [
+   "เปิดดิสใหม่"
+  ],
+  "evidence": "17s 'หายไป', 33s 'มันหายไป', 36s 'เปิดดิส', 39s 'หลุดปะ'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "แกล้งเพื่อนตั้งแต่จุดสตาร์ท_Climbing-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "เสียงหายกลางตี้!"
+  ],
+  "secondary": [
+   "เปิดดิสใหม่"
+  ],
+  "evidence": "17s 'หายไป', 33s 'มันหายไป', 36s 'เปิดดิส', 39s 'หลุดปะ'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เชือกตึงเปรี๊ยะห้อยต่องแต่งกลางสายหมอก_Climbing-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "คลิกขวาปักที!"
+  ],
+  "secondary": [
+   "เริ่มหมดแรง"
+  ],
+  "evidence": "21-26s 'เริ่มหมด','คลิกขวาปักที','พักได้'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เชือกตึงเปรี๊ยะห้อยต่องแต่งกลางสายหมอก_Climbing-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "คลิกขวาปักที!"
+  ],
+  "secondary": [
+   "เริ่มหมดแรง"
+  ],
+  "evidence": "21-26s 'เริ่มหมด','คลิกขวาปักที','พักได้'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เหลือสองชีวิตเกาะหน้าผาไว้_Climbing-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "เหลือสองชีวิต!"
+  ],
+  "secondary": [
+   "เกาะหน้าผาไว้"
+  ],
+  "evidence": "33-35s 'เหลือเพียงแค่สองชีวิต'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เหลือสองชีวิตเกาะหน้าผาไว้_Climbing-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "เหลือสองชีวิต!"
+  ],
+  "secondary": [
+   "เกาะหน้าผาไว้"
+  ],
+  "evidence": "33-35s 'เหลือเพียงแค่สองชีวิต'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "จังหวะกระโดดข้ามหุบเหวสุดเสียว_Climbing-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ระวังระเบิด!"
+  ],
+  "secondary": [
+   "กระโดดข้ามหุบเหว"
+  ],
+  "evidence": "25-26s 'ระวังระวัง ระเบิดระเบิด'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "จังหวะกระโดดข้ามหุบเหวสุดเสียว_Climbing-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ระวังระเบิด!"
+  ],
+  "secondary": [
+   "กระโดดข้ามหุบเหว"
+  ],
+  "evidence": "25-26s 'ระวังระวัง ระเบิดระเบิด'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "Highlight_Gaming_Climbing_Clutch.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ต้องวิ่งหนี!"
+  ],
+  "secondary": [
+   "แต่ยังไงดี"
+  ],
+  "evidence": "49-53s 'ต้องวิ่งหนีมันใช่ไหม'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "Highlight_Gaming_Climbing_Clutch_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ต้องวิ่งหนี!"
+  ],
+  "secondary": [
+   "แต่ยังไงดี"
+  ],
+  "evidence": "49-53s 'ต้องวิ่งหนีมันใช่ไหม'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เล่าเรื่องความรักจนนอนไม่หลับ_DnD-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "มือสั่นพูดไม่ออก"
+  ],
+  "secondary": [
+   "นอนไม่หลับเพราะรัก"
+  ],
+  "evidence": "21-27s 'มือสั่น','พูดไม่ออก'; 43s 'นอนไม่ได้'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เล่าเรื่องความรักจนนอนไม่หลับ_DnD-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "มือสั่นพูดไม่ออก"
+  ],
+  "secondary": [
+   "นอนไม่หลับเพราะรัก"
+  ],
+  "evidence": "21-27s 'มือสั่น','พูดไม่ออก'; 43s 'นอนไม่ได้'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "สารภาพความในใจสุดเขินกลางตี้_DnD-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "เลือกสองรูท!"
+  ],
+  "secondary": [
+   "เขินกลางตี้"
+  ],
+  "evidence": "7-9s 'เลือกอยู่สองรูด'",
+  "flag": "subs doubtful: 'รูด' คงเป็น route",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "สารภาพความในใจสุดเขินกลางตี้_DnD-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "เลือกสองรูท!"
+  ],
+  "secondary": [
+   "เขินกลางตี้"
+  ],
+  "evidence": "7-9s 'เลือกอยู่สองรูด'",
+  "flag": "subs doubtful: 'รูด' คงเป็น route",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "เปิดประสบการณ์หลอนครั้งแรกในชีวิต_DnD-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "น้ำลายฟูปาก!"
+  ],
+  "secondary": [
+   "หลอนครั้งแรก"
+  ],
+  "evidence": "25-28s 'น้ำลายฟูปาก'; 36s 'จมน้ำลายตัวเอง'",
+  "flag": "",
+  "model": "21.png"
+ },
+ {
+  "file": "เปิดประสบการณ์หลอนครั้งแรกในชีวิต_DnD-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "น้ำลายฟูปาก!"
+  ],
+  "secondary": [
+   "หลอนครั้งแรก"
+  ],
+  "evidence": "25-28s 'น้ำลายฟูปาก'; 36s 'จมน้ำลายตัวเอง'",
+  "flag": "",
+  "model": "21.png"
+ },
+ {
+  "file": "ตอนจบสุดดาร์กทำเอาเหวอทั้งโต๊ะ_DnD-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "เขามีลูกแล้ว!"
+  ],
+  "secondary": [
+   "จบดาร์กทั้งโต๊ะ"
+  ],
+  "evidence": "19-20s 'เขามีลูกอยู่แล้ว'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ตอนจบสุดดาร์กทำเอาเหวอทั้งโต๊ะ_DnD-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "เขามีลูกแล้ว!"
+  ],
+  "secondary": [
+   "จบดาร์กทั้งโต๊ะ"
+  ],
+  "evidence": "19-20s 'เขามีลูกอยู่แล้ว'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "Highlight_Fun_DnD_Bard.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "นักกวีผมแดง"
+  ],
+  "secondary": [
+   "บาร์ดสุดภูมิฐาน"
+  ],
+  "evidence": "23-28s 'เป็นนักกวี ผมสีแดง'",
+  "flag": "",
+  "model": "21.png"
+ },
+ {
+  "file": "Highlight_Fun_DnD_Bard_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "นักกวีผมแดง"
+  ],
+  "secondary": [
+   "บาร์ดสุดภูมิฐาน"
+  ],
+  "evidence": "23-28s 'เป็นนักกวี ผมสีแดง'",
+  "flag": "",
+  "model": "21.png"
+ },
+ {
+  "file": "ทอยเต๋าพลาดจนแผนพังยับ_DnD-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "บัฟนักกังฟู!"
+  ],
+  "secondary": [
+   "แผนพังยับ"
+  ],
+  "evidence": "4-8s 'บับให้นักกังฟู'; 39-40s 'โกรธ'",
+  "flag": "subs doubtful: 'บับ'=buff? ตีความ",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ทอยเต๋าพลาดจนแผนพังยับ_DnD-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "บัฟนักกังฟู!"
+  ],
+  "secondary": [
+   "แผนพังยับ"
+  ],
+  "evidence": "4-8s 'บับให้นักกังฟู'; 39-40s 'โกรธ'",
+  "flag": "subs doubtful: 'บับ'=buff? ตีความ",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เล่าวินาทีบอสแพ้แบบอนาถ_DnD-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "โดนด่าตาย!"
+  ],
+  "secondary": [
+   "บอสแพ้แบบอนาถ"
+  ],
+  "evidence": "21-22s 'โดนด่าจนแตกตาย'; 47s 'สนุก'",
+  "flag": "",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "เล่าวินาทีบอสแพ้แบบอนาถ_DnD-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "โดนด่าตาย!"
+  ],
+  "secondary": [
+   "บอสแพ้แบบอนาถ"
+  ],
+  "evidence": "21-22s 'โดนด่าจนแตกตาย'; 47s 'สนุก'",
+  "flag": "",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "ฉากโรลเพลย์สุดกาวในห้องน้ำ_DnD-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "บุกห้องน้ำหญิง!"
+  ],
+  "secondary": [
+   "โรลเพลย์สุดกาว"
+  ],
+  "evidence": "8-9s 'ผู้ชายบุกเข้าห้องน้ำหญิง'; 30s 'โอดแตก'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ฉากโรลเพลย์สุดกาวในห้องน้ำ_DnD-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "บุกห้องน้ำหญิง!"
+  ],
+  "secondary": [
+   "โรลเพลย์สุดกาว"
+  ],
+  "evidence": "8-9s 'ผู้ชายบุกเข้าห้องน้ำหญิง'; 30s 'โอดแตก'",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "รวมพลังด่ามังกรจนบอสสิ้นใจคาที่_DnD-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "สะเทือนใจหมด!"
+  ],
+  "secondary": [
+   "เล่าแคมเปญใหม่"
+  ],
+  "evidence": "40-41s 'สะเทือนใจหมด'",
+  "flag": "subs doubtful: ASR 'แม่งสะเทือนใจ'",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "รวมพลังด่ามังกรจนบอสสิ้นใจคาที่_DnD-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "สะเทือนใจหมด!"
+  ],
+  "secondary": [
+   "เล่าแคมเปญใหม่"
+  ],
+  "evidence": "40-41s 'สะเทือนใจหมด'",
+  "flag": "subs doubtful: ASR 'แม่งสะเทือนใจ'",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ประตูมิติชวนขนหัวลุก_Ib-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ทุบประตู!"
+  ],
+  "secondary": [
+   "ตัวแดงทุบประตู"
+  ],
+  "evidence": "51s \"ประตูพัง\", 34s \"แดงทุบประตู\", 44s \"ประตูเหล็ก\"",
+  "flag": "subs doubtful: ASR garbled, only door-pounding theme clear",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ประตูมิติชวนขนหัวลุก_Ib-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ทุบประตู!"
+  ],
+  "secondary": [
+   "ตัวแดงทุบประตู"
+  ],
+  "evidence": "51s \"ประตูพัง\", 34s \"แดงทุบประตู\", 44s \"ประตูเหล็ก\"",
+  "flag": "subs doubtful: ASR garbled, only door-pounding theme clear",
+  "model": "dsasa.png"
+ }
+]

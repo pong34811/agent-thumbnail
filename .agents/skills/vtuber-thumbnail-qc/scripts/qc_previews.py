@@ -119,10 +119,16 @@ def main() -> None:
 
     rep_path = args.out / "tech_report.json"
     rep_path.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(json.dumps(report, ensure_ascii=False, indent=2))
+    try:
+        print(json.dumps(report, ensure_ascii=False, indent=2))
+    except UnicodeEncodeError:
+        print(json.dumps(report, ensure_ascii=True, indent=2))
     print("previews:")
     for p in written:
-        print("  " + p)
+        try:
+            print("  " + p)
+        except UnicodeEncodeError:
+            print("  " + p.encode("ascii", errors="replace").decode("ascii"))
 
 
 if __name__ == "__main__":

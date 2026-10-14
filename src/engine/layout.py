@@ -28,6 +28,13 @@ class LandscapeLayout:
     HOVER_ACTIONS = (1780, 20, 1900, 160)
     MIN_OUTER_MARGIN = 40
 
+    # Clean Background & Gameplay Standards
+    GAMEPLAY_BLUR_RADIUS = 0  # 0px blur for clean gameplay
+    AVATAR_HEIGHT_RECOMMENDED = 920  # Standard height for right-side placement
+    AVATAR_WIDTH_RATIO_MIN = 0.35
+    AVATAR_WIDTH_RATIO_MAX = 0.50
+    RIM_LIGHT_WIDTH = 12
+
     @classmethod
     def is_safe_from_timestamp(cls, bbox: Tuple[int, int, int, int]) -> bool:
         """Returns True if bbox does not intersect with the bottom-right timestamp badge."""
@@ -52,6 +59,17 @@ class ShortsLayout:
     WIDTH = 1080
     HEIGHT = 1920
     CENTER_X = 540
+
+    # 3-Tier Architecture Constants
+    TEXT_Y_START = 380  # Baseline start for top safe zone hook
+    GAME_PANEL_DIMS = (1080, 680)
+    GAME_PANEL_Y = 560
+    AVATAR_HEIGHT_RECOMMENDED_MIN = 1100  # Large avatar (70-80% screen width)
+    AVATAR_HEIGHT_RECOMMENDED_MAX = 1250
+    AMBIENT_BLUR_RADIUS = 36
+    AMBIENT_BRIGHTNESS = 0.48
+    AMBIENT_COLOR = 1.15
+    RIM_LIGHT_WIDTH = 12
 
     # Recommended Text Safe Zone (Top Half, Horizontally Centered)
     TEXT_Y_MIN = 280

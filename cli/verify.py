@@ -105,8 +105,17 @@ def main():
     parser.add_argument("--squint-dir", help="Directory to save downscaled squint-test previews")
     args = parser.parse_args()
 
+    if sys.platform == "win32" and hasattr(sys.stdout, "reconfigure"):
+        try:
+            sys.stdout.reconfigure(encoding="utf-8")
+        except Exception:
+            pass
+
     report = verify_directory(args.jpg_dir, args.manifest, args.squint_dir)
-    print(json.dumps(report, ensure_ascii=False, indent=2))
+    try:
+        print(json.dumps(report, ensure_ascii=False, indent=2))
+    except UnicodeEncodeError:
+        print(json.dumps(report, ensure_ascii=True, indent=2))
     if report["status"] != "PASS":
         sys.exit(1)
 

@@ -1,0 +1,1 @@
+"""LuminaVProject thumbnail project package."""

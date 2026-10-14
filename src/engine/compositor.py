@@ -134,18 +134,55 @@ class ThumbnailCompositor:
         secondary_lines: Optional[List[str]] = None,
         emotion_marker: Optional[Tuple[str, Tuple[int, int]]] = None,
         brightness: float = 0.90,
+        text_y: int = ShortsLayout.TEXT_Y_START,
+        avatar_height: Optional[int] = None,
+        avatar_pos: Optional[Tuple[int, int]] = None,
+        three_tier: bool = False,
+        game_panel_crop: Optional[Tuple[int, int, int, int]] = None,
+        game_panel_y: int = 610,
     ) -> Image.Image:
-        """Builds a 1080x1920 Shorts thumbnail."""
-        canvas = bg_image.convert("RGBA").resize(SHORTS_DIMS, Image.Resampling.LANCZOS)
-        if brightness != 1.0:
-            canvas = ImageEnhance.Brightness(canvas).enhance(brightness)
+        """Builds a 1080x1920 Shorts thumbnail with support for 3-tier architecture."""
+        if three_tier or bg_image.width > bg_image.height:
+            ambient = bg_image.convert("RGBA").resize(SHORTS_DIMS, Image.Resampling.LANCZOS)
+            ambient = ambient.filter(ImageFilter.GaussianBlur(ShortsLayout.AMBIENT_BLUR_RADIUS))
+            ambient = ImageEnhance.Brightness(ambient).enhance(ShortsLayout.AMBIENT_BRIGHTNESS)
+            ambient = ImageEnhance.Color(ambient).enhance(ShortsLayout.AMBIENT_COLOR)
+
+            panel_w, panel_h = ShortsLayout.GAME_PANEL_DIMS[0], 612
+            if game_panel_crop:
+                panel_crop = bg_image.crop(game_panel_crop).resize((panel_w, panel_h), Image.Resampling.LANCZOS)
+            else:
+                panel_crop = bg_image.resize((panel_w, panel_h), Image.Resampling.LANCZOS)
+
+            panel_canvas = Image.new("RGBA", (panel_w, panel_h), (0, 0, 0, 0))
+            panel_canvas.paste(panel_crop.convert("RGBA"), (0, 0))
+            from PIL import ImageDraw
+            draw = ImageDraw.Draw(panel_canvas)
+            draw.line([(0, 0), (panel_w, 0)], fill=(255, 255, 255, 220), width=4)
+            draw.line([(0, panel_h - 2), (panel_w, panel_h - 2)], fill=(255, 255, 255, 220), width=4)
+
+            ambient.alpha_composite(panel_canvas, (0, game_panel_y))
+            canvas = ambient
+        else:
+            canvas = bg_image.convert("RGBA").resize(SHORTS_DIMS, Image.Resampling.LANCZOS)
+            if brightness != 1.0:
+                canvas = ImageEnhance.Brightness(canvas).enhance(brightness)
 
         # Place avatar in bottom half, horizontally centered
         if avatar_image:
+            if avatar_height is not None:
+                bbox = avatar_image.split()[3].getbbox() if avatar_image.mode == "RGBA" else None
+                if bbox:
+                    avatar_image = avatar_image.crop(bbox)
+                w = round(avatar_image.width * avatar_height / avatar_image.height)
+                avatar_image = avatar_image.resize((w, avatar_height), Image.Resampling.LANCZOS)
+
             av_with_effects = apply_avatar_separation(avatar_image)
-            av_x = (SHORTS_DIMS[0] - av_with_effects.width) // 2
-            av_y = SHORTS_DIMS[1] - av_with_effects.height
-            canvas.alpha_composite(av_with_effects, (av_x, av_y))
+            if avatar_pos is None:
+                av_x = (SHORTS_DIMS[0] - av_with_effects.width) // 2
+                av_y = SHORTS_DIMS[1] - av_with_effects.height
+                avatar_pos = (av_x, av_y)
+            canvas.alpha_composite(av_with_effects, avatar_pos)
 
         if emotion_marker:
             m_type, m_pos = emotion_marker
@@ -153,7 +190,7 @@ class ThumbnailCompositor:
 
         # Render Thai text in upper half, centered horizontally
         text_layer = Image.new("RGBA", SHORTS_DIMS, (0, 0, 0, 0))
-        y_cursor = 320
+        y_cursor = text_y
 
         if hook_lines:
             f_hook, s_hook = fit_text(

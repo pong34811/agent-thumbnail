@@ -50,3 +50,11 @@ def test_shorts_grid_crop():
     # Violates top crop
     violates_top = (100, 100, 980, 800)
     assert ShortsLayout.is_channel_grid_safe(violates_top) is False
+
+
+def test_golden_pipeline_layout_constants():
+    assert ShortsLayout.TEXT_Y_START == 380
+    assert ShortsLayout.GAME_PANEL_DIMS == (1080, 680)
+    assert ShortsLayout.AVATAR_HEIGHT_RECOMMENDED_MIN >= 1100
+    assert LandscapeLayout.GAMEPLAY_BLUR_RADIUS == 0
+    assert LandscapeLayout.AVATAR_HEIGHT_RECOMMENDED == 920

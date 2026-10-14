@@ -1,0 +1,420 @@
+[
+ {
+  "file": "สะดุ้งตัวโยนเลือดหยดใส่หน้าภาพวาด_Ib-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "สีฟ้าห้ามแตะ!"
+  ],
+  "secondary": [
+   "ไขปริศนาถ้วยชา"
+  ],
+  "evidence": "1-3s \"สีฟ้าห้ามแตะ\", 15-17s \"น้ำชาจะไม่ยอมหยุดจนกว่าจะชน\"",
+  "flag": "subs doubtful: title says blood-drop scare, cues are about tea puzzle",
+  "model": "21.png"
+ },
+ {
+  "file": "สะดุ้งตัวโยนเลือดหยดใส่หน้าภาพวาด_Ib-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "สีฟ้าห้ามแตะ!"
+  ],
+  "secondary": [
+   "ไขปริศนาถ้วยชา"
+  ],
+  "evidence": "1-3s \"สีฟ้าห้ามแตะ\", 15-17s \"น้ำชาจะไม่ยอมหยุดจนกว่าจะชน\"",
+  "flag": "subs doubtful: title says blood-drop scare, cues are about tea puzzle",
+  "model": "21.png"
+ },
+ {
+  "file": "เจอตัวละครใหม่ตกใจจนร้องลั่น_Ib-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ตกใจหมด!"
+  ],
+  "secondary": [
+   "เจอตัวละครใหม่"
+  ],
+  "evidence": "no subs; title + frames: new purple-haired NPC appears ~24s",
+  "flag": "title-only: no subtitles in timeline",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เจอตัวละครใหม่ตกใจจนร้องลั่น_Ib-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ตกใจหมด!"
+  ],
+  "secondary": [
+   "เจอตัวละครใหม่"
+  ],
+  "evidence": "no subs; title + frames: new purple-haired NPC appears ~24s",
+  "flag": "title-only: no subtitles in timeline",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "Highlight_Gaming_Ib_Horror.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "กดครบทุกประโยค!"
+  ],
+  "secondary": [
+   "เดินคนเดียวในนี้"
+  ],
+  "evidence": "49-51s \"จะกดให้มันครบทุกประโยคเลย\", 38s \"เดินอยู่ในนี้คนเดียว\", 47s \"ใจกล้ามากเลย\"",
+  "flag": "subs doubtful: ASR noisy",
+  "model": "21.png"
+ },
+ {
+  "file": "Highlight_Gaming_Ib_Horror_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "กดครบทุกประโยค!"
+  ],
+  "secondary": [
+   "เดินคนเดียวในนี้"
+  ],
+  "evidence": "49-51s \"จะกดให้มันครบทุกประโยคเลย\", 38s \"เดินอยู่ในนี้คนเดียว\", 47s \"ใจกล้ามากเลย\"",
+  "flag": "subs doubtful: ASR noisy",
+  "model": "21.png"
+ },
+ {
+  "file": "ไขปริศนาภาพวาดมรณะ_Ib-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "น่าขนลุก!"
+  ],
+  "secondary": [
+   "คุยเรื่องศิลปะ"
+  ],
+  "evidence": "38s \"เลยน่าขนลุก\", 30-34s ศิลปะ...ไม่เหมือนมนุษย์",
+  "flag": "subs doubtful: ASR noisy",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ไขปริศนาภาพวาดมรณะ_Ib-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "น่าขนลุก!"
+  ],
+  "secondary": [
+   "คุยเรื่องศิลปะ"
+  ],
+  "evidence": "38s \"เลยน่าขนลุก\", 30-34s ศิลปะ...ไม่เหมือนมนุษย์",
+  "flag": "subs doubtful: ASR noisy",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "พากันวิ่งหนีผีเสื้อยักษ์เกือบไม่รอด_Ib-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "Speedrun",
+   "ละนะ!"
+  ],
+  "secondary": [
+   "ขอห้าสิบซับ"
+  ],
+  "evidence": "18-24s \"Speedrun ละนะ/ยินดีต้อนรับสู่การ Speedrun\", 42s \"หวังว่าจะได้ห้าสิบซับ\"",
+  "flag": "subs doubtful: title says butterfly chase, cues are a joke speedrun intro",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "พากันวิ่งหนีผีเสื้อยักษ์เกือบไม่รอด_Ib-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "Speedrun",
+   "ละนะ!"
+  ],
+  "secondary": [
+   "ขอห้าสิบซับ"
+  ],
+  "evidence": "18-24s \"Speedrun ละนะ/ยินดีต้อนรับสู่การ Speedrun\", 42s \"หวังว่าจะได้ห้าสิบซับ\"",
+  "flag": "subs doubtful: title says butterfly chase, cues are a joke speedrun intro",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "กรี๊ดลั่นหอศิลป์เมื่อเจอรูปปั้นขยับได้_Ib-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "จับมือพี่ว่าไง"
+  ],
+  "secondary": [
+   "หอศิลป์สุดแปลก"
+  ],
+  "evidence": "40-44s \"พี่ว่าไง แปลกๆ ... จับมือพี่ว่าไง\"; 3-36s \"เก้า\" repeated",
+  "flag": "subs doubtful: repeated \"เก้า\" unclear",
+  "model": "21.png"
+ },
+ {
+  "file": "กรี๊ดลั่นหอศิลป์เมื่อเจอรูปปั้นขยับได้_Ib-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "จับมือพี่ว่าไง"
+  ],
+  "secondary": [
+   "หอศิลป์สุดแปลก"
+  ],
+  "evidence": "40-44s \"พี่ว่าไง แปลกๆ ... จับมือพี่ว่าไง\"; 3-36s \"เก้า\" repeated",
+  "flag": "subs doubtful: repeated \"เก้า\" unclear",
+  "model": "21.png"
+ },
+ {
+  "file": "จังหวะไฟต์ชุลมุนกดมั่วจนได้คิลเฉย_LoL-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ชุลมุนมาก!"
+  ],
+  "secondary": [
+   "ไฟต์กลางป่า"
+  ],
+  "evidence": "2 cues only; frames: fight at ~24s then death screen",
+  "flag": "title-only: only 2 cues; frames show fight then death",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "จังหวะไฟต์ชุลมุนกดมั่วจนได้คิลเฉย_LoL-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ชุลมุนมาก!"
+  ],
+  "secondary": [
+   "ไฟต์กลางป่า"
+  ],
+  "evidence": "2 cues only; frames: fight at ~24s then death screen",
+  "flag": "title-only: only 2 cues; frames show fight then death",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "กดสกิลวืดกลางเลนจนโดนป้อมยิงตาย_LoL-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "สกิลวืด!"
+  ],
+  "secondary": [
+   "โดนป้อมยิงตาย"
+  ],
+  "evidence": "no subs; title + frames: fight/teamfight 38-45s, shop 52s",
+  "flag": "title-only: no subtitles in timeline",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "กดสกิลวืดกลางเลนจนโดนป้อมยิงตาย_LoL-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "สกิลวืด!"
+  ],
+  "secondary": [
+   "โดนป้อมยิงตาย"
+  ],
+  "evidence": "no subs; title + frames: fight/teamfight 38-45s, shop 52s",
+  "flag": "title-only: no subtitles in timeline",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "จังหวะโดนดักซุ่มพุ่มไม้ร้องเสียงหลง_LoL-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "กดไม่ติด!"
+  ],
+  "secondary": [
+   "เซงเลยอ่ะ"
+  ],
+  "evidence": "31s \"ทำไมกดไม่ติด\", 50-53s \"เซงเลยอ่ะ เมื่อกี้เอาได้นะ แต่กดไม่ติดอ่ะ\"; frame 17s fight",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "จังหวะโดนดักซุ่มพุ่มไม้ร้องเสียงหลง_LoL-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "กดไม่ติด!"
+  ],
+  "secondary": [
+   "เซงเลยอ่ะ"
+  ],
+  "evidence": "31s \"ทำไมกดไม่ติด\", 50-53s \"เซงเลยอ่ะ เมื่อกี้เอาได้นะ แต่กดไม่ติดอ่ะ\"; frame 17s fight",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "จังหวะลาสบอสใหญ่ขโมยมังกรสุดเทพ_LoL-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "เอาไม่ได้อีก!"
+  ],
+  "secondary": [
+   "เลือดแค่กระจก"
+  ],
+  "evidence": "10-11s \"เลือดแค่กระจกนึงมึงเอาไม่ได้อีก\", 28s \"ยังเอาไม่ได้อ่ะ\"",
+  "flag": "subs doubtful: dragon steal not in cues",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "จังหวะลาสบอสใหญ่ขโมยมังกรสุดเทพ_LoL-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "เอาไม่ได้อีก!"
+  ],
+  "secondary": [
+   "เลือดแค่กระจก"
+  ],
+  "evidence": "10-11s \"เลือดแค่กระจกนึงมึงเอาไม่ได้อีก\", 28s \"ยังเอาไม่ได้อ่ะ\"",
+  "flag": "subs doubtful: dragon steal not in cues",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "โดนโค้ชบ่นเรื่องลืมซื้อของตอนเริ่มเกม_LoL-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "โดนบูลี่ทั้งวัน!"
+  ],
+  "secondary": [
+   "สงสารบอสหน่อย"
+  ],
+  "evidence": "21-32s \"สงสารบอส...โดนหนูบูลี่บ่อยมาก...ทั้งวันทั้งคืน\"",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "โดนโค้ชบ่นเรื่องลืมซื้อของตอนเริ่มเกม_LoL-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "โดนบูลี่ทั้งวัน!"
+  ],
+  "secondary": [
+   "สงสารบอสหน่อย"
+  ],
+  "evidence": "21-32s \"สงสารบอส...โดนหนูบูลี่บ่อยมาก...ทั้งวันทั้งคืน\"",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เปิดครัววันแรกก็วุ่นวายซะแล้ว_Overcooked-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ได้ยินไหม?"
+  ],
+  "secondary": [
+   "เช็กเสียงก่อนเล่น"
+  ],
+  "evidence": "20-39s \"ตั้งให้เสียงเข้าหูฟังตัวเอง...มีเสียง\"; frames = story map menu",
+  "flag": "subs doubtful: ASR garbled; no kitchen gameplay in clip",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "เปิดครัววันแรกก็วุ่นวายซะแล้ว_Overcooked-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ได้ยินไหม?"
+  ],
+  "secondary": [
+   "เช็กเสียงก่อนเล่น"
+  ],
+  "evidence": "20-39s \"ตั้งให้เสียงเข้าหูฟังตัวเอง...มีเสียง\"; frames = story map menu",
+  "flag": "subs doubtful: ASR garbled; no kitchen gameplay in clip",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "ออเดอร์ล้นครัวสั่งความวิกฤต_Overcooked-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ส่งไก่มา!"
+  ],
+  "secondary": [
+   "ออเดอร์ล้นครัว"
+  ],
+  "evidence": "40-43s \"หันไก่ให้น้อยส่งไก่มา\", 32-35s \"เอาไก่ไปฝั่งนู้น\"",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ออเดอร์ล้นครัวสั่งความวิกฤต_Overcooked-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ส่งไก่มา!"
+  ],
+  "secondary": [
+   "ออเดอร์ล้นครัว"
+  ],
+  "evidence": "40-43s \"หันไก่ให้น้อยส่งไก่มา\", 32-35s \"เอาไก่ไปฝั่งนู้น\"",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "Highlight_Fun_Overcooked_KitchenFire.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "อย่าเพิ่งโยนไข่!"
+  ],
+  "secondary": [
+   "ครัวป่วนสุดๆ"
+  ],
+  "evidence": "57-58s \"ไม่ๆๆอย่า เพิ่งโยดไข่\", 44s \"ชนฉันล้ม\"",
+  "flag": "subs doubtful: \"โยด\" read as โยน",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "Highlight_Fun_Overcooked_KitchenFire_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "อย่าเพิ่งโยนไข่!"
+  ],
+  "secondary": [
+   "ครัวป่วนสุดๆ"
+  ],
+  "evidence": "57-58s \"ไม่ๆๆอย่า เพิ่งโยดไข่\", 44s \"ชนฉันล้ม\"",
+  "flag": "subs doubtful: \"โยด\" read as โยน",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "โยนวัตถุดิบข้ามฝั่งชนหัวเพื่อนเต็มๆ_Overcooked-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "เต้ทำอะไร!"
+  ],
+  "secondary": [
+   "ไม่มีเมนูแล้ว"
+  ],
+  "evidence": "5-10s \"ไม่มีเมนูเนี่ย เต้ทำอะไร เต้เต้มึง\"",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "โยนวัตถุดิบข้ามฝั่งชนหัวเพื่อนเต็มๆ_Overcooked-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "เต้ทำอะไร!"
+  ],
+  "secondary": [
+   "ไม่มีเมนูแล้ว"
+  ],
+  "evidence": "5-10s \"ไม่มีเมนูเนี่ย เต้ทำอะไร เต้เต้มึง\"",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "จานตกน้ำหมดครัวนาทีสุดท้าย_Overcooked-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "น้ำผึ้งกับไข่!"
+  ],
+  "secondary": [
+   "นาทีสุดท้าย"
+  ],
+  "evidence": "37-42s \"ขอน้ำผึ้งกับไข่ครับ\"; frames: final minute",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "จานตกน้ำหมดครัวนาทีสุดท้าย_Overcooked-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "น้ำผึ้งกับไข่!"
+  ],
+  "secondary": [
+   "นาทีสุดท้าย"
+  ],
+  "evidence": "37-42s \"ขอน้ำผึ้งกับไข่ครับ\"; frames: final minute",
+  "flag": "",
+  "model": "dsasa.png"
+ }
+]

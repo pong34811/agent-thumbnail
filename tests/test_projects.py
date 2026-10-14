@@ -40,3 +40,29 @@ def test_armigon_has_hooks_and_resolves_models():
         assert resolve_text(tl, "hook", "landscape")
         assert resolve_text(tl, "sec", "landscape")
     assert mapping.MODEL_DIR.endswith("armigon")
+
+
+def test_tygarina_0930_mapping_complete():
+    from projects.tygarina_0930.mapping import TIMELINES, MODEL_DIR
+
+    assert len(TIMELINES) == 88
+    assert len({t["name"] for t in TIMELINES}) == 88
+    assert MODEL_DIR
+    for t in TIMELINES:
+        assert 1 <= len(t["hook"]) <= 2 and t["sec"]
+        assert t["tl_short"] == t["name"] + "_9x16"
+        assert t["src"] and t["model_file"].endswith(".png")
+        assert isinstance(t["frame_tl"], int) and t["frame_tl"] >= 0
+
+
+def test_aomi_p1_mapping_complete():
+    from projects.aomi_p1.mapping import TIMELINES, MODEL_DIR
+
+    assert len(TIMELINES) == 49
+    assert len({t["name"] for t in TIMELINES}) == 49
+    assert MODEL_DIR
+    for t in TIMELINES:
+        assert len(t["hook"]) == 1 and t["sec"]
+        assert t["tl_short"] == t["name"] + "_9x16"
+        assert t["src"] and t["model_file"].startswith("vts_avatar_") and t["model_file"].endswith(".png")
+        assert isinstance(t["frame_tl"], int) and t["frame_tl"] >= 0

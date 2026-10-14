@@ -1,0 +1,470 @@
+[
+ {
+  "file": "เจอกับดักระเบิดตู้มเดียวบินขึ้นฟ้า_Fallout4-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "บินขึ้นฟ้า!"
+  ],
+  "secondary": [
+   "ตู้มเดียวจบ"
+  ],
+  "evidence": "cue 8-9s มีแค่ \"ให้ภาพบรรยากาศ/เหล้า\"; เฟรม 25s เห็นระเบิดไฟ",
+  "flag": "title-only: ซับไม่เกี่ยวกับกับดัก",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เจอกับดักระเบิดตู้มเดียวบินขึ้นฟ้า_Fallout4-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "บินขึ้นฟ้า!"
+  ],
+  "secondary": [
+   "ตู้มเดียวจบ"
+  ],
+  "evidence": "cue 8-9s มีแค่ \"ให้ภาพบรรยากาศ/เหล้า\"; เฟรม 25s เห็นระเบิดไฟ",
+  "flag": "title-only: ซับไม่เกี่ยวกับกับดัก",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "หลงทางในแดนรกร้างเดินวนอยู่ที่เดิม_Fallout4-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "อุ้ย!"
+  ],
+  "secondary": [
+   "หลงทางอีกแล้ว"
+  ],
+  "evidence": "cue 16s \"อุ้ย\" x2; ชื่อ=หลงทาง",
+  "flag": "subs doubtful: มีแค่คำว่า อุ้ย",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "หลงทางในแดนรกร้างเดินวนอยู่ที่เดิม_Fallout4-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "อุ้ย!"
+  ],
+  "secondary": [
+   "หลงทางอีกแล้ว"
+  ],
+  "evidence": "cue 16s \"อุ้ย\" x2; ชื่อ=หลงทาง",
+  "flag": "subs doubtful: มีแค่คำว่า อุ้ย",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "สู้สัตว์ประหลาดในสวนสนุกจนกระสุนหมดเกลี้ยง_Fallout4-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ไม่รอดอ่ะ!"
+  ],
+  "secondary": [
+   "กระสุนหมดเกลี้ยง"
+  ],
+  "evidence": "cue 44s \"ไม่รอดอ่ะ\"; 10s \"โอ้ว\"",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "สู้สัตว์ประหลาดในสวนสนุกจนกระสุนหมดเกลี้ยง_Fallout4-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ไม่รอดอ่ะ!"
+  ],
+  "secondary": [
+   "กระสุนหมดเกลี้ยง"
+  ],
+  "evidence": "cue 44s \"ไม่รอดอ่ะ\"; 10s \"โอ้ว\"",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เปิดตี้แจกความฮากับเพื่อน_REPO-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ไร้เสียงเลย"
+  ],
+  "secondary": [
+   "สงบจนผิดปกติ"
+  ],
+  "evidence": "cue 43-46s \"ไม่มี Sound Effects เลยสงบ\" (ฉากลอบบี้)",
+  "flag": "subs doubtful: ฉากลอบบี้ ไม่ใช่เกมเพลย์",
+  "model": "21.png"
+ },
+ {
+  "file": "เปิดตี้แจกความฮากับเพื่อน_REPO-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ไร้เสียงเลย"
+  ],
+  "secondary": [
+   "สงบจนผิดปกติ"
+  ],
+  "evidence": "cue 43-46s \"ไม่มี Sound Effects เลยสงบ\" (ฉากลอบบี้)",
+  "flag": "subs doubtful: ฉากลอบบี้ ไม่ใช่เกมเพลย์",
+  "model": "21.png"
+ },
+ {
+  "file": "เสียงกรีดร้องสะท้อนทางเดินใต้ดินสุดหลอน_REPO-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "มืดมาก!"
+  ],
+  "secondary": [
+   "มีอะไรเดินมา"
+  ],
+  "evidence": "cue 4-5s \"เกมมันมืดมากเลย\", 22s \"เดินมาตึ้งๆ\"",
+  "flag": "subs doubtful: ASR เพี้ยนหลายคำ",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เสียงกรีดร้องสะท้อนทางเดินใต้ดินสุดหลอน_REPO-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "มืดมาก!"
+  ],
+  "secondary": [
+   "มีอะไรเดินมา"
+  ],
+  "evidence": "cue 4-5s \"เกมมันมืดมากเลย\", 22s \"เดินมาตึ้งๆ\"",
+  "flag": "subs doubtful: ASR เพี้ยนหลายคำ",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "วิ่งหนีปีศาจแทบไม่ทัน_REPO-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "วิ่งหนีไม่ทัน!"
+  ],
+  "secondary": [
+   "ปีศาจไล่ไม่เลิก"
+  ],
+  "evidence": "เฟรมเห็นมอนสเตอร์ชมพู; ซับ ASR เพี้ยนหนัก",
+  "flag": "title-only: ซับอ่านไม่ออก",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "วิ่งหนีปีศาจแทบไม่ทัน_REPO-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "วิ่งหนีไม่ทัน!"
+  ],
+  "secondary": [
+   "ปีศาจไล่ไม่เลิก"
+  ],
+  "evidence": "เฟรมเห็นมอนสเตอร์ชมพู; ซับ ASR เพี้ยนหนัก",
+  "flag": "title-only: ซับอ่านไม่ออก",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "Highlight_Gaming_REPO_Jumpscare.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ผวาหมด!"
+  ],
+  "secondary": [
+   "ช็อปปิ้งเกมสยอง"
+  ],
+  "evidence": "cue 60-65s เป็นเลข/คำเพี้ยน",
+  "flag": "title-only: ชื่อ Jumpscare ซับไม่ชัด; เฟรมเป็นฉากร้านค้า",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "Highlight_Gaming_REPO_Jumpscare_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ผวาหมด!"
+  ],
+  "secondary": [
+   "ช็อปปิ้งเกมสยอง"
+  ],
+  "evidence": "cue 60-65s เป็นเลข/คำเพี้ยน",
+  "flag": "title-only: ชื่อ Jumpscare ซับไม่ชัด; เฟรมเป็นฉากร้านค้า",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "จังหวะเอาชีวิตรอดเฉียดฉิว_REPO-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "เกือบตายแล้ว!"
+  ],
+  "secondary": [
+   "รอดมาได้ไง"
+  ],
+  "evidence": "cue 47-48s \"เมื่อกี้เคยยัง ไม่ตาย\", 54s \"วิ่งไปตาย\"",
+  "flag": "subs doubtful: ซับเพี้ยนบางส่วน",
+  "model": "21.png"
+ },
+ {
+  "file": "จังหวะเอาชีวิตรอดเฉียดฉิว_REPO-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "เกือบตายแล้ว!"
+  ],
+  "secondary": [
+   "รอดมาได้ไง"
+  ],
+  "evidence": "cue 47-48s \"เมื่อกี้เคยยัง ไม่ตาย\", 54s \"วิ่งไปตาย\"",
+  "flag": "subs doubtful: ซับเพี้ยนบางส่วน",
+  "model": "21.png"
+ },
+ {
+  "file": "โดนตัวประหลาดลากเข้าเงามืดต่อหน้าเพื่อน_REPO-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "โดนลากหาย!"
+  ],
+  "secondary": [
+   "ต่อหน้าเพื่อน"
+  ],
+  "evidence": "ซับ 38-40s \"เอ้าแล้วยังไง\" ไม่พอ",
+  "flag": "title-only: ซับเกือบไม่มี ฉากเป็นเมนู/โหลด ไม่ตรงชื่อ",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "โดนตัวประหลาดลากเข้าเงามืดต่อหน้าเพื่อน_REPO-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "โดนลากหาย!"
+  ],
+  "secondary": [
+   "ต่อหน้าเพื่อน"
+  ],
+  "evidence": "ซับ 38-40s \"เอ้าแล้วยังไง\" ไม่พอ",
+  "flag": "title-only: ซับเกือบไม่มี ฉากเป็นเมนู/โหลด ไม่ตรงชื่อ",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "จังหวะขโมยของหนีออกจากประตูลับ_REPO-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "เลือดเย็นมาก!"
+  ],
+  "secondary": [
+   "ขโมยแล้วหนี"
+  ],
+  "evidence": "cue 38s \"เลือดเย็นมาก\", 42s \"ยังไม่ตายวะ\"",
+  "flag": "subs doubtful: ซับช่วงอื่นเพี้ยน",
+  "model": "21.png"
+ },
+ {
+  "file": "จังหวะขโมยของหนีออกจากประตูลับ_REPO-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "เลือดเย็นมาก!"
+  ],
+  "secondary": [
+   "ขโมยแล้วหนี"
+  ],
+  "evidence": "cue 38s \"เลือดเย็นมาก\", 42s \"ยังไม่ตายวะ\"",
+  "flag": "subs doubtful: ซับช่วงอื่นเพี้ยน",
+  "model": "21.png"
+ },
+ {
+  "file": "เพื่อนโดนงาบต่อหน้าต่อตาช่วยไม่ทัน_REPO-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "โดนงาบแล้ว!"
+  ],
+  "secondary": [
+   "ช่วยไม่ทัน"
+  ],
+  "evidence": "ไม่มีซับ",
+  "flag": "title-only: ไม่มีซับ ฉากเป็นลอบบี้",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เพื่อนโดนงาบต่อหน้าต่อตาช่วยไม่ทัน_REPO-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "โดนงาบแล้ว!"
+  ],
+  "secondary": [
+   "ช่วยไม่ทัน"
+  ],
+  "evidence": "ไม่มีซับ",
+  "flag": "title-only: ไม่มีซับ ฉากเป็นลอบบี้",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เสียงฝีเท้าปริศนาทำเอาสะดุ้งทั้งตี้_REPO-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "มีผีไหม?"
+  ],
+  "secondary": [
+   "ตกใจหมด"
+  ],
+  "evidence": "cue 3s \"ตกใจหมด\", 24-25s \"มีผีไหม ครับมีครับ\"",
+  "flag": "ฉากเป็นลอบบี้/คุย",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เสียงฝีเท้าปริศนาทำเอาสะดุ้งทั้งตี้_REPO-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "มีผีไหม?"
+  ],
+  "secondary": [
+   "ตกใจหมด"
+  ],
+  "evidence": "cue 3s \"ตกใจหมด\", 24-25s \"มีผีไหม ครับมีครับ\"",
+  "flag": "ฉากเป็นลอบบี้/คุย",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ตะโกนเตือนเพื่อนแต่โดนทิ้งไว้ข้างหลัง_REPO-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "เดี๋ยวๆๆ!"
+  ],
+  "secondary": [
+   "เพื่อนทิ้งไว้"
+  ],
+  "evidence": "cue 22-24s \"เดี๋ยวๆๆๆ\", 45-52s เพื่อนไปก่อน",
+  "flag": "subs doubtful: ซับท้ายเพี้ยน",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ตะโกนเตือนเพื่อนแต่โดนทิ้งไว้ข้างหลัง_REPO-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "เดี๋ยวๆๆ!"
+  ],
+  "secondary": [
+   "เพื่อนทิ้งไว้"
+  ],
+  "evidence": "cue 22-24s \"เดี๋ยวๆๆๆ\", 45-52s เพื่อนไปก่อน",
+  "flag": "subs doubtful: ซับท้ายเพี้ยน",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เดินตกหลุมกับดักเพราะมัวแต่มองของ_REPO-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ไม่กลัวผีแล้ว!"
+  ],
+  "secondary": [
+   "ได้เล่นสักที"
+  ],
+  "evidence": "cue 17-19s \"เคยไม่กลัวผีกันแล้วว่ะ ในที่สุด...ได้เล่น\"",
+  "flag": "subs doubtful: ชื่อกับซับไม่ตรงกัน",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "เดินตกหลุมกับดักเพราะมัวแต่มองของ_REPO-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ไม่กลัวผีแล้ว!"
+  ],
+  "secondary": [
+   "ได้เล่นสักที"
+  ],
+  "evidence": "cue 17-19s \"เคยไม่กลัวผีกันแล้วว่ะ ในที่สุด...ได้เล่น\"",
+  "flag": "subs doubtful: ชื่อกับซับไม่ตรงกัน",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "แบกของหนักวิ่งหนีตายวินาทีสุดท้าย_REPO-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "รีบขายๆ!"
+  ],
+  "secondary": [
+   "วินาทีสุดท้าย"
+  ],
+  "evidence": "cue 52s \"อ่ะรีบขายๆ\" 54s \"เฮ้ย\"",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "แบกของหนักวิ่งหนีตายวินาทีสุดท้าย_REPO-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "รีบขายๆ!"
+  ],
+  "secondary": [
+   "วินาทีสุดท้าย"
+  ],
+  "evidence": "cue 52s \"อ่ะรีบขายๆ\" 54s \"เฮ้ย\"",
+  "flag": "",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "บ่นเรื่องงานจนลืมเวลาพักผ่อน_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ไม่ได้โม้เลย!"
+  ],
+  "secondary": [
+   "ยืนยันเรื่องจริง"
+  ],
+  "evidence": "48-49s 'จริงไม่ได้โม้ ไม่ได้โม้เลย'",
+  "flag": "",
+  "model": "21.png"
+ },
+ {
+  "file": "บ่นเรื่องงานจนลืมเวลาพักผ่อน_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ไม่ได้โม้เลย!"
+  ],
+  "secondary": [
+   "ยืนยันเรื่องจริง"
+  ],
+  "evidence": "48-49s 'จริงไม่ได้โม้ ไม่ได้โม้เลย'",
+  "flag": "",
+  "model": "21.png"
+ },
+ {
+  "file": "ปิดคาสิโนแล้วไปหาของกินรอบดึก_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ลืมไปนะ!"
+  ],
+  "secondary": [
+   "ที่ได้ยินเมื่อกี้"
+  ],
+  "evidence": "19-28s 'ที่ได้ยินเมื่อกี้ ทุกคนต้องลืมไปนะ'",
+  "flag": "title-only: ชื่อพูดถึงคาสิโน/ของกิน แต่ cues มีแค่ขอให้ลืม; hook จาก cues",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ปิดคาสิโนแล้วไปหาของกินรอบดึก_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ลืมไปนะ!"
+  ],
+  "secondary": [
+   "ที่ได้ยินเมื่อกี้"
+  ],
+  "evidence": "19-28s 'ที่ได้ยินเมื่อกี้ ทุกคนต้องลืมไปนะ'",
+  "flag": "title-only: ชื่อพูดถึงคาสิโน/ของกิน แต่ cues มีแค่ขอให้ลืม; hook จาก cues",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "จ้างร้อยล้านก็ไม่ยอมย้ายไปไหน_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "น่ากลัวจริงๆ"
+  ],
+  "secondary": [
+   "มีคนเปิดแล้ว"
+  ],
+  "evidence": "25-28s 'มีคนเปิดจุดตันแล้วเหรอเนี่ย แป๊บเดียวเอง น่ากลัวจริงๆเลย'",
+  "flag": "subs doubtful: 'จุดตัน/ติดม้า' ASR ไม่ชัด, ไม่ตรงชื่อ",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "จ้างร้อยล้านก็ไม่ยอมย้ายไปไหน_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "น่ากลัวจริงๆ"
+  ],
+  "secondary": [
+   "มีคนเปิดแล้ว"
+  ],
+  "evidence": "25-28s 'มีคนเปิดจุดตันแล้วเหรอเนี่ย แป๊บเดียวเอง น่ากลัวจริงๆเลย'",
+  "flag": "subs doubtful: 'จุดตัน/ติดม้า' ASR ไม่ชัด, ไม่ตรงชื่อ",
+  "model": "dsasa.png"
+ }
+]

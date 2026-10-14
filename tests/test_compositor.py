@@ -47,3 +47,36 @@ def test_shorts_text_is_horizontally_centered():
     ink = np.asarray(result.convert("L")) > 40
     xs = np.nonzero(ink.any(axis=0))[0]
     assert abs((xs.min() + xs.max()) / 2 - 540) <= 20
+
+
+def test_composite_shorts_avatar_scaling():
+    compositor = ThumbnailCompositor()
+    bg = Image.new("RGBA", (1080, 1920), (20, 20, 30, 255))
+    avatar = Image.new("RGBA", (500, 1000), (200, 150, 100, 255))
+
+    result = compositor.composite_shorts(
+        bg_image=bg,
+        avatar_image=avatar,
+        hook_lines=["ช็อตฟีล!"],
+        avatar_height=1150,
+    )
+    assert result.size == SHORTS_DIMS
+    assert result.mode == "RGB"
+
+
+def test_composite_shorts_three_tier():
+    compositor = ThumbnailCompositor()
+    # 16:9 gameplay image passed to shorts
+    gameplay_16_9 = Image.new("RGBA", (1920, 1080), (40, 50, 60, 255))
+    avatar = Image.new("RGBA", (500, 1000), (200, 150, 100, 255))
+
+    result = compositor.composite_shorts(
+        bg_image=gameplay_16_9,
+        avatar_image=avatar,
+        hook_lines=["ระเบิดข้างกรง!"],
+        secondary_lines=["แต่ยังรอด?"],
+        three_tier=True,
+        avatar_height=1150,
+    )
+    assert result.size == SHORTS_DIMS
+    assert result.mode == "RGB"

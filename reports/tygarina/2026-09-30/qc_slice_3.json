@@ -1,0 +1,470 @@
+[
+ {
+  "file": "หมุนวงล้อเสี่ยงทายเจอแต่บทลงโทษสุดกาว_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "อยากตายใช่ป่ะ!"
+  ],
+  "secondary": [
+   "วงล้อบทลงโทษ"
+  ],
+  "evidence": "25-30s \"อยากตายใช่ป่ะ ให้กูพูดอะล่ะ\"",
+  "flag": "subs doubtful: ASR noisy",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "หมุนวงล้อเสี่ยงทายเจอแต่บทลงโทษสุดกาว_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "อยากตายใช่ป่ะ!"
+  ],
+  "secondary": [
+   "วงล้อบทลงโทษ"
+  ],
+  "evidence": "25-30s \"อยากตายใช่ป่ะ ให้กูพูดอะล่ะ\"",
+  "flag": "subs doubtful: ASR noisy",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "กราบขอบคุณคนดูที่ร่วมเดินทางมาด้วยกัน_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "เขาหายไปแล้ว!"
+  ],
+  "secondary": [
+   "ฉลอง 800 ซับ"
+  ],
+  "evidence": "35-39s \"เขาหายไปแล้ว\" x4; 800 ซับ from source filename",
+  "flag": "subs doubtful: ASR noisy, context unclear",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "กราบขอบคุณคนดูที่ร่วมเดินทางมาด้วยกัน_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "เขาหายไปแล้ว!"
+  ],
+  "secondary": [
+   "ฉลอง 800 ซับ"
+  ],
+  "evidence": "35-39s \"เขาหายไปแล้ว\" x4; 800 ซับ from source filename",
+  "flag": "subs doubtful: ASR noisy, context unclear",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เผยพฤติกรรมสุดแปลกตอนดึกสงัด_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ไม่ใส่หูฟัง!"
+  ],
+  "secondary": [
+   "ตีสองคุยเอง"
+  ],
+  "evidence": "30-31s \"ผมไม่ใส่หูฟังด้วยซ้ำ\"; src: บอสทำไรตอนตี 2",
+  "flag": "subs doubtful: ASR noisy",
+  "model": "21.png"
+ },
+ {
+  "file": "เผยพฤติกรรมสุดแปลกตอนดึกสงัด_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ไม่ใส่หูฟัง!"
+  ],
+  "secondary": [
+   "ตีสองคุยเอง"
+  ],
+  "evidence": "30-31s \"ผมไม่ใส่หูฟังด้วยซ้ำ\"; src: บอสทำไรตอนตี 2",
+  "flag": "subs doubtful: ASR noisy",
+  "model": "21.png"
+ },
+ {
+  "file": "นั่งคุยคนเดียวตอนตีสองจนรู้สึกวังเวง_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "วังเวง"
+  ],
+  "secondary": [
+   "ตีสองคุยคนเดียว"
+  ],
+  "evidence": "no subs; title: นั่งคุยคนเดียวตอนตีสอง",
+  "flag": "title-only: no subtitles, frame viewed",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "นั่งคุยคนเดียวตอนตีสองจนรู้สึกวังเวง_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "วังเวง"
+  ],
+  "secondary": [
+   "ตีสองคุยคนเดียว"
+  ],
+  "evidence": "no subs; title: นั่งคุยคนเดียวตอนตีสอง",
+  "flag": "title-only: no subtitles, frame viewed",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "นกแก้วพูดแทรกจังหวะสำคัญจนหลุดขำ_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "เกลียดไอ้เฮีย!"
+  ],
+  "secondary": [
+   "เจอกันครั้งแรก"
+  ],
+  "evidence": "2-3s \"ครั้งแรกผมโคตรเกลียดไอ้เฮีย\"",
+  "flag": "subs doubtful: ASR noisy",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "นกแก้วพูดแทรกจังหวะสำคัญจนหลุดขำ_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "เกลียดไอ้เฮีย!"
+  ],
+  "secondary": [
+   "เจอกันครั้งแรก"
+  ],
+  "evidence": "2-3s \"ครั้งแรกผมโคตรเกลียดไอ้เฮีย\"",
+  "flag": "subs doubtful: ASR noisy",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ตอบคำถามแฟนคลับเรื่องอาหารจานโปรด_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "สายธนู!"
+  ],
+  "secondary": [
+   "เล่นสาย Archer"
+  ],
+  "evidence": "9-13s \"เล่นสาย Archer ก็คือเล่นธนู\"",
+  "flag": "subs doubtful: title (อาหารจานโปรด) does not match cues",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "ตอบคำถามแฟนคลับเรื่องอาหารจานโปรด_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "สายธนู!"
+  ],
+  "secondary": [
+   "เล่นสาย Archer"
+  ],
+  "evidence": "9-13s \"เล่นสาย Archer ก็คือเล่นธนู\"",
+  "flag": "subs doubtful: title (อาหารจานโปรด) does not match cues",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "เล่าเรื่องวัยเด็กสุดแสบที่ไม่มีใครเคยรู้_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "กลัวผี!"
+  ],
+  "secondary": [
+   "ทอย Perception"
+  ],
+  "evidence": "26s \"ตัวละครผมมันกลัวผี\", 40s \"ผมเห็นผี\"",
+  "flag": "subs doubtful: title (วัยเด็ก) does not match cues",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เล่าเรื่องวัยเด็กสุดแสบที่ไม่มีใครเคยรู้_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "กลัวผี!"
+  ],
+  "secondary": [
+   "ทอย Perception"
+  ],
+  "evidence": "26s \"ตัวละครผมมันกลัวผี\", 40s \"ผมเห็นผี\"",
+  "flag": "subs doubtful: title (วัยเด็ก) does not match cues",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ร้องเพลงเพี้ยนแต่ใส่อารมณ์เกินร้อย_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ผมไม่ได้ทำ!"
+  ],
+  "secondary": [
+   "อย่ามองหน้าผม"
+  ],
+  "evidence": "38-46s \"ผมไม่ได้ทำ อย่ามองหน้าผม\"",
+  "flag": "subs doubtful: ASR noisy, story content graphic",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ร้องเพลงเพี้ยนแต่ใส่อารมณ์เกินร้อย_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ผมไม่ได้ทำ!"
+  ],
+  "secondary": [
+   "อย่ามองหน้าผม"
+  ],
+  "evidence": "38-46s \"ผมไม่ได้ทำ อย่ามองหน้าผม\"",
+  "flag": "subs doubtful: ASR noisy, story content graphic",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ถกประเด็นของกินข้างทางที่อร่อยที่สุด_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ช่วยด้วย!"
+  ],
+  "secondary": [
+   "ผมไม่ใช่เสือ"
+  ],
+  "evidence": "48-54s \"ช่วยด้วย...ผมไม่ใช่เสือ\"",
+  "flag": "subs doubtful: ASR noisy",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ถกประเด็นของกินข้างทางที่อร่อยที่สุด_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ช่วยด้วย!"
+  ],
+  "secondary": [
+   "ผมไม่ใช่เสือ"
+  ],
+  "evidence": "48-54s \"ช่วยด้วย...ผมไม่ใช่เสือ\"",
+  "flag": "subs doubtful: ASR noisy",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "จังหวะจามเสียงดังจนกล้องสั่น_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ฟังกูบ้าง!"
+  ],
+  "secondary": [
+   "ไม่มีใครฟัง"
+  ],
+  "evidence": "29s/36s \"ฟังกูบ้าง\"; 41-47s ทำหมัน",
+  "flag": "subs doubtful: title (จาม) does not match cues",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "จังหวะจามเสียงดังจนกล้องสั่น_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ฟังกูบ้าง!"
+  ],
+  "secondary": [
+   "ไม่มีใครฟัง"
+  ],
+  "evidence": "29s/36s \"ฟังกูบ้าง\"; 41-47s ทำหมัน",
+  "flag": "subs doubtful: title (จาม) does not match cues",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "แชร์ประสบการณ์นอนดึกจนตาเป็นหมีแพนด้า_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "มหาลัยเดียวกัน!"
+  ],
+  "secondary": [
+   "เพื่อนไทกะด่า"
+  ],
+  "evidence": "8-14s \"เพื่อนไทกะเรียนจบมหาลัยเดียวกัน ด่า\"",
+  "flag": "subs doubtful: ASR noisy",
+  "model": "21.png"
+ },
+ {
+  "file": "แชร์ประสบการณ์นอนดึกจนตาเป็นหมีแพนด้า_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "มหาลัยเดียวกัน!"
+  ],
+  "secondary": [
+   "เพื่อนไทกะด่า"
+  ],
+  "evidence": "8-14s \"เพื่อนไทกะเรียนจบมหาลัยเดียวกัน ด่า\"",
+  "flag": "subs doubtful: ASR noisy",
+  "model": "21.png"
+ },
+ {
+  "file": "อ่านแชทคอมเมนต์กวนๆแล้วหลุดขำก๊าก_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "อยากได้เฟรม!"
+  ],
+  "secondary": [
+   "ตามเนื้อเรื่อง"
+  ],
+  "evidence": "33s \"ผมอยากได้เฟรม\", 40s \"ถ้าเฟรมตกลง\"",
+  "flag": "subs doubtful: ASR noisy, title (คอมเมนต์) mismatch",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "อ่านแชทคอมเมนต์กวนๆแล้วหลุดขำก๊าก_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "อยากได้เฟรม!"
+  ],
+  "secondary": [
+   "ตามเนื้อเรื่อง"
+  ],
+  "evidence": "33s \"ผมอยากได้เฟรม\", 40s \"ถ้าเฟรมตกลง\"",
+  "flag": "subs doubtful: ASR noisy, title (คอมเมนต์) mismatch",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "สอนวิธีปรับตัวเมื่อต้องเจอกับคนแปลกหน้า_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ลิ้นติดตู้เย็น!"
+  ],
+  "secondary": [
+   "ขอพรได้ข้อเดียว"
+  ],
+  "evidence": "7-13s \"เลียตู้เย็น\", 44-48s \"ลิ้นคุณจะติด เอาออกไม่ได้\"",
+  "flag": "subs doubtful: title mismatch",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "สอนวิธีปรับตัวเมื่อต้องเจอกับคนแปลกหน้า_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ลิ้นติดตู้เย็น!"
+  ],
+  "secondary": [
+   "ขอพรได้ข้อเดียว"
+  ],
+  "evidence": "7-13s \"เลียตู้เย็น\", 44-48s \"ลิ้นคุณจะติด เอาออกไม่ได้\"",
+  "flag": "subs doubtful: title mismatch",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เขินกล้องจนทำตัวไม่ถูกในไลฟ์แรกๆ_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "สัญญามาเลย!"
+  ],
+  "secondary": [
+   "เดี๋ยวนี้เลย"
+  ],
+  "evidence": "19-28s \"สัญญามาดีวะ รีบสัญญามาเดี๋ยวนี้เลย\"",
+  "flag": "subs doubtful: ASR noisy",
+  "model": "21.png"
+ },
+ {
+  "file": "เขินกล้องจนทำตัวไม่ถูกในไลฟ์แรกๆ_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "สัญญามาเลย!"
+  ],
+  "secondary": [
+   "เดี๋ยวนี้เลย"
+  ],
+  "evidence": "19-28s \"สัญญามาดีวะ รีบสัญญามาเดี๋ยวนี้เลย\"",
+  "flag": "subs doubtful: ASR noisy",
+  "model": "21.png"
+ },
+ {
+  "file": "บ่นความเหงาในวันฝนตกชวนง่วงนอน_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ช่วยด่าหน่อย!"
+  ],
+  "secondary": [
+   "ขอบอสเหยียบ"
+  ],
+  "evidence": "20-28s \"ช่วยเหยียบหลัง ช่วยด่าผมหน่อยครับ\"",
+  "flag": "subs doubtful: ASR noisy, title (เหงาฝนตก) mismatch",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "บ่นความเหงาในวันฝนตกชวนง่วงนอน_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ช่วยด่าหน่อย!"
+  ],
+  "secondary": [
+   "ขอบอสเหยียบ"
+  ],
+  "evidence": "20-28s \"ช่วยเหยียบหลัง ช่วยด่าผมหน่อยครับ\"",
+  "flag": "subs doubtful: ASR noisy, title (เหงาฝนตก) mismatch",
+  "model": "dsadadsad.png"
+ },
+ {
+  "file": "เล่นมุกแป้กแต่หัวเราะแก้เขินคนเดียว_FreeTalk-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "มานี่เลย!"
+  ],
+  "secondary": [
+   "ต่อยกันหน่อย"
+  ],
+  "evidence": "14-17s \"ต้องต่อยกันหน่อย มานี่เลย\"",
+  "flag": "subs doubtful: ASR noisy, title mismatch",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "เล่นมุกแป้กแต่หัวเราะแก้เขินคนเดียว_FreeTalk-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "มานี่เลย!"
+  ],
+  "secondary": [
+   "ต่อยกันหน่อย"
+  ],
+  "evidence": "14-17s \"ต้องต่อยกันหน่อย มานี่เลย\"",
+  "flag": "subs doubtful: ASR noisy, title mismatch",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ลืมปิดไมค์วาดรูปไฟลนก้น_GarticPhone-vdo.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "ลืมปิดไมค์!"
+  ],
+  "secondary": [
+   "วาดรูปไฟลนก้น"
+  ],
+  "evidence": "34s 'สวัสดี', 40s 'ฝากตัวด้วยครับ' (lobby)",
+  "flag": "title-only: cues มีแค่ทักทาย",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "ลืมปิดไมค์วาดรูปไฟลนก้น_GarticPhone-vdo_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "ลืมปิดไมค์!"
+  ],
+  "secondary": [
+   "วาดรูปไฟลนก้น"
+  ],
+  "evidence": "34s 'สวัสดี', 40s 'ฝากตัวด้วยครับ' (lobby)",
+  "flag": "title-only: cues มีแค่ทักทาย",
+  "model": "dsasa.png"
+ },
+ {
+  "file": "Highlight_Meme_GarticPhone_Art.jpg",
+  "orientation": "landscape",
+  "hook": [
+   "หล่อสุดๆ!"
+  ],
+  "secondary": [
+   "วาดยากที่สุด"
+  ],
+  "evidence": "1s 'ยากที่สุด', 4s/19s/28s 'หล่อ'",
+  "flag": "subs doubtful: ASR เพี้ยน (เลนักศูนย์/หล่อลื่น)",
+  "model": "21.png"
+ },
+ {
+  "file": "Highlight_Meme_GarticPhone_Art_9x16.jpg",
+  "orientation": "shorts",
+  "hook": [
+   "หล่อสุดๆ!"
+  ],
+  "secondary": [
+   "วาดยากที่สุด"
+  ],
+  "evidence": "1s 'ยากที่สุด', 4s/19s/28s 'หล่อ'",
+  "flag": "subs doubtful: ASR เพี้ยน (เลนักศูนย์/หล่อลื่น)",
+  "model": "21.png"
+ }
+]
